@@ -1,0 +1,8 @@
+payload:
+  - +.cmpassport.com
+  - enrichgw.10010.com
+  - hap.10010.com
+  - hs.wosms.cn
+  - id6.me
+  - opencloud.wostore.cn
+  - DOMAIN-REGEX,^nis.+\.10010\.com$
