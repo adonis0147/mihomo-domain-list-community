@@ -152,6 +152,8 @@ payload:
   - +.addthiscdn.com
   - +.addthisedge.com
   - +.adfox.ru
+  - +.adfox.yandex.ru
+  - +.adfstat.yandex.ru
   - +.adgoogle.net
   - +.adinst.com
   - +.admeld.com
@@ -203,8 +205,12 @@ payload:
   - +.adobexdplatform.com
   - +.ads-api.duolingo.com
   - +.ads.yahoo.com
+  - +.ads.yandex.com
+  - +.ads.yandex.ru
   - +.ads.yandex
+  - +.ads.yango.com
   - +.ads.youtube.com
+  - +.adsdk.yandex.ru
   - +.adsense.com
   - +.adsensecustomsearchads.com
   - +.adsenseformobileapps.com
@@ -217,6 +223,8 @@ payload:
   - +.adskengpr.net
   - +.adtcc.com
   - +.adtrafficquality.google
+  - +.adv.yandex.com
+  - +.adv.yandex.ru
   - +.advancediddetection.com
   - +.advertisercommunity.com
   - +.advertiserscommunity.com
@@ -414,6 +422,7 @@ payload:
   - +.amazonworkdocs.cn
   - +.amazonworkdocs.com
   - +.amazonworkdocs.com.cn
+  - +.amc.yandex.ru
   - +.amd.com
   - +.amd.com.cn
   - +.amdfanstore.com
@@ -433,8 +442,10 @@ payload:
   - +.amzndns.net
   - +.amzndns.org
   - +.amznl.com
+  - +.an.yandex.ru
   - +.analytics-alv.google.com
   - +.analytics.facebook.com
+  - +.analytics.mobile.yandex.net
   - +.analytics.vpc.duolingo.com
   - +.android
   - +.android.com
@@ -819,6 +830,10 @@ payload:
   - +.applle.com
   - +.applw.com
   - +.appmediagroup.com
+  - +.appmetrica.yandex.com
+  - +.appmetrica.yandex.net
+  - +.appmetrica.yandex.ru
+  - +.appmetrica.yango.com
   - +.appserviceenvironment.cn
   - +.appspot.com
   - +.appsto.re
@@ -1636,8 +1651,10 @@ payload:
   - +.brocaproject.com
   - +.bronto.com
   - +.brotli.org
+  - +.browser-updater.yandex.net
   - +.browser.events.data.msn.cn
   - +.browser.events.data.msn.com
+  - +.bs.yandex.ru
   - +.buck.build
   - +.buckbuild.com
   - +.budatt.com
@@ -1682,6 +1699,7 @@ payload:
   - +.bydrebeats.com
   - +.c-ij.com
   - +.c-msedge.net
+  - +.cabconnect.org
   - +.cabletvdirectv.com
   - +.cad-mep.com
   - +.cadcamsystemsinc.com
@@ -1943,6 +1961,10 @@ payload:
   - +.civitai.com
   - +.clarity.ms
   - +.clck.ru
+  - +.clck.yandex.com
+  - +.clck.yandex.net
+  - +.clck.yandex.ru
+  - +.clck.yango.com
   - +.clco.cc
   - +.clearlinux.org
   - +.click-sec.com
@@ -2036,6 +2058,8 @@ payload:
   - +.cosmosdb.net
   - +.cotolia.com
   - +.cotweet.com
+  - +.counter.yandex.net
+  - +.counter.yandex.ru
   - +.courier-push-apple.com.akadns.net
   - +.covid19-rx.org
   - +.covid19rx.org
@@ -2478,6 +2502,7 @@ payload:
   - +.dremonsterbeatsoutlets.com
   - +.dreprobeats.com
   - +.dreprofy.com
+  - +.driveawaytaxi.org
   - +.drnastran.com
   - +.drweb-av.de
   - +.drweb-av.es
@@ -3193,6 +3218,7 @@ payload:
   - +.godaddy.com
   - +.godoc.org
   - +.gofile.me
+  - +.gogettaxi.org
   - +.gogle.com
   - +.gogole.com
   - +.golang.com
@@ -3473,6 +3499,7 @@ payload:
   - +.gordonmoore.com
   - +.gostorego.com
   - +.gotcosmos.com
+  - +.goup.ai
   - +.governmentengineer.com
   - +.govforce.com
   - +.gpsonextra.net
@@ -3527,6 +3554,7 @@ payload:
   - +.haplorrhini.com
   - +.happysrv.de
   - +.hashicorp.com
+  - +.hayya.ae
   - +.hddirectv.com
   - +.hdinsightservices.cn
   - +.hdrplusdata.org
@@ -3893,6 +3921,7 @@ payload:
   - +.incentivetravelgifts.com
   - +.indiaipad.com
   - +.infoq.jp
+  - +.informer.yandex.ru
   - +.infraworks.com
   - +.ingads.com
   - +.inkchoice.com
@@ -4692,6 +4721,10 @@ payload:
   - +.mayavisualization.com
   - +.mbeats-tech.com
   - +.mbheadphone.com
+  - +.mc.yandex.com
+  - +.mc.yandex.net
+  - +.mc.yandex.ru
+  - +.mc.yango.com
   - +.mcchcdn.com
   - +.mcisco.com
   - +.mcrouter.net
@@ -4736,6 +4769,7 @@ payload:
   - +.metamind.io
   - +.meteum.ai
   - +.metrics.duolingo.com
+  - +.metrika.yandex.ru
   - +.mfg-inspector.com
   - +.mgmt-azure-api.cn
   - +.michill.jp
@@ -5042,6 +5076,7 @@ payload:
   - +.mxroutedocs.com
   - +.mxroutehelp.com
   - +.mxrouting.net
+  - +.my-manager-account.com
   - +.my1stflame.com
   - +.myappleid.com
   - +.myautocad.com
@@ -5413,9 +5448,11 @@ payload:
   - +.pintool.com
   - +.pittpatt.com
   - +.pivotalinitiative.com
+  - +.pix.yandex.ru
   - +.pixapp.net
   - +.pixate.com
   - +.pixel.facebook.com
+  - +.pixel.yandex.net
   - +.pixlr-o-matic.com
   - +.pixlromatic.com
   - +.pixtronix.com
@@ -5617,6 +5654,7 @@ payload:
   - +.renovacionxboxlive.com
   - +.renshu.com
   - +.repo.new
+  - +.report.ap.yandex-net.ru
   - +.repsneakermall.com
   - +.repswing.com
   - +.researchandcare.org
@@ -6015,6 +6053,7 @@ payload:
   - +.superearsenjoy.com
   - +.supersrv.de
   - +.supplybestjerseys.com
+  - +.support-uber.com
   - +.supportfacebook.com
   - +.surface.com
   - +.sustainablebuildingstudio.com
@@ -6054,6 +6093,9 @@ payload:
   - +.tandberg-china.com
   - +.tandberg.com
   - +.taxel.media
+  - +.taxiaid.org
+  - +.taxiguru.org
+  - +.taxitax.org
   - +.teamviewer.cn
   - +.teamviewer.com
   - +.teamviewer.us
@@ -6615,6 +6657,7 @@ payload:
   - +.xuite.net
   - +.ya.cc
   - +.ya.ru
+  - +.yabs.yandex.ru
   - +.yads.tech
   - +.yahoo
   - +.yahoo-news.com.hk
@@ -6820,10 +6863,25 @@ payload:
   - +.yandexadexchange.net
   - +.yandexcloud.net
   - +.yandexcom.net
+  - +.yandexgo.com
   - +.yandexlyceum.ru
   - +.yandexmetrica.com
   - +.yandexwebcache.net
   - +.yandexwebcache.org
+  - +.yango-ads.com
+  - +.yango-b2b.com
+  - +.yango-team.com
+  - +.yango-tech.com
+  - +.yango.africa
+  - +.yango.ao
+  - +.yango.bh
+  - +.yango.co.il
+  - +.yango.com
+  - +.yango.fi
+  - +.yango.qa
+  - +.yango.taxi
+  - +.yango.tech
+  - +.yangofellowship.com
   - +.yastat.net
   - +.yastatic-net.ru
   - +.yastatic.net
@@ -7055,16 +7113,9 @@ payload:
   - activation-v2.kaspersky.com
   - adcdownload.apple.com.akadns.net
   - adcdownload.apple.com
-  - adfox.yandex.ru
-  - adfstat.yandex.ru
   - admob-cn.com
   - adobeereg.com
-  - ads.yandex.com
-  - ads.yandex.ru
-  - adsdk.yandex.ru
   - adservice.google.com
-  - adv.yandex.com
-  - adv.yandex.ru
   - afcs.dell.com
   - alt1-mtalk.google.com
   - alt2-mtalk.google.com
@@ -7072,7 +7123,6 @@ payload:
   - alt4-mtalk.google.com
   - alt5-mtalk.google.com
   - alt6-mtalk.google.com
-  - amc.yandex.ru
   - amp-api-edge-lb-cn.itunes-apple.com.akadns.net
   - amp-api-edge-lb.itunes-apple.com.akadns.net
   - amp-api-edge.apps.apple.com
@@ -7082,13 +7132,10 @@ payload:
   - amp-api.apps.apple.com
   - amp-api.media.apple.com
   - amp-api.music.apple.com
-  - an.yandex.ru
   - analytics.google.com
-  - analytics.mobile.yandex.net
   - aod-ssl.itunes.apple.com
   - aod.itunes.apple.com
   - api-edge.apps.apple.com
-  - api.appmetrica.yandex.ru
   - app-analytics-services.com
   - app-measurement-cn.com
   - app-measurement.com
@@ -7113,8 +7160,6 @@ payload:
   - bg4.v4.a.dl.ws.microsoft.com
   - bj1.api.bing.com
   - bookkeeper.itunes.apple.com
-  - browser-updater.yandex.net
-  - bs.yandex.ru
   - build.microsoft.com
   - c.admob.com
   - c.android.clients.google.com
@@ -7155,8 +7200,6 @@ payload:
   - cl4.apple.com
   - cl5-cdn.origin-apple.com.akadns.net
   - cl5.apple.com
-  - clck.yandex.net
-  - clck.yandex.ru
   - clickserve.cc-dt.com
   - clickserve.dartsearch.net
   - clickserver.googleads.com
@@ -7177,8 +7220,6 @@ payload:
   - configuration.apple.com
   - connectivitycheck.gstatic.com
   - content.googleadapis.com
-  - counter.yandex.net
-  - counter.yandex.ru
   - crashlyticsreports-pa.googleapis.com
   - crl-lb.apple.com.akadns.net
   - crl.apple.com
@@ -7332,7 +7373,6 @@ payload:
   - inappcheck-cn.itunes-apple.com.akadns.net
   - inappcheck-lb.itunes-apple.com.akadns.net
   - inappcheck.itunes.apple.com
-  - informer.yandex.ru
   - ingest.apple-studies.com
   - init-kt.apple.com
   - init-p01md-lb.push-apple.com.akadns.net
@@ -7396,14 +7436,11 @@ payload:
   - logger.corp.google.com
   - login.corp.google.com
   - maps.apple.com
-  - mc.yandex.com
-  - mc.yandex.ru
   - mdn.mozillademos.org
   - mdr.ksn.kaspersky-labs.com
   - mesu-cdn.apple.com.akadns.net
   - mesu-china.apple.com.akadns.net
   - mesu.apple.com
-  - metrika.yandex.ru
   - misc-assets.itunes.apple.com
   - ml.cdn-apple.com
   - monitoring.qpdp1.net
@@ -7459,8 +7496,6 @@ payload:
   - pd-nk.itunes.apple.com
   - pd.itunes.apple.com
   - performanceparameters.googleapis.com
-  - pix.yandex.ru
-  - pixel.yandex.net
   - pki-goog.l.google.com
   - play.itunes.apple.com
   - play.music.apple.com
@@ -7498,9 +7533,6 @@ payload:
   - redirector.snap.gvt1.com
   - redirector.xn--ngstr-lra8j.com
   - refresh-bkg.activation-v2.kaspersky.com
-  - report-partners.appmetrica.yandex.net
-  - report.ap.yandex-net.ru
-  - report.appmetrica.yandex.net
   - res-1.cdn.office.net
   - res.cdn.office.net
   - reserve-prime.apple.com
@@ -7648,7 +7680,6 @@ payload:
   - www.support.apple.com
   - xn--flw351e.com
   - xp.apple.com
-  - yabs.yandex.ru
   - youla-web-static.mrgcdn.ru
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
