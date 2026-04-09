@@ -2,7 +2,7 @@ name: Generate Rule Sets
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    - cron: "16 * * * *" # every hour
   workflow_dispatch:
 
 permissions:
