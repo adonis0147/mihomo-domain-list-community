@@ -1,3 +1,0 @@
-payload:
-  - +.okaapps.com
-  - DOMAIN-REGEX,^(.+\.)*zh\.okaapps\.com$

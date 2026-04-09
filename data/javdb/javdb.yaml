@@ -1,6 +1,0 @@
-payload:
-  - +.jav.app
-  - +.javdb.com
-  - +.jdbimgs.com
-  - +.jdbstatic.com
-  - DOMAIN-REGEX,javdb\d+\.com$

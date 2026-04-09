@@ -1,0 +1,16 @@
+# Generated rule sets
+data/
+dlc.yaml
+
+# Go build output
+mihomo-domain-list-community
+*.exe
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# Dependency cache
+vendor/
