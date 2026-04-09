@@ -11672,6 +11672,21 @@ payload:
   - +.jiuse821.com
   - +.jiuse822.com
   - +.jiuse823.com
+  - +.jivo.chat
+  - +.jivo.ru
+  - +.jivochat.co.in
+  - +.jivochat.co.za
+  - +.jivochat.com
+  - +.jivochat.com.br
+  - +.jivochat.com.co
+  - +.jivochat.com.pe
+  - +.jivochat.com.tr
+  - +.jivochat.de
+  - +.jivochat.es
+  - +.jivochat.ng
+  - +.jivochat.ru
+  - +.jivosite.com
+  - +.jivosite.ru
   - +.jiyou520.com
   - +.jiyu-kobo.co.jp
   - +.jizzboom.com
@@ -22968,13 +22983,16 @@ payload:
   - ntp-c.colorado.edu
   - ntp.aliyun.com
   - ntp.tencent.com
+  - ntp.time.nl
   - ntp0.ntp-servers.net
   - ntp1.aliyun.com
   - ntp1.ntp-servers.net
   - ntp1.tencent.com
+  - ntp1.time.nl
   - ntp2.aliyun.com
   - ntp2.ntp-servers.net
   - ntp2.tencent.com
+  - ntp2.time.nl
   - ntp3.aliyun.com
   - ntp3.ntp-servers.net
   - ntp3.tencent.com
@@ -22988,6 +23006,8 @@ payload:
   - ntp6.ntp-servers.net
   - ntp7.aliyun.com
   - ntp7.ntp-servers.net
+  - ntppool1.time.nl
+  - ntppool2.time.nl
   - o.pki.goog
   - o33249.ingest.sentry.io
   - o4504926511693824.ingest.sentry.io

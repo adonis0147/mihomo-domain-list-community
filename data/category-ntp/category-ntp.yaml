@@ -47,14 +47,17 @@ payload:
   - ntp-wwv.nist.gov
   - ntp.aliyun.com
   - ntp.tencent.com
+  - ntp.time.nl
   - ntp.ubuntu.com
   - ntp0.ntp-servers.net
   - ntp1.aliyun.com
   - ntp1.ntp-servers.net
   - ntp1.tencent.com
+  - ntp1.time.nl
   - ntp2.aliyun.com
   - ntp2.ntp-servers.net
   - ntp2.tencent.com
+  - ntp2.time.nl
   - ntp3.aliyun.com
   - ntp3.ntp-servers.net
   - ntp3.tencent.com
@@ -68,6 +71,8 @@ payload:
   - ntp6.ntp-servers.net
   - ntp7.aliyun.com
   - ntp7.ntp-servers.net
+  - ntppool1.time.nl
+  - ntppool2.time.nl
   - time-a-b.nist.gov
   - time-a-g.nist.gov
   - time-a-wwv.nist.gov
