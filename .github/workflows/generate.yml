@@ -47,10 +47,14 @@ jobs:
             || (git branch release origin/release 2>/dev/null || git branch release; \
                 git worktree add ../release release)
 
-          rsync -a --delete data/ ../release/data/
-          cp dlc.yaml ../release/dlc.yaml
-
+          # Wipe everything so the release branch only contains generated files
           cd ../release
+          git rm -rf . --quiet 2>/dev/null || true
+
+          # Copy only the generated artifacts from the source checkout
+          rsync -a "$GITHUB_WORKSPACE/data/" data/
+          cp "$GITHUB_WORKSPACE/dlc.yaml" dlc.yaml
+
           git add data/ dlc.yaml
           git diff --cached --quiet && echo "No changes to publish." && exit 0
 
