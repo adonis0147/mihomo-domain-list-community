@@ -20,7 +20,10 @@ payload:
   - +.adfox.yandex.ru
   - +.adfstat.yandex.ru
   - +.admetrica.ru
+  - +.ads-gate.wildberries.ru
+  - +.ads-media.wildberries.ru
   - +.ads.neon.click
+  - +.ads.wildberries.ru
   - +.ads.x5media.ru
   - +.ads.yandex.com
   - +.ads.yandex.ru
@@ -30,12 +33,20 @@ payload:
   - +.adv.ozon.ru
   - +.adv.yandex.com
   - +.adv.yandex.ru
+  - +.advert-api-sandbox.wb.ru
+  - +.advert-api-sandbox.wildberries.ru
+  - +.advert-api.wb.ru
+  - +.advert-api.wildberries.ru
+  - +.advert-media-api.wb.ru
+  - +.advert-media-api.wildberries.ru
   - +.agency-adv.ozon.ru
   - +.alfabank.st
   - +.amc.yandex.ru
   - +.an.yandex.ru
   - +.analytics-adv.ozon.ru
+  - +.analytics-stage.wildberries.ru
   - +.analytics.mobile.yandex.net
+  - +.analytics.wildberries.ru
   - +.api-eu.carrotquest.app
   - +.api-eu.carrotquest.io
   - +.api-js.mindbox.ru
@@ -58,18 +69,21 @@ payload:
   - +.appmetrica.yandex.net
   - +.appmetrica.yandex.ru
   - +.appmetrica.yango.com
+  - +.apptrackpets.com
   - +.atomyze.tech
   - +.aviasales.com
   - +.avito.st
   - +.avs.io
   - +.beeline.tv
   - +.beginners-adv.ozon.ru
+  - +.bonbon.am
   - +.boosty.to
   - +.botmechanic.io
   - +.bps-sberbank.by
   - +.browser-updater.yandex.net
   - +.bs.yandex.ru
   - +.cabconnect.org
+  - +.caronino.com
   - +.carrot-mail.io
   - +.carrotquest-mail.io
   - +.carrotquest.app
@@ -118,11 +132,13 @@ payload:
   - +.evrasia.rest
   - +.ewisdom.us.kg
   - +.fix-price.com
+  - +.foralice.online
   - +.gazprombank.com
   - +.gazprombank.investments
   - +.genetic-technologies.am
   - +.genotek.am
   - +.genotek.health
+  - +.gerronfox.com
   - +.giga.chat
   - +.gogettaxi.org
   - +.google-analytics-suite.ozon.ru
@@ -131,6 +147,9 @@ payload:
   - +.hayya.ae
   - +.ideco.dev
   - +.informer.yandex.ru
+  - +.jieshang.online
+  - +.jieshang.shop
+  - +.jieshang.store
   - +.jivo.chat
   - +.jivochat.co.in
   - +.jivochat.co.za
@@ -183,6 +202,7 @@ payload:
   - +.koshelek.app
   - +.lenta.com
   - +.lenta.tech
+  - +.lizageld.de
   - +.loyalnost-adv.ozon.ru
   - +.mail-carrotquest.io
   - +.mc.yandex.com
@@ -193,6 +213,7 @@ payload:
   - +.medsi.pro
   - +.megafon.com
   - +.megamarket.tech
+  - +.megapolis.llc
   - +.memealerts.com
   - +.meteum.ai
   - +.metrika.yandex.ru
@@ -203,6 +224,7 @@ payload:
   - +.moex.com
   - +.moscow
   - +.mosmetro.tech
+  - +.mp.world
   - +.mradx.net
   - +.mvk.com
   - +.my-manager-account.com
@@ -212,6 +234,9 @@ payload:
   - +.netmonet.co
   - +.new-adv.ozon.ru
   - +.ngenix.net
+  - +.nuwjon.online
+  - +.nuwjon.shop
+  - +.nuwjon.store
   - +.okko.sport
   - +.okko.tv
   - +.okolo.app
@@ -237,6 +262,7 @@ payload:
   - +.ozonru.eu
   - +.ozonru.me
   - +.ozonusercontent.com
+  - +.papertole.by
   - +.paywb.com
   - +.perekrestok.com
   - +.pix.yandex.ru
@@ -257,6 +283,7 @@ payload:
   - +.ru
   - +.ru.com
   - +.ru.net
+  - +.rwbautomation.tech
   - +.safeliner.tech
   - +.sage-observability.tech
   - +.sber-bank.by
@@ -277,6 +304,7 @@ payload:
   - +.sentry.ozon.ru
   - +.sentry.popmechanic.ru
   - +.sentry.sberauto.com
+  - +.sentry.wb.ru
   - +.sentry.x5.ru
   - +.servercore.com
   - +.servercore.live
@@ -307,6 +335,7 @@ payload:
   - +.tehnodom.com
   - +.telega.info
   - +.telega.me
+  - +.tigrenok.toys
   - +.tinkoff-group.com
   - +.tinkoff.ai
   - +.tinkoffmobile.com
@@ -348,8 +377,30 @@ payload:
   - +.vkuservideo.net
   - +.vscale.blog
   - +.vscale.io
+  - +.warehouse.domains
+  - +.wb.am
+  - +.wb.kg
+  - +.wb.kz
+  - +.wbautomation.tech
+  - +.wbr.by
+  - +.wbstatic.net
+  - +.wbwh.tech
+  - +.web-analytics.wildberries.ru
   - +.webvisor.com
   - +.webvisor.org
+  - +.wibes.com
+  - +.wildberries.am
+  - +.wildberries.by
+  - +.wildberries.co.il
+  - +.wildberries.es
+  - +.wildberries.eu
+  - +.wildberries.ge
+  - +.wildberries.kg
+  - +.wildberries.kz
+  - +.wildberries.lt
+  - +.wildberries.tj
+  - +.wildberries.tm
+  - +.wildberries.uz
   - +.x5.ai
   - +.x5.com
   - +.x5.digital
@@ -368,6 +419,7 @@ payload:
   - +.xn--80adxhks
   - +.xn--80asehdb
   - +.xn--80aswg
+  - +.xn--90ab.com
   - +.xn--90aifd0az.shop
   - +.xn--b1aechhj6bof8g5a.site
   - +.xn--c1avg

@@ -93,7 +93,16 @@ payload:
   - +.adidasspecialtysports.sk
   - +.adidastabletennis.com
   - +.adidasusnews.com
+  - +.ads-gate.wildberries.ru
+  - +.ads-media.wildberries.ru
+  - +.ads.wildberries.ru
   - +.adv.ozon.ru
+  - +.advert-api-sandbox.wb.ru
+  - +.advert-api-sandbox.wildberries.ru
+  - +.advert-api.wb.ru
+  - +.advert-api.wildberries.ru
+  - +.advert-media-api.wb.ru
+  - +.advert-media-api.wildberries.ru
   - +.agency-adv.ozon.ru
   - +.air-nike-shoes.com
   - +.airbnb.ae
@@ -177,6 +186,8 @@ payload:
   - +.airbnb.travel
   - +.airmax360.com
   - +.analytics-adv.ozon.ru
+  - +.analytics-stage.wildberries.ru
+  - +.analytics.wildberries.ru
   - +.appforebay.cn
   - +.appsonebay.net
   - +.asebay.com
@@ -185,6 +196,8 @@ payload:
   - +.avito.st
   - +.axbdoll.com.tw
   - +.baazee.com
+  - +.bansi.ru
+  - +.baumi.ru
   - +.bby.com
   - +.bbycastatic.ca
   - +.bbycloud.com
@@ -241,6 +254,8 @@ payload:
   - +.billpointnewzealand.com
   - +.blogebay.com
   - +.bluekai.com
+  - +.bokerama.ru
+  - +.bonbon.am
   - +.book.com.tw
   - +.bookclubcorner.com
   - +.booking.cn
@@ -257,6 +272,7 @@ payload:
   - +.cafr.ca
   - +.carebay.com
   - +.cargigileads.com
+  - +.caronino.com
   - +.cdn-terapeak.com
   - +.cebay.com
   - +.cheap-nike.com
@@ -275,6 +291,7 @@ payload:
   - +.connectedcommerce.cn
   - +.connectedcommerce.com
   - +.connectedcommerce.tv
+  - +.contessa.ru
   - +.costco-static.com
   - +.costco.com
   - +.costcobusinessdelivery.com
@@ -294,6 +311,8 @@ payload:
   - +.dealtime.com
   - +.dealtree.org
   - +.didce.com
+  - +.digital-wb.ru
+  - +.digitalwb.ru
   - +.dmm-extension.com
   - +.dmm.co.jp
   - +.dmm.com
@@ -504,9 +523,12 @@ payload:
   - +.edisebay.com
   - +.eebay.com
   - +.eenike.com
+  - +.epilprofy.ru
   - +.epinions.com
+  - +.etradebook.ru
   - +.eu-consumer-empowerment.com
   - +.ewisdom.us.kg
+  - +.ewotech.ru
   - +.expertmaker.com
   - +.fairmarket.com
   - +.farfetch-apps.com
@@ -519,8 +541,11 @@ payload:
   - +.fashionnike.com
   - +.fflnk.net
   - +.finenike.com
+  - +.fixgoodsport.ru
   - +.foampositeshoes.com
+  - +.foralice.online
   - +.fout.jp
+  - +.foxx-shop.ru
   - +.fragrancebay.com
   - +.francemail.com
   - +.futureshop.ca
@@ -541,12 +566,14 @@ payload:
   - +.geeksquadservices.org
   - +.geeksquadwebroot.org
   - +.geobasket.ru
+  - +.gerronfox.com
   - +.ggsel.com
   - +.ggsel.net
   - +.gittigidiyor.net
   - +.gittigidiyorsikayet.com
   - +.gmossp-sp.jp
   - +.goldnikeclub.com
+  - +.gondol.ru
   - +.gonike.com
   - +.google-analytics-suite.ozon.ru
   - +.gscanada.info
@@ -574,6 +601,7 @@ payload:
   - +.i69.com.tw
   - +.idnike.com
   - +.iebay.com
+  - +.ikakids.ru
   - +.ikea.ae
   - +.ikea.at
   - +.ikea.au
@@ -675,10 +703,16 @@ payload:
   - +.initproducts.com
   - +.irribay.com
   - +.itsbetterwhenyouwinit.com
+  - +.jieshang.online
+  - +.jieshang.ru
+  - +.jieshang.shop
+  - +.jieshang.store
   - +.jijiji.ca
   - +.just-do-it.cn
   - +.justdoit.us
+  - +.katrn.ru
   - +.kicksnike1.com
+  - +.kiddiekorner.ru
   - +.kidsnikeshoes.com
   - +.kiji.ca
   - +.kijii.ca
@@ -698,15 +732,22 @@ payload:
   - +.liketwice.com
   - +.listinganalytics.net
   - +.liveauction.com
+  - +.lizageld.de
+  - +.lizageld.ru
   - +.loveminiso.com.br
   - +.loyalnost-adv.ozon.ru
+  - +.made-in-altai.ru
+  - +.magic-mix.ru
   - +.magnoliaav.com.cn
+  - +.maoshop.ru
   - +.marketexecutive.net
+  - +.megapolis.llc
   - +.miadidas.com
   - +.micoach.com
   - +.microad.co.jp
   - +.microad.jp
   - +.milofetch.com
+  - +.mimile.ru
   - +.miniso-au.com
   - +.miniso-bh.com
   - +.miniso-np.com
@@ -749,6 +790,7 @@ payload:
   - +.momo5188.com
   - +.momomall.com.tw
   - +.momoshop.com.tw
+  - +.mp.world
   - +.muji.com
   - +.muji.com.cn
   - +.muji.com.hk
@@ -769,6 +811,7 @@ payload:
   - +.myrz.com
   - +.myshopify.com
   - +.nebay.net
+  - +.nemocoffee.ru
   - +.new-adv.ozon.ru
   - +.nexcat.com
   - +.nexpart.com
@@ -932,12 +975,17 @@ payload:
   - +.nke6.com
   - +.nordstrom.com
   - +.nordstrommedia.com
+  - +.nuwjon.online
+  - +.nuwjon.ru
+  - +.nuwjon.shop
+  - +.nuwjon.store
   - +.o-courier.ru
   - +.o3.ru
   - +.o3t.ru
   - +.o3team.ru
   - +.ocourier.ru
   - +.onlinegeeksquad.com
+  - +.onlyjobs.ru
   - +.outletnike.com
   - +.ozon-credit.ru
   - +.ozon-dostavka.ru
@@ -975,14 +1023,18 @@ payload:
   - +.paisapay.cc
   - +.paisapay.info
   - +.paisapay.tv
+  - +.papertole.by
   - +.paywb.com
+  - +.paywb.ru
   - +.pchome.com.tw
   - +.pchomeec.tw
   - +.pchomeonline.com.tw
   - +.pchomepay.com.tw
   - +.pcloud.tw
   - +.pcstore.com.tw
+  - +.perfect-market.ru
   - +.piapp.com.tw
+  - +.pleamo.ru
   - +.pornhubapparel.com
   - +.premobay.com
   - +.privatemarketplaces.net
@@ -992,6 +1044,7 @@ payload:
   - +.prostores.com
   - +.prostores.com.cn
   - +.q10.jp
+  - +.qnails.ru
   - +.qoo10.jp
   - +.questions-adv.ozon.ru
   - +.r10s.com
@@ -1014,12 +1067,18 @@ payload:
   - +.rimg.com.tw
   - +.rocketfishproducts.com
   - +.rocketozon.by
+  - +.rugg.ru
   - +.runnike.com
   - +.runningnike.com
+  - +.russoutdoor.ru
   - +.ruten.com.tw
   - +.rwb.ru
+  - +.rwbautomation.ru
+  - +.rwbautomation.tech
+  - +.rwbgeo.ru
   - +.sale-nikeshoes.com
   - +.sentry.ozon.ru
+  - +.sentry.wb.ru
   - +.shop.app
   - +.shopadidas.ca
   - +.shopadidas.com
@@ -1052,7 +1111,9 @@ payload:
   - +.shopifysvc.com
   - +.shoping.com
   - +.shp.ee
+  - +.skandia-shoes.ru
   - +.socdm.com
+  - +.soomkosh.ru
   - +.sourcingforebay.com.cn
   - +.sourcingforebay.net
   - +.sourcingforebay.tv
@@ -1079,6 +1140,7 @@ payload:
   - +.technogym.su
   - +.telebay.com
   - +.telesell.com
+  - +.temka37.ru
   - +.terapeack.com
   - +.terapeak.ca
   - +.terapeak.cn
@@ -1090,43 +1152,126 @@ payload:
   - +.terrapeak.com
   - +.texttobuy.org
   - +.thebayuk.com
+  - +.thebutik.ru
   - +.thedailysnkr.com
   - +.theebayshop.com
   - +.theopportunityproject.org
   - +.tiendabestbuy.com
+  - +.tigrenok.toys
+  - +.tigrenoktoys.ru
   - +.toget.com.tw
   - +.towerauction.com
   - +.tracking.ocourier.ru
   - +.tracking.ozon-dostavka.ru
   - +.tracking.ozon.ru
+  - +.trendysocks.ru
+  - +.ucsan.ru
   - +.unbrandedproducts.com
   - +.vamo.com
+  - +.vamzakaz.ru
+  - +.velberis.ru
   - +.vendu.com
   - +.verygoodnike.com
+  - +.vildberis.ru
+  - +.vsemrabota.ru
   - +.w-mt.co
+  - +.waildberies.ru
   - +.wal-mart.com
   - +.wal.co
+  - +.waldberies.ru
+  - +.waldberis.ru
+  - +.walderis.ru
+  - +.wallberis.ru
   - +.walmart
   - +.walmart-content.com
   - +.walmart.cn
   - +.walmart.com
   - +.walmart.pharmacy
   - +.walmartimages.com
+  - +.warehouse.domains
   - +.watch-ebay.org
+  - +.wb-bank.ru
   - +.wb-basket.ru
+  - +.wb-cloud.ru
+  - +.wb-sale.ru
+  - +.wb.am
+  - +.wb.kg
+  - +.wb.kz
   - +.wb.ru
+  - +.wbautomation.ru
+  - +.wbautomation.tech
   - +.wbbasket.ru
+  - +.wbdubna.ru
+  - +.wbkids.ru
+  - +.wbmail.ru
+  - +.wbmotivator.ru
   - +.wbpay.ru
+  - +.wbr.by
+  - +.wbrep.ru
+  - +.wbstatic.net
+  - +.wbstatic.ru
+  - +.wbtek.ru
+  - +.wbwh.ru
+  - +.wbwh.tech
   - +.weareebay.com
+  - +.web-analytics.wildberries.ru
+  - +.weildberries.ru
+  - +.welberris.ru
   - +.welcometobestbuy.ca
+  - +.weldberies.ru
+  - +.weldberres.ru
+  - +.weldberric.ru
+  - +.wellberes.ru
+  - +.wellberies.ru
   - +.wellnessinstitute.com
+  - +.westranger.ru
   - +.whisolutions.com
+  - +.wibes.com
   - +.wibes.ru
+  - +.widberri.ru
+  - +.widberris.ru
+  - +.wieldberris.ru
+  - +.wilberes.ru
+  - +.wilberies.ru
+  - +.wilberris.ru
+  - +.wilberry.ru
+  - +.wildbaries.ru
+  - +.wildbarries.ru
+  - +.wildbeeries.ru
+  - +.wildberdes.ru
+  - +.wildberiss.ru
+  - +.wildberr.ru
+  - +.wildberries.am
+  - +.wildberries.by
+  - +.wildberries.co.il
+  - +.wildberries.es
+  - +.wildberries.eu
+  - +.wildberries.ge
+  - +.wildberries.kg
+  - +.wildberries.kz
+  - +.wildberries.lt
   - +.wildberries.ru
+  - +.wildberries.tj
+  - +.wildberries.tm
+  - +.wildberries.uz
+  - +.wildberriess.ru
+  - +.wildberrise.ru
+  - +.wildbiries.ru
+  - +.wildbirris.ru
+  - +.wildbress.ru
+  - +.wildbries.ru
+  - +.wildbrris.ru
+  - +.wildeberies.ru
+  - +.wildeberris.ru
+  - +.wiliberes.ru
+  - +.willberiess.ru
+  - +.willberis.ru
   - +.wish.com
+  - +.wldberris.ru
   - +.wmt.co
   - +.wolfatbestbuy.com
   - +.wolfatbestbuy.net
+  - +.wolfberries.ru
   - +.womensnikeshox.com
   - +.wrenchead.com
   - +.www-bestbuystores.com
@@ -1141,7 +1286,9 @@ payload:
   - +.xapi.ozon.kz
   - +.xapi.ozon.ru
   - +.xapi.ozonru.me
+  - +.xbs24.ru
   - +.xindelu.com
+  - +.xn----7sbbqwlovjffky5gn.xn--p1ai
   - +.xn----8sbahiqzthbd0bn.xn--p1ai
   - +.xn--3et96bj49ahpq.com
   - +.xn--4vq475g.com
@@ -1150,7 +1297,12 @@ payload:
   - +.xn--7hv594h.com
   - +.xn--7hvy28f.cn
   - +.xn--80aafgovrgbc7am.xn--p1ai
+  - +.xn--80aapfrkg0au.xn--p1ai
+  - +.xn--80acbjgmges7ca.xn--p1ai
+  - +.xn--80acbjgsdq2cl.xn--p1ai
+  - +.xn--90ab.com
   - +.xn--e1adjldbbpv.xn--90ais
+  - +.xn--e1agcghdbe0a2b2a3c.xn--p1ai
   - +.xn--hb4aw0g.com
   - +.xn--q41am8x.com
   - +.xn--qoq462m.com
@@ -1162,6 +1314,7 @@ payload:
   - +.xn--yf1at58a.com
   - +.xxbay.com
   - +.yibei.org
+  - +.zanmarket.ru
   - api-p.videomarket.jp
   - ebay-25-assets.s3-us-west-1.amazonaws.com
   - ecapi-pchome.cdn.hinet.net

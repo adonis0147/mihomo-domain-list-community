@@ -85,6 +85,8 @@ payload:
   - +.adpm.app.qq.com
   - +.adq.chinaso.com
   - +.ads-api.duolingo.com
+  - +.ads-gate.wildberries.ru
+  - +.ads-media.wildberries.ru
   - +.ads-pixiv.net
   - +.ads-twitter.com
   - +.ads-union.jd.com
@@ -103,6 +105,7 @@ payload:
   - +.ads.uc.cn
   - +.ads.union.jd.com
   - +.ads.unitychina.cn
+  - +.ads.wildberries.ru
   - +.ads.wteam.xyz
   - +.ads.x5media.ru
   - +.ads.yahoo.com
@@ -151,6 +154,12 @@ payload:
   - +.advapi.joyplus.tv
   - +.advapikj.joyplus.tv
   - +.adver.qq.com
+  - +.advert-api-sandbox.wb.ru
+  - +.advert-api-sandbox.wildberries.ru
+  - +.advert-api.wb.ru
+  - +.advert-api.wildberries.ru
+  - +.advert-media-api.wb.ru
+  - +.advert-media-api.wildberries.ru
   - +.advertisercommunity.com
   - +.advertiserscommunity.com
   - +.advertising.adobe.com
@@ -179,12 +188,14 @@ payload:
   - +.analytics-adv.ozon.ru
   - +.analytics-alv.google.com
   - +.analytics-data.io
+  - +.analytics-stage.wildberries.ru
   - +.analytics.163.com
   - +.analytics.facebook.com
   - +.analytics.mobile.yandex.net
   - +.analytics.tiktok.com
   - +.analytics.umetrip.com
   - +.analytics.vpc.duolingo.com
+  - +.analytics.wildberries.ru
   - +.api-adservices.apple.com
   - +.api-eu.carrotquest.app
   - +.api-eu.carrotquest.io
@@ -619,6 +630,7 @@ payload:
   - +.sentry.ozon.ru
   - +.sentry.popmechanic.ru
   - +.sentry.sberauto.com
+  - +.sentry.wb.ru
   - +.sentry.x5.ru
   - +.serving-sys.com
   - +.sf3-ttcdn-tos.pstatp.com
@@ -706,6 +718,7 @@ payload:
   - +.wangmeng.baidu.com
   - +.wapwbclick.mobile.sina.cn
   - +.wbclick.mobile.sina.cn
+  - +.web-analytics.wildberries.ru
   - +.webvisor.com
   - +.webvisor.org
   - +.wit.qq.com
