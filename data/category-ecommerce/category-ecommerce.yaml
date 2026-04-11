@@ -5,6 +5,7 @@ payload:
   - +.accomable.com
   - +.achievementanalytics.com
   - +.ad.games.dmm.com
+  - +.ad.ozone.ru
   - +.adcommerce.cn
   - +.adcommerce.tv
   - +.adidas-archive.org
@@ -92,6 +93,8 @@ payload:
   - +.adidasspecialtysports.sk
   - +.adidastabletennis.com
   - +.adidasusnews.com
+  - +.adv.ozon.ru
+  - +.agency-adv.ozon.ru
   - +.air-nike-shoes.com
   - +.airbnb.ae
   - +.airbnb.al
@@ -173,6 +176,7 @@ payload:
   - +.airbnb.tools
   - +.airbnb.travel
   - +.airmax360.com
+  - +.analytics-adv.ozon.ru
   - +.appforebay.cn
   - +.appsonebay.net
   - +.asebay.com
@@ -189,6 +193,7 @@ payload:
   - +.bbyintl.com
   - +.bbystatic.com
   - +.bbyurl.us
+  - +.beginners-adv.ozon.ru
   - +.beijingnike.com
   - +.bestbhy.com
   - +.bestbuy-audio.com
@@ -501,6 +506,7 @@ payload:
   - +.eenike.com
   - +.epinions.com
   - +.eu-consumer-empowerment.com
+  - +.ewisdom.us.kg
   - +.expertmaker.com
   - +.fairmarket.com
   - +.farfetch-apps.com
@@ -542,6 +548,7 @@ payload:
   - +.gmossp-sp.jp
   - +.goldnikeclub.com
   - +.gonike.com
+  - +.google-analytics-suite.ozon.ru
   - +.gscanada.info
   - +.gsccdn.com
   - +.gslink.us
@@ -692,6 +699,7 @@ payload:
   - +.listinganalytics.net
   - +.liveauction.com
   - +.loveminiso.com.br
+  - +.loyalnost-adv.ozon.ru
   - +.magnoliaav.com.cn
   - +.marketexecutive.net
   - +.miadidas.com
@@ -761,6 +769,7 @@ payload:
   - +.myrz.com
   - +.myshopify.com
   - +.nebay.net
+  - +.new-adv.ozon.ru
   - +.nexcat.com
   - +.nexpart.com
   - +.nexpart.tv
@@ -923,17 +932,44 @@ payload:
   - +.nke6.com
   - +.nordstrom.com
   - +.nordstrommedia.com
+  - +.o-courier.ru
+  - +.o3.ru
+  - +.o3t.ru
+  - +.o3team.ru
+  - +.ocourier.ru
   - +.onlinegeeksquad.com
   - +.outletnike.com
+  - +.ozon-credit.ru
+  - +.ozon-dostavka.ru
+  - +.ozon-tech.ru
   - +.ozon.by
   - +.ozon.com
   - +.ozon.com.by
   - +.ozon.com.kz
+  - +.ozon.dev
+  - +.ozon.express
   - +.ozon.kz
+  - +.ozon.li
   - +.ozon.ru
+  - +.ozon.tech
   - +.ozon.tm
+  - +.ozon.travel
+  - +.ozoncamp.pro
+  - +.ozoncard.ru
+  - +.ozoncom.by
+  - +.ozoncorporate.ru
   - +.ozone.ru
+  - +.ozonglobalevents.com
+  - +.ozonpartners.by
+  - +.ozonpartners.ru
+  - +.ozonrocet.by
+  - +.ozonroket.by
+  - +.ozonru.co.il
+  - +.ozonru.com
+  - +.ozonru.eu
   - +.ozonru.me
+  - +.ozonsport.ru
+  - +.ozonstatus.ru
   - +.ozonusercontent.com
   - +.pacifickitchenandhome.com
   - +.paisapay.cc
@@ -951,11 +987,13 @@ payload:
   - +.premobay.com
   - +.privatemarketplaces.net
   - +.privatemarketplaces.us
+  - +.prodvizhenie-adv.ozon.ru
   - +.prostores.cn
   - +.prostores.com
   - +.prostores.com.cn
   - +.q10.jp
   - +.qoo10.jp
+  - +.questions-adv.ozon.ru
   - +.r10s.com
   - +.r10s.jp
   - +.rakuten-static.com
@@ -975,11 +1013,13 @@ payload:
   - +.rethink.net
   - +.rimg.com.tw
   - +.rocketfishproducts.com
+  - +.rocketozon.by
   - +.runnike.com
   - +.runningnike.com
   - +.ruten.com.tw
   - +.rwb.ru
   - +.sale-nikeshoes.com
+  - +.sentry.ozon.ru
   - +.shop.app
   - +.shopadidas.ca
   - +.shopadidas.com
@@ -1056,6 +1096,9 @@ payload:
   - +.tiendabestbuy.com
   - +.toget.com.tw
   - +.towerauction.com
+  - +.tracking.ocourier.ru
+  - +.tracking.ozon-dostavka.ru
+  - +.tracking.ozon.ru
   - +.unbrandedproducts.com
   - +.vamo.com
   - +.vendu.com
@@ -1091,13 +1134,23 @@ payload:
   - +.wwwebay.com
   - +.wwwebay.net
   - +.wwwwebay.com
+  - +.xapi.ozon.by
+  - +.xapi.ozon.com.by
+  - +.xapi.ozon.com.kz
+  - +.xapi.ozon.com
+  - +.xapi.ozon.kz
+  - +.xapi.ozon.ru
+  - +.xapi.ozonru.me
   - +.xindelu.com
+  - +.xn----8sbahiqzthbd0bn.xn--p1ai
   - +.xn--3et96bj49ahpq.com
   - +.xn--4vq475g.com
   - +.xn--4vq477m.com
   - +.xn--74q035i.xn--hxt814e
   - +.xn--7hv594h.com
   - +.xn--7hvy28f.cn
+  - +.xn--80aafgovrgbc7am.xn--p1ai
+  - +.xn--e1adjldbbpv.xn--90ais
   - +.xn--hb4aw0g.com
   - +.xn--q41am8x.com
   - +.xn--qoq462m.com

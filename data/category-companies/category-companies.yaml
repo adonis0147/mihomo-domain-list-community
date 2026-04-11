@@ -465,8 +465,26 @@ payload:
   - +.aoruszone.cn
   - +.ap0le.com
   - +.api-adservices.apple.com
+  - +.api-eu.carrotquest.app
+  - +.api-eu.carrotquest.io
   - +.api-extractor.com
+  - +.api-js.mindbox.ru
+  - +.api-ru.carrotquest.app
+  - +.api-ru.carrotquest.io
+  - +.api-ru.mindbox.cloud
+  - +.api-secure.carrotquest.app
+  - +.api-secure.carrottrack.app
+  - +.api-staging.mindbox.ru
   - +.api.ai
+  - +.api.carrotquest.app
+  - +.api.carrotquest.io
+  - +.api.carrottrack.app
+  - +.api.dashly.app
+  - +.api.dashlytrack.app
+  - +.api.e.mindbox.ru
+  - +.api.mindbox.cloud
+  - +.api.mindbox.ru
+  - +.api.s.mindbox.ru
   - +.apigee.com
   - +.apihub-internal.cn
   - +.apisof.net
@@ -1630,6 +1648,7 @@ payload:
   - +.bossae.com
   - +.boswp.com
   - +.botframework.com
+  - +.botmechanic.io
   - +.botorch.org
   - +.boxofficemojo.com
   - +.braeburncapital.com
@@ -1792,6 +1811,11 @@ payload:
   - +.carbon.com
   - +.careersatfb.com
   - +.carekit.org
+  - +.carrot-mail.io
+  - +.carrotquest-mail.io
+  - +.carrotquest.app
+  - +.carrotquest.io
+  - +.carrottrack.app
   - +.carstagram.com
   - +.cashmart.jp
   - +.casque-fr.com
@@ -1827,6 +1851,7 @@ payload:
   - +.centralvalidation.com
   - +.centrino.com
   - +.centrino.net
+  - +.ceosummit.ru
   - +.ceramics-cadcam.com
   - +.certificate-transparency.org
   - +.cfblob.com
@@ -1901,6 +1926,8 @@ payload:
   - +.chinacloudapp.cn
   - +.chinacloudsites.cn
   - +.chintaidx.com
+  - +.chipcore.com
+  - +.chipcore.ru
   - +.chips.com
   - +.chomp.com
   - +.chrome
@@ -2114,6 +2141,11 @@ payload:
   - +.darwinsource.com
   - +.darwinsource.org
   - +.darwinsourcecode.com
+  - +.dashly.app
+  - +.dashly.help
+  - +.dashly.io
+  - +.dashly.me
+  - +.dashlytrack.app
   - +.dashwood360.com
   - +.data.com
   - +.dataframeworks.com
@@ -3549,6 +3581,9 @@ payload:
   - +.hackfacebookid.com
   - +.hackharassment.com
   - +.hacklang.org
+  - +.haicomdc.com
+  - +.haicomdc.ru
+  - +.haicomgroup.ru
   - +.hakaru.ai
   - +.hangout
   - +.haplorrhini.com
@@ -4335,6 +4370,7 @@ payload:
   - +.itasoftware.com
   - +.itcanwait.com
   - +.itfromtheinside.com
+  - +.itirex.ru
   - +.itnel.com
   - +.itools.info
   - +.itun.es
@@ -4659,6 +4695,7 @@ payload:
   - +.magentomobile.com
   - +.magestic.com
   - +.mail-ads.google.com
+  - +.mail-carrotquest.io
   - +.mail.ru
   - +.mailchimp.com
   - +.mairbeats.com
@@ -4900,6 +4937,13 @@ payload:
   - +.mikrotik.com
   - +.mimistudio.com
   - +.mimistyler.com
+  - +.mind-box.ru
+  - +.mindbox-notifications.ru
+  - +.mindbox.cloud
+  - +.mindbox.group
+  - +.mindbox.ru
+  - +.mindbox.site
+  - +.mindbox.so
   - +.mindgeek.com
   - +.mindmeld.com
   - +.minecraft-services.net
@@ -5481,6 +5525,8 @@ payload:
   - +.pointtown.com
   - +.polymer-project.org
   - +.polymerproject.org
+  - +.popmechanic.io
+  - +.popmechanic.ru
   - +.porkbun.com
   - +.porngub.com
   - +.pornhub-deutsch.net
@@ -5550,6 +5596,7 @@ payload:
   - +.pub.dev
   - +.publishproxy.com
   - +.pullstring.net
+  - +.pushgrow.io
   - +.pwabuilder.com
   - +.pxt.io
   - +.pyrobot.org
@@ -5766,13 +5813,28 @@ payload:
   - +.secondns.at
   - +.securecloudtransformation.com
   - +.securitypreview.com
+  - +.selcdn.net
+  - +.selectel.academy
+  - +.selectel.blog
+  - +.selectel.com
+  - +.selectel.dev
+  - +.selectel.info
+  - +.selectel.io
+  - +.selectel.live
+  - +.selectel.ru
+  - +.selectelix.ru
+  - +.selectelpro.ru
   - +.sena.co.kr
   - +.sensorynetworks.com
+  - +.sentry.mindbox.ru
+  - +.sentry.popmechanic.ru
   - +.seo-dash.net
   - +.seodirector.ai
   - +.seotimes.jp
   - +.sequence.com
   - +.servercontrolpanel.de
+  - +.servercore.com
+  - +.servercore.live
   - +.serverlesslibrary.net
   - +.services-apple.net
   - +.services-exchange.com
@@ -5844,6 +5906,7 @@ payload:
   - +.skypedata.akadns.net
   - +.skyperfectjsat.space
   - +.skyperfectv.co.jp
+  - +.slc.tl
   - +.slides.new
   - +.smaad.net
   - +.smart-edge.com
@@ -6046,6 +6109,7 @@ payload:
   - +.submittal-log.com
   - +.successwithteams.com
   - +.sulwerphoto.com
+  - +.summitceo.ru
   - +.sun.com
   - +.sundanceignite2016.com
   - +.sundayready.com
@@ -6107,6 +6171,7 @@ payload:
   - +.tegrazone.com
   - +.tegrazone.jp
   - +.tegrazone.kr
+  - +.tehnodom.com
   - +.telega.info
   - +.telega.me
   - +.tellmewhygame.com
@@ -6433,6 +6498,9 @@ payload:
   - +.vrnastran.com
   - +.vsallin.net
   - +.vsassets.io
+  - +.vscale.blog
+  - +.vscale.io
+  - +.vscale.ru
   - +.vscode-cdn.net
   - +.vscode-unpkg.net
   - +.vscode.dev

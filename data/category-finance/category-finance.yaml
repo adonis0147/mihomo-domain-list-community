@@ -15,6 +15,9 @@ payload:
   - +.2gis.tj
   - +.2gis.ua
   - +.2gis.uz
+  - +.2w.ru
+  - +.4c.ru
+  - +.4epenaxa.com
   - +.77bank.co.jp
   - +.82bank.co.jp
   - +.a-bank.jp
@@ -22,6 +25,7 @@ payload:
   - +.ablmm.com
   - +.aboutschwab.com
   - +.abr.ru
+  - +.ads.neon.click
   - +.afisha.ru
   - +.agdbank.com
   - +.agri-bank.com
@@ -31,8 +35,11 @@ payload:
   - +.ansarbank.com
   - +.aozorabank.co.jp
   - +.ashikagabank.co.jp
+  - +.atomyze.ru
+  - +.atomyze.tech
   - +.awabank.co.jp
   - +.ayabank.com
+  - +.babki.ru
   - +.bank-maskan.ir
   - +.bankline.ru
   - +.bankmellat.ir
@@ -42,9 +49,12 @@ payload:
   - +.blubank.com
   - +.bmi.ir
   - +.boj.or.jp
+  - +.booking-tec.ru
   - +.bpi.ir
   - +.bps-sberbank.by
   - +.bsi.ir
+  - +.capitalt.ru
+  - +.cardsmobile.ru
   - +.cbbank.com.mm
   - +.cbi.ir
   - +.cbm.com.mm
@@ -57,16 +67,28 @@ payload:
   - +.chugokubank.co.jp
   - +.citibank.co.jp
   - +.citydrive.ru
+  - +.clickstream.sberbank.ru
   - +.cloud.ru
   - +.cloudru.cn
+  - +.codeseason.by
   - +.cu.ru
+  - +.custody.ru
   - +.daiichibank.co.jp
+  - +.data-tscbank.ru
   - +.day24.ir
   - +.dbo-dengi.online
+  - +.deltacredit.ru
+  - +.depository.ru
   - +.dolyame.ru
+  - +.eaptechka.online
   - +.eapteka.ru
   - +.edbi.ir
+  - +.electronicsignature.ru
   - +.enbank.ir
+  - +.enterly.ru
+  - +.era-invest.ru
+  - +.error-tracking.megamarket.tech
+  - +.etna.ai
   - +.fibank.bg
   - +.firstprivatebank.com.mm
   - +.fsmone.com
@@ -85,12 +107,14 @@ payload:
   - +.futunn.com
   - +.futustatic.com
   - +.fxcorporate.com
+  - +.gainstech.ru
   - +.gazprombank.com
   - +.gazprombank.investments
   - +.gazprombank.ru
   - +.gbank.com.mm
   - +.ghbi.ir
   - +.giga.chat
+  - +.gosdolgi.ru
   - +.gpb.ru
   - +.gunmabank.co.jp
   - +.hibank24.com
@@ -181,6 +205,9 @@ payload:
   - +.interactivebrokers.com.sg
   - +.interactivebrokers.eu
   - +.interactivebrokers.ie
+  - +.it-katok.ru
+  - +.it-picnic.ru
+  - +.it-piknik.ru
   - +.itiger.com
   - +.itigergrowth.com
   - +.itigergrowtha.com
@@ -189,7 +216,9 @@ payload:
   - +.iyobank.co.jp
   - +.izbank.ir
   - +.jfc.go.jp
+  - +.jfn.su
   - +.jibunbank.co.jp
+  - +.jira-tcsbank.ru
   - +.jivo.chat
   - +.jivo.ru
   - +.jivochat.co.in
@@ -208,18 +237,24 @@ payload:
   - +.joyobank.co.jp
   - +.jp-bank.japanpost.jp
   - +.juhachibank.co.jp
+  - +.jump.taxi
+  - +.jumpwork.ru
   - +.juroku.co.jp
   - +.kagobank.co.jp
   - +.karafarinbank.ir
+  - +.karmahelp.ru
+  - +.karta-banka-rf.ru
   - +.kbzbank.com
   - +.kbzpay.com
   - +.kinki.co.jp
   - +.kitakyushubank.co.jp
   - +.kiyobank.co.jp
+  - +.koshelek.app
   - +.kuper.ru
   - +.kyotobank.co.jp
   - +.lbctrl.com
   - +.lbkrs.com
+  - +.lifestyle-tec.ru
   - +.longbridge.cloud
   - +.longbridge.com
   - +.longbridge.global
@@ -228,6 +263,8 @@ payload:
   - +.longbridgeapp.com
   - +.longportapp.com
   - +.mabbank.com
+  - +.malotogo.ru
+  - +.max-tcs.ru
   - +.mcb.com.mm
   - +.mdbankpublic.com
   - +.meawallet.app
@@ -235,6 +272,7 @@ payload:
   - +.mebank.ir
   - +.megamarket.ru
   - +.megamarket.tech
+  - +.mfk-t-finance.ru
   - +.micb.gov.mm
   - +.michinokubank.co.jp
   - +.mie.co.jp
@@ -253,9 +291,11 @@ payload:
   - +.mtsdengi.ru
   - +.musashinobank.co.jp
   - +.mwdbank.com
+  - +.my-tbank.ru
   - +.myfin.bg
   - +.n26.com
   - +.nantobank.co.jp
+  - +.neon.click
   - +.nishinipponbank.co.jp
   - +.nochubank.or.jp
   - +.nptsibinbank.com
@@ -273,19 +313,33 @@ payload:
   - +.playfamily.ru
   - +.pochtabank.ru
   - +.postbank.ir
+  - +.private-banking.ru
+  - +.prodcontest.com
   - +.psb-ocenka.ru
   - +.psb.ru
   - +.psbank.ru
   - +.qmb.ir
   - +.rakuten-bank.co.jp
   - +.rb24.ir
+  - +.rbcollect.ru
+  - +.rbcredit.ru
   - +.refah-bank.ir
   - +.resonabank.co.jp
+  - +.rf-sim-mobile.ru
+  - +.rosbank-auto.ru
+  - +.rosbank-capital.ru
+  - +.rosbank-credit.com
+  - +.rosbank-dom.ru
+  - +.rosbank-leasing.ru
   - +.rosbank.ru
   - +.rqbank.ir
   - +.rshb.ru
+  - +.rusfinance.ru
+  - +.rusfinancebank.ru
   - +.ryukyubank.co.jp
+  - +.safeliner.tech
   - +.sagabank.co.jp
+  - +.sage-observability.tech
   - +.saitama-resona.co.jp
   - +.samokat.ru
   - +.saninbank.co.jp
@@ -320,7 +374,9 @@ payload:
   - +.schwab.com.sg
   - +.schwabassetmanagement.com
   - +.schwabplan.com
+  - +.sentry.sberauto.com
   - +.sevenbank.co.jp
+  - +.sgcheck.ru
   - +.shahr-bank.ir
   - +.shaparak.ir
   - +.shigagin.co.jp
@@ -341,19 +397,50 @@ payload:
   - +.spasibosberbank.ru
   - +.standardchartered.com
   - +.surugabank.co.jp
+  - +.t-access.ru
   - +.t-bank-app.ru
+  - +.t-bank.by
+  - +.t-calls.ru
+  - +.t-capital-funds.ru
+  - +.t-cpa.ru
+  - +.t-dengi.ru
+  - +.t-finance.group
+  - +.t-finance.ru
+  - +.t-human.ru
+  - +.t-investlab.ru
   - +.t-j.ru
+  - +.t-ofp.ru
+  - +.t-pulse.ru
   - +.t-static.ru
+  - +.t-stekovka.ru
+  - +.t-tech.dev
+  - +.t-tech.ru
+  - +.t-tech.team
   - +.t-technologies.ru
+  - +.t-tolk.ru
+  - +.t.finance
   - +.tajimabank.co.jp
+  - +.tb-esim.ru
   - +.tbank-online.com
   - +.tbank.ru
+  - +.tconf.ru
+  - +.tcsbank.ru
+  - +.tdev.by
   - +.tech26.de
   - +.tejaratbank.ir
+  - +.time-messenger.ru
+  - +.tinkoff-edu.ru
   - +.tinkoff-group.com
+  - +.tinkoff.ai
   - +.tinkoff.ru
+  - +.tinkoffcapital.ru
+  - +.tinkoffinsurance.ru
+  - +.tinkoffinsurancefuture.ru
   - +.tinkoffjournal.ru
+  - +.tinkoffmobile.com
   - +.tinsurance.ru
+  - +.tinsurancefuture.ru
+  - +.tmiaf.ru
   - +.tochigibank.co.jp
   - +.tochka-tech.com
   - +.tochka.com
@@ -362,16 +449,28 @@ payload:
   - +.tomibank.co.jp
   - +.tottoribank.co.jp
   - +.toyobank.co.jp
+  - +.tpension.ru
+  - +.tracing-http.megamarket.tech
   - +.tradingview.com
   - +.transferwise.com
+  - +.travel-tec.ru
   - +.tsukubabank.co.jp
   - +.tuncommercialbank.com
   - +.uab.com.mm
   - +.unidraw.io
+  - +.visor.sberbank.ru
   - +.vtb.ru
   - +.waveomoney.com.mm
   - +.wbrks.com
   - +.wise.com
+  - +.xn----7sbhmncai5a0arm7c1e.xn--p1ai
+  - +.xn----8sbkfzespdwig.xn--p1ai
+  - +.xn----8sbwjbxyd.xn--p1ai
+  - +.xn--90aifd0az.shop
+  - +.xn--90aifd0azb.xn--p1acf
+  - +.xn--b1aechhj6bof8g5a.site
+  - +.xn--d1abkf4ap.fun
+  - +.xn--h1ao.site
   - +.yamagatabank.co.jp
   - +.yamaguchibank.co.jp
   - +.yamanashibank.co.jp
@@ -380,11 +479,6 @@ payload:
   - +.ysx-mm.com
   - +.zvuk-b2b.com
   - +.zvuk.com
-  - clickstream.sberbank.ru
-  - error-tracking.megamarket.tech
   - sberpro.vedomosti.ru
-  - sentry.sberauto.com
   - standchartbank.sc.omtrdc.net
   - standchartbank.tt.omtrdc.net
-  - tracing-http.megamarket.tech
-  - visor.sberbank.ru
