@@ -36,12 +36,15 @@ payload:
   - +.116cd.net
   - +.119you.com
   - +.12306.cn
+  - +.12315.cn
+  - +.12321.cn
   - +.123245.com
   - +.123254.com
   - +.123294.com
   - +.1234567.com.cn
   - +.123624.com
   - +.123641.com
+  - +.12365auto.com
   - +.123842.com
   - +.123860.com
   - +.123912.com
@@ -1564,6 +1567,7 @@ payload:
   - +.cjsc.com
   - +.ckd.im
   - +.ckxx.net
+  - +.clawhub-mirror.com
   - +.cleargrass.com
   - +.click.gamersky.com
   - +.click.hunantv.com
@@ -1733,6 +1737,7 @@ payload:
   - +.cnzz.com
   - +.cocodiy.com
   - +.code666.com
+  - +.codebuddy.cn
   - +.codechina.net
   - +.codeloop.top
   - +.coding.me
@@ -1897,6 +1902,8 @@ payload:
   - +.dadajiasu.com
   - +.dadighost.com
   - +.daguzhe.com
+  - +.daheapp.com
+  - +.dahebao.cn
   - +.dajiabao.com
   - +.dajie.com
   - +.dajieimg.com
@@ -2614,6 +2621,7 @@ payload:
   - +.gaoxiaojob.com
   - +.gatzs.com.cn
   - +.gcable.com.cn
+  - +.gcloudcache.com
   - +.gcloudcs.com
   - +.gcloudcstest.com
   - +.gcloudcstestonly.com
@@ -3026,6 +3034,7 @@ payload:
   - +.huanleguang.com
   - +.huanqiu.com
   - +.huanqiucdn.cn
+  - +.huasheng.cn
   - +.huashengdaili.com
   - +.huatu.com
   - +.huawei.cn
@@ -3480,6 +3489,7 @@ payload:
   - +.jianshu.com
   - +.jianshu.io
   - +.jianshuapi.com
+  - +.jianying.com
   - +.jianyuweb.com
   - +.jianzhi8.com
   - +.jiaodong.net
@@ -3758,6 +3768,7 @@ payload:
   - +.kuaidilab.com
   - +.kuaiduizuoye.com
   - +.kuaihou.com
+  - +.kuaiji.com
   - +.kuaikanmanhua.com
   - +.kuailepipixia.com
   - +.kuaishou.cn
@@ -5150,6 +5161,7 @@ payload:
   - +.sinopecsales.com
   - +.sipeed.com
   - +.sjwyx.com
+  - +.skillhub.cn
   - +.skimit.net
   - +.skycn.com
   - +.skydweller.cn
@@ -6671,6 +6683,7 @@ payload:
   - +.zebracdn.com
   - +.zeekrlife.com
   - +.zgbk.com
+  - +.zgbznet.com.cn
   - +.zgcbank.com
   - +.zggbdszt.cn
   - +.zggbdszt.com.cn
