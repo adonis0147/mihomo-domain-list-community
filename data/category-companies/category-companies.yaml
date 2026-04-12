@@ -481,10 +481,8 @@ payload:
   - +.api.carrottrack.app
   - +.api.dashly.app
   - +.api.dashlytrack.app
-  - +.api.e.mindbox.ru
   - +.api.mindbox.cloud
   - +.api.mindbox.ru
-  - +.api.s.mindbox.ru
   - +.apigee.com
   - +.apihub-internal.cn
   - +.apisof.net
@@ -2575,6 +2573,7 @@ payload:
   - +.dzen.ru
   - +.dzeninfra.ru
   - +.e-estate.jp
+  - +.e.mindbox.ru
   - +.earphonescheapest.com
   - +.earpod.net
   - +.earthdell.com
@@ -3097,6 +3096,7 @@ payload:
   - +.g.cn
   - +.g.co
   - +.g.dev
+  - +.g.mindbox.ru
   - +.g.page
   - +.gacebook.com
   - +.gaikaex.com
@@ -3634,6 +3634,10 @@ payload:
   - +.hey.boo
   - +.heywire.com
   - +.hf-iphone.com
+  - +.hh.by
+  - +.hh.kz
+  - +.hh.ru
+  - +.hhcdn.ru
   - +.hhvm.com
   - +.hifacebook.info
   - +.highbolt.net
@@ -5662,6 +5666,7 @@ payload:
   - +.qwant.it
   - +.qwapi.com
   - +.r.bing.com
+  - +.rabota.by
   - +.radeon.com
   - +.radian6.com
   - +.rapidprototyping-cadcam.com
@@ -5740,6 +5745,7 @@ payload:
   - +.s-msft.com
   - +.s-msn.com
   - +.s-rewards.hk
+  - +.s.mindbox.ru
   - +.s2stagehance.com
   - +.s81c.com
   - +.saffrontech.com
@@ -5841,6 +5847,7 @@ payload:
   - +.serviceshp.com
   - +.servicetalk.io
   - +.serving-sys.com
+  - +.setka.ru
   - +.sfbassets.com
   - +.sfbassets.net
   - +.sfdcstatic.com
@@ -6153,6 +6160,7 @@ payload:
   - +.tailf.com
   - +.tailwindtraders.com
   - +.takegoto.com
+  - +.talantix.ru
   - +.tamtam.chat
   - +.tandberg-china.com
   - +.tandberg.com
@@ -7147,6 +7155,7 @@ payload:
   - +.z.cn
   - +.z.com
   - +.zappos
+  - +.zarplata.ru
   - +.zdxbeta.net
   - +.zdxcloud.net
   - +.zeibit.ai

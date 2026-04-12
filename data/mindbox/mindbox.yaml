@@ -2,12 +2,12 @@ payload:
   - +.api-js.mindbox.ru
   - +.api-ru.mindbox.cloud
   - +.api-staging.mindbox.ru
-  - +.api.e.mindbox.ru
   - +.api.mindbox.cloud
   - +.api.mindbox.ru
-  - +.api.s.mindbox.ru
   - +.botmechanic.io
   - +.ceosummit.ru
+  - +.e.mindbox.ru
+  - +.g.mindbox.ru
   - +.mind-box.ru
   - +.mindbox-notifications.ru
   - +.mindbox.cloud
@@ -17,6 +17,7 @@ payload:
   - +.mindbox.so
   - +.popmechanic.io
   - +.popmechanic.ru
+  - +.s.mindbox.ru
   - +.sentry.mindbox.ru
   - +.sentry.popmechanic.ru
   - +.summitceo.ru

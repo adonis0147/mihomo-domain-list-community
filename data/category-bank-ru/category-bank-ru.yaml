@@ -18,16 +18,22 @@ payload:
   - +.4c.ru
   - +.4epenaxa.com
   - +.abr.ru
-  - +.ads.neon.click
+  - +.accesspoint.uz
+  - +.ads.sber.ru
   - +.afisha.ru
+  - +.alfabank.oavdo.amc
   - +.alfabank.ru
   - +.alfabank.st
+  - +.alfadirect.ru
   - +.atomyze.ru
   - +.atomyze.tech
   - +.babki.ru
   - +.bankline.ru
+  - +.bcs-bank.ru
+  - +.bcs.ru
   - +.booking-tec.ru
   - +.bps-sberbank.by
+  - +.broker.ru
   - +.capitalt.ru
   - +.cardsmobile.ru
   - +.cdn-tinkoff.ru
@@ -37,6 +43,7 @@ payload:
   - +.cloud.ru
   - +.cloudru.cn
   - +.codeseason.by
+  - +.cplsb.ru
   - +.cu.ru
   - +.custody.ru
   - +.data-tscbank.ru
@@ -55,7 +62,9 @@ payload:
   - +.gazprombank.com
   - +.gazprombank.investments
   - +.gazprombank.ru
+  - +.getsynapse.io
   - +.giga.chat
+  - +.gitverse.ru
   - +.gosdolgi.ru
   - +.gpb.ru
   - +.id.ru
@@ -90,15 +99,20 @@ payload:
   - +.max-tcs.ru
   - +.megamarket.ru
   - +.megamarket.tech
+  - +.metrics.21-school.ru
   - +.mfk-t-finance.ru
+  - +.mkb.ru
   - +.mtsdengi.ru
   - +.my-tbank.ru
+  - +.myapelsin.ru
   - +.neon.click
   - +.okko.sport
   - +.okko.tv
   - +.otello.ru
+  - +.payecom.ru
   - +.payment.ru
   - +.phoenix-ca.ru
+  - +.platiecom.ru
   - +.playfamily.ru
   - +.pochtabank.ru
   - +.private-banking.ru
@@ -108,6 +122,7 @@ payload:
   - +.psbank.ru
   - +.rbcollect.ru
   - +.rbcredit.ru
+  - +.restnproducts.ru
   - +.rf-sim-mobile.ru
   - +.rosbank-auto.ru
   - +.rosbank-capital.ru
@@ -128,11 +143,13 @@ payload:
   - +.sberbank-insurance.ru
   - +.sberbank.com
   - +.sberbank.ru
+  - +.sberbankaktivno.ru
   - +.sberbankins.ru
   - +.sbercloud.ru
   - +.sbercloud.tech
   - +.sberdevices.ru
   - +.sberdisk.ru
+  - +.sberfactoring.ru
   - +.sberhealth.ru
   - +.sberindex.ru
   - +.sberleasing.ru
@@ -141,13 +158,20 @@ payload:
   - +.sbermegamarket.ru
   - +.sbermobile.ru
   - +.sberpb.ru
+  - +.sberspasibo.ru
+  - +.sbertech.ru
   - +.sbertroika.ru
+  - +.sbrf.ru
   - +.sentry.sberauto.com
   - +.sgcheck.ru
+  - +.spasibo.digital
+  - +.spasibo.market
+  - +.spasibobonus.ru
   - +.spasibosb.ru
   - +.spasibosberbank.ru
   - +.t-access.ru
   - +.t-bank-app.ru
+  - +.t-bank-app.su
   - +.t-bank.by
   - +.t-calls.ru
   - +.t-capital-funds.ru
