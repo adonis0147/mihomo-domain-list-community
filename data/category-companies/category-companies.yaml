@@ -40,6 +40,8 @@ payload:
   - +.1drv.com
   - +.1drv.ms
   - +.1e100.net
+  - +.1l-hit.mail.ru
+  - +.1l-hit.vkplay.ru
   - +.1monsterbeatsbydreus.com
   - +.1thek.com
   - +.1to1computing.com.au
@@ -145,9 +147,12 @@ payload:
   - +.acmvalidationsaws.com
   - +.acpica.com
   - +.acrobat.com
+  - +.ad.mail.ru
+  - +.ad4.mail.ru
   - +.adam.jp
   - +.adaptivecards.io
   - +.adbecrsl.com
+  - +.adblogger.vk.com
   - +.addthis.com
   - +.addthiscdn.com
   - +.addthisedge.com
@@ -204,12 +209,23 @@ payload:
   - +.adobetechcommdemo.com
   - +.adobexdplatform.com
   - +.ads-api.duolingo.com
+  - +.ads-integration.rustore.ru
+  - +.ads.dahlmessenger.com
+  - +.ads.icq.com
+  - +.ads.rustore.ru
+  - +.ads.viqeo.tv
+  - +.ads.vk.com
+  - +.ads.vk.ru
   - +.ads.yahoo.com
   - +.ads.yandex.com
   - +.ads.yandex.ru
   - +.ads.yandex
   - +.ads.yango.com
   - +.ads.youtube.com
+  - +.adsadvisor.io
+  - +.adsapp.dahlmessenger.com
+  - +.adsapp.stage.telega.info
+  - +.adsapp.telega.info
   - +.adsdk.yandex.ru
   - +.adsense.com
   - +.adsensecustomsearchads.com
@@ -223,6 +239,7 @@ payload:
   - +.adskengpr.net
   - +.adtcc.com
   - +.adtrafficquality.google
+  - +.adv.rustore.ru
   - +.adv.yandex.com
   - +.adv.yandex.ru
   - +.advancediddetection.com
@@ -263,6 +280,7 @@ payload:
   - +.alexa.com
   - +.alexafund.cn
   - +.alexafund.com.cn
+  - +.algoritmika.org
   - +.alias.com
   - +.aliasadvantage.com
   - +.aliasimaginationsengine.com
@@ -329,6 +347,7 @@ payload:
   - +.alivevmax.com
   - +.alivevue.com
   - +.alphassl.com
+  - +.alt-r.my.com
   - +.altera.co.jp
   - +.altera.com
   - +.alteraforum.com
@@ -442,10 +461,13 @@ payload:
   - +.amzndns.net
   - +.amzndns.org
   - +.amznl.com
+  - +.an.mail.ru
   - +.an.yandex.ru
   - +.analytics-alv.google.com
   - +.analytics.facebook.com
   - +.analytics.mobile.yandex.net
+  - +.analytics.vk.com
+  - +.analytics.vk.ru
   - +.analytics.vpc.duolingo.com
   - +.android
   - +.android.com
@@ -460,6 +482,7 @@ payload:
   - +.annstores.net
   - +.antenna.co.kr
   - +.anydesk.com
+  - +.aodahl.com
   - +.aokwholesale.net
   - +.aorus.com
   - +.aoruszone.cn
@@ -485,6 +508,7 @@ payload:
   - +.api.mindbox.ru
   - +.apigee.com
   - +.apihub-internal.cn
+  - +.apiok.ru
   - +.apisof.net
   - +.aple.com
   - +.aplestore.com
@@ -851,6 +875,7 @@ payload:
   - +.appmetrica.yandex.ru
   - +.appmetrica.yango.com
   - +.appserviceenvironment.cn
+  - +.appsmail.ru
   - +.appspot.com
   - +.appsto.re
   - +.appstore.co.id
@@ -858,6 +883,7 @@ payload:
   - +.appstore.my
   - +.appstore.ph
   - +.appstoreapple.cn
+  - +.apptracer.ru
   - +.appule.com
   - +.appye.com
   - +.apture.com
@@ -865,6 +891,7 @@ payload:
   - +.architectural-cadcam.com
   - +.area120.com
   - +.aria.ms
+  - +.armgs.team
   - +.arnoldrenderer.com
   - +.artcam.com
   - +.artcamexpress.com
@@ -911,6 +938,7 @@ payload:
   - +.att.jobs
   - +.att.net
   - +.att.tv
+  - +.attachmy.com
   - +.attalascom.com
   - +.attbelieves.com
   - +.attbusiness.net
@@ -1211,6 +1239,7 @@ payload:
   - +.azuresmartspaces.net
   - +.azurestackvalidation.com
   - +.azurewebsites.net
+  - +.b2.mail.ru
   - +.b2clogin.cn
   - +.b3itech.cn
   - +.babes.com
@@ -1222,6 +1251,7 @@ payload:
   - +.bandwagonhost.com
   - +.banksy.tokyo
   - +.barefootnetworks.com
+  - +.bargipsy.com
   - +.barkadahansasmartone.com
   - +.baselinestudy.com
   - +.baselinestudy.org
@@ -1551,6 +1581,8 @@ payload:
   - +.bitnami.com
   - +.bitnamiapp.com
   - +.bitnamistudio.com
+  - +.bizmrg.com
+  - +.bk.ru
   - +.blackfridaydrebeatsnew.com
   - +.blackfridaydrebeatsshop.com
   - +.blazor.net
@@ -1641,6 +1673,7 @@ payload:
   - +.blurams.com
   - +.bookonsky.net
   - +.bookstagram.com
+  - +.boom.ru
   - +.boosty.to
   - +.boringcompany.com
   - +.bossae.com
@@ -1671,6 +1704,7 @@ payload:
   - +.browser-updater.yandex.net
   - +.browser.events.data.msn.cn
   - +.browser.events.data.msn.com
+  - +.bs.mail.ru
   - +.bs.yandex.ru
   - +.buck.build
   - +.buckbuild.com
@@ -1840,8 +1874,10 @@ payload:
   - +.cdkworkshop.com
   - +.cdmatech.com
   - +.cdn-apple.com
+  - +.cdn-vk.net
   - +.cdn-vk.ru
   - +.cdninstagram.com
+  - +.cdnmail.ru
   - +.cegid-cloud.cn
   - +.celebgramme.com
   - +.celeron.com
@@ -1912,6 +1948,7 @@ payload:
   - +.cheapwireless04.com
   - +.cheapwirelessbeats.com
   - +.cheerwholesale.us
+  - +.chef.io
   - +.chegg.com
   - +.cheggcdn.com
   - +.chickstagram.com
@@ -1939,6 +1976,7 @@ payload:
   - +.cht.com.tw
   - +.chtf.org.tw
   - +.ciattackers.com
+  - +.ciciq.net
   - +.cilk.com
   - +.cilk.net
   - +.cisco
@@ -1994,6 +2032,7 @@ payload:
   - +.clearlinux.org
   - +.click-sec.com
   - +.click-url.com
+  - +.click.rustore.ru
   - +.clickedu.co.uk
   - +.climate-server.com
   - +.cloudapp.net
@@ -2032,6 +2071,7 @@ payload:
   - +.cnshopin.com
   - +.cobatt.com
   - +.cobrasearch.com
+  - +.code-class.ru
   - +.codespot.com
   - +.codethemicrobit.com
   - +.coeteco.jp
@@ -2112,6 +2152,7 @@ payload:
   - +.cs4hs.com
   - +.csifund.org
   - +.cuffiesaldi.com
+  - +.cups.online
   - +.cups.org
   - +.currently.com
   - +.currently.net
@@ -2127,8 +2168,12 @@ payload:
   - +.customizedbeatbydre.com
   - +.customizedbeatsbydre.com
   - +.customizedbeatsdre.com
+  - +.cxhub.ru
   - +.cybermondaybeats4sale.com
+  - +.cybersport.ru
   - +.dacebook.com
+  - +.dahl.su
+  - +.dahlmessenger.com
   - +.danemarket.com
   - +.danmarkbeatsbydrdre.com
   - +.dart.dev
@@ -2146,6 +2191,7 @@ payload:
   - +.dashlytrack.app
   - +.dashwood360.com
   - +.data.com
+  - +.datacloudmy.com
   - +.dataframeworks.com
   - +.dataliberation.org
   - +.daum.net
@@ -2365,6 +2411,8 @@ payload:
   - +.desktopmovies.org
   - +.destinationbim.com
   - +.detaliczny.com
+  - +.dev-my.com
+  - +.dev-my.games
   - +.developer-advisor.com
   - +.developer.allizom.org
   - +.developria.com
@@ -2612,11 +2660,14 @@ payload:
   - +.enpay.co.jp
   - +.enpirion.com
   - +.enterprisepaging.com
+  - +.epicevents.gg
   - +.episodic.com
   - +.eprintsw.com
   - +.epsilon.jp
   - +.eraofconnection.com
   - +.esbeatsbydrebuy.com
+  - +.esforce.com
+  - +.esforce.ru
   - +.esmarthealth.com
   - +.esopworld.com
   - +.etheadphones.com
@@ -3107,11 +3158,13 @@ payload:
   - +.gameon-masters.com
   - +.gamepass.com
   - +.gameroom.com
+  - +.gamescup.ru
   - +.gamesstack.com
   - +.gameuxmasterguide.com
   - +.gaming-notebooks.com
   - +.gateway.dev
   - +.gaytube.com
+  - +.gb.ru
   - +.gbiz
   - +.gbxml.net
   - +.gcld-line.com
@@ -3146,6 +3199,7 @@ payload:
   - +.getbuzzsaw.com
   - +.getdirect.tv
   - +.getdrebeatssale.com
+  - +.getfiddler.com
   - +.getpocket.com
   - +.getprintersupports.com
   - +.getws1.com
@@ -3254,6 +3308,7 @@ payload:
   - +.gogettaxi.org
   - +.gogle.com
   - +.gogole.com
+  - +.goicq.org
   - +.golang.com
   - +.golang.net
   - +.golang.org
@@ -3811,6 +3866,7 @@ payload:
   - +.hpwellnesscentral.com
   - +.hpwsn.com
   - +.hrsaz.com
+  - +.hrtek.ru
   - +.hsfacebook.com
   - +.hsm-works.com
   - +.hsm-xpress.com
@@ -3905,6 +3961,47 @@ payload:
   - +.icloudpay.net
   - +.icloudsecure.net
   - +.icloudsetup.com
+  - +.icq-download.com
+  - +.icq-mobile.com
+  - +.icq-online.com
+  - +.icq-phone.com
+  - +.icq-phone.org
+  - +.icq.asia
+  - +.icq.at
+  - +.icq.biz
+  - +.icq.com
+  - +.icq.de
+  - +.icq.eu
+  - +.icq.fr
+  - +.icq.im
+  - +.icq.lt
+  - +.icq.mobi
+  - +.icq.org
+  - +.icq.ru
+  - +.icq.sg
+  - +.icq2mobile.com
+  - +.icq5.com
+  - +.icqanywhere.com
+  - +.icqbrasil.com
+  - +.icqbrazil.com
+  - +.icqchat.com
+  - +.icqflirting.com
+  - +.icqgame.com
+  - +.icqgames.com
+  - +.icqkids.com
+  - +.icqmail.com
+  - +.icqmail.net
+  - +.icqonline.com
+  - +.icqpassword.com
+  - +.icqpeople.com
+  - +.icqservers.com
+  - +.icqservice.com
+  - +.icqsupportteam.com
+  - +.icqsystem.com
+  - +.icqsystems.com
+  - +.icqtoday.com
+  - +.icqtutor.com
+  - +.icqvideo.com
   - +.idea-server.com
   - +.ids-apple.com
   - +.idvd.eu
@@ -3958,6 +4055,7 @@ payload:
   - +.impermium.com
   - +.imstagram.com
   - +.imtagram.com
+  - +.inbox.ru
   - +.incentivetravelgifts.com
   - +.indiaipad.com
   - +.infoq.jp
@@ -3972,6 +4070,7 @@ payload:
   - +.insidear.cn
   - +.insidefilms.com
   - +.insidemacintosh.com
+  - +.insideok.ru
   - +.insiderdevtour.com
   - +.insight.tech
   - +.instaadder.com
@@ -4224,6 +4323,7 @@ payload:
   - +.interactivebrokers.eu
   - +.interactivebrokers.ie
   - +.internet.org
+  - +.internet.ru
   - +.internetdownloadmanager.com
   - +.internetexplorer.co
   - +.internetexplorer.com
@@ -4371,6 +4471,7 @@ payload:
   - +.islamiccenterofnewlondon.com
   - +.istent.co.kr
   - +.istorytell.com
+  - +.it-territory.com
   - +.italiabeatsbydrdre.com
   - +.itasoftware.com
   - +.itcanwait.com
@@ -4505,6 +4606,7 @@ payload:
   - +.kaydara.com
   - +.keepyourcad.com
   - +.keezmovies.com
+  - +.kemptechnologies.com
   - +.keyhole.com
   - +.keytransparency.com
   - +.keytransparency.foo
@@ -4536,8 +4638,10 @@ payload:
   - +.kinopoisk.ru
   - +.kireipass.jp
   - +.klik.me
+  - +.knightspeak.com
   - +.knoxemm.com
   - +.kobbeatssbydredk.com
+  - +.koddobra.ru
   - +.kopfhorergunstigshop.com
   - +.koukoku.jp
   - +.kpinsurances.com
@@ -4561,6 +4665,7 @@ payload:
   - +.le-direct.tv
   - +.leavinghpinc.com
   - +.leecountytimes.com
+  - +.lerna.ru
   - +.lexuemei.com
   - +.lg.com
   - +.lgappstv.com
@@ -4592,6 +4697,7 @@ payload:
   - +.lineshoppingseller.com
   - +.linetv.tw
   - +.lionhearts.co.kr
+  - +.list.ru
   - +.live.com
   - +.live.com.au
   - +.live.eu
@@ -4607,6 +4713,7 @@ payload:
   - +.livingyourambition.com
   - +.llama.com
   - +.lnstagram-help.com
+  - +.log.dzen.ru
   - +.logi.com
   - +.logicool.co.jp
   - +.logicoolg.com
@@ -4628,6 +4735,7 @@ payload:
   - +.louisvuitton.com
   - +.lovebeatsdr.com
   - +.lovemarca.com
+  - +.lovina.app
   - +.lrfdsoftware.com
   - +.luckyissue.com
   - +.luckysrv.de
@@ -4703,6 +4811,7 @@ payload:
   - +.mail-carrotquest.io
   - +.mail.ru
   - +.mailchimp.com
+  - +.mailicq.org
   - +.mairbeats.com
   - +.makeanything.com
   - +.makeappli.jp
@@ -4786,6 +4895,7 @@ payload:
   - +.mediafiles-cisco.com
   - +.medical-reserve.co.jp
   - +.medicalimplants-cadcam.com
+  - +.mediumquality.ru
   - +.meet.new
   - +.meetfasttrack.com
   - +.meetsmartbook.com
@@ -4811,6 +4921,7 @@ payload:
   - +.metamind.io
   - +.meteum.ai
   - +.metrics.duolingo.com
+  - +.metrics.viqeo.tv
   - +.metrika.yandex.ru
   - +.mfg-inspector.com
   - +.mgmt-azure-api.cn
@@ -4956,16 +5067,21 @@ payload:
   - +.minecraftservices.com
   - +.minecraftshop.com
   - +.minne.com
+  - +.mirabilis.com
+  - +.mirandaicq.com
   - +.mktdns.com
   - +.mkto-c0100.com
   - +.mktorest.com
   - +.mktroute.com
+  - +.mlbootcamp.ru
   - +.mmdnn.com
   - +.mmmanual.com
   - +.mmonsterheadphones.net
   - +.mncmsidlab1.cn
+  - +.mobile-icq.com
   - +.mobileads.google.com
   - +.mobilefacebook.com
+  - +.mobileicq.com
   - +.mobilemarketo.com
   - +.mobileme.dk
   - +.mobileview.page
@@ -5054,15 +5170,21 @@ payload:
   - +.movidius.com
   - +.movidius.net
   - +.movidius.org
+  - +.movika.com
   - +.mozgcp.net
   - +.mozilla.com
   - +.mozilla.community
   - +.mozilla.net
   - +.mozilla.org
+  - +.mpgw-my.com
   - +.mpnevolution.com
   - +.mr-apple.com.tw
   - +.mradx.net
+  - +.mrgcdn.ru
   - +.ms-studiosmedia.com
+  - +.ms.dzen.ru
+  - +.ms.vk.com
+  - +.ms.vk.ru
   - +.ms365surfaceoffer.com
   - +.ms4dre.com
   - +.msads.net
@@ -5126,7 +5248,10 @@ payload:
   - +.mxroutehelp.com
   - +.mxrouting.net
   - +.my-manager-account.com
+  - +.my.com
+  - +.my.games
   - +.my1stflame.com
+  - +.myadx.net
   - +.myappleid.com
   - +.myautocad.com
   - +.myautodeskbenefits.com
@@ -5158,6 +5283,8 @@ payload:
   - +.mysdn.com
   - +.mysdn.info
   - +.mysdn.net
+  - +.mytopf.com
+  - +.mytrk.link
   - +.mzstatic.com
   - +.na-att-idns.net
   - +.namemybeats.com
@@ -5335,6 +5462,8 @@ payload:
   - +.oculusforbusiness.com
   - +.oculusrift.com
   - +.oculusvr.com
+  - +.odkl.ru
+  - +.odnoklassniki.ru
   - +.offerairjordanlebron.com
   - +.office
   - +.office.com
@@ -5353,9 +5482,12 @@ payload:
   - +.offrezdesipods.com
   - +.ogameblog.com
   - +.ogp.me
+  - +.ok.me
   - +.ok.ru
   - +.okcdn.ru
   - +.okiwine.jp
+  - +.okl.lt
+  - +.oktech.ru
   - +.omakase.in
   - +.omekinteractive.com
   - +.omnitek.tv
@@ -5501,9 +5633,11 @@ payload:
   - +.pixapp.net
   - +.pixate.com
   - +.pixel.facebook.com
+  - +.pixel.rustore.ru
   - +.pixel.yandex.net
   - +.pixlr-o-matic.com
   - +.pixlromatic.com
+  - +.pixonic.com
   - +.pixtronix.com
   - +.placesdocs.com
   - +.plansondemand.com
@@ -5583,7 +5717,9 @@ payload:
   - +.printspots.net
   - +.prismlive.com
   - +.privacysandbox.com
+  - +.prod-my.games
   - +.profilemaster.com
+  - +.progress.com
   - +.projectara.com
   - +.projectbaseline.com
   - +.projectcircuitbreaker.com
@@ -5667,7 +5803,13 @@ payload:
   - +.qwant.it
   - +.qwapi.com
   - +.r.bing.com
+  - +.r.mail.ru
+  - +.r.my.com
+  - +.r0.mail.ru
+  - +.r0.mradx.net
+  - +.r1.mail.ru
   - +.rabota.by
+  - +.radar.imgsmail.ru
   - +.radeon.com
   - +.radian6.com
   - +.rapidprototyping-cadcam.com
@@ -5701,6 +5843,8 @@ payload:
   - +.redzonechannel.com
   - +.reform-apple.com
   - +.registeridm.com
+  - +.reklama.mail.ru
+  - +.relap.mail.ru
   - +.relateiq.com
   - +.renderingtoolkit.org
   - +.renovacionoffice.com
@@ -5735,8 +5879,14 @@ payload:
   - +.rostaxi.org
   - +.route53.cn
   - +.routerboard.com
+  - +.rs.mail.ru
+  - +.ruhub.tv
   - +.run.app
+  - +.russiandesigncup.ru
   - +.rustdesk.com
+  - +.rustore.ru
+  - +.rustore.team
+  - +.rustore.tv
   - +.rzr.to
   - +.s-bluemix.net
   - +.s-cashonmobile.com
@@ -5833,8 +5983,13 @@ payload:
   - +.selectelpro.ru
   - +.sena.co.kr
   - +.sensorynetworks.com
+  - +.sentry-ng.g.smailru.net
+  - +.sentry.dev-my.com
+  - +.sentry.dev-my.games
   - +.sentry.mindbox.ru
   - +.sentry.popmechanic.ru
+  - +.sentry.rustore.ru
+  - +.sentry.viqeo.tv
   - +.seo-dash.net
   - +.seodirector.ai
   - +.seotimes.jp
@@ -5852,8 +6007,11 @@ payload:
   - +.sfbassets.com
   - +.sfbassets.net
   - +.sfdcstatic.com
+  - +.sferum-dev.ru
+  - +.sferum.ru
   - +.sforce.com
   - +.sfx.ms
+  - +.sharefile.com
   - +.sharepoint.cn
   - +.sharepoint.com
   - +.sharepointonline.com
@@ -5900,10 +6058,14 @@ payload:
   - +.siport.com
   - +.siri.com
   - +.site.com
+  - +.skbx.pro
   - +.sketchbookdesigner.com
   - +.sketchbookmobile.com
   - +.sketchbooknews.com
   - +.sketchbookpro.com
+  - +.skillbox.pro
+  - +.skillbox.ru
+  - +.skillfactory.ru
   - +.skymatter.com
   - +.skype
   - +.skype-edf.akadns.net
@@ -5917,6 +6079,7 @@ payload:
   - +.slc.tl
   - +.slides.new
   - +.smaad.net
+  - +.smailru.net
   - +.smart-edge.com
   - +.smart-edge.info
   - +.smart-edge.io
@@ -6071,6 +6234,7 @@ payload:
   - +.spiritclubs.com
   - +.splunk.com
   - +.spo-msedge.net
+  - +.sportmail.ru
   - +.sportsfacebook.com
   - +.sportstream.com
   - +.sprinklesapp.com
@@ -6084,6 +6248,7 @@ payload:
   - +.ssl-images-amazon.com
   - +.ssttest.net
   - +.st.com
+  - +.stacks.vk-portal.net
   - +.stadia.dev
   - +.staffhub.ms
   - +.starship-ent.com
@@ -6092,6 +6257,12 @@ payload:
   - +.static-storage.net
   - +.static-verizon.com
   - +.staticflickr.com
+  - +.staticmy.com
+  - +.stats.dahlmessenger.com
+  - +.stats.dev.telega.info
+  - +.stats.rustore.ru
+  - +.stats.telega.info
+  - +.stats.vk-portal.net
   - +.statuspage.io
   - +.stcroixmosquito.com
   - +.stcroixmosquitoproject.com
@@ -6117,6 +6288,7 @@ payload:
   - +.submittal-log.com
   - +.successwithteams.com
   - +.sulwerphoto.com
+  - +.summerstage.ru
   - +.summitceo.ru
   - +.sun.com
   - +.sundanceignite2016.com
@@ -6157,6 +6329,7 @@ payload:
   - +.szwinnertechnology.com
   - +.t-msedge.net
   - +.t-splines.com
+  - +.t.mail.ru
   - +.tail-f.com
   - +.tailf.com
   - +.tailwindtraders.com
@@ -6165,6 +6338,11 @@ payload:
   - +.tamtam.chat
   - +.tandberg-china.com
   - +.tandberg.com
+  - +.tarantool.io
+  - +.tarantoolplus.ru
+  - +.target.my.com
+  - +.target.vk.com
+  - +.target.vk.ru
   - +.taxel.media
   - +.taxiaid.org
   - +.taxiguru.org
@@ -6172,6 +6350,7 @@ payload:
   - +.teamviewer.cn
   - +.teamviewer.com
   - +.teamviewer.us
+  - +.tech-mail.ru
   - +.techcrunch.com
   - +.techhub.ms
   - +.technics.com
@@ -6183,6 +6362,7 @@ payload:
   - +.tehnodom.com
   - +.telega.info
   - +.telega.me
+  - +.telerik.com
   - +.tellmewhygame.com
   - +.tenbin.ai
   - +.tenbyfotolia.com
@@ -6190,6 +6370,7 @@ payload:
   - +.tenten.vn
   - +.terraform.io
   - +.terragraph.com
+  - +.tetrika-school.ru
   - +.texture.com
   - +.tfhub.dev
   - +.tfsallin.net
@@ -6239,6 +6420,8 @@ payload:
   - +.tire-cadcam.com
   - +.tonec.com
   - +.toolmaking-cadcam.com
+  - +.top-fwz1.mail.ru
+  - +.top-staging.mail.ru
   - +.topbeatsbydrdreoutlet.com
   - +.topbeatsdealer.com
   - +.topbeatsforsale.com
@@ -6254,6 +6437,8 @@ payload:
   - +.townwifi.jp
   - +.toy-cadcam.com
   - +.toycadcam.com
+  - +.tracker-api.my.com
+  - +.tracker.my.com
   - +.tracking-location.com
   - +.tradevip1.com
   - +.trafficmanager.cn
@@ -6286,6 +6471,7 @@ payload:
   - +.turbo.com
   - +.turbopages.org
   - +.turbotax.com
+  - +.tusco.ru
   - +.tvappstore.net
   - +.tvpromise.com
   - +.tweakadmin.com
@@ -6307,6 +6493,7 @@ payload:
   - +.ubnt.com.cn
   - +.ubnt.com
   - +.ubnw.net
+  - +.uchi.ru
   - +.ueberamazon.de
   - +.uhub.com
   - +.ui.com
@@ -6315,6 +6502,7 @@ payload:
   - +.ukipad.com
   - +.ultrasrv.de
   - +.umbrella.com
+  - +.umschool.net
   - +.unfiltered.news
   - +.unity3dcloud.cn
   - +.universalscalablefirmware.org
@@ -6328,6 +6516,7 @@ payload:
   - +.usa-beatsbydreheadphonesonsale.net
   - +.useplannr.com
   - +.userapi.com
+  - +.userapi.ru
   - +.userpxt.io
   - +.usvimosquito.com
   - +.usvimosquitoproject.com
@@ -6415,6 +6604,8 @@ payload:
   - +.vipbeatsbydre.com
   - +.vipheadphones.com
   - +.vipshoes2.com
+  - +.viqeo.tv
+  - +.viqeotv.com
   - +.viriondb.com
   - +.virsto.com
   - +.virsto.net
@@ -6435,6 +6626,8 @@ payload:
   - +.vk-cdn.me
   - +.vk-cdn.net
   - +.vk-portal.net
+  - +.vk-records.ru
+  - +.vk-stadium.ru
   - +.vk.cc
   - +.vk.com
   - +.vk.company
@@ -6444,23 +6637,38 @@ payload:
   - +.vk.ru
   - +.vk.team
   - +.vkcache.com
+  - +.vkcdnservice.com
+  - +.vkclips.app
   - +.vkcloud-static.ru
+  - +.vkcs.cloud
+  - +.vkfest.ru
   - +.vkgo.app
   - +.vklive.app
   - +.vkmessenger.app
   - +.vkmessenger.com
+  - +.vkontakte.com
   - +.vkontakte.ru
+  - +.vkpay.app
+  - +.vkpay.com
+  - +.vkpay.io
+  - +.vkpay.ru
+  - +.vkplay-arena.ru
+  - +.vkplay.live
+  - +.vkplay.ru
+  - +.vktech-static.ru
   - +.vkuser.net
   - +.vkuseraudio.com
   - +.vkuseraudio.net
   - +.vkuseraudio.ru
   - +.vkusercdn.ru
+  - +.vkuserlive.com
   - +.vkuserlive.net
   - +.vkuserphoto.ru
   - +.vkuservideo.com
   - +.vkuservideo.net
   - +.vkuservideo.ru
   - +.vkvideo.ru
+  - +.vmailru.net
   - +.vmglobal.net
   - +.vmmark.com
   - +.vmtestdrive.com
@@ -6587,6 +6795,7 @@ payload:
   - +.whatsapp.tv
   - +.whatsappbrand.com
   - +.wheelpop.com
+  - +.whiteline.mail.ru
   - +.wholecitiesfoundation.org
   - +.wholefoods.com
   - +.wholefoodsmarket.co.uk
@@ -6696,16 +6905,26 @@ payload:
   - +.xbx.lv
   - +.xeon.com
   - +.xlstudio.com
+  - +.xn-----6kc7adj0c9esa.com
+  - +.xn----7sbaba0dc6cdn7cxcj.com
+  - +.xn----7sbabae2a0bnvtsfr4loc.com
+  - +.xn----7sbbab6bregnh7b8if5b.com
+  - +.xn----7sbbamm1bv2bh7i.com
+  - +.xn----8sbaroledu6bi7j.com
+  - +.xn----8sbeoy5bze.com
   - +.xn--6eup7j.com
   - +.xn--6eup7j.net
   - +.xn--74q434dwff.com
   - +.xn--74q434dwff.net
+  - +.xn--80aqcf7a6do.com
+  - +.xn--80asgb.xn--p1ai
   - +.xn--9kr7l.com
   - +.xn--9trs65b.com
   - +.xn--cckwcxetd
   - +.xn--cg4bki
   - +.xn--czrs0t4phtr3a.cn
   - +.xn--d1acpjx3f.xn--p1ai
+  - +.xn--e1aigb.xn--p1ai
   - +.xn--fiqs8sxootzz.cn
   - +.xn--fiqs8sxootzz.xn--hxt814e
   - +.xn--flw351e
@@ -6727,6 +6946,7 @@ payload:
   - +.xn--ztsq84g.cn
   - +.xo.com
   - +.xplr.co
+  - +.xray.mail.ru
   - +.xrea.com
   - +.xscale.com
   - +.xtracloud.cn
@@ -6894,6 +7114,7 @@ payload:
   - +.yahoomusic.com
   - +.yahoosandbox.com
   - +.yahoosportsbook.com
+  - +.yaklass.ru
   - +.yamaxun
   - +.yamaxun.cn
   - +.yamaxun.com
@@ -6963,6 +7184,7 @@ payload:
   - +.yastatic-net.ru
   - +.yastatic.net
   - +.yccdn.ru
+  - +.yclients.com
   - +.yho.com
   - +.yimg.com
   - +.yimg.jp
@@ -7758,7 +7980,6 @@ payload:
   - www.support.apple.com
   - xn--flw351e.com
   - xp.apple.com
-  - youla-web-static.mrgcdn.ru
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
