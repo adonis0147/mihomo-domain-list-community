@@ -1,16 +1,11 @@
 payload:
-  - +.adblogger.vk.com
-  - +.ads.vk.com
-  - +.ads.vk.ru
+  - +.adv.vk.com
   - +.analytics.vk.com
-  - +.analytics.vk.ru
   - +.cdn-vk.net
   - +.cdn-vk.ru
   - +.ms.vk.com
   - +.ms.vk.ru
   - +.mvk.com
-  - +.stats.vk-portal.net
-  - +.target.vk.com
   - +.target.vk.ru
   - +.userapi.com
   - +.userapi.ru
@@ -47,3 +42,12 @@ payload:
   - +.vkuservideo.com
   - +.vkuservideo.net
   - +.vkuservideo.ru
+  - adblogger.vk.com
+  - adblogger.vk.ru
+  - ads.vk.com
+  - ads.vk.ru
+  - adv.vk.ru
+  - advk.vk.ru
+  - analytics.vk.ru
+  - stats.vk-portal.net
+  - target.vk.com

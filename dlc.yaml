@@ -3778,6 +3778,7 @@ payload:
   - DOMAIN-SUFFIX,archive.ph
   - DOMAIN-SUFFIX,archive.today
   - DOMAIN-SUFFIX,archive.vn
+  - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,archlinuxcn.org
@@ -8171,8 +8172,6 @@ payload:
   - DOMAIN-SUFFIX,mikuexpo.com
   - DOMAIN-SUFFIX,piapro.net
   - DOMAIN-SUFFIX,snowmiku.com
-  - DOMAIN-SUFFIX,1l-hit.mail.ru
-  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,51.la
@@ -8210,7 +8209,6 @@ payload:
   - DOMAIN-SUFFIX,ad.weixin.qq.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad1.xiaomi.com
-  - DOMAIN-SUFFIX,ad4.mail.ru
   - DOMAIN-SUFFIX,adash-c.m.taobao.com
   - DOMAIN-SUFFIX,adash-c.ut.taobao.com
   - DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
@@ -8227,7 +8225,6 @@ payload:
   - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
   - DOMAIN-SUFFIX,adbehavior.ximalaya.com
   - DOMAIN-SUFFIX,adbkwai.com
-  - DOMAIN-SUFFIX,adblogger.vk.com
   - DOMAIN-SUFFIX,adbox.sina.com.cn
   - DOMAIN-SUFFIX,adbutter.net
   - DOMAIN-SUFFIX,adc.hpplay.cn
@@ -8254,7 +8251,6 @@ payload:
   - DOMAIN-SUFFIX,adq.chinaso.com
   - DOMAIN-SUFFIX,ads-api.duolingo.com
   - DOMAIN-SUFFIX,ads-gate.wildberries.ru
-  - DOMAIN-SUFFIX,ads-integration.rustore.ru
   - DOMAIN-SUFFIX,ads-media.wildberries.ru
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,ads-twitter.com
@@ -8262,12 +8258,9 @@ payload:
   - DOMAIN-SUFFIX,ads-uo.api.leiniao.com
   - DOMAIN-SUFFIX,ads-ut.api.leiniao.com
   - DOMAIN-SUFFIX,ads.api.my7v.com
-  - DOMAIN-SUFFIX,ads.dahlmessenger.com
   - DOMAIN-SUFFIX,ads.huan.tv
   - DOMAIN-SUFFIX,ads.huantest.com
-  - DOMAIN-SUFFIX,ads.icq.com
   - DOMAIN-SUFFIX,ads.music.126.net
-  - DOMAIN-SUFFIX,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.sber.ru
   - DOMAIN-SUFFIX,ads.service.kugou.com
   - DOMAIN-SUFFIX,ads.sina.com
@@ -8277,8 +8270,6 @@ payload:
   - DOMAIN-SUFFIX,ads.union.jd.com
   - DOMAIN-SUFFIX,ads.unitychina.cn
   - DOMAIN-SUFFIX,ads.viqeo.tv
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
   - DOMAIN-SUFFIX,ads.wildberries.ru
   - DOMAIN-SUFFIX,ads.wteam.xyz
   - DOMAIN-SUFFIX,ads.x5media.ru
@@ -8289,9 +8280,6 @@ payload:
   - DOMAIN-SUFFIX,ads.yango.com
   - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,adsadvisor.io
-  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
-  - DOMAIN-SUFFIX,adsapp.stage.telega.info
-  - DOMAIN-SUFFIX,adsapp.telega.info
   - DOMAIN-SUFFIX,adscdn.baidu.com
   - DOMAIN-SUFFIX,adsclick.qq.com
   - DOMAIN-SUFFIX,adsdk.yandex.ru
@@ -8325,9 +8313,9 @@ payload:
   - DOMAIN-SUFFIX,adv-sv-stat.focus.cn
   - DOMAIN-SUFFIX,adv.app.qq.com
   - DOMAIN-SUFFIX,adv.ozon.ru
-  - DOMAIN-SUFFIX,adv.rustore.ru
   - DOMAIN-SUFFIX,adv.sec.intl.miui.com
   - DOMAIN-SUFFIX,adv.sec.miui.com
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,adv.yandex.com
   - DOMAIN-SUFFIX,adv.yandex.ru
   - DOMAIN-SUFFIX,advapi.joyplus.tv
@@ -8359,10 +8347,8 @@ payload:
   - DOMAIN-SUFFIX,alog.umengcloud.com
   - DOMAIN-SUFFIX,alogs.umeng.com
   - DOMAIN-SUFFIX,alogus.umeng.com
-  - DOMAIN-SUFFIX,alt-r.my.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amc.yandex.ru
-  - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,analytics-adv.ozon.ru
   - DOMAIN-SUFFIX,analytics-alv.google.com
@@ -8374,7 +8360,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics.umetrip.com
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,analytics.wildberries.ru
   - DOMAIN-SUFFIX,api-adservices.apple.com
@@ -8416,7 +8401,6 @@ payload:
   - DOMAIN-SUFFIX,atom-data.io
   - DOMAIN-SUFFIX,atrace.chelaile.net.cn
   - DOMAIN-SUFFIX,audid.umeng.com
-  - DOMAIN-SUFFIX,b2.mail.ru
   - DOMAIN-SUFFIX,badjs.weixinbridge.com
   - DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
   - DOMAIN-SUFFIX,baifen.music.baidu.com
@@ -8434,7 +8418,6 @@ payload:
   - DOMAIN-SUFFIX,browser-updater.yandex.net
   - DOMAIN-SUFFIX,browser.events.data.msn.cn
   - DOMAIN-SUFFIX,browser.events.data.msn.com
-  - DOMAIN-SUFFIX,bs.mail.ru
   - DOMAIN-SUFFIX,bs.yandex.ru
   - DOMAIN-SUFFIX,btrace.qq.com
   - DOMAIN-SUFFIX,bugly.qq.com
@@ -8461,7 +8444,6 @@ payload:
   - DOMAIN-SUFFIX,click.ali213.net
   - DOMAIN-SUFFIX,click.gamersky.com
   - DOMAIN-SUFFIX,click.hunantv.com
-  - DOMAIN-SUFFIX,click.rustore.ru
   - DOMAIN-SUFFIX,click.uve.mobile.sina.cn
   - DOMAIN-SUFFIX,click.uve.weibo.com
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
@@ -8748,7 +8730,6 @@ payload:
   - DOMAIN-SUFFIX,pingjs.qq.com
   - DOMAIN-SUFFIX,pix.yandex.ru
   - DOMAIN-SUFFIX,pixel.facebook.com
-  - DOMAIN-SUFFIX,pixel.rustore.ru
   - DOMAIN-SUFFIX,pixel.yandex.net
   - DOMAIN-SUFFIX,pl.youku.com
   - DOMAIN-SUFFIX,plbslog.umeng.com
@@ -8766,15 +8747,10 @@ payload:
   - DOMAIN-SUFFIX,questions-adv.ozon.ru
   - DOMAIN-SUFFIX,qwapi.com
   - DOMAIN-SUFFIX,r.mail.ru
-  - DOMAIN-SUFFIX,r.my.com
-  - DOMAIN-SUFFIX,r0.mail.ru
-  - DOMAIN-SUFFIX,r0.mradx.net
-  - DOMAIN-SUFFIX,r1.mail.ru
   - DOMAIN-SUFFIX,radar.imgsmail.ru
   - DOMAIN-SUFFIX,reachmax.cn
   - DOMAIN-SUFFIX,realsrv.com
   - DOMAIN-SUFFIX,reke.at.sohu.com
-  - DOMAIN-SUFFIX,reklama.mail.ru
   - DOMAIN-SUFFIX,relap.mail.ru
   - DOMAIN-SUFFIX,report.ap.yandex-net.ru
   - DOMAIN-SUFFIX,report.qqweb.qq.com
@@ -8784,7 +8760,6 @@ payload:
   - DOMAIN-SUFFIX,retcode.taobao.com
   - DOMAIN-SUFFIX,reyun.com
   - DOMAIN-SUFFIX,rmonitor.qq.com
-  - DOMAIN-SUFFIX,rs.mail.ru
   - DOMAIN-SUFFIX,rs.sinajs.cn
   - DOMAIN-SUFFIX,s-adashx.ut.youku.com
   - DOMAIN-SUFFIX,s.360.cn
@@ -8800,18 +8775,13 @@ payload:
   - DOMAIN-SUFFIX,sclick.baidu.com
   - DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
   - DOMAIN-SUFFIX,sensors.umetrip.com.cn
-  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
   - DOMAIN-SUFFIX,sentry.d.mi.com
   - DOMAIN-SUFFIX,sentry.d.xiaomi.net
-  - DOMAIN-SUFFIX,sentry.dev-my.com
-  - DOMAIN-SUFFIX,sentry.dev-my.games
   - DOMAIN-SUFFIX,sentry.mindbox.ru
   - DOMAIN-SUFFIX,sentry.music.163.com
   - DOMAIN-SUFFIX,sentry.ozon.ru
   - DOMAIN-SUFFIX,sentry.popmechanic.ru
-  - DOMAIN-SUFFIX,sentry.rustore.ru
   - DOMAIN-SUFFIX,sentry.sberauto.com
-  - DOMAIN-SUFFIX,sentry.viqeo.tv
   - DOMAIN-SUFFIX,sentry.wb.ru
   - DOMAIN-SUFFIX,sentry.x5.ru
   - DOMAIN-SUFFIX,serving-sys.com
@@ -8828,7 +8798,6 @@ payload:
   - DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
   - DOMAIN-SUFFIX,splash-ads.unitychina.cn
   - DOMAIN-SUFFIX,ssp.api.tappx.com
-  - DOMAIN-SUFFIX,stacks.vk-portal.net
   - DOMAIN-SUFFIX,stat.chinaso.com
   - DOMAIN-SUFFIX,stat.m.jd.com
   - DOMAIN-SUFFIX,stat.y.qq.com
@@ -8837,18 +8806,11 @@ payload:
   - DOMAIN-SUFFIX,static.javhd.com
   - DOMAIN-SUFFIX,static.sensorsdata.cn
   - DOMAIN-SUFFIX,statis.api.3g.youku.com
-  - DOMAIN-SUFFIX,stats.dahlmessenger.com
-  - DOMAIN-SUFFIX,stats.dev.telega.info
   - DOMAIN-SUFFIX,stats.music.xiaomi.com
-  - DOMAIN-SUFFIX,stats.rustore.ru
-  - DOMAIN-SUFFIX,stats.telega.info
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,syh.zybang.com
-  - DOMAIN-SUFFIX,t.mail.ru
   - DOMAIN-SUFFIX,tajs.qq.com
   - DOMAIN-SUFFIX,tapsell.ir
   - DOMAIN-SUFFIX,target.my.com
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,tcbox.baidu.com
   - DOMAIN-SUFFIX,tce.alicdn.com
@@ -8864,7 +8826,6 @@ payload:
   - DOMAIN-SUFFIX,tns.simba.taobao.com
   - DOMAIN-SUFFIX,toboads.com
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,top-staging.mail.ru
   - DOMAIN-SUFFIX,tpstelemetry.tencent.com
   - DOMAIN-SUFFIX,trace.qq.com
   - DOMAIN-SUFFIX,tracing-http.megamarket.tech
@@ -8906,7 +8867,6 @@ payload:
   - DOMAIN-SUFFIX,web-analytics.wildberries.ru
   - DOMAIN-SUFFIX,webvisor.com
   - DOMAIN-SUFFIX,webvisor.org
-  - DOMAIN-SUFFIX,whiteline.mail.ru
   - DOMAIN-SUFFIX,wit.qq.com
   - DOMAIN-SUFFIX,wkctj.baidu.com
   - DOMAIN-SUFFIX,wm.baidu.com
@@ -8920,7 +8880,6 @@ payload:
   - DOMAIN-SUFFIX,xapi.ozon.kz
   - DOMAIN-SUFFIX,xapi.ozon.ru
   - DOMAIN-SUFFIX,xapi.ozonru.me
-  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,xy-log.tagtic.cn
   - DOMAIN-SUFFIX,yabs.yandex.ru
   - DOMAIN-SUFFIX,yads.tech
@@ -8942,18 +8901,41 @@ payload:
   - DOMAIN-SUFFIX,zxid-api.mobileservice.cn
   - DOMAIN-SUFFIX,zxid-m.mobileservice.cn
   - DOMAIN-SUFFIX,zz.bdstatic.com
+  - DOMAIN,1l-hit.mail.ru
+  - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN,ad-channel.diwodiwo.xyz
   - DOMAIN,ad-display.diwodiwo.xyz
+  - DOMAIN,ad4.mail.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
   - DOMAIN,adeventtracker.spotify.com
+  - DOMAIN,ads-integration.rustore.ru
+  - DOMAIN,ads.dahlmessenger.com
+  - DOMAIN,ads.icq.com
+  - DOMAIN,ads.rustore.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
   - DOMAIN,ads3-normal-hl.zijieapi.com
   - DOMAIN,ads3-normal.zijieapi.com
   - DOMAIN,ads5-normal-hl.zijieapi.com
   - DOMAIN,ads5-normal.zijieapi.com
+  - DOMAIN,adsapp.dahlmessenger.com
+  - DOMAIN,adsapp.stage.telega.info
+  - DOMAIN,adsapp.telega.info
   - DOMAIN,adstudio-assets.scdn.co
+  - DOMAIN,adv.rustore.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
+  - DOMAIN,alt-r.my.com
+  - DOMAIN,an.mail.ru
   - DOMAIN,analytics.google.com
+  - DOMAIN,analytics.vk.ru
   - DOMAIN,apilog-web.acfun.cn
+  - DOMAIN,b2.mail.ru
   - DOMAIN,bloodhound.spotify.com
   - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,bs.mail.ru
+  - DOMAIN,click.rustore.ru
   - DOMAIN,disney.my.sentry.io
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,log3-applog-hl.fqnovel.com
@@ -8975,15 +8957,36 @@ payload:
   - DOMAIN,pinggai7.caixin.com
   - DOMAIN,pinggai8.caixin.com
   - DOMAIN,pinggai9.caixin.com
+  - DOMAIN,pixel.rustore.ru
+  - DOMAIN,r0.mail.ru
+  - DOMAIN,r0.mradx.net
+  - DOMAIN,r1.mail.ru
+  - DOMAIN,reklama.mail.ru
+  - DOMAIN,rs.mail.ru
   - DOMAIN,rtlog3-applog-hl.fqnovel.com
   - DOMAIN,rtlog3-applog.fqnovel.com
   - DOMAIN,rtlog5-applog-hl.fqnovel.com
   - DOMAIN,rtlog5-applog.fqnovel.com
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
   - DOMAIN,sentry.hetzner.company
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.viqeo.tv
+  - DOMAIN,srch-telemeter10.g.smailru.net
+  - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,t.mail.ru
+  - DOMAIN,target.vk.com
+  - DOMAIN,top-staging.mail.ru
+  - DOMAIN,whiteline.mail.ru
   - DOMAIN,wlog.kuaishou.com
+  - DOMAIN,xray.mail.ru
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
-  - DOMAIN-SUFFIX,1l-hit.mail.ru
-  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,1rx.io
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
@@ -9023,7 +9026,6 @@ payload:
   - DOMAIN-SUFFIX,ad.weixin.qq.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad1.xiaomi.com
-  - DOMAIN-SUFFIX,ad4.mail.ru
   - DOMAIN-SUFFIX,adash-c.m.taobao.com
   - DOMAIN-SUFFIX,adash-c.ut.taobao.com
   - DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
@@ -9040,7 +9042,6 @@ payload:
   - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
   - DOMAIN-SUFFIX,adbehavior.ximalaya.com
   - DOMAIN-SUFFIX,adbkwai.com
-  - DOMAIN-SUFFIX,adblogger.vk.com
   - DOMAIN-SUFFIX,adbox.sina.com.cn
   - DOMAIN-SUFFIX,adbutter.net
   - DOMAIN-SUFFIX,adc.hpplay.cn
@@ -9074,7 +9075,6 @@ payload:
   - DOMAIN-SUFFIX,adq.chinaso.com
   - DOMAIN-SUFFIX,ads-api.duolingo.com
   - DOMAIN-SUFFIX,ads-gate.wildberries.ru
-  - DOMAIN-SUFFIX,ads-integration.rustore.ru
   - DOMAIN-SUFFIX,ads-media.wildberries.ru
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,ads-twitter.com
@@ -9082,12 +9082,9 @@ payload:
   - DOMAIN-SUFFIX,ads-uo.api.leiniao.com
   - DOMAIN-SUFFIX,ads-ut.api.leiniao.com
   - DOMAIN-SUFFIX,ads.api.my7v.com
-  - DOMAIN-SUFFIX,ads.dahlmessenger.com
   - DOMAIN-SUFFIX,ads.huan.tv
   - DOMAIN-SUFFIX,ads.huantest.com
-  - DOMAIN-SUFFIX,ads.icq.com
   - DOMAIN-SUFFIX,ads.music.126.net
-  - DOMAIN-SUFFIX,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.sber.ru
   - DOMAIN-SUFFIX,ads.service.kugou.com
   - DOMAIN-SUFFIX,ads.sina.com
@@ -9098,8 +9095,6 @@ payload:
   - DOMAIN-SUFFIX,ads.union.jd.com
   - DOMAIN-SUFFIX,ads.unitychina.cn
   - DOMAIN-SUFFIX,ads.viqeo.tv
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
   - DOMAIN-SUFFIX,ads.wildberries.ru
   - DOMAIN-SUFFIX,ads.wteam.xyz
   - DOMAIN-SUFFIX,ads.x5media.ru
@@ -9110,9 +9105,6 @@ payload:
   - DOMAIN-SUFFIX,ads.yango.com
   - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,adsadvisor.io
-  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
-  - DOMAIN-SUFFIX,adsapp.stage.telega.info
-  - DOMAIN-SUFFIX,adsapp.telega.info
   - DOMAIN-SUFFIX,adscdn.baidu.com
   - DOMAIN-SUFFIX,adsclick.qq.com
   - DOMAIN-SUFFIX,adsdk.yandex.ru
@@ -9146,9 +9138,9 @@ payload:
   - DOMAIN-SUFFIX,adv-sv-stat.focus.cn
   - DOMAIN-SUFFIX,adv.app.qq.com
   - DOMAIN-SUFFIX,adv.ozon.ru
-  - DOMAIN-SUFFIX,adv.rustore.ru
   - DOMAIN-SUFFIX,adv.sec.intl.miui.com
   - DOMAIN-SUFFIX,adv.sec.miui.com
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,adv.yandex.com
   - DOMAIN-SUFFIX,adv.yandex.ru
   - DOMAIN-SUFFIX,advapi.joyplus.tv
@@ -9182,10 +9174,8 @@ payload:
   - DOMAIN-SUFFIX,alog.umengcloud.com
   - DOMAIN-SUFFIX,alogs.umeng.com
   - DOMAIN-SUFFIX,alogus.umeng.com
-  - DOMAIN-SUFFIX,alt-r.my.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amc.yandex.ru
-  - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,analytics-adv.ozon.ru
   - DOMAIN-SUFFIX,analytics-alv.google.com
@@ -9197,7 +9187,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics.umetrip.com
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,analytics.wildberries.ru
   - DOMAIN-SUFFIX,api-adservices.apple.com
@@ -9239,7 +9228,6 @@ payload:
   - DOMAIN-SUFFIX,atom-data.io
   - DOMAIN-SUFFIX,atrace.chelaile.net.cn
   - DOMAIN-SUFFIX,audid.umeng.com
-  - DOMAIN-SUFFIX,b2.mail.ru
   - DOMAIN-SUFFIX,badjs.weixinbridge.com
   - DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
   - DOMAIN-SUFFIX,baifen.music.baidu.com
@@ -9257,7 +9245,6 @@ payload:
   - DOMAIN-SUFFIX,browser-updater.yandex.net
   - DOMAIN-SUFFIX,browser.events.data.msn.cn
   - DOMAIN-SUFFIX,browser.events.data.msn.com
-  - DOMAIN-SUFFIX,bs.mail.ru
   - DOMAIN-SUFFIX,bs.yandex.ru
   - DOMAIN-SUFFIX,btrace.qq.com
   - DOMAIN-SUFFIX,bugly.qq.com
@@ -9287,7 +9274,6 @@ payload:
   - DOMAIN-SUFFIX,click.ali213.net
   - DOMAIN-SUFFIX,click.gamersky.com
   - DOMAIN-SUFFIX,click.hunantv.com
-  - DOMAIN-SUFFIX,click.rustore.ru
   - DOMAIN-SUFFIX,click.uve.mobile.sina.cn
   - DOMAIN-SUFFIX,click.uve.weibo.com
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
@@ -9595,7 +9581,6 @@ payload:
   - DOMAIN-SUFFIX,pingjs.qq.com
   - DOMAIN-SUFFIX,pix.yandex.ru
   - DOMAIN-SUFFIX,pixel.facebook.com
-  - DOMAIN-SUFFIX,pixel.rustore.ru
   - DOMAIN-SUFFIX,pixel.yandex.net
   - DOMAIN-SUFFIX,pl.youku.com
   - DOMAIN-SUFFIX,plbslog.umeng.com
@@ -9616,15 +9601,10 @@ payload:
   - DOMAIN-SUFFIX,questions-adv.ozon.ru
   - DOMAIN-SUFFIX,qwapi.com
   - DOMAIN-SUFFIX,r.mail.ru
-  - DOMAIN-SUFFIX,r.my.com
-  - DOMAIN-SUFFIX,r0.mail.ru
-  - DOMAIN-SUFFIX,r0.mradx.net
-  - DOMAIN-SUFFIX,r1.mail.ru
   - DOMAIN-SUFFIX,radar.imgsmail.ru
   - DOMAIN-SUFFIX,reachmax.cn
   - DOMAIN-SUFFIX,realsrv.com
   - DOMAIN-SUFFIX,reke.at.sohu.com
-  - DOMAIN-SUFFIX,reklama.mail.ru
   - DOMAIN-SUFFIX,relap.mail.ru
   - DOMAIN-SUFFIX,report.ap.yandex-net.ru
   - DOMAIN-SUFFIX,report.qqweb.qq.com
@@ -9634,7 +9614,6 @@ payload:
   - DOMAIN-SUFFIX,retcode.taobao.com
   - DOMAIN-SUFFIX,reyun.com
   - DOMAIN-SUFFIX,rmonitor.qq.com
-  - DOMAIN-SUFFIX,rs.mail.ru
   - DOMAIN-SUFFIX,rs.sinajs.cn
   - DOMAIN-SUFFIX,s-adashx.ut.youku.com
   - DOMAIN-SUFFIX,s.360.cn
@@ -9654,18 +9633,13 @@ payload:
   - DOMAIN-SUFFIX,segmenthub.com
   - DOMAIN-SUFFIX,segmentify.com
   - DOMAIN-SUFFIX,sensors.umetrip.com.cn
-  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
   - DOMAIN-SUFFIX,sentry.d.mi.com
   - DOMAIN-SUFFIX,sentry.d.xiaomi.net
-  - DOMAIN-SUFFIX,sentry.dev-my.com
-  - DOMAIN-SUFFIX,sentry.dev-my.games
   - DOMAIN-SUFFIX,sentry.mindbox.ru
   - DOMAIN-SUFFIX,sentry.music.163.com
   - DOMAIN-SUFFIX,sentry.ozon.ru
   - DOMAIN-SUFFIX,sentry.popmechanic.ru
-  - DOMAIN-SUFFIX,sentry.rustore.ru
   - DOMAIN-SUFFIX,sentry.sberauto.com
-  - DOMAIN-SUFFIX,sentry.viqeo.tv
   - DOMAIN-SUFFIX,sentry.wb.ru
   - DOMAIN-SUFFIX,sentry.x5.ru
   - DOMAIN-SUFFIX,serving-sys.com
@@ -9685,7 +9659,6 @@ payload:
   - DOMAIN-SUFFIX,spotxchange.com
   - DOMAIN-SUFFIX,ssacdn.com
   - DOMAIN-SUFFIX,ssp.api.tappx.com
-  - DOMAIN-SUFFIX,stacks.vk-portal.net
   - DOMAIN-SUFFIX,stat.chinaso.com
   - DOMAIN-SUFFIX,stat.m.jd.com
   - DOMAIN-SUFFIX,stat.y.qq.com
@@ -9694,22 +9667,15 @@ payload:
   - DOMAIN-SUFFIX,static.javhd.com
   - DOMAIN-SUFFIX,static.sensorsdata.cn
   - DOMAIN-SUFFIX,statis.api.3g.youku.com
-  - DOMAIN-SUFFIX,stats.dahlmessenger.com
-  - DOMAIN-SUFFIX,stats.dev.telega.info
   - DOMAIN-SUFFIX,stats.music.xiaomi.com
-  - DOMAIN-SUFFIX,stats.rustore.ru
-  - DOMAIN-SUFFIX,stats.telega.info
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,supersonic.com
   - DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
   - DOMAIN-SUFFIX,supersonicads.com
   - DOMAIN-SUFFIX,syh.zybang.com
-  - DOMAIN-SUFFIX,t.mail.ru
   - DOMAIN-SUFFIX,taboola.com
   - DOMAIN-SUFFIX,tajs.qq.com
   - DOMAIN-SUFFIX,tapsell.ir
   - DOMAIN-SUFFIX,target.my.com
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,tcbox.baidu.com
   - DOMAIN-SUFFIX,tce.alicdn.com
@@ -9725,7 +9691,6 @@ payload:
   - DOMAIN-SUFFIX,tns.simba.taobao.com
   - DOMAIN-SUFFIX,toboads.com
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,top-staging.mail.ru
   - DOMAIN-SUFFIX,tpstelemetry.tencent.com
   - DOMAIN-SUFFIX,trace.qq.com
   - DOMAIN-SUFFIX,tracing-http.megamarket.tech
@@ -9769,7 +9734,6 @@ payload:
   - DOMAIN-SUFFIX,web-analytics.wildberries.ru
   - DOMAIN-SUFFIX,webvisor.com
   - DOMAIN-SUFFIX,webvisor.org
-  - DOMAIN-SUFFIX,whiteline.mail.ru
   - DOMAIN-SUFFIX,wit.qq.com
   - DOMAIN-SUFFIX,wkctj.baidu.com
   - DOMAIN-SUFFIX,wm.baidu.com
@@ -9783,7 +9747,6 @@ payload:
   - DOMAIN-SUFFIX,xapi.ozon.kz
   - DOMAIN-SUFFIX,xapi.ozon.ru
   - DOMAIN-SUFFIX,xapi.ozonru.me
-  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,xy-log.tagtic.cn
   - DOMAIN-SUFFIX,yabs.yandex.ru
   - DOMAIN-SUFFIX,yads.tech
@@ -9805,18 +9768,41 @@ payload:
   - DOMAIN-SUFFIX,zxid-api.mobileservice.cn
   - DOMAIN-SUFFIX,zxid-m.mobileservice.cn
   - DOMAIN-SUFFIX,zz.bdstatic.com
+  - DOMAIN,1l-hit.mail.ru
+  - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN,ad-channel.diwodiwo.xyz
   - DOMAIN,ad-display.diwodiwo.xyz
+  - DOMAIN,ad4.mail.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
   - DOMAIN,adeventtracker.spotify.com
+  - DOMAIN,ads-integration.rustore.ru
+  - DOMAIN,ads.dahlmessenger.com
+  - DOMAIN,ads.icq.com
+  - DOMAIN,ads.rustore.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
   - DOMAIN,ads3-normal-hl.zijieapi.com
   - DOMAIN,ads3-normal.zijieapi.com
   - DOMAIN,ads5-normal-hl.zijieapi.com
   - DOMAIN,ads5-normal.zijieapi.com
+  - DOMAIN,adsapp.dahlmessenger.com
+  - DOMAIN,adsapp.stage.telega.info
+  - DOMAIN,adsapp.telega.info
   - DOMAIN,adstudio-assets.scdn.co
+  - DOMAIN,adv.rustore.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
+  - DOMAIN,alt-r.my.com
+  - DOMAIN,an.mail.ru
   - DOMAIN,analytics.google.com
+  - DOMAIN,analytics.vk.ru
   - DOMAIN,apilog-web.acfun.cn
+  - DOMAIN,b2.mail.ru
   - DOMAIN,bloodhound.spotify.com
   - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,bs.mail.ru
+  - DOMAIN,click.rustore.ru
   - DOMAIN,disney.my.sentry.io
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,log3-applog-hl.fqnovel.com
@@ -9838,12 +9824,35 @@ payload:
   - DOMAIN,pinggai7.caixin.com
   - DOMAIN,pinggai8.caixin.com
   - DOMAIN,pinggai9.caixin.com
+  - DOMAIN,pixel.rustore.ru
+  - DOMAIN,r0.mail.ru
+  - DOMAIN,r0.mradx.net
+  - DOMAIN,r1.mail.ru
+  - DOMAIN,reklama.mail.ru
+  - DOMAIN,rs.mail.ru
   - DOMAIN,rtlog3-applog-hl.fqnovel.com
   - DOMAIN,rtlog3-applog.fqnovel.com
   - DOMAIN,rtlog5-applog-hl.fqnovel.com
   - DOMAIN,rtlog5-applog.fqnovel.com
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
   - DOMAIN,sentry.hetzner.company
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.viqeo.tv
+  - DOMAIN,srch-telemeter10.g.smailru.net
+  - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,t.mail.ru
+  - DOMAIN,target.vk.com
+  - DOMAIN,top-staging.mail.ru
+  - DOMAIN,whiteline.mail.ru
   - DOMAIN,wlog.kuaishou.com
+  - DOMAIN,xray.mail.ru
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
   - DOMAIN-SUFFIX,adivery.com
   - DOMAIN-SUFFIX,adivery.ir
@@ -12042,8 +12051,6 @@ payload:
   - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,1drv.ms
   - DOMAIN-SUFFIX,1e100.net
-  - DOMAIN-SUFFIX,1l-hit.mail.ru
-  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,1thek.com
   - DOMAIN-SUFFIX,1to1computing.com.au
@@ -12150,11 +12157,9 @@ payload:
   - DOMAIN-SUFFIX,acpica.com
   - DOMAIN-SUFFIX,acrobat.com
   - DOMAIN-SUFFIX,ad.mail.ru
-  - DOMAIN-SUFFIX,ad4.mail.ru
   - DOMAIN-SUFFIX,adam.jp
   - DOMAIN-SUFFIX,adaptivecards.io
   - DOMAIN-SUFFIX,adbecrsl.com
-  - DOMAIN-SUFFIX,adblogger.vk.com
   - DOMAIN-SUFFIX,addthis.com
   - DOMAIN-SUFFIX,addthiscdn.com
   - DOMAIN-SUFFIX,addthisedge.com
@@ -12211,13 +12216,7 @@ payload:
   - DOMAIN-SUFFIX,adobetechcommdemo.com
   - DOMAIN-SUFFIX,adobexdplatform.com
   - DOMAIN-SUFFIX,ads-api.duolingo.com
-  - DOMAIN-SUFFIX,ads-integration.rustore.ru
-  - DOMAIN-SUFFIX,ads.dahlmessenger.com
-  - DOMAIN-SUFFIX,ads.icq.com
-  - DOMAIN-SUFFIX,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.viqeo.tv
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
   - DOMAIN-SUFFIX,ads.yahoo.com
   - DOMAIN-SUFFIX,ads.yandex.com
   - DOMAIN-SUFFIX,ads.yandex.ru
@@ -12225,9 +12224,6 @@ payload:
   - DOMAIN-SUFFIX,ads.yango.com
   - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,adsadvisor.io
-  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
-  - DOMAIN-SUFFIX,adsapp.stage.telega.info
-  - DOMAIN-SUFFIX,adsapp.telega.info
   - DOMAIN-SUFFIX,adsdk.yandex.ru
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adsensecustomsearchads.com
@@ -12241,7 +12237,7 @@ payload:
   - DOMAIN-SUFFIX,adskengpr.net
   - DOMAIN-SUFFIX,adtcc.com
   - DOMAIN-SUFFIX,adtrafficquality.google
-  - DOMAIN-SUFFIX,adv.rustore.ru
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,adv.yandex.com
   - DOMAIN-SUFFIX,adv.yandex.ru
   - DOMAIN-SUFFIX,advancediddetection.com
@@ -12349,7 +12345,6 @@ payload:
   - DOMAIN-SUFFIX,alivevmax.com
   - DOMAIN-SUFFIX,alivevue.com
   - DOMAIN-SUFFIX,alphassl.com
-  - DOMAIN-SUFFIX,alt-r.my.com
   - DOMAIN-SUFFIX,altera.co.jp
   - DOMAIN-SUFFIX,altera.com
   - DOMAIN-SUFFIX,alteraforum.com
@@ -12463,13 +12458,11 @@ payload:
   - DOMAIN-SUFFIX,amzndns.net
   - DOMAIN-SUFFIX,amzndns.org
   - DOMAIN-SUFFIX,amznl.com
-  - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,analytics-alv.google.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.mobile.yandex.net
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,android
   - DOMAIN-SUFFIX,android.com
@@ -13241,7 +13234,6 @@ payload:
   - DOMAIN-SUFFIX,azuresmartspaces.net
   - DOMAIN-SUFFIX,azurestackvalidation.com
   - DOMAIN-SUFFIX,azurewebsites.net
-  - DOMAIN-SUFFIX,b2.mail.ru
   - DOMAIN-SUFFIX,b2clogin.cn
   - DOMAIN-SUFFIX,b3itech.cn
   - DOMAIN-SUFFIX,babes.com
@@ -13706,7 +13698,6 @@ payload:
   - DOMAIN-SUFFIX,browser-updater.yandex.net
   - DOMAIN-SUFFIX,browser.events.data.msn.cn
   - DOMAIN-SUFFIX,browser.events.data.msn.com
-  - DOMAIN-SUFFIX,bs.mail.ru
   - DOMAIN-SUFFIX,bs.yandex.ru
   - DOMAIN-SUFFIX,buck.build
   - DOMAIN-SUFFIX,buckbuild.com
@@ -14034,7 +14025,6 @@ payload:
   - DOMAIN-SUFFIX,clearlinux.org
   - DOMAIN-SUFFIX,click-sec.com
   - DOMAIN-SUFFIX,click-url.com
-  - DOMAIN-SUFFIX,click.rustore.ru
   - DOMAIN-SUFFIX,clickedu.co.uk
   - DOMAIN-SUFFIX,climate-server.com
   - DOMAIN-SUFFIX,cloudapp.net
@@ -17635,7 +17625,6 @@ payload:
   - DOMAIN-SUFFIX,pixapp.net
   - DOMAIN-SUFFIX,pixate.com
   - DOMAIN-SUFFIX,pixel.facebook.com
-  - DOMAIN-SUFFIX,pixel.rustore.ru
   - DOMAIN-SUFFIX,pixel.yandex.net
   - DOMAIN-SUFFIX,pixlr-o-matic.com
   - DOMAIN-SUFFIX,pixlromatic.com
@@ -17806,10 +17795,6 @@ payload:
   - DOMAIN-SUFFIX,qwapi.com
   - DOMAIN-SUFFIX,r.bing.com
   - DOMAIN-SUFFIX,r.mail.ru
-  - DOMAIN-SUFFIX,r.my.com
-  - DOMAIN-SUFFIX,r0.mail.ru
-  - DOMAIN-SUFFIX,r0.mradx.net
-  - DOMAIN-SUFFIX,r1.mail.ru
   - DOMAIN-SUFFIX,rabota.by
   - DOMAIN-SUFFIX,radar.imgsmail.ru
   - DOMAIN-SUFFIX,radeon.com
@@ -17845,7 +17830,6 @@ payload:
   - DOMAIN-SUFFIX,redzonechannel.com
   - DOMAIN-SUFFIX,reform-apple.com
   - DOMAIN-SUFFIX,registeridm.com
-  - DOMAIN-SUFFIX,reklama.mail.ru
   - DOMAIN-SUFFIX,relap.mail.ru
   - DOMAIN-SUFFIX,relateiq.com
   - DOMAIN-SUFFIX,renderingtoolkit.org
@@ -17881,7 +17865,6 @@ payload:
   - DOMAIN-SUFFIX,rostaxi.org
   - DOMAIN-SUFFIX,route53.cn
   - DOMAIN-SUFFIX,routerboard.com
-  - DOMAIN-SUFFIX,rs.mail.ru
   - DOMAIN-SUFFIX,ruhub.tv
   - DOMAIN-SUFFIX,run.app
   - DOMAIN-SUFFIX,russiandesigncup.ru
@@ -17985,13 +17968,8 @@ payload:
   - DOMAIN-SUFFIX,selectelpro.ru
   - DOMAIN-SUFFIX,sena.co.kr
   - DOMAIN-SUFFIX,sensorynetworks.com
-  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
-  - DOMAIN-SUFFIX,sentry.dev-my.com
-  - DOMAIN-SUFFIX,sentry.dev-my.games
   - DOMAIN-SUFFIX,sentry.mindbox.ru
   - DOMAIN-SUFFIX,sentry.popmechanic.ru
-  - DOMAIN-SUFFIX,sentry.rustore.ru
-  - DOMAIN-SUFFIX,sentry.viqeo.tv
   - DOMAIN-SUFFIX,seo-dash.net
   - DOMAIN-SUFFIX,seodirector.ai
   - DOMAIN-SUFFIX,seotimes.jp
@@ -18250,7 +18228,6 @@ payload:
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,ssttest.net
   - DOMAIN-SUFFIX,st.com
-  - DOMAIN-SUFFIX,stacks.vk-portal.net
   - DOMAIN-SUFFIX,stadia.dev
   - DOMAIN-SUFFIX,staffhub.ms
   - DOMAIN-SUFFIX,starship-ent.com
@@ -18260,11 +18237,6 @@ payload:
   - DOMAIN-SUFFIX,static-verizon.com
   - DOMAIN-SUFFIX,staticflickr.com
   - DOMAIN-SUFFIX,staticmy.com
-  - DOMAIN-SUFFIX,stats.dahlmessenger.com
-  - DOMAIN-SUFFIX,stats.dev.telega.info
-  - DOMAIN-SUFFIX,stats.rustore.ru
-  - DOMAIN-SUFFIX,stats.telega.info
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,statuspage.io
   - DOMAIN-SUFFIX,stcroixmosquito.com
   - DOMAIN-SUFFIX,stcroixmosquitoproject.com
@@ -18331,7 +18303,6 @@ payload:
   - DOMAIN-SUFFIX,szwinnertechnology.com
   - DOMAIN-SUFFIX,t-msedge.net
   - DOMAIN-SUFFIX,t-splines.com
-  - DOMAIN-SUFFIX,t.mail.ru
   - DOMAIN-SUFFIX,tail-f.com
   - DOMAIN-SUFFIX,tailf.com
   - DOMAIN-SUFFIX,tailwindtraders.com
@@ -18343,7 +18314,6 @@ payload:
   - DOMAIN-SUFFIX,tarantool.io
   - DOMAIN-SUFFIX,tarantoolplus.ru
   - DOMAIN-SUFFIX,target.my.com
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,taxel.media
   - DOMAIN-SUFFIX,taxiaid.org
@@ -18423,7 +18393,6 @@ payload:
   - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,toolmaking-cadcam.com
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,top-staging.mail.ru
   - DOMAIN-SUFFIX,topbeatsbydrdreoutlet.com
   - DOMAIN-SUFFIX,topbeatsdealer.com
   - DOMAIN-SUFFIX,topbeatsforsale.com
@@ -18797,7 +18766,6 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.tv
   - DOMAIN-SUFFIX,whatsappbrand.com
   - DOMAIN-SUFFIX,wheelpop.com
-  - DOMAIN-SUFFIX,whiteline.mail.ru
   - DOMAIN-SUFFIX,wholecitiesfoundation.org
   - DOMAIN-SUFFIX,wholefoods.com
   - DOMAIN-SUFFIX,wholefoodsmarket.co.uk
@@ -18948,7 +18916,6 @@ payload:
   - DOMAIN-SUFFIX,xn--ztsq84g.cn
   - DOMAIN-SUFFIX,xo.com
   - DOMAIN-SUFFIX,xplr.co
-  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,xrea.com
   - DOMAIN-SUFFIX,xscale.com
   - DOMAIN-SUFFIX,xtracloud.cn
@@ -19402,6 +19369,8 @@ payload:
   - DOMAIN-SUFFIX,zuckerberg.com
   - DOMAIN-SUFFIX,zuckerberg.net
   - DOMAIN-SUFFIX,zukunftswerkstatt.de
+  - DOMAIN,1l-hit.mail.ru
+  - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
@@ -19413,12 +19382,28 @@ payload:
   - DOMAIN,activate.activation-v2.kaspersky.com
   - DOMAIN,activation-v2.geo.kaspersky.com
   - DOMAIN,activation-v2.kaspersky.com
+  - DOMAIN,ad4.mail.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
   - DOMAIN,adcdownload.apple.com.akadns.net
   - DOMAIN,adcdownload.apple.com
   - DOMAIN,admob-cn.com
   - DOMAIN,adobeereg.com
+  - DOMAIN,ads-integration.rustore.ru
+  - DOMAIN,ads.dahlmessenger.com
+  - DOMAIN,ads.icq.com
+  - DOMAIN,ads.rustore.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
+  - DOMAIN,adsapp.dahlmessenger.com
+  - DOMAIN,adsapp.stage.telega.info
+  - DOMAIN,adsapp.telega.info
   - DOMAIN,adservice.google.com
+  - DOMAIN,adv.rustore.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
   - DOMAIN,afcs.dell.com
+  - DOMAIN,alt-r.my.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
   - DOMAIN,alt3-mtalk.google.com
@@ -19434,7 +19419,9 @@ payload:
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,amp-api.media.apple.com
   - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,an.mail.ru
   - DOMAIN,analytics.google.com
+  - DOMAIN,analytics.vk.ru
   - DOMAIN,aod-ssl.itunes.apple.com
   - DOMAIN,aod.itunes.apple.com
   - DOMAIN,api-edge.apps.apple.com
@@ -19452,6 +19439,7 @@ payload:
   - DOMAIN,auth.music.apple.com
   - DOMAIN,avail.googleflights.net
   - DOMAIN,b.c2r.ts.cdn.office.net
+  - DOMAIN,b2.mail.ru
   - DOMAIN,bag-cdn.itunes-apple.com.akadns.net
   - DOMAIN,bag.itunes.apple.com
   - DOMAIN,beacons.gcp.gvt2.com
@@ -19462,6 +19450,7 @@ payload:
   - DOMAIN,bg4.v4.a.dl.ws.microsoft.com
   - DOMAIN,bj1.api.bing.com
   - DOMAIN,bookkeeper.itunes.apple.com
+  - DOMAIN,bs.mail.ru
   - DOMAIN,build.microsoft.com
   - DOMAIN,c.admob.com
   - DOMAIN,c.android.clients.google.com
@@ -19502,6 +19491,7 @@ payload:
   - DOMAIN,cl4.apple.com
   - DOMAIN,cl5-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl5.apple.com
+  - DOMAIN,click.rustore.ru
   - DOMAIN,clickserve.cc-dt.com
   - DOMAIN,clickserve.dartsearch.net
   - DOMAIN,clickserver.googleads.com
@@ -19798,6 +19788,7 @@ payload:
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
   - DOMAIN,performanceparameters.googleapis.com
+  - DOMAIN,pixel.rustore.ru
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,play.itunes.apple.com
   - DOMAIN,play.music.apple.com
@@ -19820,6 +19811,9 @@ payload:
   - DOMAIN,qualysapi.qatp1.net
   - DOMAIN,qualysguard.qpdp1.net
   - DOMAIN,r.cert.corp.google.com
+  - DOMAIN,r0.mail.ru
+  - DOMAIN,r0.mradx.net
+  - DOMAIN,r1.mail.ru
   - DOMAIN,rapture-prod.corp.google.com
   - DOMAIN,recaptcha-cn.net
   - DOMAIN,recaptcha.net
@@ -19835,10 +19829,12 @@ payload:
   - DOMAIN,redirector.snap.gvt1.com
   - DOMAIN,redirector.xn--ngstr-lra8j.com
   - DOMAIN,refresh-bkg.activation-v2.kaspersky.com
+  - DOMAIN,reklama.mail.ru
   - DOMAIN,res-1.cdn.office.net
   - DOMAIN,res.cdn.office.net
   - DOMAIN,reserve-prime.apple.com
   - DOMAIN,rink.hockeyapp.net
+  - DOMAIN,rs.mail.ru
   - DOMAIN,s.mzstatic.com
   - DOMAIN,s00.upd.kaspersky.com
   - DOMAIN,s01.upd.kaspersky.com
@@ -19877,7 +19873,12 @@ payload:
   - DOMAIN,seed-sequoia.siri.apple.com
   - DOMAIN,seed-swallow.siri.apple.com
   - DOMAIN,seed.siri.apple.com
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
   - DOMAIN,sentry.hetzner.company
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.viqeo.tv
   - DOMAIN,sequoia.apple.com
   - DOMAIN,service.urchin.com
   - DOMAIN,sf-api-token-service.itunes.apple.com
@@ -19893,9 +19894,11 @@ payload:
   - DOMAIN,software.download.prss.microsoft.com
   - DOMAIN,sp.itunes.apple.com
   - DOMAIN,speedysub.music.apple.com
+  - DOMAIN,srch-telemeter10.g.smailru.net
   - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,sslredirect.corp.google.com
+  - DOMAIN,stacks.vk-portal.net
   - DOMAIN,staging-controlbe.floonet.goog
   - DOMAIN,staging-databe.floonet.goog
   - DOMAIN,staging.databe.floonet.goog
@@ -19904,6 +19907,11 @@ payload:
   - DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
   - DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
   - DOMAIN,statics.teams.cdn.office.net
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
   - DOMAIN,stocks-sparkline-lb.apple.com.akadns.net
   - DOMAIN,stocks-sparkline.apple.com
   - DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
@@ -19936,13 +19944,16 @@ payload:
   - DOMAIN,swscan.apple.com
   - DOMAIN,sylvan.apple.com
   - DOMAIN,sync.itunes.apple.com
+  - DOMAIN,t.mail.ru
   - DOMAIN,tac.googleapis.com
+  - DOMAIN,target.vk.com
   - DOMAIN,teamviewer.com.cdn.cloudflare.net
   - DOMAIN,test.gbugs-qa.chromium.org
   - DOMAIN,tf-feedback.itunes.apple.com
   - DOMAIN,tj-pod1-smp-device.apple.com
   - DOMAIN,tools.google.com
   - DOMAIN,tools.l.google.com
+  - DOMAIN,top-staging.mail.ru
   - DOMAIN,tp.louisvuitton.com
   - DOMAIN,uberproxy-debug4.corp.google.com
   - DOMAIN,uberproxy.corp.google.com
@@ -19964,6 +19975,7 @@ payload:
   - DOMAIN,weather-map.apple.com
   - DOMAIN,weather-map2.apple.com
   - DOMAIN,weatherkit.apple.com
+  - DOMAIN,whiteline.mail.ru
   - DOMAIN,wscont1.apps.microsoft.com
   - DOMAIN,wscont2.apps.microsoft.com
   - DOMAIN,www-cdn.icloud.com.akadns.net
@@ -19982,6 +19994,7 @@ payload:
   - DOMAIN,www.support.apple.com
   - DOMAIN,xn--flw351e.com
   - DOMAIN,xp.apple.com
+  - DOMAIN,xray.mail.ru
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -20317,6 +20330,7 @@ payload:
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,appleswift.com
+  - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,archlinuxcn.org
@@ -39199,8 +39213,6 @@ payload:
   - DOMAIN-SUFFIX,x5q.ru
   - DOMAIN-SUFFIX,x5static.net
   - DOMAIN-SUFFIX,x5w.ru
-  - DOMAIN-SUFFIX,1l-hit.mail.ru
-  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,24h.tv
   - DOMAIN-SUFFIX,2gis.ae
   - DOMAIN-SUFFIX,2gis.am
@@ -39220,22 +39232,14 @@ payload:
   - DOMAIN-SUFFIX,accesspoint.uz
   - DOMAIN-SUFFIX,ad.mail.ru
   - DOMAIN-SUFFIX,ad.ozone.ru
-  - DOMAIN-SUFFIX,ad4.mail.ru
-  - DOMAIN-SUFFIX,adblogger.vk.com
   - DOMAIN-SUFFIX,adfox.ru
   - DOMAIN-SUFFIX,adfox.yandex.ru
   - DOMAIN-SUFFIX,adfstat.yandex.ru
   - DOMAIN-SUFFIX,admetrica.ru
   - DOMAIN-SUFFIX,ads-gate.wildberries.ru
-  - DOMAIN-SUFFIX,ads-integration.rustore.ru
   - DOMAIN-SUFFIX,ads-media.wildberries.ru
-  - DOMAIN-SUFFIX,ads.dahlmessenger.com
-  - DOMAIN-SUFFIX,ads.icq.com
-  - DOMAIN-SUFFIX,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.sber.ru
   - DOMAIN-SUFFIX,ads.viqeo.tv
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
   - DOMAIN-SUFFIX,ads.wildberries.ru
   - DOMAIN-SUFFIX,ads.x5media.ru
   - DOMAIN-SUFFIX,ads.yandex.com
@@ -39243,12 +39247,9 @@ payload:
   - DOMAIN-SUFFIX,ads.yandex
   - DOMAIN-SUFFIX,ads.yango.com
   - DOMAIN-SUFFIX,adsadvisor.io
-  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
-  - DOMAIN-SUFFIX,adsapp.stage.telega.info
-  - DOMAIN-SUFFIX,adsapp.telega.info
   - DOMAIN-SUFFIX,adsdk.yandex.ru
   - DOMAIN-SUFFIX,adv.ozon.ru
-  - DOMAIN-SUFFIX,adv.rustore.ru
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,adv.yandex.com
   - DOMAIN-SUFFIX,adv.yandex.ru
   - DOMAIN-SUFFIX,advert-api-sandbox.wb.ru
@@ -39261,15 +39262,12 @@ payload:
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,algoritmika.org
-  - DOMAIN-SUFFIX,alt-r.my.com
   - DOMAIN-SUFFIX,amc.yandex.ru
-  - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,analytics-adv.ozon.ru
   - DOMAIN-SUFFIX,analytics-stage.wildberries.ru
   - DOMAIN-SUFFIX,analytics.mobile.yandex.net
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,analytics.wildberries.ru
   - DOMAIN-SUFFIX,aodahl.com
   - DOMAIN-SUFFIX,api-eu.carrotquest.app
@@ -39300,7 +39298,6 @@ payload:
   - DOMAIN-SUFFIX,aviasales.com
   - DOMAIN-SUFFIX,avito.st
   - DOMAIN-SUFFIX,avs.io
-  - DOMAIN-SUFFIX,b2.mail.ru
   - DOMAIN-SUFFIX,bargipsy.com
   - DOMAIN-SUFFIX,beeline.tv
   - DOMAIN-SUFFIX,beginners-adv.ozon.ru
@@ -39309,7 +39306,6 @@ payload:
   - DOMAIN-SUFFIX,botmechanic.io
   - DOMAIN-SUFFIX,bps-sberbank.by
   - DOMAIN-SUFFIX,browser-updater.yandex.net
-  - DOMAIN-SUFFIX,bs.mail.ru
   - DOMAIN-SUFFIX,bs.yandex.ru
   - DOMAIN-SUFFIX,cabconnect.org
   - DOMAIN-SUFFIX,carrot-mail.io
@@ -39326,7 +39322,6 @@ payload:
   - DOMAIN-SUFFIX,clck.yandex.net
   - DOMAIN-SUFFIX,clck.yandex.ru
   - DOMAIN-SUFFIX,clck.yango.com
-  - DOMAIN-SUFFIX,click.rustore.ru
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
   - DOMAIN-SUFFIX,cloudru.cn
   - DOMAIN-SUFFIX,clstorage.net
@@ -39565,7 +39560,6 @@ payload:
   - DOMAIN-SUFFIX,paywb.com
   - DOMAIN-SUFFIX,perekrestok.com
   - DOMAIN-SUFFIX,pix.yandex.ru
-  - DOMAIN-SUFFIX,pixel.rustore.ru
   - DOMAIN-SUFFIX,pixel.yandex.net
   - DOMAIN-SUFFIX,pixonic.com
   - DOMAIN-SUFFIX,popmechanic.io
@@ -39577,13 +39571,8 @@ payload:
   - DOMAIN-SUFFIX,pushgrow.io
   - DOMAIN-SUFFIX,questions-adv.ozon.ru
   - DOMAIN-SUFFIX,r.mail.ru
-  - DOMAIN-SUFFIX,r.my.com
-  - DOMAIN-SUFFIX,r0.mail.ru
-  - DOMAIN-SUFFIX,r0.mradx.net
-  - DOMAIN-SUFFIX,r1.mail.ru
   - DOMAIN-SUFFIX,rabota.by
   - DOMAIN-SUFFIX,radar.imgsmail.ru
-  - DOMAIN-SUFFIX,reklama.mail.ru
   - DOMAIN-SUFFIX,relap.mail.ru
   - DOMAIN-SUFFIX,report.ap.yandex-net.ru
   - DOMAIN-SUFFIX,restream-media.net
@@ -39591,7 +39580,6 @@ payload:
   - DOMAIN-SUFFIX,roistat.com
   - DOMAIN-SUFFIX,rosbank-credit.com
   - DOMAIN-SUFFIX,rostaxi.org
-  - DOMAIN-SUFFIX,rs.mail.ru
   - DOMAIN-SUFFIX,ru
   - DOMAIN-SUFFIX,ru.com
   - DOMAIN-SUFFIX,ru.net
@@ -39616,15 +39604,10 @@ payload:
   - DOMAIN-SUFFIX,selectel.info
   - DOMAIN-SUFFIX,selectel.io
   - DOMAIN-SUFFIX,selectel.live
-  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
-  - DOMAIN-SUFFIX,sentry.dev-my.com
-  - DOMAIN-SUFFIX,sentry.dev-my.games
   - DOMAIN-SUFFIX,sentry.mindbox.ru
   - DOMAIN-SUFFIX,sentry.ozon.ru
   - DOMAIN-SUFFIX,sentry.popmechanic.ru
-  - DOMAIN-SUFFIX,sentry.rustore.ru
   - DOMAIN-SUFFIX,sentry.sberauto.com
-  - DOMAIN-SUFFIX,sentry.viqeo.tv
   - DOMAIN-SUFFIX,sentry.wb.ru
   - DOMAIN-SUFFIX,sentry.x5.ru
   - DOMAIN-SUFFIX,servercore.com
@@ -39641,14 +39624,8 @@ payload:
   - DOMAIN-SUFFIX,spasibo.digital
   - DOMAIN-SUFFIX,spasibo.market
   - DOMAIN-SUFFIX,srv-hub.org
-  - DOMAIN-SUFFIX,stacks.vk-portal.net
   - DOMAIN-SUFFIX,static-storage.net
   - DOMAIN-SUFFIX,staticmy.com
-  - DOMAIN-SUFFIX,stats.dahlmessenger.com
-  - DOMAIN-SUFFIX,stats.dev.telega.info
-  - DOMAIN-SUFFIX,stats.rustore.ru
-  - DOMAIN-SUFFIX,stats.telega.info
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,su
   - DOMAIN-SUFFIX,support-uber.com
   - DOMAIN-SUFFIX,t-bank.by
@@ -39656,12 +39633,10 @@ payload:
   - DOMAIN-SUFFIX,t-tech.dev
   - DOMAIN-SUFFIX,t-tech.team
   - DOMAIN-SUFFIX,t.finance
-  - DOMAIN-SUFFIX,t.mail.ru
   - DOMAIN-SUFFIX,t1.cloud
   - DOMAIN-SUFFIX,tamtam.chat
   - DOMAIN-SUFFIX,tarantool.io
   - DOMAIN-SUFFIX,target.my.com
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,tatar
   - DOMAIN-SUFFIX,taxiaid.org
@@ -39680,7 +39655,6 @@ payload:
   - DOMAIN-SUFFIX,tochka-tech.com
   - DOMAIN-SUFFIX,tochka.com
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,top-staging.mail.ru
   - DOMAIN-SUFFIX,tracing-http.megamarket.tech
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.my.com
@@ -39740,7 +39714,6 @@ payload:
   - DOMAIN-SUFFIX,web-analytics.wildberries.ru
   - DOMAIN-SUFFIX,webvisor.com
   - DOMAIN-SUFFIX,webvisor.org
-  - DOMAIN-SUFFIX,whiteline.mail.ru
   - DOMAIN-SUFFIX,wibes.com
   - DOMAIN-SUFFIX,wildberries.am
   - DOMAIN-SUFFIX,wildberries.by
@@ -39790,7 +39763,6 @@ payload:
   - DOMAIN-SUFFIX,xn--h1ao.site
   - DOMAIN-SUFFIX,xn--p1acf
   - DOMAIN-SUFFIX,xn--p1ai
-  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,ya.cc
   - DOMAIN-SUFFIX,yabs.yandex.ru
   - DOMAIN-SUFFIX,yads.tech
@@ -39857,9 +39829,32 @@ payload:
   - DOMAIN-SUFFIX,youla.io
   - DOMAIN-SUFFIX,zvuk-b2b.com
   - DOMAIN-SUFFIX,zvuk.com
+  - DOMAIN,1l-hit.mail.ru
+  - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN,activate.activation-v2.kaspersky.com
   - DOMAIN,activation-v2.geo.kaspersky.com
   - DOMAIN,activation-v2.kaspersky.com
+  - DOMAIN,ad4.mail.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
+  - DOMAIN,ads-integration.rustore.ru
+  - DOMAIN,ads.dahlmessenger.com
+  - DOMAIN,ads.icq.com
+  - DOMAIN,ads.rustore.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
+  - DOMAIN,adsapp.dahlmessenger.com
+  - DOMAIN,adsapp.stage.telega.info
+  - DOMAIN,adsapp.telega.info
+  - DOMAIN,adv.rustore.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
+  - DOMAIN,alt-r.my.com
+  - DOMAIN,an.mail.ru
+  - DOMAIN,analytics.vk.ru
+  - DOMAIN,b2.mail.ru
+  - DOMAIN,bs.mail.ru
+  - DOMAIN,click.rustore.ru
   - DOMAIN,crl.kaspersky.com
   - DOMAIN,dc1-cert.ksn.kaspersky-labs.com
   - DOMAIN,dc1-file.ksn.kaspersky-labs.com
@@ -39932,7 +39927,13 @@ payload:
   - DOMAIN,p17.upd.kaspersky.com
   - DOMAIN,p18.upd.kaspersky.com
   - DOMAIN,p19.upd.kaspersky.com
+  - DOMAIN,pixel.rustore.ru
+  - DOMAIN,r0.mail.ru
+  - DOMAIN,r0.mradx.net
+  - DOMAIN,r1.mail.ru
   - DOMAIN,refresh-bkg.activation-v2.kaspersky.com
+  - DOMAIN,reklama.mail.ru
+  - DOMAIN,rs.mail.ru
   - DOMAIN,s00.upd.kaspersky.com
   - DOMAIN,s01.upd.kaspersky.com
   - DOMAIN,s02.upd.kaspersky.com
@@ -39953,6 +39954,23 @@ payload:
   - DOMAIN,s17.upd.kaspersky.com
   - DOMAIN,s18.upd.kaspersky.com
   - DOMAIN,s19.upd.kaspersky.com
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.viqeo.tv
+  - DOMAIN,srch-telemeter10.g.smailru.net
+  - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,t.mail.ru
+  - DOMAIN,target.vk.com
+  - DOMAIN,top-staging.mail.ru
+  - DOMAIN,whiteline.mail.ru
+  - DOMAIN,xray.mail.ru
   - DOMAIN-SUFFIX,1lib.cloud
   - DOMAIN-SUFFIX,1lib.cz
   - DOMAIN-SUFFIX,1lib.domains
@@ -40714,14 +40732,11 @@ payload:
   - DOMAIN-SUFFIX,acheter-followers-instagram.com
   - DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
   - DOMAIN-SUFFIX,acheterfollowersinstagram.com
-  - DOMAIN-SUFFIX,adblogger.vk.com
   - DOMAIN-SUFFIX,ads-twitter.com
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,advancediddetection.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,apiok.ru
   - DOMAIN-SUFFIX,askfacebook.net
   - DOMAIN-SUFFIX,askfacebook.org
@@ -41229,12 +41244,10 @@ payload:
   - DOMAIN-SUFFIX,shopfacebook.com
   - DOMAIN-SUFFIX,sportsfacebook.com
   - DOMAIN-SUFFIX,sportstream.com
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,submarin.online
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,sushi.ski
   - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,tellapart.com
   - DOMAIN-SUFFIX,terragraph.com
@@ -41313,10 +41326,19 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,zuckerberg.com
   - DOMAIN-SUFFIX,zuckerberg.net
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
+  - DOMAIN,analytics.vk.ru
   - DOMAIN,e122475.dscg.akamaiedge.net
   - DOMAIN,fbcdn-a.akamaihd.net
   - DOMAIN,licdn.cn.cdn20.com
   - DOMAIN,linkedin.sc.omtrdc.net
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,target.vk.com
   - DOMAIN-SUFFIX,97973.com
   - DOMAIN-SUFFIX,ad.sina.com.cn
   - DOMAIN-SUFFIX,ad.us.sinaimg.cn
@@ -51387,8 +51409,6 @@ payload:
   - DOMAIN-SUFFIX,1inch.io
   - DOMAIN-SUFFIX,1infra.net
   - DOMAIN-SUFFIX,1jjdg2.vip
-  - DOMAIN-SUFFIX,1l-hit.mail.ru
-  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,1lib.cloud
   - DOMAIN-SUFFIX,1lib.cz
   - DOMAIN-SUFFIX,1lib.domains
@@ -51903,7 +51923,6 @@ payload:
   - DOMAIN-SUFFIX,ad.games.dmm.com
   - DOMAIN-SUFFIX,ad.mail.ru
   - DOMAIN-SUFFIX,ad.ozone.ru
-  - DOMAIN-SUFFIX,ad4.mail.ru
   - DOMAIN-SUFFIX,ad69.com
   - DOMAIN-SUFFIX,adam.jp
   - DOMAIN-SUFFIX,adanaatikhaber.com
@@ -51912,7 +51931,6 @@ payload:
   - DOMAIN-SUFFIX,adbkm.com
   - DOMAIN-SUFFIX,adblockcdn.com
   - DOMAIN-SUFFIX,adblockplus.org
-  - DOMAIN-SUFFIX,adblogger.vk.com
   - DOMAIN-SUFFIX,adcommerce.cn
   - DOMAIN-SUFFIX,adcommerce.tv
   - DOMAIN-SUFFIX,addison-wesley.ch
@@ -52077,17 +52095,11 @@ payload:
   - DOMAIN-SUFFIX,adpornu.xyz
   - DOMAIN-SUFFIX,ads-api.duolingo.com
   - DOMAIN-SUFFIX,ads-gate.wildberries.ru
-  - DOMAIN-SUFFIX,ads-integration.rustore.ru
   - DOMAIN-SUFFIX,ads-media.wildberries.ru
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,ads-twitter.com
-  - DOMAIN-SUFFIX,ads.dahlmessenger.com
-  - DOMAIN-SUFFIX,ads.icq.com
-  - DOMAIN-SUFFIX,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.sber.ru
   - DOMAIN-SUFFIX,ads.viqeo.tv
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
   - DOMAIN-SUFFIX,ads.wildberries.ru
   - DOMAIN-SUFFIX,ads.yahoo.com
   - DOMAIN-SUFFIX,ads.yandex.com
@@ -52096,9 +52108,6 @@ payload:
   - DOMAIN-SUFFIX,ads.yango.com
   - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,adsadvisor.io
-  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
-  - DOMAIN-SUFFIX,adsapp.stage.telega.info
-  - DOMAIN-SUFFIX,adsapp.telega.info
   - DOMAIN-SUFFIX,adsdk.yandex.ru
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adsensecustomsearchads.com
@@ -52174,7 +52183,7 @@ payload:
   - DOMAIN-SUFFIX,adultvideotop.com
   - DOMAIN-SUFFIX,adultvirtualworlds.net
   - DOMAIN-SUFFIX,adv.ozon.ru
-  - DOMAIN-SUFFIX,adv.rustore.ru
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,adv.yandex.com
   - DOMAIN-SUFFIX,adv.yandex.ru
   - DOMAIN-SUFFIX,advancediddetection.com
@@ -52656,7 +52665,6 @@ payload:
   - DOMAIN-SUFFIX,alpherafs.in
   - DOMAIN-SUFFIX,alpherafs.my
   - DOMAIN-SUFFIX,alpinelinux.org
-  - DOMAIN-SUFFIX,alt-r.my.com
   - DOMAIN-SUFFIX,alt.com
   - DOMAIN-SUFFIX,altera.co.jp
   - DOMAIN-SUFFIX,altera.com
@@ -52859,7 +52867,6 @@ payload:
   - DOMAIN-SUFFIX,amzndns.net
   - DOMAIN-SUFFIX,amzndns.org
   - DOMAIN-SUFFIX,amznl.com
-  - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,anacams.com
   - DOMAIN-SUFFIX,anaconda.cloud
@@ -52890,7 +52897,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.mobile.yandex.net
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,analytics.wildberries.ru
   - DOMAIN-SUFFIX,analytictech.com
@@ -53450,6 +53456,7 @@ payload:
   - DOMAIN-SUFFIX,archiveofourown.net
   - DOMAIN-SUFFIX,archiveofourown.org
   - DOMAIN-SUFFIX,archivx.to
+  - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,archlinuxcn.org
@@ -54034,7 +54041,6 @@ payload:
   - DOMAIN-SUFFIX,b-ok.cc
   - DOMAIN-SUFFIX,b-ok.global
   - DOMAIN-SUFFIX,b-ok.org
-  - DOMAIN-SUFFIX,b2.mail.ru
   - DOMAIN-SUFFIX,b2clogin.cn
   - DOMAIN-SUFFIX,b3boos.com
   - DOMAIN-SUFFIX,b3itech.cn
@@ -55607,7 +55613,6 @@ payload:
   - DOMAIN-SUFFIX,brutalfetish.com
   - DOMAIN-SUFFIX,bs-adreview.com
   - DOMAIN-SUFFIX,bs-awh.ne.jp
-  - DOMAIN-SUFFIX,bs.mail.ru
   - DOMAIN-SUFFIX,bs.yandex.ru
   - DOMAIN-SUFFIX,bsappapi.com
   - DOMAIN-SUFFIX,bsi.ir
@@ -56407,7 +56412,6 @@ payload:
   - DOMAIN-SUFFIX,clearpool.finance
   - DOMAIN-SUFFIX,click-sec.com
   - DOMAIN-SUFFIX,click-url.com
-  - DOMAIN-SUFFIX,click.rustore.ru
   - DOMAIN-SUFFIX,clickedu.co.uk
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
   - DOMAIN-SUFFIX,client-update.queniuqe.com
@@ -67540,7 +67544,6 @@ payload:
   - DOMAIN-SUFFIX,pixapp.net
   - DOMAIN-SUFFIX,pixate.com
   - DOMAIN-SUFFIX,pixel.facebook.com
-  - DOMAIN-SUFFIX,pixel.rustore.ru
   - DOMAIN-SUFFIX,pixel.yandex.net
   - DOMAIN-SUFFIX,pixfs.net
   - DOMAIN-SUFFIX,pixhost.to
@@ -68421,10 +68424,6 @@ payload:
   - DOMAIN-SUFFIX,r-project.org
   - DOMAIN-SUFFIX,r.bing.com
   - DOMAIN-SUFFIX,r.mail.ru
-  - DOMAIN-SUFFIX,r.my.com
-  - DOMAIN-SUFFIX,r0.mail.ru
-  - DOMAIN-SUFFIX,r0.mradx.net
-  - DOMAIN-SUFFIX,r1.mail.ru
   - DOMAIN-SUFFIX,r10s.com
   - DOMAIN-SUFFIX,r10s.jp
   - DOMAIN-SUFFIX,r18.clickme.net
@@ -68669,7 +68668,6 @@ payload:
   - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,registeridm.com
   - DOMAIN-SUFFIX,reiporno.com
-  - DOMAIN-SUFFIX,reklama.mail.ru
   - DOMAIN-SUFFIX,relap.mail.ru
   - DOMAIN-SUFFIX,relateiq.com
   - DOMAIN-SUFFIX,remirepo.net
@@ -68856,7 +68854,6 @@ payload:
   - DOMAIN-SUFFIX,rrl28.buzz
   - DOMAIN-SUFFIX,rrs1.xyz
   - DOMAIN-SUFFIX,rrtis.com
-  - DOMAIN-SUFFIX,rs.mail.ru
   - DOMAIN-SUFFIX,rs1024.com
   - DOMAIN-SUFFIX,rs2022.com
   - DOMAIN-SUFFIX,rsc.org
@@ -69245,16 +69242,11 @@ payload:
   - DOMAIN-SUFFIX,sensualmothers.com
   - DOMAIN-SUFFIX,sensueel.net
   - DOMAIN-SUFFIX,sentry-cdn.com
-  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
-  - DOMAIN-SUFFIX,sentry.dev-my.com
-  - DOMAIN-SUFFIX,sentry.dev-my.games
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sentry.mindbox.ru
   - DOMAIN-SUFFIX,sentry.ozon.ru
   - DOMAIN-SUFFIX,sentry.popmechanic.ru
-  - DOMAIN-SUFFIX,sentry.rustore.ru
   - DOMAIN-SUFFIX,sentry.sberauto.com
-  - DOMAIN-SUFFIX,sentry.viqeo.tv
   - DOMAIN-SUFFIX,sentry.wb.ru
   - DOMAIN-SUFFIX,senzuritv.net
   - DOMAIN-SUFFIX,seo-dash.net
@@ -70176,7 +70168,6 @@ payload:
   - DOMAIN-SUFFIX,stackoverflowteams.com
   - DOMAIN-SUFFIX,stackpath.com
   - DOMAIN-SUFFIX,stackpath.dev
-  - DOMAIN-SUFFIX,stacks.vk-portal.net
   - DOMAIN-SUFFIX,stacksnippets.net
   - DOMAIN-SUFFIX,stacyvandenbergboobs.com
   - DOMAIN-SUFFIX,stadia.dev
@@ -70286,11 +70277,6 @@ payload:
   - DOMAIN-SUFFIX,static9.net.au
   - DOMAIN-SUFFIX,staticflickr.com
   - DOMAIN-SUFFIX,staticmy.com
-  - DOMAIN-SUFFIX,stats.dahlmessenger.com
-  - DOMAIN-SUFFIX,stats.dev.telega.info
-  - DOMAIN-SUFFIX,stats.rustore.ru
-  - DOMAIN-SUFFIX,stats.telega.info
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,statsmakemecry.com
   - DOMAIN-SUFFIX,statuspage.io
   - DOMAIN-SUFFIX,staxus.com
@@ -70616,7 +70602,6 @@ payload:
   - DOMAIN-SUFFIX,t-tolk.ru
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t.finance
-  - DOMAIN-SUFFIX,t.mail.ru
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,taboola.com
@@ -70667,7 +70652,6 @@ payload:
   - DOMAIN-SUFFIX,target
   - DOMAIN-SUFFIX,target.com
   - DOMAIN-SUFFIX,target.my.com
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,targetimg1.com
   - DOMAIN-SUFFIX,tarkov.com
@@ -71175,7 +71159,6 @@ payload:
   - DOMAIN-SUFFIX,toon-3d.com
   - DOMAIN-SUFFIX,toonsexblog.com
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,top-staging.mail.ru
   - DOMAIN-SUFFIX,top100nl.net
   - DOMAIN-SUFFIX,top100sexgames.com
   - DOMAIN-SUFFIX,topadultgames.biz
@@ -72851,7 +72834,6 @@ payload:
   - DOMAIN-SUFFIX,whimn.com.au
   - DOMAIN-SUFFIX,whisolutions.com
   - DOMAIN-SUFFIX,whispersystems.org
-  - DOMAIN-SUFFIX,whiteline.mail.ru
   - DOMAIN-SUFFIX,whitexxxtube.com
   - DOMAIN-SUFFIX,who.int
   - DOMAIN-SUFFIX,wholecitiesfoundation.org
@@ -73485,7 +73467,6 @@ payload:
   - DOMAIN-SUFFIX,xpornplease.com
   - DOMAIN-SUFFIX,xposed.info
   - DOMAIN-SUFFIX,xqwherb.sbs
-  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,xrea.com
   - DOMAIN-SUFFIX,xsava.xyz
   - DOMAIN-SUFFIX,xscale.com
@@ -74452,6 +74433,8 @@ payload:
   - DOMAIN-SUFFIX,zzdh99.com
   - DOMAIN-SUFFIX,zzgays.com
   - DOMAIN-SUFFIX,zzycdz.com
+  - DOMAIN,1l-hit.mail.ru
+  - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN,1password.drift.click
   - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
@@ -74467,15 +74450,31 @@ payload:
   - DOMAIN,activation-v2.kaspersky.com
   - DOMAIN,ad-channel.diwodiwo.xyz
   - DOMAIN,ad-display.diwodiwo.xyz
+  - DOMAIN,ad4.mail.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
   - DOMAIN,adcdownload.apple.com.akadns.net
   - DOMAIN,adcdownload.apple.com
   - DOMAIN,adeventtracker.spotify.com
   - DOMAIN,admob-cn.com
   - DOMAIN,adobeereg.com
+  - DOMAIN,ads-integration.rustore.ru
+  - DOMAIN,ads.dahlmessenger.com
+  - DOMAIN,ads.icq.com
+  - DOMAIN,ads.rustore.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
+  - DOMAIN,adsapp.dahlmessenger.com
+  - DOMAIN,adsapp.stage.telega.info
+  - DOMAIN,adsapp.telega.info
   - DOMAIN,adservice.google.com
   - DOMAIN,adstudio-assets.scdn.co
+  - DOMAIN,adv.rustore.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
   - DOMAIN,afcs.dell.com
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+  - DOMAIN,alt-r.my.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
   - DOMAIN,alt3-mtalk.google.com
@@ -74491,7 +74490,9 @@ payload:
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,amp-api.media.apple.com
   - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,an.mail.ru
   - DOMAIN,analytics.google.com
+  - DOMAIN,analytics.vk.ru
   - DOMAIN,angle.com.tw
   - DOMAIN,aod-ssl.itunes.apple.com
   - DOMAIN,aod.itunes.apple.com
@@ -74510,6 +74511,7 @@ payload:
   - DOMAIN,auth.music.apple.com
   - DOMAIN,avail.googleflights.net
   - DOMAIN,b.c2r.ts.cdn.office.net
+  - DOMAIN,b2.mail.ru
   - DOMAIN,bag-cdn.itunes-apple.com.akadns.net
   - DOMAIN,bag.itunes.apple.com
   - DOMAIN,bbs.boingboing.net
@@ -74525,6 +74527,7 @@ payload:
   - DOMAIN,bloodhound.spotify.com
   - DOMAIN,bookkeeper.itunes.apple.com
   - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,bs.mail.ru
   - DOMAIN,build.microsoft.com
   - DOMAIN,bybit.ada.support
   - DOMAIN,c.admob.com
@@ -74570,6 +74573,7 @@ payload:
   - DOMAIN,cl4.apple.com
   - DOMAIN,cl5-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl5.apple.com
+  - DOMAIN,click.rustore.ru
   - DOMAIN,clickserve.cc-dt.com
   - DOMAIN,clickserve.dartsearch.net
   - DOMAIN,clickserver.googleads.com
@@ -74915,6 +74919,7 @@ payload:
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
   - DOMAIN,performanceparameters.googleapis.com
+  - DOMAIN,pixel.rustore.ru
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,play.itunes.apple.com
   - DOMAIN,play.music.apple.com
@@ -74938,6 +74943,9 @@ payload:
   - DOMAIN,qualysapi.qatp1.net
   - DOMAIN,qualysguard.qpdp1.net
   - DOMAIN,r.cert.corp.google.com
+  - DOMAIN,r0.mail.ru
+  - DOMAIN,r0.mradx.net
+  - DOMAIN,r1.mail.ru
   - DOMAIN,rapture-prod.corp.google.com
   - DOMAIN,recaptcha-cn.net
   - DOMAIN,recaptcha.net
@@ -74953,6 +74961,7 @@ payload:
   - DOMAIN,redirector.snap.gvt1.com
   - DOMAIN,redirector.xn--ngstr-lra8j.com
   - DOMAIN,refresh-bkg.activation-v2.kaspersky.com
+  - DOMAIN,reklama.mail.ru
   - DOMAIN,res-1.cdn.office.net
   - DOMAIN,res.cdn.office.net
   - DOMAIN,reserve-prime.apple.com
@@ -74961,6 +74970,7 @@ payload:
   - DOMAIN,roovza.inapps.appsflyersdk.com
   - DOMAIN,roovza.launches.appsflyersdk.com
   - DOMAIN,roovza.skadsdk.appsflyersdk.com
+  - DOMAIN,rs.mail.ru
   - DOMAIN,rss.4040940.xyz
   - DOMAIN,rss.datuan.dev
   - DOMAIN,rss.littlebaby.life
@@ -75016,7 +75026,12 @@ payload:
   - DOMAIN,seed-sequoia.siri.apple.com
   - DOMAIN,seed-swallow.siri.apple.com
   - DOMAIN,seed.siri.apple.com
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
   - DOMAIN,sentry.hetzner.company
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.viqeo.tv
   - DOMAIN,sequoia.apple.com
   - DOMAIN,service.urchin.com
   - DOMAIN,sf-api-token-service.itunes.apple.com
@@ -75032,15 +75047,22 @@ payload:
   - DOMAIN,software.download.prss.microsoft.com
   - DOMAIN,sp.itunes.apple.com
   - DOMAIN,speedysub.music.apple.com
+  - DOMAIN,srch-telemeter10.g.smailru.net
   - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,sslredirect.corp.google.com
+  - DOMAIN,stacks.vk-portal.net
   - DOMAIN,staging-controlbe.floonet.goog
   - DOMAIN,staging-databe.floonet.goog
   - DOMAIN,staging.databe.floonet.goog
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,static.gc.apple.com
   - DOMAIN,statics.teams.cdn.office.net
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
   - DOMAIN,stocks-sparkline-lb.apple.com.akadns.net
   - DOMAIN,stocks-sparkline.apple.com
   - DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
@@ -75074,7 +75096,9 @@ payload:
   - DOMAIN,swscan.apple.com
   - DOMAIN,sylvan.apple.com
   - DOMAIN,sync.itunes.apple.com
+  - DOMAIN,t.mail.ru
   - DOMAIN,tac.googleapis.com
+  - DOMAIN,target.vk.com
   - DOMAIN,tesla-cdn.thron.cn
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,test.gbugs-qa.chromium.org
@@ -75085,6 +75109,7 @@ payload:
   - DOMAIN,tj-pod1-smp-device.apple.com
   - DOMAIN,tools.google.com
   - DOMAIN,tools.l.google.com
+  - DOMAIN,top-staging.mail.ru
   - DOMAIN,tp.louisvuitton.com
   - DOMAIN,uberproxy-debug4.corp.google.com
   - DOMAIN,uberproxy.corp.google.com
@@ -75112,6 +75137,7 @@ payload:
   - DOMAIN,weather-map.apple.com
   - DOMAIN,weather-map2.apple.com
   - DOMAIN,weatherkit.apple.com
+  - DOMAIN,whiteline.mail.ru
   - DOMAIN,widgets.stripst.com
   - DOMAIN,wrds-www.wharton.upenn.edu
   - DOMAIN,ws.audioscrobbler.com
@@ -75134,6 +75160,7 @@ payload:
   - DOMAIN,www4-static.gog-statics.com
   - DOMAIN,xn--flw351e.com
   - DOMAIN,xp.apple.com
+  - DOMAIN,xray.mail.ru
   - DOMAIN,xtratime.qcomgeo2.com
   - DOMAIN,xz.pphimalayanrt.com
   - DOMAIN,yangzhi.app
@@ -87308,46 +87335,27 @@ payload:
   - DOMAIN-SUFFIX,ui-portal.de
   - DOMAIN-SUFFIX,uicdn.com
   - DOMAIN-SUFFIX,uimserv.net
-  - DOMAIN-SUFFIX,1l-hit.mail.ru
-  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,ad.mail.ru
-  - DOMAIN-SUFFIX,ad4.mail.ru
-  - DOMAIN-SUFFIX,adblogger.vk.com
-  - DOMAIN-SUFFIX,ads-integration.rustore.ru
-  - DOMAIN-SUFFIX,ads.dahlmessenger.com
-  - DOMAIN-SUFFIX,ads.icq.com
-  - DOMAIN-SUFFIX,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.viqeo.tv
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
   - DOMAIN-SUFFIX,adsadvisor.io
-  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
-  - DOMAIN-SUFFIX,adsapp.stage.telega.info
-  - DOMAIN-SUFFIX,adsapp.telega.info
-  - DOMAIN-SUFFIX,adv.rustore.ru
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,algoritmika.org
-  - DOMAIN-SUFFIX,alt-r.my.com
-  - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,aodahl.com
   - DOMAIN-SUFFIX,apiok.ru
   - DOMAIN-SUFFIX,appsmail.ru
   - DOMAIN-SUFFIX,apptracer.ru
   - DOMAIN-SUFFIX,armgs.team
   - DOMAIN-SUFFIX,attachmy.com
-  - DOMAIN-SUFFIX,b2.mail.ru
   - DOMAIN-SUFFIX,bargipsy.com
   - DOMAIN-SUFFIX,bizmrg.com
   - DOMAIN-SUFFIX,bk.ru
   - DOMAIN-SUFFIX,boom.ru
   - DOMAIN-SUFFIX,boosty.to
-  - DOMAIN-SUFFIX,bs.mail.ru
   - DOMAIN-SUFFIX,cdn-vk.net
   - DOMAIN-SUFFIX,cdn-vk.ru
   - DOMAIN-SUFFIX,cdnmail.ru
   - DOMAIN-SUFFIX,ciciq.net
-  - DOMAIN-SUFFIX,click.rustore.ru
   - DOMAIN-SUFFIX,code-class.ru
   - DOMAIN-SUFFIX,cups.online
   - DOMAIN-SUFFIX,cxhub.ru
@@ -87452,28 +87460,16 @@ payload:
   - DOMAIN-SUFFIX,okl.lt
   - DOMAIN-SUFFIX,oktech.ru
   - DOMAIN-SUFFIX,oneme.ru
-  - DOMAIN-SUFFIX,pixel.rustore.ru
   - DOMAIN-SUFFIX,pixonic.com
   - DOMAIN-SUFFIX,prod-my.games
   - DOMAIN-SUFFIX,r.mail.ru
-  - DOMAIN-SUFFIX,r.my.com
-  - DOMAIN-SUFFIX,r0.mail.ru
-  - DOMAIN-SUFFIX,r0.mradx.net
-  - DOMAIN-SUFFIX,r1.mail.ru
   - DOMAIN-SUFFIX,radar.imgsmail.ru
-  - DOMAIN-SUFFIX,reklama.mail.ru
   - DOMAIN-SUFFIX,relap.mail.ru
-  - DOMAIN-SUFFIX,rs.mail.ru
   - DOMAIN-SUFFIX,ruhub.tv
   - DOMAIN-SUFFIX,russiandesigncup.ru
   - DOMAIN-SUFFIX,rustore.ru
   - DOMAIN-SUFFIX,rustore.team
   - DOMAIN-SUFFIX,rustore.tv
-  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
-  - DOMAIN-SUFFIX,sentry.dev-my.com
-  - DOMAIN-SUFFIX,sentry.dev-my.games
-  - DOMAIN-SUFFIX,sentry.rustore.ru
-  - DOMAIN-SUFFIX,sentry.viqeo.tv
   - DOMAIN-SUFFIX,sferum-dev.ru
   - DOMAIN-SUFFIX,sferum.ru
   - DOMAIN-SUFFIX,skbx.pro
@@ -87482,27 +87478,18 @@ payload:
   - DOMAIN-SUFFIX,skillfactory.ru
   - DOMAIN-SUFFIX,smailru.net
   - DOMAIN-SUFFIX,sportmail.ru
-  - DOMAIN-SUFFIX,stacks.vk-portal.net
   - DOMAIN-SUFFIX,staticmy.com
-  - DOMAIN-SUFFIX,stats.dahlmessenger.com
-  - DOMAIN-SUFFIX,stats.dev.telega.info
-  - DOMAIN-SUFFIX,stats.rustore.ru
-  - DOMAIN-SUFFIX,stats.telega.info
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,summerstage.ru
-  - DOMAIN-SUFFIX,t.mail.ru
   - DOMAIN-SUFFIX,tamtam.chat
   - DOMAIN-SUFFIX,tarantool.io
   - DOMAIN-SUFFIX,tarantoolplus.ru
   - DOMAIN-SUFFIX,target.my.com
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,tech-mail.ru
   - DOMAIN-SUFFIX,telega.info
   - DOMAIN-SUFFIX,telega.me
   - DOMAIN-SUFFIX,tetrika-school.ru
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,top-staging.mail.ru
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.my.com
   - DOMAIN-SUFFIX,tusco.ru
@@ -87561,7 +87548,6 @@ payload:
   - DOMAIN-SUFFIX,vkuservideo.ru
   - DOMAIN-SUFFIX,vkvideo.ru
   - DOMAIN-SUFFIX,vmailru.net
-  - DOMAIN-SUFFIX,whiteline.mail.ru
   - DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
   - DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
   - DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
@@ -87572,51 +87558,77 @@ payload:
   - DOMAIN-SUFFIX,xn--80aqcf7a6do.com
   - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
-  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,yaklass.ru
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,youla.io
   - DOMAIN-SUFFIX,youla.ru
-  - DOMAIN-SUFFIX,1l-hit.mail.ru
-  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
+  - DOMAIN,1l-hit.mail.ru
+  - DOMAIN,1l-hit.vkplay.ru
+  - DOMAIN,ad4.mail.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
+  - DOMAIN,ads-integration.rustore.ru
+  - DOMAIN,ads.dahlmessenger.com
+  - DOMAIN,ads.icq.com
+  - DOMAIN,ads.rustore.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
+  - DOMAIN,adsapp.dahlmessenger.com
+  - DOMAIN,adsapp.stage.telega.info
+  - DOMAIN,adsapp.telega.info
+  - DOMAIN,adv.rustore.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
+  - DOMAIN,alt-r.my.com
+  - DOMAIN,an.mail.ru
+  - DOMAIN,analytics.vk.ru
+  - DOMAIN,b2.mail.ru
+  - DOMAIN,bs.mail.ru
+  - DOMAIN,click.rustore.ru
+  - DOMAIN,pixel.rustore.ru
+  - DOMAIN,r0.mail.ru
+  - DOMAIN,r0.mradx.net
+  - DOMAIN,r1.mail.ru
+  - DOMAIN,reklama.mail.ru
+  - DOMAIN,rs.mail.ru
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.viqeo.tv
+  - DOMAIN,srch-telemeter10.g.smailru.net
+  - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,t.mail.ru
+  - DOMAIN,target.vk.com
+  - DOMAIN,top-staging.mail.ru
+  - DOMAIN,whiteline.mail.ru
+  - DOMAIN,xray.mail.ru
   - DOMAIN-SUFFIX,ad.mail.ru
-  - DOMAIN-SUFFIX,ad4.mail.ru
-  - DOMAIN-SUFFIX,adblogger.vk.com
-  - DOMAIN-SUFFIX,ads-integration.rustore.ru
-  - DOMAIN-SUFFIX,ads.dahlmessenger.com
-  - DOMAIN-SUFFIX,ads.icq.com
-  - DOMAIN-SUFFIX,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.viqeo.tv
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
   - DOMAIN-SUFFIX,adsadvisor.io
-  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
-  - DOMAIN-SUFFIX,adsapp.stage.telega.info
-  - DOMAIN-SUFFIX,adsapp.telega.info
-  - DOMAIN-SUFFIX,adv.rustore.ru
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,algoritmika.org
-  - DOMAIN-SUFFIX,alt-r.my.com
-  - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,aodahl.com
   - DOMAIN-SUFFIX,apiok.ru
   - DOMAIN-SUFFIX,appsmail.ru
   - DOMAIN-SUFFIX,apptracer.ru
   - DOMAIN-SUFFIX,armgs.team
   - DOMAIN-SUFFIX,attachmy.com
-  - DOMAIN-SUFFIX,b2.mail.ru
   - DOMAIN-SUFFIX,bargipsy.com
   - DOMAIN-SUFFIX,bizmrg.com
   - DOMAIN-SUFFIX,bk.ru
   - DOMAIN-SUFFIX,boom.ru
   - DOMAIN-SUFFIX,boosty.to
-  - DOMAIN-SUFFIX,bs.mail.ru
   - DOMAIN-SUFFIX,cdn-vk.net
   - DOMAIN-SUFFIX,cdn-vk.ru
   - DOMAIN-SUFFIX,cdnmail.ru
   - DOMAIN-SUFFIX,ciciq.net
-  - DOMAIN-SUFFIX,click.rustore.ru
   - DOMAIN-SUFFIX,code-class.ru
   - DOMAIN-SUFFIX,cups.online
   - DOMAIN-SUFFIX,cxhub.ru
@@ -87721,28 +87733,16 @@ payload:
   - DOMAIN-SUFFIX,okl.lt
   - DOMAIN-SUFFIX,oktech.ru
   - DOMAIN-SUFFIX,oneme.ru
-  - DOMAIN-SUFFIX,pixel.rustore.ru
   - DOMAIN-SUFFIX,pixonic.com
   - DOMAIN-SUFFIX,prod-my.games
   - DOMAIN-SUFFIX,r.mail.ru
-  - DOMAIN-SUFFIX,r.my.com
-  - DOMAIN-SUFFIX,r0.mail.ru
-  - DOMAIN-SUFFIX,r0.mradx.net
-  - DOMAIN-SUFFIX,r1.mail.ru
   - DOMAIN-SUFFIX,radar.imgsmail.ru
-  - DOMAIN-SUFFIX,reklama.mail.ru
   - DOMAIN-SUFFIX,relap.mail.ru
-  - DOMAIN-SUFFIX,rs.mail.ru
   - DOMAIN-SUFFIX,ruhub.tv
   - DOMAIN-SUFFIX,russiandesigncup.ru
   - DOMAIN-SUFFIX,rustore.ru
   - DOMAIN-SUFFIX,rustore.team
   - DOMAIN-SUFFIX,rustore.tv
-  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
-  - DOMAIN-SUFFIX,sentry.dev-my.com
-  - DOMAIN-SUFFIX,sentry.dev-my.games
-  - DOMAIN-SUFFIX,sentry.rustore.ru
-  - DOMAIN-SUFFIX,sentry.viqeo.tv
   - DOMAIN-SUFFIX,sferum-dev.ru
   - DOMAIN-SUFFIX,sferum.ru
   - DOMAIN-SUFFIX,skbx.pro
@@ -87751,27 +87751,18 @@ payload:
   - DOMAIN-SUFFIX,skillfactory.ru
   - DOMAIN-SUFFIX,smailru.net
   - DOMAIN-SUFFIX,sportmail.ru
-  - DOMAIN-SUFFIX,stacks.vk-portal.net
   - DOMAIN-SUFFIX,staticmy.com
-  - DOMAIN-SUFFIX,stats.dahlmessenger.com
-  - DOMAIN-SUFFIX,stats.dev.telega.info
-  - DOMAIN-SUFFIX,stats.rustore.ru
-  - DOMAIN-SUFFIX,stats.telega.info
-  - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,summerstage.ru
-  - DOMAIN-SUFFIX,t.mail.ru
   - DOMAIN-SUFFIX,tamtam.chat
   - DOMAIN-SUFFIX,tarantool.io
   - DOMAIN-SUFFIX,tarantoolplus.ru
   - DOMAIN-SUFFIX,target.my.com
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,tech-mail.ru
   - DOMAIN-SUFFIX,telega.info
   - DOMAIN-SUFFIX,telega.me
   - DOMAIN-SUFFIX,tetrika-school.ru
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,top-staging.mail.ru
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.my.com
   - DOMAIN-SUFFIX,tusco.ru
@@ -87830,7 +87821,6 @@ payload:
   - DOMAIN-SUFFIX,vkuservideo.ru
   - DOMAIN-SUFFIX,vkvideo.ru
   - DOMAIN-SUFFIX,vmailru.net
-  - DOMAIN-SUFFIX,whiteline.mail.ru
   - DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
   - DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
   - DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
@@ -87841,11 +87831,56 @@ payload:
   - DOMAIN-SUFFIX,xn--80aqcf7a6do.com
   - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
-  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,yaklass.ru
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,youla.io
   - DOMAIN-SUFFIX,youla.ru
+  - DOMAIN,1l-hit.mail.ru
+  - DOMAIN,1l-hit.vkplay.ru
+  - DOMAIN,ad4.mail.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
+  - DOMAIN,ads-integration.rustore.ru
+  - DOMAIN,ads.dahlmessenger.com
+  - DOMAIN,ads.icq.com
+  - DOMAIN,ads.rustore.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
+  - DOMAIN,adsapp.dahlmessenger.com
+  - DOMAIN,adsapp.stage.telega.info
+  - DOMAIN,adsapp.telega.info
+  - DOMAIN,adv.rustore.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
+  - DOMAIN,alt-r.my.com
+  - DOMAIN,an.mail.ru
+  - DOMAIN,analytics.vk.ru
+  - DOMAIN,b2.mail.ru
+  - DOMAIN,bs.mail.ru
+  - DOMAIN,click.rustore.ru
+  - DOMAIN,pixel.rustore.ru
+  - DOMAIN,r0.mail.ru
+  - DOMAIN,r0.mradx.net
+  - DOMAIN,r1.mail.ru
+  - DOMAIN,reklama.mail.ru
+  - DOMAIN,rs.mail.ru
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.viqeo.tv
+  - DOMAIN,srch-telemeter10.g.smailru.net
+  - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,t.mail.ru
+  - DOMAIN,target.vk.com
+  - DOMAIN,top-staging.mail.ru
+  - DOMAIN,whiteline.mail.ru
+  - DOMAIN,xray.mail.ru
   - DOMAIN-SUFFIX,machigoto.jp
   - DOMAIN-SUFFIX,mainichi-athletepartners.jp
   - DOMAIN-SUFFIX,mainichi.jp
@@ -97987,18 +98022,13 @@ payload:
   - DOMAIN-SUFFIX,vivo.com.cn
   - DOMAIN-SUFFIX,vivoglobal.com
   - DOMAIN-SUFFIX,vvstc.com
-  - DOMAIN-SUFFIX,adblogger.vk.com
-  - DOMAIN-SUFFIX,ads.vk.com
-  - DOMAIN-SUFFIX,ads.vk.ru
+  - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,analytics.vk.com
-  - DOMAIN-SUFFIX,analytics.vk.ru
   - DOMAIN-SUFFIX,cdn-vk.net
   - DOMAIN-SUFFIX,cdn-vk.ru
   - DOMAIN-SUFFIX,ms.vk.com
   - DOMAIN-SUFFIX,ms.vk.ru
   - DOMAIN-SUFFIX,mvk.com
-  - DOMAIN-SUFFIX,stats.vk-portal.net
-  - DOMAIN-SUFFIX,target.vk.com
   - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,userapi.ru
@@ -98035,6 +98065,15 @@ payload:
   - DOMAIN-SUFFIX,vkuservideo.com
   - DOMAIN-SUFFIX,vkuservideo.net
   - DOMAIN-SUFFIX,vkuservideo.ru
+  - DOMAIN,adblogger.vk.com
+  - DOMAIN,adblogger.vk.ru
+  - DOMAIN,ads.vk.com
+  - DOMAIN,ads.vk.ru
+  - DOMAIN,adv.vk.ru
+  - DOMAIN,advk.vk.ru
+  - DOMAIN,analytics.vk.ru
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,target.vk.com
   - DOMAIN-SUFFIX,air-watch.com
   - DOMAIN-SUFFIX,airwatchexpress.com
   - DOMAIN-SUFFIX,airwatchqa.com
