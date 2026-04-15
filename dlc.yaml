@@ -8347,6 +8347,7 @@ payload:
   - DOMAIN-SUFFIX,alog.umengcloud.com
   - DOMAIN-SUFFIX,alogs.umeng.com
   - DOMAIN-SUFFIX,alogus.umeng.com
+  - DOMAIN-SUFFIX,alt-ad.mail.ru
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amc.yandex.ru
   - DOMAIN-SUFFIX,an.yandex.ru
@@ -9174,6 +9175,7 @@ payload:
   - DOMAIN-SUFFIX,alog.umengcloud.com
   - DOMAIN-SUFFIX,alogs.umeng.com
   - DOMAIN-SUFFIX,alogus.umeng.com
+  - DOMAIN-SUFFIX,alt-ad.mail.ru
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amc.yandex.ru
   - DOMAIN-SUFFIX,an.yandex.ru
@@ -12345,6 +12347,7 @@ payload:
   - DOMAIN-SUFFIX,alivevmax.com
   - DOMAIN-SUFFIX,alivevue.com
   - DOMAIN-SUFFIX,alphassl.com
+  - DOMAIN-SUFFIX,alt-ad.mail.ru
   - DOMAIN-SUFFIX,altera.co.jp
   - DOMAIN-SUFFIX,altera.com
   - DOMAIN-SUFFIX,alteraforum.com
@@ -39262,6 +39265,7 @@ payload:
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,algoritmika.org
+  - DOMAIN-SUFFIX,alt-ad.mail.ru
   - DOMAIN-SUFFIX,amc.yandex.ru
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,analytics-adv.ozon.ru
@@ -52666,6 +52670,7 @@ payload:
   - DOMAIN-SUFFIX,alpherafs.in
   - DOMAIN-SUFFIX,alpherafs.my
   - DOMAIN-SUFFIX,alpinelinux.org
+  - DOMAIN-SUFFIX,alt-ad.mail.ru
   - DOMAIN-SUFFIX,alt.com
   - DOMAIN-SUFFIX,altera.co.jp
   - DOMAIN-SUFFIX,altera.com
@@ -87341,6 +87346,7 @@ payload:
   - DOMAIN-SUFFIX,adsadvisor.io
   - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,algoritmika.org
+  - DOMAIN-SUFFIX,alt-ad.mail.ru
   - DOMAIN-SUFFIX,analytics.vk.com
   - DOMAIN-SUFFIX,aodahl.com
   - DOMAIN-SUFFIX,apiok.ru
@@ -87614,6 +87620,7 @@ payload:
   - DOMAIN-SUFFIX,adsadvisor.io
   - DOMAIN-SUFFIX,adv.vk.com
   - DOMAIN-SUFFIX,algoritmika.org
+  - DOMAIN-SUFFIX,alt-ad.mail.ru
   - DOMAIN-SUFFIX,analytics.vk.com
   - DOMAIN-SUFFIX,aodahl.com
   - DOMAIN-SUFFIX,apiok.ru
