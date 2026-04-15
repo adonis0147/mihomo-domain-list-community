@@ -39714,6 +39714,7 @@ payload:
   - DOMAIN-SUFFIX,web-analytics.wildberries.ru
   - DOMAIN-SUFFIX,webvisor.com
   - DOMAIN-SUFFIX,webvisor.org
+  - DOMAIN-SUFFIX,whoosh.bike
   - DOMAIN-SUFFIX,wibes.com
   - DOMAIN-SUFFIX,wildberries.am
   - DOMAIN-SUFFIX,wildberries.by
@@ -98790,6 +98791,8 @@ payload:
   - DOMAIN-SUFFIX,wholefoodsmarket.com
   - DOMAIN-SUFFIX,wholekidsfoundation.org
   - DOMAIN-SUFFIX,wholeplanetfoundation.org
+  - DOMAIN-SUFFIX,whoosh-bike.ru
+  - DOMAIN-SUFFIX,whoosh.bike
   - DOMAIN-SUFFIX,wdfiles.com
   - DOMAIN-SUFFIX,wikidot.com
   - DOMAIN-SUFFIX,wikihow.com
