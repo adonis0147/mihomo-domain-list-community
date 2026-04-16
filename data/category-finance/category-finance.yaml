@@ -12,8 +12,8 @@ payload:
   - +.2gis.kg
   - +.2gis.kz
   - +.2gis.ru
+  - +.2gis.tech
   - +.2gis.tj
-  - +.2gis.ua
   - +.2gis.uz
   - +.2w.ru
   - +.4c.ru
@@ -94,7 +94,6 @@ payload:
   - +.enbank.ir
   - +.enterly.ru
   - +.era-invest.ru
-  - +.error-tracking.megamarket.tech
   - +.etna.ai
   - +.fibank.bg
   - +.firstprivatebank.com.mm
@@ -121,6 +120,7 @@ payload:
   - +.gbank.com.mm
   - +.getsynapse.io
   - +.ghbi.ir
+  - +.gid.ru
   - +.giga.chat
   - +.gitverse.ru
   - +.gosdolgi.ru
@@ -281,7 +281,6 @@ payload:
   - +.mebank.ir
   - +.megamarket.ru
   - +.megamarket.tech
-  - +.metrics.21-school.ru
   - +.mfk-t-finance.ru
   - +.micb.gov.mm
   - +.michinokubank.co.jp
@@ -317,6 +316,7 @@ payload:
   - +.okinawabank.co.jp
   - +.okko.sport
   - +.okko.tv
+  - +.okkoapi.tv
   - +.otello.ru
   - +.parsian-bank.com
   - +.payecom.ru
@@ -394,7 +394,6 @@ payload:
   - +.schwab.com.sg
   - +.schwabassetmanagement.com
   - +.schwabplan.com
-  - +.sentry.sberauto.com
   - +.sevenbank.co.jp
   - +.sgcheck.ru
   - +.shahr-bank.ir
@@ -474,7 +473,6 @@ payload:
   - +.tottoribank.co.jp
   - +.toyobank.co.jp
   - +.tpension.ru
-  - +.tracing-http.megamarket.tech
   - +.tradingview.com
   - +.transferwise.com
   - +.travel-tec.ru
@@ -482,7 +480,6 @@ payload:
   - +.tuncommercialbank.com
   - +.uab.com.mm
   - +.unidraw.io
-  - +.visor.sberbank.ru
   - +.vtb.ru
   - +.waveomoney.com.mm
   - +.wbrks.com
@@ -503,6 +500,11 @@ payload:
   - +.ysx-mm.com
   - +.zvuk-b2b.com
   - +.zvuk.com
+  - error-tracking.megamarket.tech
+  - metrics.21-school.ru
   - sberpro.vedomosti.ru
+  - sentry.sberauto.com
   - standchartbank.sc.omtrdc.net
   - standchartbank.tt.omtrdc.net
+  - tracing-http.megamarket.tech
+  - visor.sberbank.ru

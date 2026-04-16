@@ -230,8 +230,8 @@ payload:
   - +.2gis.kg
   - +.2gis.kz
   - +.2gis.ru
+  - +.2gis.tech
   - +.2gis.tj
-  - +.2gis.ua
   - +.2gis.uz
   - +.2k.com
   - +.2kcoretech.online
@@ -658,7 +658,6 @@ payload:
   - +.activeteachonline.com
   - +.ad.games.dmm.com
   - +.ad.mail.ru
-  - +.ad.ozone.ru
   - +.ad69.com
   - +.adam.jp
   - +.adanaatikhaber.com
@@ -677,7 +676,6 @@ payload:
   - +.adelaidenow.com.au
   - +.adfox.ru
   - +.adfox.yandex.ru
-  - +.adfstat.yandex.ru
   - +.adgoogle.net
   - +.adguard-dns.com
   - +.adguard-dns.io
@@ -830,21 +828,15 @@ payload:
   - +.adporn.cc
   - +.adpornu.xyz
   - +.ads-api.duolingo.com
-  - +.ads-gate.wildberries.ru
-  - +.ads-media.wildberries.ru
   - +.ads-pixiv.net
   - +.ads-twitter.com
   - +.ads.sber.ru
   - +.ads.viqeo.tv
-  - +.ads.wildberries.ru
   - +.ads.yahoo.com
-  - +.ads.yandex.com
   - +.ads.yandex.ru
   - +.ads.yandex
-  - +.ads.yango.com
   - +.ads.youtube.com
   - +.adsadvisor.io
-  - +.adsdk.yandex.ru
   - +.adsense.com
   - +.adsensecustomsearchads.com
   - +.adsenseformobileapps.com
@@ -918,19 +910,12 @@ payload:
   - +.adultvideodump.com
   - +.adultvideotop.com
   - +.adultvirtualworlds.net
-  - +.adv.ozon.ru
   - +.adv.vk.com
   - +.adv.yandex.com
   - +.adv.yandex.ru
   - +.advancediddetection.com
   - +.adventofcode.com
   - +.adventuresbydisney.com
-  - +.advert-api-sandbox.wb.ru
-  - +.advert-api-sandbox.wildberries.ru
-  - +.advert-api.wb.ru
-  - +.advert-api.wildberries.ru
-  - +.advert-media-api.wb.ru
-  - +.advert-media-api.wildberries.ru
   - +.advertisercommunity.com
   - +.advertiserscommunity.com
   - +.advertising.adobe.com
@@ -971,7 +956,6 @@ payload:
   - +.agedm.tv
   - +.agefans.com
   - +.agemys.org
-  - +.agency-adv.ozon.ru
   - +.agendaweek.com
   - +.aggresmart.com
   - +.agilebits.com
@@ -1555,7 +1539,6 @@ payload:
   - +.amazonworkdocs.com
   - +.amazonworkdocs.com.cn
   - +.amc.com
-  - +.amc.yandex.ru
   - +.amcn.com
   - +.amcnetworks.com
   - +.amcplus.com
@@ -1627,15 +1610,11 @@ payload:
   - +.analscreen.com
   - +.analtime.org
   - +.analvids.com
-  - +.analytics-adv.ozon.ru
   - +.analytics-alv.google.com
-  - +.analytics-stage.wildberries.ru
   - +.analytics.facebook.com
-  - +.analytics.mobile.yandex.net
   - +.analytics.tiktok.com
   - +.analytics.vk.com
   - +.analytics.vpc.duolingo.com
-  - +.analytics.wildberries.ru
   - +.analytictech.com
   - +.anandtech.com
   - +.anatomy.tv
@@ -1734,24 +1713,8 @@ payload:
   - +.apexlegends.com
   - +.apexprint.com.hk
   - +.api-adservices.apple.com
-  - +.api-eu.carrotquest.app
-  - +.api-eu.carrotquest.io
   - +.api-extractor.com
-  - +.api-js.mindbox.ru
-  - +.api-ru.carrotquest.app
-  - +.api-ru.carrotquest.io
-  - +.api-ru.mindbox.cloud
-  - +.api-secure.carrotquest.app
-  - +.api-secure.carrottrack.app
-  - +.api-staging.mindbox.ru
   - +.api.ai
-  - +.api.carrotquest.app
-  - +.api.carrotquest.io
-  - +.api.carrottrack.app
-  - +.api.dashly.app
-  - +.api.dashlytrack.app
-  - +.api.mindbox.cloud
-  - +.api.mindbox.ru
   - +.api.news
   - +.apibay.org
   - +.apigee.com
@@ -2306,6 +2269,7 @@ payload:
   - +.asus.com.cn
   - +.asuscloud.com
   - +.asuswebstorage.com
+  - +.at.ua
   - +.atandt.com
   - +.atdmt2.com
   - +.ateam-oracle.com
@@ -2336,6 +2300,7 @@ payload:
   - +.att.jobs
   - +.att.net
   - +.att.tv
+  - +.attachmail.ru
   - +.attachmy.com
   - +.attackers.net
   - +.attalascom.com
@@ -3237,8 +3202,9 @@ payload:
   - +.beforeigners.com
   - +.befuck.com
   - +.befuck.net
+  - +.beget.com
+  - +.beget.ru
   - +.begin-trade.com
-  - +.beginners-adv.ozon.ru
   - +.behance.net
   - +.behindthescreenz.com
   - +.beibao.cn
@@ -4340,7 +4306,6 @@ payload:
   - +.bronto.com
   - +.brotli.org
   - +.brourou.com
-  - +.browser-updater.yandex.net
   - +.browser.events.data.msn.cn
   - +.browser.events.data.msn.com
   - +.browser.kagi.com
@@ -5137,10 +5102,7 @@ payload:
   - +.claudeusercontent.com
   - +.clawhub.ai
   - +.clck.ru
-  - +.clck.yandex.com
-  - +.clck.yandex.net
   - +.clck.yandex.ru
-  - +.clck.yango.com
   - +.clco.cc
   - +.clearasil.cn
   - +.clearasil.com.cn
@@ -5479,7 +5441,6 @@ payload:
   - +.cotolia.com
   - +.cotweet.com
   - +.cougarsexmovies.com
-  - +.counter.yandex.net
   - +.counter.yandex.ru
   - +.coupang.com
   - +.coupangcdn.com
@@ -7346,7 +7307,6 @@ payload:
   - +.erovizor.ru
   - +.eroxia.com
   - +.err.sh
-  - +.error-tracking.megamarket.tech
   - +.ertk.net
   - +.es-visiontimes.com
   - +.esbeatsbydrebuy.com
@@ -8933,6 +8893,7 @@ payload:
   - +.ghostarchive.org
   - +.ghostgames.com
   - +.giantessbooru.com
+  - +.gid.ru
   - +.giffgaff.com
   - +.giffgaff.design
   - +.gifnuki.com
@@ -9169,7 +9130,6 @@ payload:
   - +.google
   - +.google-access.net
   - +.google-analytics-cn.com
-  - +.google-analytics-suite.ozon.ru
   - +.google-analytics.com
   - +.google-syndication.com
   - +.google.ad
@@ -11037,7 +10997,6 @@ payload:
   - +.infoglobo.com.br
   - +.infolinker.com.tw
   - +.infoq.jp
-  - +.informer.yandex.ru
   - +.informs.org
   - +.infotimes.com.tw
   - +.infowars.com
@@ -12748,7 +12707,6 @@ payload:
   - +.lovina.app
   - +.lowergiseries.com
   - +.lowiro.com
-  - +.loyalnost-adv.ozon.ru
   - +.lp99.pw
   - +.lpl.com.cn
   - +.lpsg.com
@@ -13021,7 +12979,6 @@ payload:
   - +.mariosupersluggers.com
   - +.marketexecutive.net
   - +.marketing-cloud.com
-  - +.marketing-info.wildberries.ru
   - +.marketing-nirvana.com
   - +.marketingcloud.com
   - +.marketingplatform.google.com
@@ -13031,7 +12988,6 @@ payload:
   - +.marketo.tv
   - +.marketodesigner.com
   - +.marketolive.com
-  - +.marketplace-sentry.wb.ru
   - +.marketwatch.com
   - +.markingmenus.com
   - +.markzuckerberg.com
@@ -13221,10 +13177,7 @@ payload:
   - +.maying.co
   - +.mbeats-tech.com
   - +.mbheadphone.com
-  - +.mc.yandex.com
-  - +.mc.yandex.net
   - +.mc.yandex.ru
-  - +.mc.yango.com
   - +.mcafee.com
   - +.mcb.com.mm
   - +.mcchcdn.com
@@ -13381,9 +13334,10 @@ payload:
   - +.metartnetwork.com
   - +.metcams.com
   - +.meteum.ai
-  - +.metrics.21-school.ru
   - +.metrics.duolingo.com
   - +.metrics.viqeo.tv
+  - +.metrika.yandex.com
+  - +.metrika.yandex.net
   - +.metrika.yandex.ru
   - +.metro.co.uk
   - +.metropolitana.tokyo
@@ -14675,7 +14629,6 @@ payload:
   - +.neuralink.com
   - +.neurology.org
   - +.nevex.com
-  - +.new-adv.ozon.ru
   - +.new-akiba.com
   - +.new-jero.net
   - +.new-redtube.com
@@ -15453,6 +15406,7 @@ payload:
   - +.okkisokuho.com
   - +.okko.sport
   - +.okko.tv
+  - +.okkoapi.tv
   - +.okl.lt
   - +.oklink.com
   - +.oktech.ru
@@ -16276,12 +16230,10 @@ payload:
   - +.pittpatt.com
   - +.pivotalinitiative.com
   - +.piwheels.org
-  - +.pix.yandex.ru
   - +.pixanalytics.com
   - +.pixapp.net
   - +.pixate.com
   - +.pixel.facebook.com
-  - +.pixel.yandex.net
   - +.pixfs.net
   - +.pixhost.to
   - +.pixinsight.com.tw
@@ -16908,7 +16860,6 @@ payload:
   - +.prodcontest.com
   - +.prodrive-japan.com
   - +.product.co.jp
-  - +.prodvizhenie-adv.ozon.ru
   - +.profilemaster.com
   - +.profreeporno.com
   - +.progress.com
@@ -16926,6 +16877,7 @@ payload:
   - +.projectshoreline.com
   - +.projectvasari.com
   - +.projectvoyeur.com
+  - +.promodj.com
   - +.promonsterbeatsbydre.com
   - +.pron.guru
   - +.property.com.au
@@ -17107,7 +17059,6 @@ payload:
   - +.quatrowireless.com
   - +.quatrum.com.br
   - +.quay.io
-  - +.questions-adv.ozon.ru
   - +.questvisual.com
   - +.quicinc.com
   - +.quickbook.com.br
@@ -17421,7 +17372,6 @@ payload:
   - +.renzhe.cloud
   - +.repe21.com
   - +.repo.new
-  - +.report.ap.yandex-net.ru
   - +.repotama.com
   - +.repsils.no
   - +.repsneakermall.com
@@ -17902,6 +17852,7 @@ payload:
   - +.screenwisetrends.com
   - +.screenwisetrendspanel.com
   - +.screw-my-wife.com
+  - +.scripts-for-ucoz.ru
   - +.scrolller.com
   - +.sculpoly.com
   - +.sdcountybmw.com
@@ -17980,11 +17931,6 @@ payload:
   - +.sensueel.net
   - +.sentry-cdn.com
   - +.sentry.io
-  - +.sentry.mindbox.ru
-  - +.sentry.ozon.ru
-  - +.sentry.popmechanic.ru
-  - +.sentry.sberauto.com
-  - +.sentry.wb.ru
   - +.senzuritv.net
   - +.seo-dash.net
   - +.seodirector.ai
@@ -19824,6 +19770,8 @@ payload:
   - +.timelinestoryteller.com
   - +.timesmembership.com
   - +.timestalks.com
+  - +.timeweb.cloud
+  - +.timeweb.com
   - +.timi1.me
   - +.timo0.com
   - +.ting53.xyz
@@ -19971,7 +19919,6 @@ payload:
   - +.tpension.ru
   - +.tpornstars.com
   - +.tr.com
-  - +.tracing-http.megamarket.tech
   - +.tracker-api.my.com
   - +.tracker.gg
   - +.tracker.my.com
@@ -20201,6 +20148,7 @@ payload:
   - +.twavking.com
   - +.twca.com.tw
   - +.twcomix.com
+  - +.twcstorage.ru
   - +.tweakadmin.com
   - +.tweakfilms.com
   - +.tweaksoftware.com
@@ -20287,6 +20235,30 @@ payload:
   - +.uchi.ru
   - +.uchicago.edu
   - +.ucla.edu
+  - +.ucoz.ae
+  - +.ucoz.club
+  - +.ucoz.co
+  - +.ucoz.co.il
+  - +.ucoz.co.uk
+  - +.ucoz.com
+  - +.ucoz.com.br
+  - +.ucoz.com.ro
+  - +.ucoz.de
+  - +.ucoz.es
+  - +.ucoz.fr
+  - +.ucoz.hu
+  - +.ucoz.kz
+  - +.ucoz.lv
+  - +.ucoz.md
+  - +.ucoz.net
+  - +.ucoz.org
+  - +.ucoz.pl
+  - +.ucoz.ru
+  - +.ucoz.site
+  - +.ucoz.ua
+  - +.ucozmedia.com
+  - +.ucozmedia.ru
+  - +.ucoztemplates.com
   - +.udacity.com
   - +.udemy.com
   - +.udemycdn.com
@@ -20298,6 +20270,7 @@ payload:
   - +.udtrucksmeena.com
   - +.ueberamazon.de
   - +.uflash.tv
+  - +.uguide.ru
   - +.uguisupapa.net
   - +.uhairy.com
   - +.uhub.com
@@ -20312,6 +20285,10 @@ payload:
   - +.ujizzcn.com
   - +.uk-exhibitionist.com
   - +.ukipad.com
+  - +.ukit.ai
+  - +.ukit.com
+  - +.ukit.group
+  - +.ukit.me
   - +.ukwhoswho.com
   - +.ulifestyle.com.hk
   - +.ulol.com
@@ -20319,6 +20296,7 @@ payload:
   - +.ultimaonline.com
   - +.ultradonkey.com
   - +.ultrasrv.de
+  - +.uma.media
   - +.umagazine.com.hk
   - +.umass.edu
   - +.umbrella.com
@@ -20949,7 +20927,6 @@ payload:
   - +.visiontimes.it
   - +.visiontimes.net
   - +.visiontimesjp.com
-  - +.visor.sberbank.ru
   - +.visual-arts.jp
   - +.visualarts.gr.jp
   - +.visualstudio-staging.com
@@ -21455,7 +21432,6 @@ payload:
   - +.weather
   - +.weatherchannel
   - +.weav.xyz
-  - +.web-analytics.wildberries.ru
   - +.web-instagram.net
   - +.web.app
   - +.web.dev
@@ -21912,13 +21888,6 @@ payload:
   - +.xandr.com
   - +.xanimeporn.com
   - +.xanimeporn.tv
-  - +.xapi.ozon.by
-  - +.xapi.ozon.com.by
-  - +.xapi.ozon.com.kz
-  - +.xapi.ozon.com
-  - +.xapi.ozon.kz
-  - +.xapi.ozon.ru
-  - +.xapi.ozonru.me
   - +.xapplist.com
   - +.xattractive.com
   - +.xaxy.xyz
@@ -22039,6 +22008,7 @@ payload:
   - +.xlovecam.com
   - +.xlstudio.com
   - +.xlydh.cc
+  - +.xmail.ru
   - +.xmalay.com
   - +.xmature.su
   - +.xmav99.com
@@ -23187,29 +23157,45 @@ payload:
   - activation-v2.kaspersky.com
   - ad-channel.diwodiwo.xyz
   - ad-display.diwodiwo.xyz
+  - ad.ozone.ru
   - ad4.mail.ru
   - adblogger.vk.com
   - adblogger.vk.ru
   - adcdownload.apple.com.akadns.net
   - adcdownload.apple.com
   - adeventtracker.spotify.com
+  - adfstat.yandex.ru
   - admob-cn.com
   - adobeereg.com
+  - ads-gate.wildberries.ru
   - ads-integration.rustore.ru
+  - ads-media.wildberries.ru
   - ads.dahlmessenger.com
   - ads.icq.com
   - ads.rustore.ru
   - ads.vk.com
   - ads.vk.ru
+  - ads.wildberries.ru
+  - ads.yandex.com
+  - ads.yango.com
   - adsapp.dahlmessenger.com
   - adsapp.stage.telega.info
   - adsapp.telega.info
+  - adsdk.yandex.ru
   - adservice.google.com
   - adstudio-assets.scdn.co
+  - adv.ozon.ru
   - adv.rustore.ru
   - adv.vk.ru
+  - advert-api-sandbox.wb.ru
+  - advert-api-sandbox.wildberries.ru
+  - advert-api.wb.ru
+  - advert-api.wildberries.ru
+  - advert-media-api.wb.ru
+  - advert-media-api.wildberries.ru
   - advk.vk.ru
   - afcs.dell.com
+  - agency-adv.ozon.ru
   - alibaba.cdn.steampipe.steamcontent.com
   - alt-r.my.com
   - alt1-mtalk.google.com
@@ -23218,6 +23204,7 @@ payload:
   - alt4-mtalk.google.com
   - alt5-mtalk.google.com
   - alt6-mtalk.google.com
+  - amc.yandex.ru
   - amp-api-edge-lb-cn.itunes-apple.com.akadns.net
   - amp-api-edge-lb.itunes-apple.com.akadns.net
   - amp-api-edge.apps.apple.com
@@ -23228,13 +23215,33 @@ payload:
   - amp-api.media.apple.com
   - amp-api.music.apple.com
   - an.mail.ru
+  - analytics-adv.ozon.ru
+  - analytics-stage.wildberries.ru
   - analytics.google.com
+  - analytics.mobile.yandex.net
   - analytics.vk.ru
+  - analytics.wildberries.ru
   - angle.com.tw
   - aod-ssl.itunes.apple.com
   - aod.itunes.apple.com
   - api-edge.apps.apple.com
+  - api-eu.carrotquest.app
+  - api-eu.carrotquest.io
+  - api-js.mindbox.ru
   - api-p.videomarket.jp
+  - api-ru.carrotquest.app
+  - api-ru.carrotquest.io
+  - api-ru.mindbox.cloud
+  - api-secure.carrotquest.app
+  - api-secure.carrottrack.app
+  - api-staging.mindbox.ru
+  - api.carrotquest.app
+  - api.carrotquest.io
+  - api.carrottrack.app
+  - api.dashly.app
+  - api.dashlytrack.app
+  - api.mindbox.cloud
+  - api.mindbox.ru
   - app-analytics-services.com
   - app-measurement-cn.com
   - app-measurement.com
@@ -23257,6 +23264,7 @@ payload:
   - beacons2.gvt2.com
   - beacons3.gvt2.com
   - beck-online.beck.de
+  - beginners-adv.ozon.ru
   - bg.v4.a.dl.ws.microsoft.com
   - bg4.v4.a.dl.ws.microsoft.com
   - bj1.api.bing.com
@@ -23310,6 +23318,9 @@ payload:
   - cl4.apple.com
   - cl5-cdn.origin-apple.com.akadns.net
   - cl5.apple.com
+  - clck.yandex.com
+  - clck.yandex.net
+  - clck.yango.com
   - click.rustore.ru
   - clickserve.cc-dt.com
   - clickserve.dartsearch.net
@@ -23405,6 +23416,7 @@ payload:
   - elib.maruzen.co.jp
   - emmapplecodevice.googleapis.com
   - emoi-cncdn.bing.com
+  - error-tracking.megamarket.tech
   - experiments.apple.com
   - f.c2r.ts.cdn.office.net
   - f3b7q2p3.ssl.hwcdn.net
@@ -23437,6 +23449,7 @@ payload:
   - gonglchuangl.net
   - gongyichuangyi.net
   - google-analytics-cn.com
+  - google-analytics-suite.ozon.ru
   - google-analytics.com
   - googleadservices-cn.com
   - googleadservices.com
@@ -23497,6 +23510,7 @@ payload:
   - inappcheck-cn.itunes-apple.com.akadns.net
   - inappcheck-lb.itunes-apple.com.akadns.net
   - inappcheck.itunes.apple.com
+  - informer.yandex.ru
   - ingest.apple-studies.com
   - init-kt.apple.com
   - init-p01md-lb.push-apple.com.akadns.net
@@ -23563,8 +23577,14 @@ payload:
   - logger-dev.corp.google.com
   - logger.corp.google.com
   - login.corp.google.com
+  - loyalnost-adv.ozon.ru
   - lv.queniujq.cn
   - maps.apple.com
+  - marketing-info.wildberries.ru
+  - marketplace-sentry.wb.ru
+  - mc.yandex.com
+  - mc.yandex.net
+  - mc.yango.com
   - mdn.mozillademos.org
   - mdr.ksn.kaspersky-labs.com
   - medone-education.thieme.com
@@ -23572,6 +23592,7 @@ payload:
   - mesu-cdn.apple.com.akadns.net
   - mesu-china.apple.com.akadns.net
   - mesu.apple.com
+  - metrics.21-school.ru
   - misc-assets.itunes.apple.com
   - ml.cdn-apple.com
   - monitoring.qpdp1.net
@@ -23582,6 +23603,7 @@ payload:
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
   - myvs.download.prss.microsoft.com
+  - new-adv.ozon.ru
   - nexus.dell.com
   - np-edge.itunes.apple.com
   - ntp-c.colorado.edu
@@ -23657,6 +23679,7 @@ payload:
   - pd.itunes.apple.com
   - performanceparameters.googleapis.com
   - pixel.rustore.ru
+  - pixel.yandex.com
   - pki-goog.l.google.com
   - play.itunes.apple.com
   - play.music.apple.com
@@ -23670,6 +23693,7 @@ payload:
   - prod-support.apple-support.akadns.net
   - prod.databe.floonet.goog
   - productcard.gog-statics.com
+  - prodvizhenie-adv.ozon.ru
   - proxyconfig.corp.google.com
   - public-us-pingsx.api.clonoth.com
   - publicassets.cdn-apple.com
@@ -23679,6 +23703,7 @@ payload:
   - qpx.googleflights.net
   - qualysapi.qatp1.net
   - qualysguard.qpdp1.net
+  - questions-adv.ozon.ru
   - r.cert.corp.google.com
   - r0.mail.ru
   - r0.mradx.net
@@ -23699,6 +23724,7 @@ payload:
   - redirector.xn--ngstr-lra8j.com
   - refresh-bkg.activation-v2.kaspersky.com
   - reklama.mail.ru
+  - report.ap.yandex-net.ru
   - res-1.cdn.office.net
   - res.cdn.office.net
   - reserve-prime.apple.com
@@ -23767,8 +23793,13 @@ payload:
   - sentry.dev-my.com
   - sentry.dev-my.games
   - sentry.hetzner.company
+  - sentry.mindbox.ru
+  - sentry.ozon.ru
+  - sentry.popmechanic.ru
   - sentry.rustore.ru
+  - sentry.sberauto.com
   - sentry.viqeo.tv
+  - sentry.wb.ru
   - sequoia.apple.com
   - service.urchin.com
   - sf-api-token-service.itunes.apple.com
@@ -23848,6 +23879,7 @@ payload:
   - tools.l.google.com
   - top-staging.mail.ru
   - tp.louisvuitton.com
+  - tracing-http.megamarket.tech
   - uberproxy-debug4.corp.google.com
   - uberproxy.corp.google.com
   - uberproxy6.corp.google.com
@@ -23865,6 +23897,7 @@ payload:
   - utcnist3.colorado.edu
   - valid.apple.com
   - valid.origin-apple.com.akadns.net
+  - visor.sberbank.ru
   - vscode.download.prss.microsoft.com
   - vsmarketplacebadge.apphb.com
   - vz.download.prss.microsoft.com
@@ -23874,6 +23907,7 @@ payload:
   - weather-map.apple.com
   - weather-map2.apple.com
   - weatherkit.apple.com
+  - web-analytics.wildberries.ru
   - whiteline.mail.ru
   - widgets.stripst.com
   - wrds-www.wharton.upenn.edu
@@ -23895,6 +23929,13 @@ payload:
   - www.recaptcha.net
   - www.support.apple.com
   - www4-static.gog-statics.com
+  - xapi.ozon.by
+  - xapi.ozon.com.by
+  - xapi.ozon.com.kz
+  - xapi.ozon.com
+  - xapi.ozon.kz
+  - xapi.ozon.ru
+  - xapi.ozonru.me
   - xn--flw351e.com
   - xp.apple.com
   - xray.mail.ru
