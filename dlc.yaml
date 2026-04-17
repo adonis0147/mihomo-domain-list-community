@@ -16827,6 +16827,8 @@ payload:
   - DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
   - DOMAIN-SUFFIX,management-azure-devices.cn
   - DOMAIN-SUFFIX,management-azure-devices.net
+  - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,map-software.com
   - DOMAIN-SUFFIX,mapguide.com
   - DOMAIN-SUFFIX,mappingonline.com
@@ -88911,6 +88913,8 @@ payload:
   - DOMAIN-SUFFIX,login-account.net
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,makeitopen.com
+  - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,markzuckerberg.com
   - DOMAIN-SUFFIX,mcrouter.net
   - DOMAIN-SUFFIX,mcrouter.org
