@@ -355,6 +355,7 @@ payload:
   - DOMAIN-SUFFIX,adguard.io
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,adguardaccount.com
+  - DOMAIN-SUFFIX,adguardcdn.com
   - DOMAIN-SUFFIX,adguardvpn.com
   - DOMAIN-SUFFIX,adtidy.net
   - DOMAIN-SUFFIX,adtidy.org
@@ -52095,6 +52096,7 @@ payload:
   - DOMAIN-SUFFIX,adguard.io
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,adguardaccount.com
+  - DOMAIN-SUFFIX,adguardcdn.com
   - DOMAIN-SUFFIX,adguardvpn.com
   - DOMAIN-SUFFIX,adhelpnews.com
   - DOMAIN-SUFFIX,adidas-archive.org
