@@ -76,6 +76,7 @@ payload:
   - +.17u.net
   - +.17usoft.com
   - +.17usoft.net
+  - +.17van.com
   - +.17zuoye.com
   - +.17zuoye.net
   - +.18183.com
@@ -348,6 +349,7 @@ payload:
   - +.acctdns.com
   - +.acctdns.net
   - +.accxiaoheihe.com
+  - +.acepanel.net
   - +.acetaffy.club
   - +.acfun.net
   - +.acfunchina.com
@@ -467,9 +469,11 @@ payload:
   - +.ahitv.com
   - +.aicdn.com
   - +.aichaoxing.com
+  - +.aidream.website
   - +.aiemy.com
   - +.aiganggu.com
   - +.aigc-cloud.com
+  - +.aigodlike.com
   - +.aihst8.com
   - +.aihuishou.com
   - +.aiketour.com
@@ -730,6 +734,7 @@ payload:
   - +.baomitu.com
   - +.baoxianshichang.com
   - +.baseopendev.com
+  - +.batchat.com
   - +.battlecare.net
   - +.baydn.com
   - +.bazai.com
@@ -1180,6 +1185,7 @@ payload:
   - +.cheng.xin
   - +.chesicc.com
   - +.chesicc.net
+  - +.chessease.net
   - +.cheyisou.com
   - +.china-chair.com
   - +.china-nengyuan.com
@@ -1241,6 +1247,7 @@ payload:
   - +.chugou360.com
   - +.chuimg.com
   - +.chujingapp.com
+  - +.chushi.cool
   - +.chushou.tv
   - +.chuyu.me
   - +.cibntv.net
@@ -1420,6 +1427,7 @@ payload:
   - +.coloros.net
   - +.computeinit.com
   - +.comsenz.com
+  - +.cone-x.com
   - +.contentchina.com
   - +.cookicut.com
   - +.coolab.top
@@ -1630,6 +1638,7 @@ payload:
   - +.diopic.net
   - +.discuz.net
   - +.discuz.org
+  - +.divoiotcloud.com
   - +.diyiyou.com
   - +.dj99.com
   - +.djdjapp.com
@@ -1794,6 +1803,7 @@ payload:
   - +.e.kuaishou.com
   - +.e.qq.com
   - +.e.stat.ykimg.com
+  - +.eagsen.com
   - +.easesale.com
   - +.easiu.com
   - +.eastday.com
@@ -1863,12 +1873,15 @@ payload:
   - +.essurl.com
   - +.et-api.com
   - +.et001.com
+  - +.et0731.com
   - +.etao.com
   - +.ets100.com
   - +.euads-o.api.leiniao.com
   - +.eufycn.com
   - +.everbright.com
+  - +.excelbbx.net
   - +.excelhome.net
+  - +.exiliumgf.com
   - +.exmailgz.com
   - +.expreview.com
   - +.extfans.com
@@ -2211,6 +2224,7 @@ payload:
   - +.guaiku.com
   - +.guanaitong.com
   - +.guanggaoad.youku.com
+  - +.guangyapan.com
   - +.guanhaobio.com
   - +.guanyierp.com
   - +.guazi.com
@@ -2230,6 +2244,7 @@ payload:
   - +.gupzs.com
   - +.gushiwen.org
   - +.guzhangting.com
+  - +.gvgoo.com
   - +.gwdang.com
   - +.gxairlines.com
   - +.gxb.io
@@ -2504,6 +2519,7 @@ payload:
   - +.hwtrip.com
   - +.hxfy888.com
   - +.hxsd.com
+  - +.hybiome.com
   - +.hypercachenet.com
   - +.hzdtv.tv
   - +.hzman.net
@@ -2591,6 +2607,7 @@ payload:
   - +.ihuoshanvod.com
   - +.ihykb.com
   - +.ijiandao.com
+  - +.ijingyi.com
   - +.ijinshan.com
   - +.ikafan.com
   - +.ikanchai.com
@@ -2788,6 +2805,7 @@ payload:
   - +.jdl.com
   - +.jdpay.com
   - +.jdpaydns.com
+  - +.jduoduo.com
   - +.jdwl.com
   - +.jdx.com
   - +.jet-ego.com
@@ -2799,6 +2817,7 @@ payload:
   - +.jia.com
   - +.jiameng.com
   - +.jianbihua.com
+  - +.jiangningwater.com
   - +.jianguoyun.com
   - +.jianshu.com
   - +.jianshu.io
@@ -2827,6 +2846,7 @@ payload:
   - +.jindidata.com
   - +.jingdong.com
   - +.jingdongjinrong.com
+  - +.jingheiot.com
   - +.jinglingbiaozhu.com
   - +.jingpinhui.com
   - +.jingxi.com
@@ -2897,6 +2917,7 @@ payload:
   - +.jsbc.com
   - +.jsdmirror.com
   - +.jsehealth.com
+  - +.jsj.top
   - +.jslife.net
   - +.jsrdgg.com
   - +.jstti.com
@@ -2948,6 +2969,8 @@ payload:
   - +.kaadas.com
   - +.kaifayun.com
   - +.kaifubiao.com
+  - +.kaihong.com
+  - +.kaipanhong.com
   - +.kaipuyun.com
   - +.kaipuyun.net
   - +.kaixin001.com
@@ -3211,6 +3234,7 @@ payload:
   - +.lietou-static.com
   - +.lietou.com
   - +.lieyunwang.com
+  - +.lightmake.site
   - +.lightonus.com
   - +.likuso.com
   - +.linakesi.com
@@ -3344,6 +3368,7 @@ payload:
   - +.mayshijia.com
   - +.mbalib.com
   - +.mbdlog.iqiyi.com
+  - +.mblyun.com
   - +.mcbaas.work
   - +.mcbang.com
   - +.mcbbs.net
@@ -3380,6 +3405,7 @@ payload:
   - +.meitustat.com
   - +.meiwulist.com
   - +.meizu.com
+  - +.meloong.com
   - +.mengtuoshi.wang
   - +.merach.com
   - +.meta.law
@@ -3405,6 +3431,7 @@ payload:
   - +.midea.com
   - +.mideaepayuat.com
   - +.miercn.com
+  - +.mifon.com
   - +.migames.com
   - +.migucloud.com
   - +.migufun.com
@@ -3763,6 +3790,7 @@ payload:
   - +.phpwind.com
   - +.phpwind.net
   - +.piaoliang.com
+  - +.piedaochuan.top
   - +.pigai.org
   - +.pimlog.baidu.com
   - +.pinduoduo.com
@@ -4091,6 +4119,7 @@ payload:
   - +.shang360.com
   - +.shangc.net
   - +.shanghairc.com
+  - +.shanghongbei.com
   - +.shangshi360.com
   - +.shangyexinzhi.com
   - +.shangzhibo.tv
@@ -4319,8 +4348,10 @@ payload:
   - +.taikang.com
   - +.taikanglife.com
   - +.taikangzhijia.com
+  - +.tajiduo.com
   - +.tajs.qq.com
   - +.takungpao.com
+  - +.talk-cloud.net
   - +.talkingdata.com
   - +.talkinggame.com
   - +.tamaegis.com
@@ -4481,6 +4512,7 @@ payload:
   - +.thinkcloudlab.com
   - +.thinkpad.com
   - +.thinkprinter.net
+  - +.thmnet.com
   - +.ths123.com
   - +.thundercdn.com
   - +.thunderurl.com
@@ -4489,6 +4521,7 @@ payload:
   - +.tianjimedia.com
   - +.tianjin-air.com
   - +.tianlailive.com
+  - +.tianlala.com
   - +.tianpeng.com
   - +.tianqi.com
   - +.tianqistatic.com
@@ -4543,6 +4576,7 @@ payload:
   - +.tom.com
   - +.tongdun.net
   - +.tongfangpc.com
+  - +.tongkask.com
   - +.tongtaiamc.com
   - +.tongxianghuicn.com
   - +.tongxuepie.com
@@ -4738,6 +4772,7 @@ payload:
   - +.vamaker.com
   - +.vancl.com
   - +.vanclimg.com
+  - +.vanjee.net
   - +.vaptcha.com
   - +.vaptcha.net
   - +.variflight.com
@@ -5047,6 +5082,7 @@ payload:
   - +.xafc.com
   - +.xbext.com
   - +.xbiao.com
+  - +.xboxfan.com
   - +.xcsc.com
   - +.xd.com
   - +.xdcdn.net
@@ -5315,6 +5351,7 @@ payload:
   - +.youyiwms.com
   - +.youzan.com
   - +.youzanyun.com
+  - +.youzhiyouxing.com
   - +.youzu.com
   - +.yowhale.com
   - +.yoyojie.com
@@ -5400,6 +5437,7 @@ payload:
   - +.yzwb.net
   - +.yzyxgame.com
   - +.z-bank.com
+  - +.z-tek.com
   - +.z.ai
   - +.z.gds.cnzz.com
   - +.z28j.com
@@ -5452,6 +5490,7 @@ payload:
   - +.zhichanli.com
   - +.zhidemai.com
   - +.zhidx.com
+  - +.zhiexa.com
   - +.zhifang.com
   - +.zhihang100.com
   - +.zhihu-web-analytics.zhihu.com
@@ -5547,6 +5586,7 @@ payload:
   - +.zxxk.com
   - +.zybang.com
   - +.zyh365.com
+  - +.zysou.com
   - +.zz.bdstatic.com
   - +.zzdtec.com
   - +.zztfly.com
