@@ -10173,6 +10173,8 @@ payload:
   - DOMAIN-SUFFIX,hunyuan.tencent.com
   - DOMAIN-SUFFIX,kimi.com
   - DOMAIN-SUFFIX,liblib.art
+  - DOMAIN-SUFFIX,liblib.cloud
+  - DOMAIN-SUFFIX,liblib.tv
   - DOMAIN-SUFFIX,maoxiangai.com
   - DOMAIN-SUFFIX,marscode.cn
   - DOMAIN-SUFFIX,marscode.com.cn
@@ -45715,6 +45717,8 @@ payload:
   - DOMAIN-SUFFIX,liba.com
   - DOMAIN-SUFFIX,libaclub.com
   - DOMAIN-SUFFIX,liblib.art
+  - DOMAIN-SUFFIX,liblib.cloud
+  - DOMAIN-SUFFIX,liblib.tv
   - DOMAIN-SUFFIX,libvideo.com
   - DOMAIN-SUFFIX,liepin.com
   - DOMAIN-SUFFIX,lietou-static.com
@@ -79593,6 +79597,8 @@ payload:
   - DOMAIN-SUFFIX,liba.com
   - DOMAIN-SUFFIX,libaclub.com
   - DOMAIN-SUFFIX,liblib.art
+  - DOMAIN-SUFFIX,liblib.cloud
+  - DOMAIN-SUFFIX,liblib.tv
   - DOMAIN-SUFFIX,libvideo.com
   - DOMAIN-SUFFIX,liebao.cn
   - DOMAIN-SUFFIX,liepin.com
