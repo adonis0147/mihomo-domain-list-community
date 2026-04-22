@@ -9906,6 +9906,7 @@ payload:
   - DOMAIN-SUFFIX,comfyregistry.org
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,crewai.com
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
@@ -9945,7 +9946,9 @@ payload:
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,liveperson.net
+  - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lovart.ai
   - DOMAIN-SUFFIX,lpsnmedia.net
   - DOMAIN-SUFFIX,makersuite.google.com
@@ -9959,6 +9962,7 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,opal.google
   - DOMAIN-SUFFIX,opal.google.com
   - DOMAIN-SUFFIX,openai.com
@@ -10042,6 +10046,7 @@ payload:
   - DOMAIN-SUFFIX,comfyregistry.org
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,crewai.com
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
@@ -10081,7 +10086,9 @@ payload:
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,liveperson.net
+  - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lovart.ai
   - DOMAIN-SUFFIX,lpsnmedia.net
   - DOMAIN-SUFFIX,makersuite.google.com
@@ -10095,6 +10102,7 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,opal.google
   - DOMAIN-SUFFIX,opal.google.com
   - DOMAIN-SUFFIX,openai.com
@@ -10148,7 +10156,6 @@ payload:
   - DOMAIN-SUFFIX,askdiandian.com
   - DOMAIN-SUFFIX,baichuan-ai.com
   - DOMAIN-SUFFIX,bigmodel.cn
-  - DOMAIN-SUFFIX,botvip.cn
   - DOMAIN-SUFFIX,butterfly-static.cn
   - DOMAIN-SUFFIX,butterflyai.cn
   - DOMAIN-SUFFIX,chatglm.cn
@@ -10201,6 +10208,7 @@ payload:
   - DOMAIN-SUFFIX,rwkv.cn
   - DOMAIN-SUFFIX,rwkv.com
   - DOMAIN-SUFFIX,skillhub.cn
+  - DOMAIN-SUFFIX,tapnow.top
   - DOMAIN-SUFFIX,tcwqqdy.guru
   - DOMAIN-SUFFIX,tiangong.cn
   - DOMAIN-SUFFIX,tongyi.aliyun.com
@@ -46861,6 +46869,7 @@ payload:
   - DOMAIN-SUFFIX,tapapks.com
   - DOMAIN-SUFFIX,tapimg.com
   - DOMAIN-SUFFIX,tapimg.net
+  - DOMAIN-SUFFIX,tapnow.top
   - DOMAIN-SUFFIX,taptap.com
   - DOMAIN-SUFFIX,taptapdada.com
   - DOMAIN-SUFFIX,tbcache.com
@@ -56981,6 +56990,7 @@ payload:
   - DOMAIN-SUFFIX,crececonebay.com
   - DOMAIN-SUFFIX,creditcardsbay.com
   - DOMAIN-SUFFIX,creditkarma.com
+  - DOMAIN-SUFFIX,crewai.com
   - DOMAIN-SUFFIX,cricketcountry.com
   - DOMAIN-SUFFIX,crit-staging.com
   - DOMAIN-SUFFIX,critiquebrainz.org
@@ -63837,6 +63847,7 @@ payload:
   - DOMAIN-SUFFIX,lagranepoca.com
   - DOMAIN-SUFFIX,lanasbigboobs.com
   - DOMAIN-SUFFIX,landofhope.tv
+  - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,langsuirs.com
   - DOMAIN-SUFFIX,lanik.us
   - DOMAIN-SUFFIX,lanmdh.net
@@ -64096,6 +64107,7 @@ payload:
   - DOMAIN-SUFFIX,lmm167.shop
   - DOMAIN-SUFFIX,lmmbtc.com
   - DOMAIN-SUFFIX,lms01.com
+  - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lnkd.in
   - DOMAIN-SUFFIX,lnstagram-help.com
   - DOMAIN-SUFFIX,loanbuilder.com
@@ -66919,6 +66931,7 @@ payload:
   - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,olevodtv.com
   - DOMAIN-SUFFIX,oli-school.com
+  - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,omafotze.com
   - DOMAIN-SUFFIX,omakase.in
   - DOMAIN-SUFFIX,omaps.app
@@ -76662,7 +76675,6 @@ payload:
   - DOMAIN-SUFFIX,boscam.com.cn
   - DOMAIN-SUFFIX,bosera.com
   - DOMAIN-SUFFIX,bosszhipin.com
-  - DOMAIN-SUFFIX,botvip.cn
   - DOMAIN-SUFFIX,bouffalolab.com
   - DOMAIN-SUFFIX,boxdouyin.com
   - DOMAIN-SUFFIX,bplslb.com
@@ -81022,6 +81034,7 @@ payload:
   - DOMAIN-SUFFIX,tapd.cn
   - DOMAIN-SUFFIX,tapimg.com
   - DOMAIN-SUFFIX,tapimg.net
+  - DOMAIN-SUFFIX,tapnow.top
   - DOMAIN-SUFFIX,taptap.cn
   - DOMAIN-SUFFIX,taptap.com
   - DOMAIN-SUFFIX,taptapdada.com

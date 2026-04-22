@@ -3,7 +3,6 @@ payload:
   - +.askdiandian.com
   - +.baichuan-ai.com
   - +.bigmodel.cn
-  - +.botvip.cn
   - +.butterfly-static.cn
   - +.butterflyai.cn
   - +.chatglm.cn
@@ -56,6 +55,7 @@ payload:
   - +.rwkv.cn
   - +.rwkv.com
   - +.skillhub.cn
+  - +.tapnow.top
   - +.tcwqqdy.guru
   - +.tiangong.cn
   - +.tongyi.aliyun.com
