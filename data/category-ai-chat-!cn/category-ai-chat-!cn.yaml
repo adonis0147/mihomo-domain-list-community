@@ -1,4 +1,5 @@
 payload:
+  - +.agentclientprotocol.com
   - +.ai.studio
   - +.aicode.googleapis.com
   - +.aida.googleapis.com

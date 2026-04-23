@@ -9872,6 +9872,7 @@ payload:
   - DOMAIN-SUFFIX,sabavision.com
   - DOMAIN-SUFFIX,tapsell.ir
   - DOMAIN-SUFFIX,yektanet.com
+  - DOMAIN-SUFFIX,agentclientprotocol.com
   - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
@@ -10014,6 +10015,7 @@ payload:
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+  - DOMAIN-SUFFIX,agentclientprotocol.com
   - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
@@ -52460,6 +52462,7 @@ payload:
   - DOMAIN-SUFFIX,agefans.com
   - DOMAIN-SUFFIX,agemys.org
   - DOMAIN-SUFFIX,agendaweek.com
+  - DOMAIN-SUFFIX,agentclientprotocol.com
   - DOMAIN-SUFFIX,aggresmart.com
   - DOMAIN-SUFFIX,agilebits.com
   - DOMAIN-SUFFIX,agrd.eu
