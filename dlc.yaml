@@ -9873,6 +9873,7 @@ payload:
   - DOMAIN-SUFFIX,tapsell.ir
   - DOMAIN-SUFFIX,yektanet.com
   - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
@@ -9973,6 +9974,7 @@ payload:
   - DOMAIN-SUFFIX,oystermercury.top
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,perplexity.com
+  - DOMAIN-SUFFIX,plannotator.ai
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,pplx.ai
@@ -10013,6 +10015,7 @@ payload:
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
@@ -10113,6 +10116,7 @@ payload:
   - DOMAIN-SUFFIX,oystermercury.top
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,perplexity.com
+  - DOMAIN-SUFFIX,plannotator.ai
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,pplx.ai
@@ -24317,6 +24321,7 @@ payload:
   - DOMAIN-SUFFIX,twinmotion.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchcon.com
   - DOMAIN-SUFFIX,twitchsvc.net
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
@@ -67769,6 +67774,7 @@ payload:
   - DOMAIN-SUFFIX,placesdocs.com
   - DOMAIN-SUFFIX,planetminecraft.com
   - DOMAIN-SUFFIX,planetsuzy.org
+  - DOMAIN-SUFFIX,plannotator.ai
   - DOMAIN-SUFFIX,plansondemand.com
   - DOMAIN-SUFFIX,plantsvszombies2.com
   - DOMAIN-SUFFIX,plasticlabs.com
@@ -71675,6 +71681,7 @@ payload:
   - DOMAIN-SUFFIX,twistys.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchcon.com
   - DOMAIN-SUFFIX,twitchsvc.net
   - DOMAIN-SUFFIX,twitcomike.jp
   - DOMAIN-SUFFIX,twitpic.com
@@ -83877,6 +83884,7 @@ payload:
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
@@ -83914,6 +83922,7 @@ payload:
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
@@ -97509,6 +97518,7 @@ payload:
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchcon.com
   - DOMAIN-SUFFIX,twitchsvc.net
   - DOMAIN,d1g1f25tn8m2e6.cloudfront.net
   - DOMAIN,d1m7jfoe9zdc1j.cloudfront.net

@@ -1,5 +1,6 @@
 payload:
   - +.ai.studio
+  - +.aicode.googleapis.com
   - +.aida.googleapis.com
   - +.aisandbox-pa.googleapis.com
   - +.aistudio.google.com
@@ -100,6 +101,7 @@ payload:
   - +.oystermercury.top
   - +.perplexity.ai
   - +.perplexity.com
+  - +.plannotator.ai
   - +.poe.com
   - +.poecdn.net
   - +.pplx.ai
