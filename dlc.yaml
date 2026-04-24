@@ -29130,6 +29130,7 @@ payload:
   - DOMAIN-SUFFIX,ip.mail.ru
   - DOMAIN-SUFFIX,ip.me
   - DOMAIN-SUFFIX,ip.nic.ru
+  - DOMAIN-SUFFIX,ip.pe.kr
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ip.tyk.nu
   - DOMAIN-SUFFIX,ip2c.org
