@@ -44729,6 +44729,7 @@ payload:
   - DOMAIN-SUFFIX,guaiku.com
   - DOMAIN-SUFFIX,guanaitong.com
   - DOMAIN-SUFFIX,guanggaoad.youku.com
+  - DOMAIN-SUFFIX,guangyacdn.com
   - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,guanhaobio.com
   - DOMAIN-SUFFIX,guanyierp.com
@@ -78403,6 +78404,7 @@ payload:
   - DOMAIN-SUFFIX,guancha.cn
   - DOMAIN-SUFFIX,guanggaoad.youku.com
   - DOMAIN-SUFFIX,guanggaotongapp.cn
+  - DOMAIN-SUFFIX,guangyacdn.com
   - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,guanhaobio.com
   - DOMAIN-SUFFIX,guanyierp.com
@@ -99714,6 +99716,8 @@ payload:
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,88cdn.com
   - DOMAIN-SUFFIX,8uri.cn
+  - DOMAIN-SUFFIX,guangyacdn.com
+  - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,kanimg.com
   - DOMAIN-SUFFIX,p2cdn.com
   - DOMAIN-SUFFIX,sandai.net
