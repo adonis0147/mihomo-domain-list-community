@@ -4789,8 +4789,6 @@ payload:
   - +.management-azure-devices-provisioning.cn
   - +.management-azure-devices.cn
   - +.management-azure-devices.net
-  - +.manus.im
-  - +.manuscdn.com
   - +.map-software.com
   - +.mapguide.com
   - +.mappingonline.com
@@ -7988,6 +7986,7 @@ payload:
   - uberproxy-debug4.corp.google.com
   - uberproxy.corp.google.com
   - uberproxy6.corp.google.com
+  - universal-activity-service.itunes.apple.com
   - update.crashlytics.com
   - update.googleapis.com
   - updates-http.cdn-apple.com.akadns.net

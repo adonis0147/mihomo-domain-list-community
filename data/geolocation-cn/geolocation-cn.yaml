@@ -369,6 +369,7 @@ payload:
   - +.91danji.com
   - +.91shenfan.com
   - +.91yunxiao.com
+  - +.95015.com
   - +.95095.com
   - +.95306.cn
   - +.95311.com
@@ -730,6 +731,7 @@ payload:
   - +.apcdns.net
   - +.apdcdn.com
   - +.apdcdn.net
+  - +.api-building.fun
   - +.apidns.kwd.inkuai.com
   - +.apifox.cn
   - +.apifox.com
@@ -853,6 +855,8 @@ payload:
   - +.bankofbeijing.com.cn
   - +.bankofchina.com
   - +.banmaaike.com
+  - +.banxiaoer.com
+  - +.banxiaoer.net
   - +.baofeng.com
   - +.baofeng.net
   - +.baomitu.com
@@ -1083,6 +1087,7 @@ payload:
   - +.buf35.cn
   - +.bugly.qq.com
   - +.build9s.io
+  - +.building.fun
   - +.buke999.com
   - +.burningvocabulary.cn
   - +.burningvocabulary.com
@@ -1407,6 +1412,7 @@ payload:
   - +.cdnv2.cn
   - +.cdnv3.cn
   - +.ceair.com
+  - +.ceati.org.cn
   - +.cebbank.com
   - +.ceblease.com
   - +.cecdc.com
@@ -1772,11 +1778,21 @@ payload:
   - +.cowcs.com
   - +.cowlevel.net
   - +.cowtransfer.com
+  - +.coze-dns-01.com
   - +.coze.cn
+  - +.coze.email
   - +.coze.site
+  - +.cozeapp.net
   - +.cozebaas.cn
+  - +.cozebuild.com
+  - +.cozecdn.com
+  - +.cozedeploy.com
   - +.cozefn.cn
   - +.cozeide.cn
+  - +.cozesdk.com
+  - +.cozetest.cn
+  - +.cozetest2.cn
+  - +.cozetest3.cn
   - +.cpatrk.net
   - +.cppblog.com
   - +.cpppf.org
@@ -1936,6 +1952,7 @@ payload:
   - +.data.mistat.intl.xiaomi.com
   - +.data.mistat.rus.xiaomi.com
   - +.data.mistat.xiaomi.com
+  - +.datacon.org.cn
   - +.dataeye.com
   - +.datasea.cn
   - +.datayi.cn
@@ -1953,6 +1970,7 @@ payload:
   - +.dbankcloud.com
   - +.dbankedge.cn
   - +.dbankedge.net
+  - +.dbbuilding.fun
   - +.dbfund.com.cn
   - +.dc.letv.com
   - +.dcarapi.com
@@ -2138,6 +2156,7 @@ payload:
   - +.douban.com
   - +.douban.fm
   - +.doubanio.com
+  - +.doubao-dev.com
   - +.doubao.com
   - +.doubaocdn.com
   - +.doubo03.com
@@ -3311,6 +3330,7 @@ payload:
   - +.inspirecloud.cn
   - +.inspirecloud.com
   - +.insta360.com
+  - +.instreet.com
   - +.inte.sogou.com
   - +.inte.sogoucdn.com
   - +.intsig.com
@@ -4528,6 +4548,8 @@ payload:
   - +.nzwgs.com
   - +.o7mu8.cn
   - +.oadz.com
+  - +.obriccloud.com
+  - +.obricclouddw.com
   - +.oc.umeng.com
   - +.oceancloudapi.com
   - +.ocfund.cn
@@ -4838,6 +4860,8 @@ payload:
   - +.qianjia.com
   - +.qianlima.com
   - +.qianwen.com
+  - +.qianxin.com
+  - +.qianxincdn.com
   - +.qianxun.com
   - +.qianyierp.com
   - +.qianzhan.com
@@ -5028,6 +5052,7 @@ payload:
   - +.saayaa.com
   - +.saduck.top
   - +.saee.org.cn
+  - +.safeskill.cn
   - +.sagemaker.com.cn
   - +.saibo.com
   - +.samasty.com
@@ -5069,6 +5094,7 @@ payload:
   - +.seasungames.com
   - +.sec-wiki.com
   - +.secec.com
+  - +.seclab.online
   - +.secrss.com
   - +.securityfeishu.cn
   - +.securityfs.cn
@@ -5122,6 +5148,7 @@ payload:
   - +.sharejs.com
   - +.sharesdk.cn
   - +.shebiaotm.com
+  - +.shellpub.com
   - +.shelter-china.com
   - +.shelterdome.net
   - +.shengdaosoft.com
@@ -5609,6 +5636,8 @@ payload:
   - +.thinkprinter.com.cn
   - +.thinkprinter.net
   - +.thmnet.com
+  - +.threatbook.cn
+  - +.threatbook.com
   - +.ths123.com
   - +.thsi.cn
   - +.thtf.com.cn
@@ -5625,6 +5654,7 @@ payload:
   - +.tianpeng.com
   - +.tianqi.com
   - +.tianqistatic.com
+  - +.tianshucup.com
   - +.tianxiajiameng.cn
   - +.tianxiajiameng.com
   - +.tianyancha.com

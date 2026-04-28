@@ -23895,6 +23895,7 @@ payload:
   - uberproxy.corp.google.com
   - uberproxy6.corp.google.com
   - ubisoft.siteintercept.qualtrics.com
+  - universal-activity-service.itunes.apple.com
   - update.crashlytics.com
   - update.googleapis.com
   - updates-http.cdn-apple.com.akadns.net

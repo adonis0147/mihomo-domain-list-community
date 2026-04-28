@@ -305,6 +305,7 @@ payload:
   - +.91danji.com
   - +.91shenfan.com
   - +.91yunxiao.com
+  - +.95015.com
   - +.95095.com
   - +.95311.com
   - +.95504test.com
@@ -627,6 +628,7 @@ payload:
   - +.apcdns.net
   - +.apdcdn.com
   - +.apdcdn.net
+  - +.api-building.fun
   - +.apidns.kwd.inkuai.com
   - +.apifox.com
   - +.apigwtencent.com
@@ -729,6 +731,8 @@ payload:
   - +.bankcomm.com
   - +.bankofchina.com
   - +.banmaaike.com
+  - +.banxiaoer.com
+  - +.banxiaoer.net
   - +.baofeng.com
   - +.baofeng.net
   - +.baomitu.com
@@ -907,6 +911,7 @@ payload:
   - +.btrace.qq.com
   - +.bugly.qq.com
   - +.build9s.io
+  - +.building.fun
   - +.buke999.com
   - +.burningvocabulary.com
   - +.bvfcdn.com
@@ -1440,7 +1445,14 @@ payload:
   - +.cowcs.com
   - +.cowlevel.net
   - +.cowtransfer.com
+  - +.coze-dns-01.com
+  - +.coze.email
   - +.coze.site
+  - +.cozeapp.net
+  - +.cozebuild.com
+  - +.cozecdn.com
+  - +.cozedeploy.com
+  - +.cozesdk.com
   - +.cpatrk.net
   - +.cppblog.com
   - +.cpppf.org
@@ -1558,6 +1570,7 @@ payload:
   - +.dbankcdn.com
   - +.dbankcloud.com
   - +.dbankedge.net
+  - +.dbbuilding.fun
   - +.dc.letv.com
   - +.dcarapi.com
   - +.dcarimg.com
@@ -1708,6 +1721,7 @@ payload:
   - +.douban.com
   - +.douban.fm
   - +.doubanio.com
+  - +.doubao-dev.com
   - +.doubao.com
   - +.doubaocdn.com
   - +.doubo03.com
@@ -2647,6 +2661,7 @@ payload:
   - +.inkwai.com
   - +.inspirecloud.com
   - +.insta360.com
+  - +.instreet.com
   - +.inte.sogou.com
   - +.inte.sogoucdn.com
   - +.intsig.com
@@ -3656,6 +3671,8 @@ payload:
   - +.nzsiteres.com
   - +.nzwgs.com
   - +.oadz.com
+  - +.obriccloud.com
+  - +.obricclouddw.com
   - +.oc.umeng.com
   - +.oceancloudapi.com
   - +.ocwms.com
@@ -3909,6 +3926,8 @@ payload:
   - +.qianjia.com
   - +.qianlima.com
   - +.qianwen.com
+  - +.qianxin.com
+  - +.qianxincdn.com
   - +.qianxun.com
   - +.qianyierp.com
   - +.qianzhan.com
@@ -4091,6 +4110,7 @@ payload:
   - +.seasungames.com
   - +.sec-wiki.com
   - +.secec.com
+  - +.seclab.online
   - +.secrss.com
   - +.seeed.cc
   - +.segmentfault.com
@@ -4132,6 +4152,7 @@ payload:
   - +.shareintelli.com
   - +.sharejs.com
   - +.shebiaotm.com
+  - +.shellpub.com
   - +.shelter-china.com
   - +.shelterdome.net
   - +.shengdaosoft.com
@@ -4517,6 +4538,7 @@ payload:
   - +.thinkpad.com
   - +.thinkprinter.net
   - +.thmnet.com
+  - +.threatbook.com
   - +.ths123.com
   - +.thundercdn.com
   - +.thunderurl.com
@@ -4529,6 +4551,7 @@ payload:
   - +.tianpeng.com
   - +.tianqi.com
   - +.tianqistatic.com
+  - +.tianshucup.com
   - +.tianxiajiameng.com
   - +.tianyancha.com
   - +.tiapi.net

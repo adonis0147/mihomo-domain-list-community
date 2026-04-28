@@ -1,21 +1,35 @@
 payload:
   - +.aispeech.com
+  - +.api-building.fun
   - +.askdiandian.com
   - +.baichuan-ai.com
   - +.bigmodel.cn
+  - +.building.fun
   - +.butterfly-static.cn
   - +.butterflyai.cn
   - +.chatglm.cn
   - +.clawhub-mirror.com
   - +.codebuddy.cn
+  - +.coze-dns-01.com
   - +.coze.cn
+  - +.coze.email
   - +.coze.site
+  - +.cozeapp.net
   - +.cozebaas.cn
+  - +.cozebuild.com
+  - +.cozecdn.com
+  - +.cozedeploy.com
   - +.cozefn.cn
   - +.cozeide.cn
+  - +.cozesdk.com
+  - +.cozetest.cn
+  - +.cozetest2.cn
+  - +.cozetest3.cn
   - +.cueme.cn
+  - +.dbbuilding.fun
   - +.deepseek.com
   - +.diandianlife.top
+  - +.doubao-dev.com
   - +.doubao.com
   - +.doubaocdn.com
   - +.doudou.com
@@ -25,6 +39,7 @@ payload:
   - +.hailuoai.com
   - +.hi-butterfly.cn
   - +.hunyuan.tencent.com
+  - +.instreet.com
   - +.kimi.com
   - +.liblib.art
   - +.liblib.cloud
@@ -46,6 +61,9 @@ payload:
   - +.myparallelstory.com
   - +.n.cn
   - +.namiso.com
+  - +.obriccloud.com
+  - +.obricclouddw.com
+  - +.oceancloudapi.com
   - +.picpic-ai.cn
   - +.pixeldance.com
   - +.qianwen.aliyun.com
@@ -54,6 +72,7 @@ payload:
   - +.qwenlm.ai
   - +.rwkv.cn
   - +.rwkv.com
+  - +.safeskill.cn
   - +.skillhub.cn
   - +.tapnow.top
   - +.tcwqqdy.guru
