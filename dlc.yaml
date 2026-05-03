@@ -14481,6 +14481,7 @@ payload:
   - DOMAIN-SUFFIX,dierectv.com
   - DOMAIN-SUFFIX,digitalassetlinks.org
   - DOMAIN-SUFFIX,digitalhub.com
+  - DOMAIN-SUFFIX,digitalocean-ui.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,digitalpack.com
@@ -48960,6 +48961,7 @@ payload:
   - DOMAIN-SUFFIX,thawte.de
   - DOMAIN-SUFFIX,thawte.fr
   - DOMAIN-SUFFIX,ws.symantec.com
+  - DOMAIN-SUFFIX,digitalocean-ui.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,do.co
@@ -57699,6 +57701,7 @@ payload:
   - DOMAIN-SUFFIX,digitaldesire.com
   - DOMAIN-SUFFIX,digitalhub.com
   - DOMAIN-SUFFIX,digitalid.ch
+  - DOMAIN-SUFFIX,digitalocean-ui.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,digitalpack.com
