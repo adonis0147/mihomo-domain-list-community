@@ -101,6 +101,7 @@ payload:
   - +.5lml.com
   - +.8008206616.com
   - +.a-msedge.net
+  - +.a.mts.ru
   - +.a0pple.net
   - +.a2z.com
   - +.a2z.org.cn
@@ -460,6 +461,8 @@ payload:
   - +.ankarazirvesi2018.com
   - +.annstores.net
   - +.antenna.co.kr
+  - +.antiphishing.nl
+  - +.antiphishing.ru
   - +.anydesk.com
   - +.aodahl.com
   - +.aokwholesale.net
@@ -1115,6 +1118,7 @@ payload:
   - +.awstrack.me
   - +.awstrust.com
   - +.awswaf.com
+  - +.azbukainterneta.ru
   - +.azchcdna.com
   - +.azchcdnb.com
   - +.azchcdnc.com
@@ -1204,11 +1208,13 @@ payload:
   - +.azuresmartspaces.net
   - +.azurestackvalidation.com
   - +.azurewebsites.net
+  - +.b2c-digest.ru
   - +.b2clogin.cn
   - +.b3itech.cn
   - +.babes.com
   - +.badaas.com
   - +.bag-glasses1.com
+  - +.bananacall.ru
   - +.band.us
   - +.bandgirlz.com
   - +.bandpage.com
@@ -1491,6 +1497,8 @@ payload:
   - +.beatswirelesscuffie.com
   - +.beatthatquote.com
   - +.beddit.tv
+  - +.beesbfl.ru
+  - +.beescrm.ru
   - +.beget.com
   - +.beget.ru
   - +.begin-trade.com
@@ -1524,6 +1532,7 @@ payload:
   - +.bimadsk.com
   - +.bimglue.com
   - +.bimlibrary.com
+  - +.bimsaas.ru
   - +.bimseeker.com
   - +.bimsource.com
   - +.bimworld.com
@@ -1724,6 +1733,7 @@ payload:
   - +.cadren.com
   - +.caice.com
   - +.calendarserver.org
+  - +.callbackkiller.com
   - +.callersbane.com
   - +.cam-duct.com
   - +.camduct.com
@@ -1829,6 +1839,7 @@ payload:
   - +.casquemonsterbeatsbydre2013.com
   - +.casquesbeatsaudio.com
   - +.catalina.hk
+  - +.cbkiller.com
   - +.cciernslabs.com
   - +.cciesecuritylabs.com
   - +.ccievoicelabs.com
@@ -1851,6 +1862,8 @@ payload:
   - +.centrino.net
   - +.ceosummit.ru
   - +.ceramics-cadcam.com
+  - +.cert-gib.com
+  - +.cert-gib.ru
   - +.certificate-transparency.org
   - +.cfblob.com
   - +.cfd-tv.com
@@ -2128,6 +2141,7 @@ payload:
   - +.customizedbeatsbydre.com
   - +.customizedbeatsdre.com
   - +.cxhub.ru
+  - +.cybercrimecon.com
   - +.cybermondaybeats4sale.com
   - +.cybersport.ru
   - +.dacebook.com
@@ -2158,6 +2172,7 @@ payload:
   - +.daumkakao.io
   - +.daumpcbang.com
   - +.david-laserscanner.com
+  - +.dbo-dengi.online
   - +.dcg.microsoft.com
   - +.dclk
   - +.dctbeatsbydre.com
@@ -2606,6 +2621,9 @@ payload:
   - +.elama.ru
   - +.elasticbeanstalk.com
   - +.elderscrolls.com
+  - +.eligens.cl
+  - +.eligens.com.br
+  - +.eligens.io
   - +.emac.co.in
   - +.emac.in
   - +.emagic.de
@@ -2620,6 +2638,15 @@ payload:
   - +.enpay.co.jp
   - +.enpirion.com
   - +.enterprisepaging.com
+  - +.envybox.company
+  - +.envybox.family
+  - +.envybox.io
+  - +.envybox.kg
+  - +.envybox.su
+  - +.envycdp.com
+  - +.envycdp.ru
+  - +.envycrm.com
+  - +.envyday.ru
   - +.epicevents.gg
   - +.episodic.com
   - +.eprintsw.com
@@ -2651,6 +2678,9 @@ payload:
   - +.extensions4revit.com
   - +.extensionworkshop.com
   - +.extremetube.com
+  - +.f6.dev
+  - +.f6.ru
+  - +.f6.security
   - +.f8.com
   - +.faacebok.com
   - +.faacebook.com
@@ -2663,6 +2693,8 @@ payload:
   - +.facboox.com
   - +.faccebook.com
   - +.faccebookk.com
+  - +.facct.email
+  - +.facct.ru
   - +.facdbook.com
   - +.facdebook.com
   - +.face-book.com
@@ -3099,9 +3131,14 @@ payload:
   - +.funnyfacebook.org
   - +.fusionlifecycle.com
   - +.fusionproductionapps.com
+  - +.future-cs.ru
   - +.futureofbritishmanufacturing.com
   - +.futureofbusinesssurvey.org
   - +.futureofmaktingthings.com
+  - +.g-ib.ae
+  - +.g-ib.ru
+  - +.g-ib.sg
+  - +.g-ib.us
   - +.g-technology.com
   - +.g-tun.com
   - +.g.cn
@@ -3140,7 +3177,13 @@ payload:
   - +.geforce.com.tw
   - +.gemfire.net
   - +.gemini.yahoo.com
+  - +.genetic-technologies.am
   - +.geneticconstructor.com
+  - +.genotek.am
+  - +.genotek.es
+  - +.genotek.eu
+  - +.genotek.health
+  - +.genotek.ru
   - +.geodesummit.com
   - +.geoport.com
   - +.geospatialimaging.com
@@ -3172,6 +3215,10 @@ payload:
   - +.ggpht.com
   - +.gh.io
   - +.ghcr.io
+  - +.gib-global.com
+  - +.gib.sg
+  - +.gibdev.net
+  - +.gibtds.ru
   - +.giffgaff.com
   - +.giffgaff.design
   - +.gigabyte.cn
@@ -3573,6 +3620,17 @@ payload:
   - +.greenlakehybridcloud.com
   - +.greenplum.net
   - +.gridaware.app
+  - +.group-ib.ae
+  - +.group-ib.co.uk
+  - +.group-ib.com
+  - +.group-ib.de
+  - +.group-ib.eu
+  - +.group-ib.ru
+  - +.group-ib.sg
+  - +.group-ib.us
+  - +.groupib.ae
+  - +.groupib.sg
+  - +.groupib.us
   - +.groups.com
   - +.gsrc.io
   - +.gstatic.cn
@@ -3963,6 +4021,9 @@ payload:
   - +.icqtutor.com
   - +.icqvideo.com
   - +.idea-server.com
+  - +.ideco.dev
+  - +.ideco.ru
+  - +.idecosoftware.ru
   - +.ids-apple.com
   - +.idvd.eu
   - +.idx.dev
@@ -4023,6 +4084,7 @@ payload:
   - +.ingads.com
   - +.inkchoice.com
   - +.inlethd.com
+  - +.inplat.ru
   - +.inshot.cc
   - +.inshot.com
   - +.inshotapp.com
@@ -4573,6 +4635,7 @@ payload:
   - +.kgslb.com
   - +.kickshatchannel.com
   - +.kidgrid.tv
+  - +.killercb.ru
   - +.kindle
   - +.kindle.cn
   - +.kindle.co.jp
@@ -4595,6 +4658,7 @@ payload:
   - +.kindleproject.com
   - +.kingstagram.com
   - +.kinopoisk.ru
+  - +.kion.ru
   - +.kireipass.jp
   - +.klik.me
   - +.knightspeak.com
@@ -4856,6 +4920,9 @@ payload:
   - +.meetfasttrack.com
   - +.meetsmartbook.com
   - +.meetyourdevices.com
+  - +.megafon.com
+  - +.megafon.ru
+  - +.megafonpro.ru
   - +.megamon.co.kr
   - +.megasrv.de
   - +.melon.com
@@ -4882,6 +4949,7 @@ payload:
   - +.metrika.yandex.net
   - +.metrika.yandex.ru
   - +.mfg-inspector.com
+  - +.mgfn.ru
   - +.mgmt-azure-api.cn
   - +.michill.jp
   - +.microbit.org
@@ -5119,6 +5187,7 @@ payload:
   - +.monstershopcheapbeats.net
   - +.moodstocks.com
   - +.moov.hk
+  - +.more.tv
   - +.moreheadphones.com
   - +.morewithautodesk.com
   - +.morphcharts.com
@@ -5193,6 +5262,11 @@ payload:
   - +.msudalosti.com
   - +.msunlimitedcloudsummit.com
   - +.mt.lv
+  - +.mts-ws.net
+  - +.mts.ru
+  - +.mtsbank.ru
+  - +.mtsdengi.ru
+  - +.mtsmedia.ru
   - +.mudbox3d.com
   - +.multiplydiversity.com
   - +.musickit.net
@@ -5222,6 +5296,7 @@ payload:
   - +.mydirectvchannels.com
   - +.mydirtyhobby.com
   - +.myds.me
+  - +.myenvy.ru
   - +.myfbfans.com
   - +.myferrariheadphones.com
   - +.myfirstflame.com
@@ -5233,6 +5308,7 @@ payload:
   - +.mymapportal.com
   - +.mymicrosoft.com
   - +.mymmode.com
+  - +.mymts.ru
   - +.mynetname.net
   - +.myoctocat.com
   - +.myproseries.com
@@ -5403,6 +5479,7 @@ payload:
   - +.oath.com
   - +.oauthz.com
   - +.objectarx.com
+  - +.obs.mts.ru
   - +.observable.net
   - +.obsrvbl.com
   - +.octocaptcha.com
@@ -5451,6 +5528,7 @@ payload:
   - +.omnitek.tv
   - +.omniture.com
   - +.omtrdc.net
+  - +.on-media.ru
   - +.on.here
   - +.on2.com
   - +.onamae-desktop.com
@@ -5751,6 +5829,7 @@ payload:
   - +.quicktime.net
   - +.quicktime.tv
   - +.quiksee.com
+  - +.quizlink.ru
   - +.quotable.com
   - +.qwant.com
   - +.qwant.de
@@ -5801,6 +5880,7 @@ payload:
   - +.renovacionxboxlive.com
   - +.renshu.com
   - +.repo.new
+  - +.report-megafon.ru
   - +.repsneakermall.com
   - +.repswing.com
   - +.researchandcare.org
@@ -5812,6 +5892,8 @@ payload:
   - +.researchkit.org
   - +.researchkit.tv
   - +.respawnbyrazer.com
+  - +.restream-media.net
+  - +.restream.ru
   - +.retimer.com
   - +.revenue-performance-management.com
   - +.revit.com
@@ -5826,8 +5908,10 @@ payload:
   - +.rocksdb.net
   - +.rocksdb.org
   - +.rostaxi.org
+  - +.rostelecom.ru
   - +.route53.cn
   - +.routerboard.com
+  - +.rt.ru
   - +.ruhub.tv
   - +.run.app
   - +.russiandesigncup.ru
@@ -5847,6 +5931,7 @@ payload:
   - +.s.mindbox.ru
   - +.s2stagehance.com
   - +.s81c.com
+  - +.saas-support.com
   - +.saffrontech.com
   - +.sagemaker.com.cn
   - +.sahabatsetiasmartone.com
@@ -5903,6 +5988,7 @@ payload:
   - +.saynow.com
   - +.sc-cdn.net
   - +.scaleform.com
+  - +.scartel.ru
   - +.scene7.com
   - +.schemer.com
   - +.scnshop.cc
@@ -6265,6 +6351,7 @@ payload:
   - +.szwinnertechnology.com
   - +.t-msedge.net
   - +.t-splines.com
+  - +.t2.ru
   - +.tail-f.com
   - +.tailf.com
   - +.tailwindtraders.com
@@ -6294,6 +6381,7 @@ payload:
   - +.tegrazone.jp
   - +.tegrazone.kr
   - +.tehnodom.com
+  - +.tele2.ru
   - +.telega.info
   - +.telega.me
   - +.telerik.com
@@ -6408,6 +6496,7 @@ payload:
   - +.turbotax.com
   - +.tusco.ru
   - +.tvappstore.net
+  - +.tvoyodbo.online
   - +.tvpromise.com
   - +.twcstorage.ru
   - +.tweakadmin.com
@@ -6761,6 +6850,7 @@ payload:
   - +.whatsapp.tv
   - +.whatsappbrand.com
   - +.wheelpop.com
+  - +.whitesaas.com
   - +.wholecitiesfoundation.org
   - +.wholefoods.com
   - +.wholefoodsmarket.co.uk
@@ -6798,6 +6888,8 @@ payload:
   - +.windowsupdate.com
   - +.winhec.com
   - +.winhec.net
+  - +.wink.am
+  - +.wink.ru
   - +.wipower.com
   - +.wirelessreach.com
   - +.wise-research.com
@@ -6882,8 +6974,12 @@ payload:
   - +.xn--6eup7j.net
   - +.xn--74q434dwff.com
   - +.xn--74q434dwff.net
+  - +.xn--80a9a4b.xn--p1ai
+  - +.xn--80aj3b.xn--p1ai
   - +.xn--80aqcf7a6do.com
+  - +.xn--80arpq.xn--p1ai
   - +.xn--80asgb.xn--p1ai
+  - +.xn--90absjljw3g.xn--p1ai
   - +.xn--9kr7l.com
   - +.xn--9trs65b.com
   - +.xn--cckwcxetd
@@ -7156,6 +7252,8 @@ payload:
   - +.ymail.com
   - +.yogalayout.com
   - +.yopornshop.com
+  - +.yota.ru
+  - +.yotagamer.ru
   - +.youla.io
   - +.youla.ru
   - +.youporn.com
@@ -7904,6 +8002,7 @@ payload:
   - sentry.dev-my.com
   - sentry.dev-my.games
   - sentry.hetzner.company
+  - sentry.iptv.rt.ru
   - sentry.mindbox.ru
   - sentry.popmechanic.ru
   - sentry.rustore.ru

@@ -8,6 +8,7 @@ payload:
   - +.kinopoisk-ru.clstorage.net
   - +.kinopoisk.ru
   - +.kinorium.com
+  - +.more.tv
   - +.okko.sport
   - +.okko.tv
   - +.okkoapi.tv
@@ -15,6 +16,7 @@ payload:
   - +.premier.one
   - +.promodj.com
   - +.restream-media.net
+  - +.restream.ru
   - +.rtbcdn.ru
   - +.rutube.ru
   - +.rutubelist.ru
@@ -23,4 +25,5 @@ payload:
   - +.trbcdn.net
   - +.tvigle.ru
   - +.viju.ru
+  - +.wink.am
   - +.wink.ru

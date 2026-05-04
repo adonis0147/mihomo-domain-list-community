@@ -16,6 +16,7 @@ payload:
   - +.3ebra.net
   - +.4epenaxa.com
   - +.5post.market
+  - +.a.mts.ru
   - +.accesspoint.uz
   - +.acmvid.com
   - +.ad.mail.ru
@@ -36,6 +37,7 @@ payload:
   - +.alt-ad.mail.ru
   - +.an.yandex.ru
   - +.analytics.vk.com
+  - +.antiphishing.nl
   - +.aodahl.com
   - +.appmetrica.yandex.com
   - +.appmetrica.yandex.net
@@ -59,14 +61,17 @@ payload:
   - +.bps-sberbank.by
   - +.bs.yandex.ru
   - +.cabconnect.org
+  - +.callbackkiller.com
   - +.carrot-mail.io
   - +.carrotquest-mail.io
   - +.carrotquest.app
   - +.carrotquest.io
   - +.carrottrack.app
+  - +.cbkiller.com
   - +.cdek.shopping
   - +.cdn-vk.net
   - +.cdnvideohub.com
+  - +.cert-gib.com
   - +.chipcore.com
   - +.chizhik.club
   - +.ciciq.net
@@ -86,6 +91,7 @@ payload:
   - +.counter.yandex.ru
   - +.cups.online
   - +.cxhub.ru
+  - +.cybercrimecon.com
   - +.dahlmessenger.com
   - +.dashly.app
   - +.dashly.help
@@ -108,31 +114,58 @@ payload:
   - +.eligens.com.br
   - +.eligens.io
   - +.emias.info
+  - +.envybox.company
+  - +.envybox.family
   - +.envybox.io
+  - +.envybox.kg
+  - +.envycdp.com
+  - +.envycrm.com
   - +.epicevents.gg
   - +.esforce.com
   - +.etna.ai
   - +.evrasia.rest
   - +.ewisdom.us.kg
+  - +.f6.dev
+  - +.f6.security
+  - +.facct.email
   - +.fix-price.com
   - +.flocktory.com
   - +.flomni.com
   - +.fon.bet
   - +.fon.promo
+  - +.g-ib.ae
+  - +.g-ib.sg
+  - +.g-ib.us
   - +.g.mindbox.ru
   - +.gazprombank.com
   - +.gazprombank.investments
   - +.genetic-technologies.am
   - +.genotek.am
+  - +.genotek.es
+  - +.genotek.eu
   - +.genotek.health
   - +.getsynapse.io
+  - +.gib-global.com
+  - +.gib.sg
+  - +.gibdev.net
   - +.giga.chat
+  - +.gismeteo.by
+  - +.gismeteo.com
   - +.gismeteo.net
   - +.gismeteo.st
   - +.gogettaxi.org
   - +.goicq.org
   - +.goup.ai
+  - +.group-ib.ae
+  - +.group-ib.co.uk
   - +.group-ib.com
+  - +.group-ib.de
+  - +.group-ib.eu
+  - +.group-ib.sg
+  - +.group-ib.us
+  - +.groupib.ae
+  - +.groupib.sg
+  - +.groupib.us
   - +.haicomdc.com
   - +.hayya.ae
   - +.hh.by
@@ -246,6 +279,8 @@ payload:
   - +.megafon.com
   - +.megamarket.tech
   - +.memealerts.com
+  - +.meteofor.com
+  - +.meteofor.st
   - +.meteum.ai
   - +.metrics.viqeo.tv
   - +.metrika.yandex.com
@@ -261,6 +296,7 @@ payload:
   - +.mobile-icq.com
   - +.mobileicq.com
   - +.moex.com
+  - +.more.tv
   - +.moscow
   - +.mosmetro.tech
   - +.movika.com
@@ -270,6 +306,7 @@ payload:
   - +.ms.dzen.ru
   - +.ms.vk.com
   - +.ms.vk.ru
+  - +.mts-ws.net
   - +.mvk.com
   - +.my-manager-account.com
   - +.my.com
@@ -283,6 +320,7 @@ payload:
   - +.neon.click
   - +.netmonet.co
   - +.ngenix.net
+  - +.obs.mts.ru
   - +.ognihome.com
   - +.ok.me
   - +.okko.sport
@@ -419,6 +457,7 @@ payload:
   - +.tracker.my.com
   - +.trbcdn.net
   - +.turbopages.org
+  - +.tvoyodbo.online
   - +.uma.media
   - +.umschool.net
   - +.uni.rest
@@ -487,6 +526,7 @@ payload:
   - +.wildberries.tj
   - +.wildberries.tm
   - +.wildberries.uz
+  - +.wink.am
   - +.x5.ai
   - +.x5.com
   - +.x5.digital
@@ -771,6 +811,7 @@ payload:
   - sentry-ng.g.smailru.net
   - sentry.dev-my.com
   - sentry.dev-my.games
+  - sentry.iptv.rt.ru
   - sentry.kontur.host
   - sentry.mindbox.ru
   - sentry.ozon.ru
