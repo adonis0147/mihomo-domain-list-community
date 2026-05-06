@@ -2079,7 +2079,6 @@ payload:
   - +.coova.com
   - +.coova.net
   - +.coova.org
-  - +.copilot-telemetry.githubusercontent.com
   - +.coreduo.com
   - +.coreextreme.com
   - +.corel.com
@@ -5535,6 +5534,7 @@ payload:
   - +.onamae-office.com
   - +.onamae.com
   - +.onbeatsbydresale.com
+  - +.ondigitalocean.com
   - +.oneapi.com
   - +.oneapi.io
   - +.onedrive.co
@@ -7631,6 +7631,8 @@ payload:
   - configuration.apple.com
   - connectivitycheck.gstatic.com
   - content.googleadapis.com
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
   - crashlyticsreports-pa.googleapis.com
   - crl-lb.apple.com.akadns.net
   - crl.apple.com
@@ -8128,6 +8130,5 @@ payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
   - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
-  - DOMAIN-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

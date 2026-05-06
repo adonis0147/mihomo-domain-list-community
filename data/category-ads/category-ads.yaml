@@ -241,7 +241,6 @@ payload:
   - +.collector.github.com
   - +.collector.xhamster.com
   - +.contentabc.com
-  - +.copilot-telemetry.githubusercontent.com
   - +.counter.yandex.ru
   - +.cpro.baidu.com
   - +.cpro.baidustatic.com
@@ -735,6 +734,8 @@ payload:
   - clck.yandex.net
   - clck.yango.com
   - click.rustore.ru
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
   - disney.my.sentry.io
   - error-tracking.megamarket.tech
   - google-analytics-suite.ozon.ru

@@ -796,6 +796,7 @@ payload:
   - +.awsstatic.cn
   - +.awstme.top
   - +.azkr2.cn
+  - +.azz.net
   - +.b23.tv
   - +.b2bgo.com
   - +.b2byao.com
@@ -2495,7 +2496,6 @@ payload:
   - +.flyme.com
   - +.flymeauto.com
   - +.fm365.com
-  - +.fm3838.com
   - +.fnjiasu.com
   - +.fnnas.com
   - +.fnnas.net
@@ -3142,6 +3142,7 @@ payload:
   - +.huoshanzhibo.cn
   - +.huoshanzhibo.com
   - +.huoshanzhibo.net
+  - +.huotan.net
   - +.hupu.com
   - +.hupucdn.com
   - +.hupun.com
@@ -3941,7 +3942,6 @@ payload:
   - +.larksuiteimg-pre.com
   - +.larksuiteimg.com
   - +.larkvc.com
-  - +.larsonlimited.com
   - +.las.ac.cn
   - +.lascn.net
   - +.latepost.com
@@ -6891,8 +6891,6 @@ payload:
   - +.zol-img.com.cn
   - +.zol.com.cn
   - +.zongheng.com
-  - +.zoom3g.com
-  - +.zoomyou.cn
   - +.zpb365.com
   - +.zqrb.cn
   - +.zs-jlc.com
@@ -6949,6 +6947,8 @@ payload:
   - ads5-normal.zijieapi.com
   - apilog-web.acfun.cn
   - ctdsb.clouddiffuse.xyz
+  - end-api.shallow.ink
+  - end.shallow.ink
   - izattime.qcomgeo2.com
   - log-sdk.gifshow.com
   - log3-applog-hl.fqnovel.com

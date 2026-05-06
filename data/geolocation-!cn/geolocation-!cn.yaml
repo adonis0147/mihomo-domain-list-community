@@ -5419,7 +5419,6 @@ payload:
   - +.coova.com
   - +.coova.net
   - +.coova.org
-  - +.copilot-telemetry.githubusercontent.com
   - +.copro.pw
   - +.copy-manga.com
   - +.copy20.com
@@ -15539,6 +15538,7 @@ payload:
   - +.onani-daisuki.com
   - +.onbeatsbydresale.com
   - +.oncars.in
+  - +.ondigitalocean.com
   - +.one.one.one
   - +.one889.app
   - +.oneapi.com
@@ -15641,6 +15641,7 @@ payload:
   - +.opensource.guide
   - +.opensourceinsight.dev
   - +.opensourceinsights.dev
+  - +.openspec.dev
   - +.openssl.org
   - +.openstreetmap.com
   - +.openstreetmap.net
@@ -20470,7 +20471,9 @@ payload:
   - +.userapi.ru
   - +.usercentrics.eu
   - +.usercontent.dev
+  - +.userdrive.org
   - +.userpxt.io
+  - +.usersdrive.com
   - +.usertrust.com
   - +.usvimosquito.com
   - +.usvimosquitoproject.com
@@ -23447,6 +23450,8 @@ payload:
   - configuration.apple.com
   - connectivitycheck.gstatic.com
   - content.googleadapis.com
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
   - crashlyticsreports-pa.googleapis.com
   - crl-lb.apple.com.akadns.net
   - crl.apple.com
@@ -24205,7 +24210,6 @@ payload:
   - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
   - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
-  - DOMAIN-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
   - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
   - DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
   - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$

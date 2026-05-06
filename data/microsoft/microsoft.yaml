@@ -161,7 +161,6 @@ payload:
   - +.cn.mm.bing.net
   - +.codethemicrobit.com
   - +.collector.github.com
-  - +.copilot-telemetry.githubusercontent.com
   - +.cortanaanalytics.com
   - +.cortanaskills.com
   - +.cosmosdb.info
@@ -627,6 +626,8 @@ payload:
   - build.microsoft.com
   - cdn.marketplaceimages.windowsphone.com
   - cn.windowssearch.com
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
   - ctldl.windowsupdate.com
   - default.exp-tas.com
   - devblogs.microsoft.com
@@ -639,6 +640,11 @@ payload:
   - fs.microsoft.com
   - github-api.arkoselabs.com
   - github-cloud.s3.amazonaws.com
+  - github-production-release-asset-2e65be.s3.amazonaws.com
+  - github-production-repository-file-5c1aeb.s3.amazonaws.com
+  - github-production-repository-image-32fea6.s3.amazonaws.com
+  - github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  - github-production-user-asset-6210df.s3.amazonaws.com
   - img-prod-cms-rt-microsoft-com.akamaized.net
   - img-s-msn-com.akamaized.net
   - learn.microsoft.com
@@ -665,4 +671,3 @@ payload:
   - wscont1.apps.microsoft.com
   - wscont2.apps.microsoft.com
   - www.microsoft.com
-  - DOMAIN-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
