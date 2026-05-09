@@ -214,6 +214,7 @@ payload:
   - +.3type.cn
   - +.3yx.com
   - +.40017.cn
+  - +.4008-517-517.cn
   - +.40407.com
   - +.423down.com
   - +.42r.cn
@@ -628,6 +629,7 @@ payload:
   - +.alios.cn
   - +.alipan.com
   - +.alipay
+  - +.alipay-eco.com
   - +.alipay.cn
   - +.alipay.com
   - +.alipay.com.cn
@@ -1027,6 +1029,7 @@ payload:
   - +.bjyouth.net
   - +.bkapigw.com
   - +.bkapps.com
+  - +.bkchina.cn
   - +.bkclouds.cc
   - +.bktencent.com
   - +.blackdragon.com
@@ -2056,6 +2059,7 @@ payload:
   - +.dianping.com
   - +.dianwannan.com
   - +.dianzhenkeji.com
+  - +.dicos.com.cn
   - +.dida365.com
   - +.didi.cn
   - +.didialift.com
@@ -2896,6 +2900,7 @@ payload:
   - +.hc-sre.com
   - +.hczq.com
   - +.hdfimg.com
+  - +.hdlcdns.com
   - +.hdns.ksyun.com
   - +.hdslb.com
   - +.hdslb.org
@@ -3003,6 +3008,8 @@ payload:
   - +.honor.com.cn
   - +.honorfile.com
   - +.hoopchina.com.cn
+  - +.hophing.cn
+  - +.hophing.com.cn
   - +.hotread.com
   - +.houdao.com
   - +.houyicaiji.com
@@ -3174,6 +3181,7 @@ payload:
   - +.hwocloud.com
   - +.hwshu.com
   - +.hwtrip.com
+  - +.hwwt8.com
   - +.hx168.com.cn
   - +.hxb.com.cn
   - +.hxfy888.com
@@ -3750,6 +3758,7 @@ payload:
   - +.ketangpai.com
   - +.kexinshe.com
   - +.kf5.com
+  - +.kfc.com.cn
   - +.kfcbest.com
   - +.kfomn.cn
   - +.kfzimg.com
@@ -3763,6 +3772,7 @@ payload:
   - +.kinghomechina.com
   - +.kingsoft-office-service.com
   - +.kingsoft.com
+  - +.kiwa-tech.com
   - +.kiyuu.club
   - +.kjcdn.com
   - +.kjwugx.com
@@ -4082,6 +4092,7 @@ payload:
   - +.log.v2.hunantv.com
   - +.log.zijieapi.com
   - +.log2.sina.cn
+  - +.logger.qmai.cn
   - +.logiseasy.com
   - +.logs.amap.com
   - +.logupdate.avlyun.sec.miui.com
@@ -4200,7 +4211,10 @@ payload:
   - +.mcbaas.work
   - +.mcbang.com
   - +.mcbbs.net
+  - +.mcd.cn
+  - +.mcdchina.net
   - +.mcdemo.show
+  - +.mcdonalds.com.cn
   - +.mchost.guru
   - +.mcmod.cn
   - +.mcprev.cn
@@ -4401,6 +4415,8 @@ payload:
   - +.mvad.com
   - +.mwcdns.com
   - +.mwcloudcdn.com
+  - +.mxbc.com
+  - +.mxbc.net
   - +.mxhichina.com
   - +.my-qcloud.com
   - +.my4399.com
@@ -4929,6 +4945,9 @@ payload:
   - +.qlivecdn.com
   - +.qlogo.cn
   - +.qm989.com
+  - +.qmai.cn
+  - +.qmai.com
+  - +.qmimg.cn
   - +.qmniu.com
   - +.qnsdk.com
   - +.qnssl.com
@@ -5203,6 +5222,7 @@ payload:
   - +.shuqi.com
   - +.shuqireader.com
   - +.shutcm.com
+  - +.shuxinyc.com
   - +.shyhhema.com
   - +.shyxhy.com
   - +.shzq.com
@@ -5789,7 +5809,10 @@ payload:
   - +.track.sohu.com
   - +.tracker.ai.xiaomi.com
   - +.tracker.xiaomixiaoai.com
+  - +.tracking.mcdonalds.com.cn
   - +.tracking.miui.com
+  - +.trackingprd.hwwt8.com
+  - +.trackserver.shuxinyc.com
   - +.tracup.com
   - +.trae.cn
   - +.trae.com.cn
@@ -6689,6 +6712,7 @@ payload:
   - +.yufuid.com.cn
   - +.yufuid.net
   - +.yuketang.cn
+  - +.yumchina.com
   - +.yunaq.com
   - +.yunba.io
   - +.yunda56.com
