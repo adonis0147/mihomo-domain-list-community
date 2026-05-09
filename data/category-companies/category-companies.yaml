@@ -4553,6 +4553,7 @@ payload:
   - +.jos.com
   - +.jsati.com
   - +.jsatmobile.com
+  - +.justveryok.com
   - +.jwide.co.kr
   - +.jword.jp
   - +.jwt.ms
@@ -4627,6 +4628,7 @@ payload:
   - +.keepyourcad.com
   - +.keezmovies.com
   - +.kemptechnologies.com
+  - +.keyboardmen.com
   - +.keyhole.com
   - +.keytransparency.com
   - +.keytransparency.foo
@@ -5497,7 +5499,15 @@ payload:
   - +.oculusrift.com
   - +.oculusvr.com
   - +.odkl.ru
+  - +.odnoklasniki.by
+  - +.odnoklasniki.ua
+  - +.odnoklassniki.am
+  - +.odnoklassniki.by
+  - +.odnoklassniki.co.ee
+  - +.odnoklassniki.eu
+  - +.odnoklassniki.lv
   - +.odnoklassniki.ru
+  - +.odnoklassniki.tj
   - +.offerairjordanlebron.com
   - +.office
   - +.office.com
@@ -5838,6 +5848,7 @@ payload:
   - +.qwapi.com
   - +.r.bing.com
   - +.r.mail.ru
+  - +.rabbitcounter.com
   - +.rabota.by
   - +.radar.imgsmail.ru
   - +.radeon.com
@@ -5985,6 +5996,7 @@ payload:
   - +.sanvaras.com
   - +.savethedate.foo
   - +.savoycomputing.com
+  - +.sayeasy.eu
   - +.saynow.com
   - +.sc-cdn.net
   - +.scaleform.com
