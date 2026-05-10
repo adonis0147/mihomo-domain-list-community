@@ -30439,6 +30439,7 @@ payload:
   - DOMAIN-SUFFIX,geraldoatlarge.com
   - DOMAIN-SUFFIX,getnews.jp
   - DOMAIN-SUFFIX,gettr.com
+  - DOMAIN-SUFFIX,getwsj.com
   - DOMAIN-SUFFIX,gfashion.com
   - DOMAIN-SUFFIX,gisplanning.com
   - DOMAIN-SUFFIX,glasamerike.net
@@ -60883,6 +60884,7 @@ payload:
   - DOMAIN-SUFFIX,gettyimages.pt
   - DOMAIN-SUFFIX,gettyimages.se
   - DOMAIN-SUFFIX,getws1.com
+  - DOMAIN-SUFFIX,getwsj.com
   - DOMAIN-SUFFIX,getwsone.com
   - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,gfacecbook.com
@@ -91581,6 +91583,7 @@ payload:
   - DOMAIN-SUFFIX,flatmates.com.au
   - DOMAIN-SUFFIX,fnlondon.com
   - DOMAIN-SUFFIX,geelongadvertiser.com.au
+  - DOMAIN-SUFFIX,getwsj.com
   - DOMAIN-SUFFIX,goldcoastbulletin.com.au
   - DOMAIN-SUFFIX,hackday.com.au
   - DOMAIN-SUFFIX,harperacademic.com
@@ -100235,6 +100238,7 @@ payload:
   - DOMAIN-SUFFIX,wpspdf.cn
   - DOMAIN-SUFFIX,careerjournal.com
   - DOMAIN-SUFFIX,collegejournal.com
+  - DOMAIN-SUFFIX,getwsj.com
   - DOMAIN-SUFFIX,opinionjournal.com
   - DOMAIN-SUFFIX,realestatejournal.com
   - DOMAIN-SUFFIX,startupjournal.com
