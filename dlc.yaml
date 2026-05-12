@@ -11984,6 +11984,7 @@ payload:
   - DOMAIN-SUFFIX,xiumius.com
   - DOMAIN-SUFFIX,xn0.cc
   - DOMAIN-SUFFIX,yuque.com
+  - DOMAIN-SUFFIX,adsgram.ai
   - DOMAIN-SUFFIX,airhorn.solutions
   - DOMAIN-SUFFIX,airhornbot.com
   - DOMAIN-SUFFIX,arewereadyyet.com
@@ -12058,6 +12059,8 @@ payload:
   - DOMAIN-SUFFIX,modular.im
   - DOMAIN-SUFFIX,nbabot.net
   - DOMAIN-SUFFIX,nhncorp.jp
+  - DOMAIN-SUFFIX,nicegram.app
+  - DOMAIN-SUFFIX,nicegram.cloud
   - DOMAIN-SUFFIX,pm.me
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonmail.ch
@@ -52820,6 +52823,7 @@ payload:
   - DOMAIN-SUFFIX,adsensecustomsearchads.com
   - DOMAIN-SUFFIX,adsenseformobileapps.com
   - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,adsgram.ai
   - DOMAIN-SUFFIX,adskcloud.com
   - DOMAIN-SUFFIX,adskcloud.net
   - DOMAIN-SUFFIX,adskeng.net
@@ -66831,6 +66835,8 @@ payload:
   - DOMAIN-SUFFIX,nheos.com
   - DOMAIN-SUFFIX,nhncorp.jp
   - DOMAIN-SUFFIX,niceanimegames.com
+  - DOMAIN-SUFFIX,nicegram.app
+  - DOMAIN-SUFFIX,nicegram.cloud
   - DOMAIN-SUFFIX,niceporn.tv
   - DOMAIN-SUFFIX,nicesrv.de
   - DOMAIN-SUFFIX,nicesshop.net
@@ -91732,6 +91738,9 @@ payload:
   - DOMAIN-SUFFIX,ngrok.io
   - DOMAIN-SUFFIX,ngrok.pizza
   - DOMAIN-SUFFIX,ngrok.pro
+  - DOMAIN-SUFFIX,adsgram.ai
+  - DOMAIN-SUFFIX,nicegram.app
+  - DOMAIN-SUFFIX,nicegram.cloud
   - DOMAIN-SUFFIX,nico
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicomanga.jp
