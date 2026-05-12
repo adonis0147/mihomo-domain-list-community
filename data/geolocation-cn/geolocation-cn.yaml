@@ -16,6 +16,8 @@ payload:
   - +.100offer.com
   - +.10155.com
   - +.10jqka.com.cn
+  - +.11183.com.cn
+  - +.11185.cn
   - +.11467.com
   - +.114blog.com
   - +.114chn.com
@@ -389,6 +391,7 @@ payload:
   - +.999d.com
   - +.99danji.com
   - +.99fund.com
+  - +.99jiasu.net
   - +.99uri.cn
   - +.99uri.com
   - +.9coof.cn
@@ -775,6 +778,7 @@ payload:
   - +.atanx.alicdn.com
   - +.atanx2.alicdn.com
   - +.atatech.org
+  - +.atianqi.com
   - +.atm.youku.com
   - +.audid.umeng.com
   - +.aurorapush.cn
@@ -865,6 +869,8 @@ payload:
   - +.baofeng.net
   - +.baomitu.com
   - +.baoxianshichang.com
+  - +.baozou.com
+  - +.baozoumanhua.com
   - +.baseopendev.com
   - +.batchat.com
   - +.battlecare.net
@@ -1490,6 +1496,7 @@ payload:
   - +.chinaamc.com
   - +.chinabank.com.cn
   - +.chinabooktrading.com
+  - +.chinabyte.com
   - +.chinacache.com
   - +.chinacache.net
   - +.chinachugui.com
@@ -1511,6 +1518,12 @@ payload:
   - +.chinanews.com.cn
   - +.chinaott.com
   - +.chinapay.com
+  - +.chinapost-life.com
+  - +.chinapost.cn
+  - +.chinapost.com.cn
+  - +.chinapostdaily.com.cn
+  - +.chinapostnews.cn
+  - +.chinapostnews.com.cn
   - +.chinapp.net
   - +.chinapubmed.net
   - +.chinaso.com
@@ -1538,6 +1551,7 @@ payload:
   - +.chiphell.com
   - +.chn.cn
   - +.chndoi.org
+  - +.chnppmuseum.com
   - +.chntel.com
   - +.chongbuluo.com
   - +.chongdiantou.com
@@ -1560,6 +1574,7 @@ payload:
   - +.chuyu.me
   - +.cib-fund.com.cn
   - +.cib.com.cn
+  - +.cibn.cc
   - +.cibntv.net
   - +.cicc.com
   - +.ciccwm.com
@@ -1742,6 +1757,7 @@ payload:
   - +.cnmooc.org
   - +.cnms.net.cn
   - +.cnmstl.net
+  - +.cnpsec.com
   - +.cnr.cn
   - +.cns.com.cn
   - +.cnsciedu.com
@@ -1804,6 +1820,8 @@ payload:
   - +.cpro.baidu.com
   - +.cpro.baidustatic.com
   - +.cps.360buy.com
+  - +.cptu.cn
+  - +.cptu.org.cn
   - +.cpu.baidu.com
   - +.cqcb.com
   - +.cqccn.com
@@ -1881,6 +1899,7 @@ payload:
   - +.ctripteam.com
   - +.ctsbw.com
   - +.ctsec.com
+  - +.ctvpost.com
   - +.ctwcdn.cn
   - +.ctxcdn.cn
   - +.ctxcdn.com
@@ -2342,6 +2361,7 @@ payload:
   - +.emas-poc.com
   - +.emoriko.com
   - +.emr-volces.com
+  - +.ems.com.cn
   - +.ems.youku.com
   - +.emumax.com
   - +.enterdesk.com
@@ -2395,6 +2415,7 @@ payload:
   - +.fangxiaoer.com
   - +.fanli.com
   - +.fanmingming.com
+  - +.fanqiecopyright.com
   - +.fanqienovel.com
   - +.fanqieopen.com
   - +.fanqieopenpic.com
@@ -2527,6 +2548,7 @@ payload:
   - +.fqnovelpic.com
   - +.fqnovelstatic.com
   - +.fqnovelvod.com
+  - +.fqopenplatform.com
   - +.freebuf.com
   - +.freshhema.com
   - +.freshippo.com
@@ -3073,6 +3095,7 @@ payload:
   - +.huabanimg.com
   - +.huafeng-accuweather.cn
   - +.huafengaw.com
+  - +.huajiao.com
   - +.huajingsec.com
   - +.huajinsc.cn
   - +.huangyuhui.net
@@ -3299,6 +3322,7 @@ payload:
   - +.ijinshan.com
   - +.ikafan.com
   - +.ikanchai.com
+  - +.ikstatic.cn
   - +.ilanzou.com
   - +.ileapcloud.com
   - +.iluckysf.net
@@ -3336,6 +3360,7 @@ payload:
   - +.infoq.com
   - +.infoqstatic.com
   - +.inftab.com
+  - +.inke.cn
   - +.inkuai.com
   - +.inkwai.com
   - +.inspirecloud.cn
@@ -3728,6 +3753,7 @@ payload:
   - +.kaipuyun.com.cn
   - +.kaipuyun.net
   - +.kaixin001.com
+  - +.kajicam.com
   - +.kameng98.com
   - +.kanbox.com
   - +.kanimg.com
@@ -4714,12 +4740,14 @@ payload:
   - +.pddim.com
   - +.pddpic.com
   - +.pddugc.com
+  - +.pdnews.cn
   - +.pearvideo.com
   - +.peccn.com
   - +.pengyoudewu.cn
   - +.pengyoudewu.com
   - +.people.cn
   - +.people.com.cn
+  - +.peopleapp.com
   - +.pg0.cn
   - +.pgdt.gtimg.cn
   - +.pglstatp-sdk-toutiao.com
@@ -4788,6 +4816,8 @@ payload:
   - +.pos.baidu.com
   - +.pospal.cn
   - +.postfund.com.cn
+  - +.postmail.cn
+  - +.postoa.com.cn
   - +.powerapp.io
   - +.ppkankan01.com
   - +.pplive.cn
@@ -5922,6 +5952,8 @@ payload:
   - +.ugslb2.net
   - +.uhasadmin.com
   - +.uiwow.com
+  - +.ule.com
+  - +.ulecdn.com
   - +.ulikecam.com
   - +.ulogs.umeng.com
   - +.ulogs.umengcloud.com
@@ -6337,6 +6369,7 @@ payload:
   - +.wsukwai.com
   - +.wswebcdn.com
   - +.wswebpic.com
+  - +.wting.info
   - +.wtown.com
   - +.wtturl.cn
   - +.wtzw.com
@@ -6384,6 +6417,7 @@ payload:
   - +.xf-fund.com
   - +.xfdown.com
   - +.xfyun.cn
+  - +.xgo-img.com.cn
   - +.xgzb.top
   - +.xhaiwai.com
   - +.xhby.net

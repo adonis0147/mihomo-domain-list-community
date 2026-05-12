@@ -42,6 +42,7 @@ payload:
   - +.chaindd.com
   - +.checkzeit.com
   - +.chinaaet.com
+  - +.chinabyte.com
   - +.chinaepg.cn
   - +.chinalive.com
   - +.chinanews.com
@@ -190,8 +191,10 @@ payload:
   - +.pchpic.net
   - +.pconline.com.cn
   - +.pcpop.com
+  - +.pdnews.cn
   - +.people.cn
   - +.people.com.cn
+  - +.peopleapp.com
   - +.phoenixcenter.cn
   - +.pingwest.com
   - +.pinyin.cn
@@ -256,6 +259,7 @@ payload:
   - +.theta.sogoucdn.com
   - +.ths123.com
   - +.thsi.cn
+  - +.tianjimedia.com
   - +.tidenews.com.cn
   - +.tigeek.net.cn
   - +.tivitv.com
@@ -292,6 +296,7 @@ payload:
   - +.xueqiu.com
   - +.yangshipin.cn
   - +.ycwb.com
+  - +.yesky.com
   - +.yeyousg.com
   - +.yicai.com
   - +.yidianliulan.cn

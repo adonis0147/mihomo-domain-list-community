@@ -22,8 +22,6 @@ payload:
   - +.douban.com
   - +.douban.fm
   - +.doubanio.com
-  - +.duowan.com
-  - +.dwstatic.com
   - +.fanfou.com
   - +.gracg.com
   - +.hoopchina.com.cn
@@ -84,8 +82,6 @@ payload:
   - +.xhslink.com
   - +.xhsrcdn.com
   - +.xiaohongshu.com
-  - +.yy.com
-  - +.yystatic.com
   - +.zhihu-web-analytics.zhihu.com
   - +.zhihu.com
   - +.zhimg.com

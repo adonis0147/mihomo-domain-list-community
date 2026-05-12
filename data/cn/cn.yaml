@@ -323,6 +323,7 @@ payload:
   - +.999d.com
   - +.99danji.com
   - +.99fund.com
+  - +.99jiasu.net
   - +.99uri.com
   - +.9ht.com
   - +.9xgame.com
@@ -667,6 +668,7 @@ payload:
   - +.atanx.alicdn.com
   - +.atanx2.alicdn.com
   - +.atatech.org
+  - +.atianqi.com
   - +.atm.youku.com
   - +.audid.umeng.com
   - +.autohome.com
@@ -741,6 +743,8 @@ payload:
   - +.baofeng.net
   - +.baomitu.com
   - +.baoxianshichang.com
+  - +.baozou.com
+  - +.baozoumanhua.com
   - +.baseopendev.com
   - +.batchat.com
   - +.battlecare.net
@@ -1204,6 +1208,7 @@ payload:
   - +.chinaaet.com
   - +.chinaamc.com
   - +.chinabooktrading.com
+  - +.chinabyte.com
   - +.chinacache.com
   - +.chinacache.net
   - +.chinachugui.com
@@ -1222,6 +1227,7 @@ payload:
   - +.chinanews.com
   - +.chinaott.com
   - +.chinapay.com
+  - +.chinapost-life.com
   - +.chinapp.net
   - +.chinapubmed.net
   - +.chinaso.com
@@ -1241,6 +1247,7 @@ payload:
   - +.chinesemooc.org
   - +.chiphell.com
   - +.chndoi.org
+  - +.chnppmuseum.com
   - +.chntel.com
   - +.chongbuluo.com
   - +.chongdiantou.com
@@ -1259,6 +1266,7 @@ payload:
   - +.chushi.cool
   - +.chushou.tv
   - +.chuyu.me
+  - +.cibn.cc
   - +.cibntv.net
   - +.cicc.com
   - +.ciccwm.com
@@ -1415,6 +1423,7 @@ payload:
   - +.cnlogs.umengcloud.com
   - +.cnmooc.org
   - +.cnmstl.net
+  - +.cnpsec.com
   - +.cnsciedu.com
   - +.cnstock.com
   - +.cnsuning.com
@@ -1515,6 +1524,7 @@ payload:
   - +.ctripteam.com
   - +.ctsbw.com
   - +.ctsec.com
+  - +.ctvpost.com
   - +.ctxcdn.com
   - +.ctxcdn.net
   - +.ctxirang.com
@@ -1919,6 +1929,7 @@ payload:
   - +.fangxiaoer.com
   - +.fanli.com
   - +.fanmingming.com
+  - +.fanqiecopyright.com
   - +.fanqienovel.com
   - +.fanqieopen.com
   - +.fanqieopenpic.com
@@ -2019,6 +2030,7 @@ payload:
   - +.fqnovelpic.com
   - +.fqnovelstatic.com
   - +.fqnovelvod.com
+  - +.fqopenplatform.com
   - +.freebuf.com
   - +.freshhema.com
   - +.freshippo.com
@@ -2465,6 +2477,7 @@ payload:
   - +.huaban.com
   - +.huabanimg.com
   - +.huafengaw.com
+  - +.huajiao.com
   - +.huajingsec.com
   - +.huangyuhui.net
   - +.huanleguang.com
@@ -2996,6 +3009,7 @@ payload:
   - +.kaipuyun.com
   - +.kaipuyun.net
   - +.kaixin001.com
+  - +.kajicam.com
   - +.kameng98.com
   - +.kanbox.com
   - +.kanimg.com
@@ -3811,6 +3825,7 @@ payload:
   - +.pearvideo.com
   - +.peccn.com
   - +.pengyoudewu.com
+  - +.peopleapp.com
   - +.pgdt.gtimg.cn
   - +.pglstatp-sdk-toutiao.com
   - +.pglstatp-snssdk-toutiao.com
@@ -4765,6 +4780,8 @@ payload:
   - +.ugslb2.net
   - +.uhasadmin.com
   - +.uiwow.com
+  - +.ule.com
+  - +.ulecdn.com
   - +.ulikecam.com
   - +.ulogs.umeng.com
   - +.ulogs.umengcloud.com
@@ -5107,6 +5124,7 @@ payload:
   - +.wsukwai.com
   - +.wswebcdn.com
   - +.wswebpic.com
+  - +.wting.info
   - +.wtown.com
   - +.wtzw.com
   - +.wukong.com

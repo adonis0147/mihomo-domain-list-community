@@ -4901,6 +4901,7 @@ payload:
   - +.mcisco.com
   - +.mcrouter.net
   - +.mcrouter.org
+  - +.mcs.st
   - +.mdhcdn.com
   - +.mdialog.com
   - +.mdn.allizom.net
@@ -5323,6 +5324,7 @@ payload:
   - +.mzstatic.com
   - +.na-att-idns.net
   - +.namemybeats.com
+  - +.narod.ru
   - +.nastranincad.com
   - +.nastrannx.com
   - +.nastrantraining.com
@@ -6552,11 +6554,13 @@ payload:
   - +.ucoz.ru
   - +.ucoz.site
   - +.ucoz.ua
+  - +.ucozmail.com
   - +.ucozmedia.com
   - +.ucozmedia.ru
   - +.ucoztemplates.com
   - +.ueberamazon.de
   - +.uguide.ru
+  - +.uguide.su
   - +.uhub.com
   - +.ui.com
   - +.ui.com.cn
@@ -6566,6 +6570,7 @@ payload:
   - +.ukit.com
   - +.ukit.group
   - +.ukit.me
+  - +.ukoz.ru
   - +.ultrasrv.de
   - +.uma.media
   - +.umbrella.com
@@ -6585,10 +6590,12 @@ payload:
   - +.userapi.com
   - +.userapi.ru
   - +.userpxt.io
+  - +.usocial.pro
   - +.usvimosquito.com
   - +.usvimosquitoproject.com
   - +.uum.com.cn
   - +.uverse.com
+  - +.uweb.ru
   - +.uwn.com
   - +.uwpcommunitytoolkit.com
   - +.v-has.com
@@ -6699,6 +6706,7 @@ payload:
   - +.vk.com
   - +.vk.company
   - +.vk.design
+  - +.vk.kz
   - +.vk.link
   - +.vk.me
   - +.vk.ru
@@ -6706,7 +6714,9 @@ payload:
   - +.vkcache.com
   - +.vkcdnservice.com
   - +.vkclips.app
+  - +.vkcloud-static.kz
   - +.vkcloud-static.ru
+  - +.vkcloud.kz
   - +.vkcs.cloud
   - +.vkfest.ru
   - +.vkgo.app
@@ -6735,6 +6745,7 @@ payload:
   - +.vkuservideo.net
   - +.vkuservideo.ru
   - +.vkvideo.ru
+  - +.vkworkspace.kz
   - +.vmailru.net
   - +.vmglobal.net
   - +.vmmark.com

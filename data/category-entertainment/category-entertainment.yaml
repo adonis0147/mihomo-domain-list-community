@@ -428,9 +428,13 @@ payload:
   - +.fanatical.com
   - +.fanbox.cc
   - +.fandango.com
+  - +.fanfictionero.com
   - +.fast.com
   - +.fc-buddyfight.com
+  - +.fic.fan
+  - +.ficador.com
   - +.ficbook.net
+  - +.ficmania.com
   - +.fifastreet.com
   - +.fifastreet3.com
   - +.findyourlimits.com
@@ -517,6 +521,7 @@ payload:
   - +.hayabusa.media
   - +.hayday.com
   - +.haydaygame.com
+  - +.hbo
   - +.hbo-europe.com
   - +.hbo.ba
   - +.hbo.bg
@@ -1270,6 +1275,7 @@ payload:
   - +.take2games.com
   - +.tarkov.com
   - +.teamneedforspeed.com
+  - +.teinon.net
   - +.tellmewhygame.com
   - +.tgdaily.co.kr
   - +.theater-kktv.cdn.hinet.net

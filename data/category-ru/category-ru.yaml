@@ -32,6 +32,7 @@ payload:
   - +.adv.vk.com
   - +.adv.yandex.com
   - +.adv.yandex.ru
+  - +.alefbank.com
   - +.alfabank.oavdo.amc
   - +.alfabank.st
   - +.algoritmika.org
@@ -47,11 +48,13 @@ payload:
   - +.apptracer.ru
   - +.apptrackpets.com
   - +.armgs.team
+  - +.at.ua
   - +.atomyze.tech
   - +.attachmy.com
   - +.aviasales.com
   - +.avito.st
   - +.avs.io
+  - +.bank131.com
   - +.bargipsy.com
   - +.beeline.tv
   - +.beget.com
@@ -268,6 +271,7 @@ payload:
   - +.knightspeak.com
   - +.kontur-inc.com
   - +.kontur.host
+  - +.korona.com
   - +.koshelek.app
   - +.lenta.com
   - +.lenta.tech
@@ -277,6 +281,7 @@ payload:
   - +.mail-carrotquest.io
   - +.mailicq.org
   - +.mc.yandex.ru
+  - +.mcs.st
   - +.medsi.com
   - +.medsi.pro
   - +.megafon.com
@@ -372,6 +377,7 @@ payload:
   - +.promodj.com
   - +.psk
   - +.pushgrow.io
+  - +.pvubank.com
   - +.pz.help
   - +.r.mail.ru
   - +.rabbitcounter.com
@@ -385,6 +391,7 @@ payload:
   - +.rostaxi.org
   - +.rteam.tech
   - +.ru
+  - +.ru.ccb.com
   - +.ru.com
   - +.ru.net
   - +.ruhub.tv
@@ -472,12 +479,41 @@ payload:
   - +.trbcdn.net
   - +.turbopages.org
   - +.tvoyodbo.online
+  - +.ubs.com
+  - +.ucoz.ae
+  - +.ucoz.club
+  - +.ucoz.co
+  - +.ucoz.co.il
+  - +.ucoz.co.uk
+  - +.ucoz.com
+  - +.ucoz.com.br
+  - +.ucoz.com.ro
+  - +.ucoz.de
+  - +.ucoz.es
+  - +.ucoz.fr
+  - +.ucoz.hu
+  - +.ucoz.kz
+  - +.ucoz.lv
+  - +.ucoz.md
+  - +.ucoz.net
+  - +.ucoz.org
+  - +.ucoz.pl
+  - +.ucoz.site
+  - +.ucoz.ua
+  - +.ucozmail.com
+  - +.ucozmedia.com
+  - +.ucoztemplates.com
+  - +.ukit.ai
+  - +.ukit.com
+  - +.ukit.group
+  - +.ukit.me
   - +.uma.media
   - +.umschool.net
   - +.uni.rest
   - +.unidraw.io
   - +.unirest.tech
   - +.userapi.com
+  - +.usocial.pro
   - +.viqeo.tv
   - +.viqeotv.com
   - +.vk-analytics.ru
@@ -489,12 +525,15 @@ payload:
   - +.vk.com
   - +.vk.company
   - +.vk.design
+  - +.vk.kz
   - +.vk.link
   - +.vk.me
   - +.vk.team
   - +.vkcache.com
   - +.vkcdnservice.com
   - +.vkclips.app
+  - +.vkcloud-static.kz
+  - +.vkcloud.kz
   - +.vkcs.cloud
   - +.vkgo.app
   - +.vklive.app
@@ -512,9 +551,12 @@ payload:
   - +.vkuserlive.net
   - +.vkuservideo.com
   - +.vkuservideo.net
+  - +.vkworkspace.kz
   - +.vmailru.net
   - +.vscale.blog
   - +.vscale.io
+  - +.vtb-direct.com
+  - +.vtbglobalperspectives.com
   - +.warehouse.domains
   - +.wb.am
   - +.wb.kg
