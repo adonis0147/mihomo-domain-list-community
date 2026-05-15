@@ -1283,6 +1283,7 @@ payload:
   - +.cctvpic.com
   - +.cctvpro.cn
   - +.cctvpro.com.cn
+  - +.ccw.site
   - +.cczq.com
   - +.cczq.net
   - +.cd120.com
@@ -2775,8 +2776,10 @@ payload:
   - +.golue.com
   - +.gongqingyun.cn
   - +.gongxiangcj.com
+  - +.gongxiangjizhang.com
   - +.gongyi.xin
   - +.goofish.com
+  - +.goofish.pro
   - +.goosail.com
   - +.goproxy.cn
   - +.goproxy.io
@@ -3204,6 +3207,7 @@ payload:
   - +.hwocloud.com
   - +.hwshu.com
   - +.hwtrip.com
+  - +.hwwlyz.com
   - +.hwwt8.com
   - +.hx168.com.cn
   - +.hxb.com.cn
@@ -3356,6 +3360,7 @@ payload:
   - +.indienova.com
   - +.inewsweek.cn
   - +.infineon.cn
+  - +.infini-fantasy.com
   - +.infinitynewtab.com
   - +.infoq.com
   - +.infoqstatic.com
@@ -4079,6 +4084,7 @@ payload:
   - +.linglong.space
   - +.linglonglife.com
   - +.lingshoujia.com
+  - +.linka2a.net
   - +.linkvans.com
   - +.linliyz.com
   - +.linsn.com
@@ -4301,6 +4307,7 @@ payload:
   - +.miaomiaozhe.com
   - +.miaopai.com
   - +.miaostreet.com
+  - +.miaotixing.com
   - +.miaowu.baidu.com
   - +.miaoyanai.com
   - +.miaozhen.com
@@ -5208,6 +5215,7 @@ payload:
   - +.shelter-china.com
   - +.shelterdome.net
   - +.shengdaosoft.com
+  - +.shengqugames.com
   - +.shengyi.ai
   - +.shengyizhuanjia.com
   - +.shenjing.com
@@ -5443,6 +5451,8 @@ payload:
   - +.surerp.com
   - +.sursung.cn
   - +.sursung.com
+  - +.suu-fun.com
+  - +.suufun.com
   - +.suzuki-china.com
   - +.swhysc.com
   - +.swsc.com.cn
@@ -5866,6 +5876,7 @@ payload:
   - +.ttgtm.com
   - +.ttjisu.com
   - +.ttpod.com
+  - +.ttshitu.com
   - +.ttwebview.com
   - +.ttxsapp.com.cn
   - +.tudou.com
@@ -6569,6 +6580,7 @@ payload:
   - +.xycdn.com
   - +.xycloud.com
   - +.xywy.com
+  - +.xyys.com
   - +.xyzcdn.net
   - +.xyzfm.link
   - +.xyzfm.space
@@ -6582,6 +6594,7 @@ payload:
   - +.yaolan.com
   - +.yaoyl.com
   - +.yaozh.com
+  - +.yayi360.com
   - +.ybccode.com
   - +.yccdn.com
   - +.ycgame.com
@@ -6936,6 +6949,7 @@ payload:
   - +.zjfcdn.com
   - +.zjgslb.com
   - +.zjlib.cn
+  - +.zjshulong.com
   - +.zjstv.com
   - +.zjytxd.cn
   - +.zjytxp.cn

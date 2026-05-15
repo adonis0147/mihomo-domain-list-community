@@ -1072,6 +1072,7 @@ payload:
   - +.cctalk.com
   - +.cctv.com
   - +.cctvpic.com
+  - +.ccw.site
   - +.cczq.com
   - +.cczq.net
   - +.cd120.com
@@ -2218,8 +2219,10 @@ payload:
   - +.golinkcn.com
   - +.golue.com
   - +.gongxiangcj.com
+  - +.gongxiangjizhang.com
   - +.gongyi.xin
   - +.goofish.com
+  - +.goofish.pro
   - +.goosail.com
   - +.goproxy.io
   - +.goselling.com
@@ -2550,6 +2553,7 @@ payload:
   - +.hwocloud.com
   - +.hwshu.com
   - +.hwtrip.com
+  - +.hwwlyz.com
   - +.hwwt8.com
   - +.hxfy888.com
   - +.hxsd.com
@@ -2672,6 +2676,7 @@ payload:
   - +.inanguapi.com
   - +.incopat.com
   - +.indienova.com
+  - +.infini-fantasy.com
   - +.infinitynewtab.com
   - +.infoq.com
   - +.infoqstatic.com
@@ -3282,6 +3287,7 @@ payload:
   - +.linglong.space
   - +.linglonglife.com
   - +.lingshoujia.com
+  - +.linka2a.net
   - +.linkvans.com
   - +.linliyz.com
   - +.linsn.com
@@ -3467,6 +3473,7 @@ payload:
   - +.miaomiaozhe.com
   - +.miaopai.com
   - +.miaostreet.com
+  - +.miaotixing.com
   - +.miaowu.baidu.com
   - +.miaoyanai.com
   - +.miaozhen.com
@@ -4187,6 +4194,7 @@ payload:
   - +.shelter-china.com
   - +.shelterdome.net
   - +.shengdaosoft.com
+  - +.shengqugames.com
   - +.shengyi.ai
   - +.shengyizhuanjia.com
   - +.shenjing.com
@@ -4371,6 +4379,8 @@ payload:
   - +.supet.com
   - +.surerp.com
   - +.sursung.com
+  - +.suu-fun.com
+  - +.suufun.com
   - +.suzuki-china.com
   - +.swhysc.com
   - +.swsmu.com
@@ -4711,6 +4721,7 @@ payload:
   - +.ttgtm.com
   - +.ttjisu.com
   - +.ttpod.com
+  - +.ttshitu.com
   - +.ttwebview.com
   - +.tudou.com
   - +.tudouui.com
@@ -5316,6 +5327,7 @@ payload:
   - +.xycdn.com
   - +.xycloud.com
   - +.xywy.com
+  - +.xyys.com
   - +.xyzcdn.net
   - +.xyzfm.link
   - +.xyzfm.space
@@ -5326,6 +5338,7 @@ payload:
   - +.yaolan.com
   - +.yaoyl.com
   - +.yaozh.com
+  - +.yayi360.com
   - +.ybccode.com
   - +.yccdn.com
   - +.ycgame.com
@@ -5613,6 +5626,7 @@ payload:
   - +.zjcdn.com
   - +.zjfcdn.com
   - +.zjgslb.com
+  - +.zjshulong.com
   - +.zjstv.com
   - +.zjzs.net
   - +.zjzsa.com
