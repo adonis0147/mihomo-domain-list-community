@@ -3783,6 +3783,7 @@ payload:
   - DOMAIN-SUFFIX,archive.vn
   - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,archlinux.page
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,pkgbuild.com
@@ -20694,6 +20695,7 @@ payload:
   - DOMAIN-SUFFIX,appleswift.com
   - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,archlinux.page
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,artixlinux.org
@@ -54445,6 +54447,7 @@ payload:
   - DOMAIN-SUFFIX,archivx.to
   - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,archlinux.page
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,arcraiders.com
