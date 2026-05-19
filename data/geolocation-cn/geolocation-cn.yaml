@@ -42,6 +42,7 @@ payload:
   - +.12321.cn
   - +.123245.com
   - +.123254.com
+  - +.123278.com
   - +.123294.com
   - +.1234567.com.cn
   - +.123624.com
@@ -268,6 +269,7 @@ payload:
   - +.51kim.com
   - +.51meishu.com
   - +.51nod.com
+  - +.51pptmoban.com
   - +.51selling.com
   - +.51sole.com
   - +.51togic.com
@@ -681,6 +683,7 @@ payload:
   - +.amapauto.com
   - +.amazonaws.cn
   - +.amazonaws.com.cn
+  - +.amazonwebservices.cn
   - +.amazonwebservices.com.cn
   - +.amazonworkdocs.cn
   - +.amazonworkdocs.com.cn
@@ -716,6 +719,8 @@ payload:
   - +.anquan.org
   - +.anquanke.com
   - +.anruan.com
+  - +.antafu.com
+  - +.antaq.com
   - +.antfin.com
   - +.antfortune.com
   - +.antgroup-inc.cn
@@ -1972,6 +1977,7 @@ payload:
   - +.dao123.com
   - +.daocloud.io
   - +.daocloud.vip
+  - +.daodoc.com
   - +.daojia.com
   - +.daovoice.io
   - +.data.mistat.india.xiaomi.com
@@ -2770,6 +2776,7 @@ payload:
   - +.gogokid.com.cn
   - +.goka.top
   - +.gold678.com
+  - +.goldhoe.com
   - +.golink.com
   - +.golinkapi.com
   - +.golinkcn.com
@@ -3595,6 +3602,7 @@ payload:
   - +.jikipedia.com
   - +.jin10.com
   - +.jinantimes.com.cn
+  - +.jinchutou.com
   - +.jindidata.com
   - +.jingdong.com
   - +.jingdongjinrong.com
@@ -5116,6 +5124,7 @@ payload:
   - +.saduck.top
   - +.saee.org.cn
   - +.safeskill.cn
+  - +.safewk.com
   - +.sagemaker.com.cn
   - +.saibo.com
   - +.samasty.com
@@ -5512,6 +5521,7 @@ payload:
   - +.taobaocdn.com
   - +.taobizhong.com
   - +.taoche.com
+  - +.taodocs.com
   - +.taomee.com
   - +.taopiaopiao.com
   - +.taou.com
@@ -6272,6 +6282,7 @@ payload:
   - +.welltrend-edu.com
   - +.wenjuan.com
   - +.wenkeju.com
+  - +.wenkub.com
   - +.wenmingban.com
   - +.wenshushu.cn
   - +.wenshushu.com
@@ -6395,6 +6406,7 @@ payload:
   - +.wuuxiang.com
   - +.wuximediaglobal.com
   - +.wuyou.net
+  - +.wxaurl.cn
   - +.wxcloudrun.com
   - +.wxdw.top
   - +.wxgateway.com
@@ -6888,6 +6900,7 @@ payload:
   - +.zhihu-web-analytics.zhihu.com
   - +.zhihu.com
   - +.zhihuishu.com
+  - +.zhijidoc.com
   - +.zhiliaowenda.com.cn
   - +.zhimg.com
   - +.zhipin.com

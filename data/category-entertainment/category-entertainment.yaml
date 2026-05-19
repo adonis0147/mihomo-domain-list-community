@@ -1755,6 +1755,7 @@ payload:
   - espn.hb.omtrdc.net
   - espndotcom.tt.omtrdc.net
   - f3b7q2p3.ssl.hwcdn.net
+  - favoritescc-hamivideo2.cdn.hinet.net
   - flightsimulator.azureedge.net
   - gamedownloads-rockstargames-com.akamaized.net
   - gamer-cds.cdn.hinet.net
@@ -1774,6 +1775,7 @@ payload:
   - images-na.ssl-images-amazon.com
   - lastfm.freetls.fastly.net
   - lazer.ppy.sh
+  - lgcscc-hamivideo2.cdn.hinet.net
   - linear-abematv.akamaized.net
   - lolstatic-a.akamaihd.net
   - lv.queniujq.cn
@@ -1832,6 +1834,8 @@ payload:
   - steamusercontent-a.akamaihd.net
   - steamuserimages-a.akamaihd.net
   - steamvideo-a.akamaihd.net
+  - thumbnail-hamivideo.cdn.hinet.net
+  - tlmr-hamivideo2.cdn.hinet.net
   - tmdb-image-prod.b-cdn.net
   - tmdb-web-image-prod.b-cdn.net
   - tv.applemusic.com
@@ -1869,6 +1873,7 @@ payload:
   - vod-abematv.akamaized.net
   - wb-agora-hydra-file-storage-k1.s3.amazonaws.com
   - weblive-hamivideo.cdn.hinet.net
+  - webvodad-hamivideo.cdn.hinet.net
   - ws.audioscrobbler.com
   - www4-static.gog-statics.com
   - xz.pphimalayanrt.com

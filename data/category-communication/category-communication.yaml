@@ -72,6 +72,7 @@ payload:
   - +.matrix.to
   - +.messenger.com
   - +.modular.im
+  - +.myteamspeak.com
   - +.nbabot.net
   - +.nhncorp.jp
   - +.nicegram.app
@@ -108,6 +109,8 @@ payload:
   - +.slackhq.com
   - +.t.me
   - +.tdesktop.com
+  - +.teamspeak-services.com
+  - +.teamspeak.com
   - +.telega.one
   - +.telegra.ph
   - +.telegram-cdn.org

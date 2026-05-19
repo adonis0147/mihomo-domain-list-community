@@ -1599,6 +1599,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.cc
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -4555,6 +4556,7 @@ payload:
   - DOMAIN-SUFFIX,amazonaws.tv
   - DOMAIN-SUFFIX,amazoncognito.com
   - DOMAIN-SUFFIX,amazonses.com
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -4618,6 +4620,7 @@ payload:
   - DOMAIN-SUFFIX,a2z.org.cn
   - DOMAIN-SUFFIX,amazonaws.cn
   - DOMAIN-SUFFIX,amazonaws.com.cn
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com.cn
@@ -10213,6 +10216,8 @@ payload:
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - DOMAIN-SUFFIX,aispeech.com
+  - DOMAIN-SUFFIX,antafu.com
+  - DOMAIN-SUFFIX,antaq.com
   - DOMAIN-SUFFIX,api-building.fun
   - DOMAIN-SUFFIX,askdiandian.com
   - DOMAIN-SUFFIX,baichuan-ai.com
@@ -10920,6 +10925,7 @@ payload:
   - DOMAIN-SUFFIX,afisha.ru
   - DOMAIN-SUFFIX,akbars.ru
   - DOMAIN-SUFFIX,alefbank.com
+  - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
@@ -12134,6 +12140,7 @@ payload:
   - DOMAIN-SUFFIX,matrix.to
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,modular.im
+  - DOMAIN-SUFFIX,myteamspeak.com
   - DOMAIN-SUFFIX,nbabot.net
   - DOMAIN-SUFFIX,nhncorp.jp
   - DOMAIN-SUFFIX,nicegram.app
@@ -12170,6 +12177,8 @@ payload:
   - DOMAIN-SUFFIX,slackhq.com
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,teamspeak-services.com
+  - DOMAIN-SUFFIX,teamspeak.com
   - DOMAIN-SUFFIX,telega.one
   - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-SUFFIX,telegram-cdn.org
@@ -12629,6 +12638,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.cc
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -19856,13 +19866,11 @@ payload:
   - DOMAIN,cn.download.nvidia.com
   - DOMAIN,cn.widevine.com
   - DOMAIN,cn.windowssearch.com
-  - DOMAIN,cnappinstall.googleadapis.com
   - DOMAIN,communities.apple.com
   - DOMAIN,configuration-lb.ls-apple.com.akadns.net
   - DOMAIN,configuration.apple.com.akadns.net
   - DOMAIN,configuration.apple.com
   - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN,content.googleadapis.com
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
@@ -19923,7 +19931,6 @@ payload:
   - DOMAIN,download.developer.apple.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,download.mlcc.google.com
-  - DOMAIN,download.qatp1.net
   - DOMAIN,download.tensorflow.google.com
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,downloaddispatch.itunes.apple.com
@@ -19931,7 +19938,6 @@ payload:
   - DOMAIN,ea2cn-prod-outlet.dell.com
   - DOMAIN,ea2cn-staging-outlet.dell.com
   - DOMAIN,edge.geo.kaspersky.com
-  - DOMAIN,emmapplecodevice.googleapis.com
   - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,experiments.apple.com
   - DOMAIN,f.c2r.ts.cdn.office.net
@@ -19955,7 +19961,6 @@ payload:
   - DOMAIN,gbxgateway-dev.dell.com
   - DOMAIN,gbxgateway.dell.com
   - DOMAIN,github-api.arkoselabs.com
-  - DOMAIN,go.corp.google.com
   - DOMAIN,gonglchuangl.net
   - DOMAIN,gongyichuangyi.net
   - DOMAIN,google-analytics-cn.com
@@ -20076,11 +20081,7 @@ payload:
   - DOMAIN,ksn-url.geoksn.kaspersky.com
   - DOMAIN,ksn-verdict-geo.kaspersky-labs.com
   - DOMAIN,ksn-verdict.geoksn.kaspersky.com
-  - DOMAIN,l2-uberproxy.corp.google.com
   - DOMAIN,learn.microsoft.com
-  - DOMAIN,logger-dev.corp.google.com
-  - DOMAIN,logger.corp.google.com
-  - DOMAIN,login.corp.google.com
   - DOMAIN,maps.apple.com
   - DOMAIN,mc.yandex.com
   - DOMAIN,mc.yandex.net
@@ -20092,7 +20093,6 @@ payload:
   - DOMAIN,mesu.apple.com
   - DOMAIN,misc-assets.itunes.apple.com
   - DOMAIN,ml.cdn-apple.com
-  - DOMAIN,monitoring.qpdp1.net
   - DOMAIN,mtalk.google.com
   - DOMAIN,music.apple.com
   - DOMAIN,musicstatus.music.apple.com
@@ -20159,20 +20159,13 @@ payload:
   - DOMAIN,prod-databe.floonet.goog
   - DOMAIN,prod-support.apple-support.akadns.net
   - DOMAIN,prod.databe.floonet.goog
-  - DOMAIN,proxyconfig.corp.google.com
   - DOMAIN,publicassets.cdn-apple.com
   - DOMAIN,push-apple.com.akadns.net
-  - DOMAIN,qagpublic.qatp1.net
-  - DOMAIN,qgadmin.qcpp1.net
   - DOMAIN,qiao-cn.com
   - DOMAIN,qpx.googleflights.net
-  - DOMAIN,qualysapi.qatp1.net
-  - DOMAIN,qualysguard.qpdp1.net
-  - DOMAIN,r.cert.corp.google.com
   - DOMAIN,r0.mail.ru
   - DOMAIN,r0.mradx.net
   - DOMAIN,r1.mail.ru
-  - DOMAIN,rapture-prod.corp.google.com
   - DOMAIN,recaptcha-cn.net
   - DOMAIN,recaptcha.net
   - DOMAIN,redirector.bdn.dev
@@ -20223,7 +20216,6 @@ payload:
   - DOMAIN,sa78gs.wpc.edgecastcdn.net
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,scanservice1.qcpp1.net
   - DOMAIN,scene7-cdn.dell.com
   - DOMAIN,sdx.microsoft.com
   - DOMAIN,se-edge.itunes.apple.com
@@ -20259,7 +20251,6 @@ payload:
   - DOMAIN,srch-telemeter10.g.smailru.net
   - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
-  - DOMAIN,sslredirect.corp.google.com
   - DOMAIN,stacks.vk-portal.net
   - DOMAIN,staging-controlbe.floonet.goog
   - DOMAIN,staging-databe.floonet.goog
@@ -20282,14 +20273,8 @@ payload:
   - DOMAIN,store.storeimages.apple.com.akadns.net
   - DOMAIN,store.storeimages.cdn-apple.com
   - DOMAIN,storeedgefd.dsx.mp.microsoft.com
-  - DOMAIN,streaming-uberproxy-rotation.corp.google.com
-  - DOMAIN,streaming-uberproxy.corp.google.com
   - DOMAIN,streamingaudio.itunes.apple.com
   - DOMAIN,su.itunes.apple.com
-  - DOMAIN,sup-ssh-relay.corp.google.com
-  - DOMAIN,sup-ssh-relay2.corp.google.com
-  - DOMAIN,sup.corp.google.com
-  - DOMAIN,sup.l.google.com
   - DOMAIN,support-china.apple-support.akadns.net
   - DOMAIN,support.apple.com
   - DOMAIN,supportassist.dell.com
@@ -20310,16 +20295,11 @@ payload:
   - DOMAIN,tac.googleapis.com
   - DOMAIN,target.vk.com
   - DOMAIN,teamviewer.com.cdn.cloudflare.net
-  - DOMAIN,test.gbugs-qa.chromium.org
   - DOMAIN,tf-feedback.itunes.apple.com
   - DOMAIN,tj-pod1-smp-device.apple.com
   - DOMAIN,tools.google.com
-  - DOMAIN,tools.l.google.com
   - DOMAIN,top-staging.mail.ru
   - DOMAIN,tp.louisvuitton.com
-  - DOMAIN,uberproxy-debug4.corp.google.com
-  - DOMAIN,uberproxy.corp.google.com
-  - DOMAIN,uberproxy6.corp.google.com
   - DOMAIN,universal-activity-service.itunes.apple.com
   - DOMAIN,update.crashlytics.com
   - DOMAIN,update.googleapis.com
@@ -20355,7 +20335,6 @@ payload:
   - DOMAIN,www.pxcc.com
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www.support.apple.com
-  - DOMAIN,xn--flw351e.com
   - DOMAIN,xp.apple.com
   - DOMAIN,xray.mail.ru
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -21382,18 +21361,26 @@ payload:
   - DOMAIN,p9-juejin.byteimg.com
   - DOMAIN-SUFFIX,1ppt.com
   - DOMAIN-SUFFIX,360doc.com
+  - DOMAIN-SUFFIX,51pptmoban.com
   - DOMAIN-SUFFIX,51wendang.com
   - DOMAIN-SUFFIX,52ppt.com
   - DOMAIN-SUFFIX,badou.com
   - DOMAIN-SUFFIX,book118.com
+  - DOMAIN-SUFFIX,daodoc.com
   - DOMAIN-SUFFIX,doc88.com
   - DOMAIN-SUFFIX,docin.com
   - DOMAIN-SUFFIX,douding.cn
+  - DOMAIN-SUFFIX,goldhoe.com
   - DOMAIN-SUFFIX,haohaodoc.com
+  - DOMAIN-SUFFIX,jinchutou.com
   - DOMAIN-SUFFIX,lazyer.net
   - DOMAIN-SUFFIX,renrendoc.com
+  - DOMAIN-SUFFIX,safewk.com
+  - DOMAIN-SUFFIX,taodocs.com
   - DOMAIN-SUFFIX,wenkeju.com
+  - DOMAIN-SUFFIX,wenkub.com
   - DOMAIN-SUFFIX,ypppt.com
+  - DOMAIN-SUFFIX,zhijidoc.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,nextdns.io
   - DOMAIN-SUFFIX,opendns.com
@@ -25052,6 +25039,7 @@ payload:
   - DOMAIN,espn.hb.omtrdc.net
   - DOMAIN,espndotcom.tt.omtrdc.net
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
+  - DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
   - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,gamer-cds.cdn.hinet.net
@@ -25071,6 +25059,7 @@ payload:
   - DOMAIN,images-na.ssl-images-amazon.com
   - DOMAIN,lastfm.freetls.fastly.net
   - DOMAIN,lazer.ppy.sh
+  - DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
   - DOMAIN,linear-abematv.akamaized.net
   - DOMAIN,lolstatic-a.akamaihd.net
   - DOMAIN,lv.queniujq.cn
@@ -25129,6 +25118,8 @@ payload:
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
+  - DOMAIN,thumbnail-hamivideo.cdn.hinet.net
+  - DOMAIN,tlmr-hamivideo2.cdn.hinet.net
   - DOMAIN,tmdb-image-prod.b-cdn.net
   - DOMAIN,tmdb-web-image-prod.b-cdn.net
   - DOMAIN,tv.applemusic.com
@@ -25166,6 +25157,7 @@ payload:
   - DOMAIN,vod-abematv.akamaized.net
   - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
   - DOMAIN,weblive-hamivideo.cdn.hinet.net
+  - DOMAIN,webvodad-hamivideo.cdn.hinet.net
   - DOMAIN,ws.audioscrobbler.com
   - DOMAIN,www4-static.gog-statics.com
   - DOMAIN,xz.pphimalayanrt.com
@@ -26013,6 +26005,7 @@ payload:
   - DOMAIN-SUFFIX,akbars.ru
   - DOMAIN-SUFFIX,akita-bank.co.jp
   - DOMAIN-SUFFIX,alefbank.com
+  - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
@@ -32136,6 +32129,7 @@ payload:
   - DOMAIN-SUFFIX,116cd.net
   - DOMAIN-SUFFIX,123245.com
   - DOMAIN-SUFFIX,123254.com
+  - DOMAIN-SUFFIX,123278.com
   - DOMAIN-SUFFIX,123294.com
   - DOMAIN-SUFFIX,123624.com
   - DOMAIN-SUFFIX,123641.com
@@ -39952,6 +39946,7 @@ payload:
   - DOMAIN-SUFFIX,adv.yandex.com
   - DOMAIN-SUFFIX,adv.yandex.ru
   - DOMAIN-SUFFIX,alefbank.com
+  - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,algoritmika.org
@@ -43233,6 +43228,7 @@ payload:
   - DOMAIN-SUFFIX,119you.com
   - DOMAIN-SUFFIX,123245.com
   - DOMAIN-SUFFIX,123254.com
+  - DOMAIN-SUFFIX,123278.com
   - DOMAIN-SUFFIX,123294.com
   - DOMAIN-SUFFIX,123624.com
   - DOMAIN-SUFFIX,123641.com
@@ -43426,6 +43422,7 @@ payload:
   - DOMAIN-SUFFIX,51kim.com
   - DOMAIN-SUFFIX,51meishu.com
   - DOMAIN-SUFFIX,51nod.com
+  - DOMAIN-SUFFIX,51pptmoban.com
   - DOMAIN-SUFFIX,51selling.com
   - DOMAIN-SUFFIX,51sole.com
   - DOMAIN-SUFFIX,51togic.com
@@ -43793,6 +43790,7 @@ payload:
   - DOMAIN-SUFFIX,amapauto.com
   - DOMAIN-SUFFIX,amazonaws.cn
   - DOMAIN-SUFFIX,amazonaws.com.cn
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com.cn
@@ -43818,6 +43816,8 @@ payload:
   - DOMAIN-SUFFIX,anquan.org
   - DOMAIN-SUFFIX,anquanke.com
   - DOMAIN-SUFFIX,anruan.com
+  - DOMAIN-SUFFIX,antafu.com
+  - DOMAIN-SUFFIX,antaq.com
   - DOMAIN-SUFFIX,antfin.com
   - DOMAIN-SUFFIX,antfortune.com
   - DOMAIN-SUFFIX,antgroup.com
@@ -44773,6 +44773,7 @@ payload:
   - DOMAIN-SUFFIX,dao123.com
   - DOMAIN-SUFFIX,daocloud.io
   - DOMAIN-SUFFIX,daocloud.vip
+  - DOMAIN-SUFFIX,daodoc.com
   - DOMAIN-SUFFIX,daojia.com
   - DOMAIN-SUFFIX,daovoice.io
   - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
@@ -45418,6 +45419,7 @@ payload:
   - DOMAIN-SUFFIX,gogokid.com
   - DOMAIN-SUFFIX,goka.top
   - DOMAIN-SUFFIX,gold678.com
+  - DOMAIN-SUFFIX,goldhoe.com
   - DOMAIN-SUFFIX,golink.com
   - DOMAIN-SUFFIX,golinkapi.com
   - DOMAIN-SUFFIX,golinkcn.com
@@ -46087,6 +46089,7 @@ payload:
   - DOMAIN-SUFFIX,jikexueyuan.com
   - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,jin10.com
+  - DOMAIN-SUFFIX,jinchutou.com
   - DOMAIN-SUFFIX,jindidata.com
   - DOMAIN-SUFFIX,jingdong.com
   - DOMAIN-SUFFIX,jingdongjinrong.com
@@ -47322,6 +47325,7 @@ payload:
   - DOMAIN-SUFFIX,saasops.tech
   - DOMAIN-SUFFIX,saayaa.com
   - DOMAIN-SUFFIX,saduck.top
+  - DOMAIN-SUFFIX,safewk.com
   - DOMAIN-SUFFIX,sagemaker.com.cn
   - DOMAIN-SUFFIX,saibo.com
   - DOMAIN-SUFFIX,samasty.com
@@ -47635,6 +47639,7 @@ payload:
   - DOMAIN-SUFFIX,taobaocdn.com
   - DOMAIN-SUFFIX,taobizhong.com
   - DOMAIN-SUFFIX,taoche.com
+  - DOMAIN-SUFFIX,taodocs.com
   - DOMAIN-SUFFIX,taomee.com
   - DOMAIN-SUFFIX,taopiaopiao.com
   - DOMAIN-SUFFIX,taou.com
@@ -48259,6 +48264,7 @@ payload:
   - DOMAIN-SUFFIX,welltrend-edu.com
   - DOMAIN-SUFFIX,wenjuan.com
   - DOMAIN-SUFFIX,wenkeju.com
+  - DOMAIN-SUFFIX,wenkub.com
   - DOMAIN-SUFFIX,wenmingban.com
   - DOMAIN-SUFFIX,wenshushu.com
   - DOMAIN-SUFFIX,wenxiaozhan.com
@@ -48783,6 +48789,7 @@ payload:
   - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhihuishu.com
+  - DOMAIN-SUFFIX,zhijidoc.com
   - DOMAIN-SUFFIX,zhimg.com
   - DOMAIN-SUFFIX,zhipin.com
   - DOMAIN-SUFFIX,zhipucn.com
@@ -53568,6 +53575,7 @@ payload:
   - DOMAIN-SUFFIX,alexafund.cn
   - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,alexanderstreet.com
+  - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
@@ -53880,6 +53888,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.cc
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -66906,6 +66915,7 @@ payload:
   - DOMAIN-SUFFIX,mysocialworklab.com
   - DOMAIN-SUFFIX,mysql.com
   - DOMAIN-SUFFIX,mystrikingly.com
+  - DOMAIN-SUFFIX,myteamspeak.com
   - DOMAIN-SUFFIX,myteenwebcam.com
   - DOMAIN-SUFFIX,mythicentertainment.com
   - DOMAIN-SUFFIX,mythicentertainment.net
@@ -71907,6 +71917,8 @@ payload:
   - DOMAIN-SUFFIX,teachmyass.com
   - DOMAIN-SUFFIX,teamneedforspeed.com
   - DOMAIN-SUFFIX,teamskeet.com
+  - DOMAIN-SUFFIX,teamspeak-services.com
+  - DOMAIN-SUFFIX,teamspeak.com
   - DOMAIN-SUFFIX,teamviewer.cn
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,teamviewer.us
@@ -75622,6 +75634,7 @@ payload:
   - DOMAIN-SUFFIX,zhainanjidi.xyz
   - DOMAIN-SUFFIX,zhainanjidid.top
   - DOMAIN-SUFFIX,zhangboz1.xyz
+  - DOMAIN-SUFFIX,zhangzhehan.net
   - DOMAIN-SUFFIX,zhengjian.org
   - DOMAIN-SUFFIX,zhengwunet.org
   - DOMAIN-SUFFIX,zhenxiang.biz
@@ -75918,12 +75931,10 @@ payload:
   - DOMAIN,cn.download.nvidia.com
   - DOMAIN,cn.widevine.com
   - DOMAIN,cn.windowssearch.com
-  - DOMAIN,cnappinstall.googleadapis.com
   - DOMAIN,communities.apple.com
   - DOMAIN,configuration.apple.com.akadns.net
   - DOMAIN,configuration.apple.com
   - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN,content.googleadapis.com
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
@@ -75990,7 +76001,6 @@ payload:
   - DOMAIN,download.developer.apple.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,download.mlcc.google.com
-  - DOMAIN,download.qatp1.net
   - DOMAIN,download.tensorflow.google.com
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,downloaddispatch.itunes.apple.com
@@ -75999,7 +76009,6 @@ payload:
   - DOMAIN,ea2cn-staging-outlet.dell.com
   - DOMAIN,edge.geo.kaspersky.com
   - DOMAIN,elib.maruzen.co.jp
-  - DOMAIN,emmapplecodevice.googleapis.com
   - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,error-tracking.megamarket.tech
   - DOMAIN,experiments.apple.com
@@ -76026,7 +76035,6 @@ payload:
   - DOMAIN,gbxgateway.dell.com
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-  - DOMAIN,go.corp.google.com
   - DOMAIN,gog-cdn-fastly.gog.com
   - DOMAIN,gog-cdn.akamaized.net
   - DOMAIN,gog.qtlglb.com
@@ -76154,14 +76162,10 @@ payload:
   - DOMAIN,ksn-url.geoksn.kaspersky.com
   - DOMAIN,ksn-verdict-geo.kaspersky-labs.com
   - DOMAIN,ksn-verdict.geoksn.kaspersky.com
-  - DOMAIN,l2-uberproxy.corp.google.com
   - DOMAIN,learn.microsoft.com
   - DOMAIN,licdn.cn.cdn20.com
   - DOMAIN,link.theplatform.com
   - DOMAIN,live-patreon-marketing.pantheonsite.io
-  - DOMAIN,logger-dev.corp.google.com
-  - DOMAIN,logger.corp.google.com
-  - DOMAIN,login.corp.google.com
   - DOMAIN,loyalnost-adv.ozon.ru
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,maps.apple.com
@@ -76180,7 +76184,6 @@ payload:
   - DOMAIN,metrics.21-school.ru
   - DOMAIN,misc-assets.itunes.apple.com
   - DOMAIN,ml.cdn-apple.com
-  - DOMAIN,monitoring.qpdp1.net
   - DOMAIN,mtalk.google.com
   - DOMAIN,muse.jhu.edu
   - DOMAIN,music.apple.com
@@ -76279,21 +76282,14 @@ payload:
   - DOMAIN,prod.databe.floonet.goog
   - DOMAIN,productcard.gog-statics.com
   - DOMAIN,prodvizhenie-adv.ozon.ru
-  - DOMAIN,proxyconfig.corp.google.com
   - DOMAIN,public-us-pingsx.api.clonoth.com
   - DOMAIN,publicassets.cdn-apple.com
-  - DOMAIN,qagpublic.qatp1.net
-  - DOMAIN,qgadmin.qcpp1.net
   - DOMAIN,qiao-cn.com
   - DOMAIN,qpx.googleflights.net
-  - DOMAIN,qualysapi.qatp1.net
-  - DOMAIN,qualysguard.qpdp1.net
   - DOMAIN,questions-adv.ozon.ru
-  - DOMAIN,r.cert.corp.google.com
   - DOMAIN,r0.mail.ru
   - DOMAIN,r0.mradx.net
   - DOMAIN,r1.mail.ru
-  - DOMAIN,rapture-prod.corp.google.com
   - DOMAIN,recaptcha-cn.net
   - DOMAIN,recaptcha.net
   - DOMAIN,redirector.bdn.dev
@@ -76365,7 +76361,6 @@ payload:
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,sberpro.vedomosti.ru
-  - DOMAIN,scanservice1.qcpp1.net
   - DOMAIN,scene7-cdn.dell.com
   - DOMAIN,sdx.microsoft.com
   - DOMAIN,se-edge.itunes.apple.com
@@ -76404,7 +76399,6 @@ payload:
   - DOMAIN,srch-telemeter10.g.smailru.net
   - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
-  - DOMAIN,sslredirect.corp.google.com
   - DOMAIN,stacks.vk-portal.net
   - DOMAIN,staging-controlbe.floonet.goog
   - DOMAIN,staging-databe.floonet.goog
@@ -76426,14 +76420,8 @@ payload:
   - DOMAIN,store.storeimages.cdn-apple.com
   - DOMAIN,storeedgefd.dsx.mp.microsoft.com
   - DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-  - DOMAIN,streaming-uberproxy-rotation.corp.google.com
-  - DOMAIN,streaming-uberproxy.corp.google.com
   - DOMAIN,streamingaudio.itunes.apple.com
   - DOMAIN,su.itunes.apple.com
-  - DOMAIN,sup-ssh-relay.corp.google.com
-  - DOMAIN,sup-ssh-relay2.corp.google.com
-  - DOMAIN,sup.corp.google.com
-  - DOMAIN,sup.l.google.com
   - DOMAIN,support-china.apple-support.akadns.net
   - DOMAIN,support.apple.com
   - DOMAIN,supportassist.dell.com
@@ -76455,20 +76443,15 @@ payload:
   - DOMAIN,target.vk.com
   - DOMAIN,tesla-cdn.thron.cn
   - DOMAIN,tesla-cdn.thron.com
-  - DOMAIN,test.gbugs-qa.chromium.org
   - DOMAIN,tf-feedback.itunes.apple.com
   - DOMAIN,time.amazonaws.cn
   - DOMAIN,time.izatcloud.net
   - DOMAIN,time.xtracloud.net
   - DOMAIN,tj-pod1-smp-device.apple.com
   - DOMAIN,tools.google.com
-  - DOMAIN,tools.l.google.com
   - DOMAIN,top-staging.mail.ru
   - DOMAIN,tp.louisvuitton.com
   - DOMAIN,tracing-http.megamarket.tech
-  - DOMAIN,uberproxy-debug4.corp.google.com
-  - DOMAIN,uberproxy.corp.google.com
-  - DOMAIN,uberproxy6.corp.google.com
   - DOMAIN,ubisoft.siteintercept.qualtrics.com
   - DOMAIN,universal-activity-service.itunes.apple.com
   - DOMAIN,update.crashlytics.com
@@ -76523,7 +76506,6 @@ payload:
   - DOMAIN,xapi.ozon.kz
   - DOMAIN,xapi.ozon.ru
   - DOMAIN,xapi.ozonru.me
-  - DOMAIN,xn--flw351e.com
   - DOMAIN,xp.apple.com
   - DOMAIN,xray.mail.ru
   - DOMAIN,xtratime.qcomgeo2.com
@@ -76733,6 +76715,7 @@ payload:
   - DOMAIN-SUFFIX,12321.cn
   - DOMAIN-SUFFIX,123245.com
   - DOMAIN-SUFFIX,123254.com
+  - DOMAIN-SUFFIX,123278.com
   - DOMAIN-SUFFIX,123294.com
   - DOMAIN-SUFFIX,1234567.com.cn
   - DOMAIN-SUFFIX,123624.com
@@ -76959,6 +76942,7 @@ payload:
   - DOMAIN-SUFFIX,51kim.com
   - DOMAIN-SUFFIX,51meishu.com
   - DOMAIN-SUFFIX,51nod.com
+  - DOMAIN-SUFFIX,51pptmoban.com
   - DOMAIN-SUFFIX,51selling.com
   - DOMAIN-SUFFIX,51sole.com
   - DOMAIN-SUFFIX,51togic.com
@@ -77372,6 +77356,7 @@ payload:
   - DOMAIN-SUFFIX,amapauto.com
   - DOMAIN-SUFFIX,amazonaws.cn
   - DOMAIN-SUFFIX,amazonaws.com.cn
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com.cn
@@ -77407,6 +77392,8 @@ payload:
   - DOMAIN-SUFFIX,anquan.org
   - DOMAIN-SUFFIX,anquanke.com
   - DOMAIN-SUFFIX,anruan.com
+  - DOMAIN-SUFFIX,antafu.com
+  - DOMAIN-SUFFIX,antaq.com
   - DOMAIN-SUFFIX,antfin.com
   - DOMAIN-SUFFIX,antfortune.com
   - DOMAIN-SUFFIX,antgroup-inc.cn
@@ -78663,6 +78650,7 @@ payload:
   - DOMAIN-SUFFIX,dao123.com
   - DOMAIN-SUFFIX,daocloud.io
   - DOMAIN-SUFFIX,daocloud.vip
+  - DOMAIN-SUFFIX,daodoc.com
   - DOMAIN-SUFFIX,daojia.com
   - DOMAIN-SUFFIX,daovoice.io
   - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
@@ -79461,6 +79449,7 @@ payload:
   - DOMAIN-SUFFIX,gogokid.com.cn
   - DOMAIN-SUFFIX,goka.top
   - DOMAIN-SUFFIX,gold678.com
+  - DOMAIN-SUFFIX,goldhoe.com
   - DOMAIN-SUFFIX,golink.com
   - DOMAIN-SUFFIX,golinkapi.com
   - DOMAIN-SUFFIX,golinkcn.com
@@ -80286,6 +80275,7 @@ payload:
   - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jinantimes.com.cn
+  - DOMAIN-SUFFIX,jinchutou.com
   - DOMAIN-SUFFIX,jindidata.com
   - DOMAIN-SUFFIX,jingdong.com
   - DOMAIN-SUFFIX,jingdongjinrong.com
@@ -81807,6 +81797,7 @@ payload:
   - DOMAIN-SUFFIX,saduck.top
   - DOMAIN-SUFFIX,saee.org.cn
   - DOMAIN-SUFFIX,safeskill.cn
+  - DOMAIN-SUFFIX,safewk.com
   - DOMAIN-SUFFIX,sagemaker.com.cn
   - DOMAIN-SUFFIX,saibo.com
   - DOMAIN-SUFFIX,samasty.com
@@ -82203,6 +82194,7 @@ payload:
   - DOMAIN-SUFFIX,taobaocdn.com
   - DOMAIN-SUFFIX,taobizhong.com
   - DOMAIN-SUFFIX,taoche.com
+  - DOMAIN-SUFFIX,taodocs.com
   - DOMAIN-SUFFIX,taomee.com
   - DOMAIN-SUFFIX,taopiaopiao.com
   - DOMAIN-SUFFIX,taou.com
@@ -82963,6 +82955,7 @@ payload:
   - DOMAIN-SUFFIX,welltrend-edu.com
   - DOMAIN-SUFFIX,wenjuan.com
   - DOMAIN-SUFFIX,wenkeju.com
+  - DOMAIN-SUFFIX,wenkub.com
   - DOMAIN-SUFFIX,wenmingban.com
   - DOMAIN-SUFFIX,wenshushu.cn
   - DOMAIN-SUFFIX,wenshushu.com
@@ -83086,6 +83079,7 @@ payload:
   - DOMAIN-SUFFIX,wuuxiang.com
   - DOMAIN-SUFFIX,wuximediaglobal.com
   - DOMAIN-SUFFIX,wuyou.net
+  - DOMAIN-SUFFIX,wxaurl.cn
   - DOMAIN-SUFFIX,wxcloudrun.com
   - DOMAIN-SUFFIX,wxdw.top
   - DOMAIN-SUFFIX,wxgateway.com
@@ -83579,6 +83573,7 @@ payload:
   - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhihuishu.com
+  - DOMAIN-SUFFIX,zhijidoc.com
   - DOMAIN-SUFFIX,zhiliaowenda.com.cn
   - DOMAIN-SUFFIX,zhimg.com
   - DOMAIN-SUFFIX,zhipin.com
@@ -84984,9 +84979,7 @@ payload:
   - DOMAIN,clickserver.googleads.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,cn.widevine.com
-  - DOMAIN,cnappinstall.googleadapis.com
   - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN,content.googleadapis.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,crl.pki.goog
   - DOMAIN,crls.pki.goog
@@ -84998,9 +84991,7 @@ payload:
   - DOMAIN,doubleclick-cn.net
   - DOMAIN,doubleclick.net
   - DOMAIN,download.mlcc.google.com
-  - DOMAIN,download.qatp1.net
   - DOMAIN,download.tensorflow.google.com
-  - DOMAIN,emmapplecodevice.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleapis.com
@@ -85009,7 +85000,6 @@ payload:
   - DOMAIN,g1.gstatic.com
   - DOMAIN,g2.gstatic.com
   - DOMAIN,g3.gstatic.com
-  - DOMAIN,go.corp.google.com
   - DOMAIN,gonglchuangl.net
   - DOMAIN,gongyichuangyi.net
   - DOMAIN,google-analytics-cn.com
@@ -85037,11 +85027,6 @@ payload:
   - DOMAIN,gtm.oasisfeng.com
   - DOMAIN,i.pki.goog
   - DOMAIN,imasdk.googleapis.com
-  - DOMAIN,l2-uberproxy.corp.google.com
-  - DOMAIN,logger-dev.corp.google.com
-  - DOMAIN,logger.corp.google.com
-  - DOMAIN,login.corp.google.com
-  - DOMAIN,monitoring.qpdp1.net
   - DOMAIN,mtalk.google.com
   - DOMAIN,o.pki.goog
   - DOMAIN,ocsp.pki.goog
@@ -85051,15 +85036,8 @@ payload:
   - DOMAIN,prod-controlbe.floonet.goog
   - DOMAIN,prod-databe.floonet.goog
   - DOMAIN,prod.databe.floonet.goog
-  - DOMAIN,proxyconfig.corp.google.com
-  - DOMAIN,qagpublic.qatp1.net
-  - DOMAIN,qgadmin.qcpp1.net
   - DOMAIN,qiao-cn.com
   - DOMAIN,qpx.googleflights.net
-  - DOMAIN,qualysapi.qatp1.net
-  - DOMAIN,qualysguard.qpdp1.net
-  - DOMAIN,r.cert.corp.google.com
-  - DOMAIN,rapture-prod.corp.google.com
   - DOMAIN,recaptcha-cn.net
   - DOMAIN,recaptcha.net
   - DOMAIN,redirector.bdn.dev
@@ -85075,27 +85053,14 @@ payload:
   - DOMAIN,redirector.xn--ngstr-lra8j.com
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,scanservice1.qcpp1.net
   - DOMAIN,service.urchin.com
   - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
-  - DOMAIN,sslredirect.corp.google.com
   - DOMAIN,staging-controlbe.floonet.goog
   - DOMAIN,staging-databe.floonet.goog
   - DOMAIN,staging.databe.floonet.goog
-  - DOMAIN,streaming-uberproxy-rotation.corp.google.com
-  - DOMAIN,streaming-uberproxy.corp.google.com
-  - DOMAIN,sup-ssh-relay.corp.google.com
-  - DOMAIN,sup-ssh-relay2.corp.google.com
-  - DOMAIN,sup.corp.google.com
-  - DOMAIN,sup.l.google.com
   - DOMAIN,tac.googleapis.com
-  - DOMAIN,test.gbugs-qa.chromium.org
   - DOMAIN,tools.google.com
-  - DOMAIN,tools.l.google.com
-  - DOMAIN,uberproxy-debug4.corp.google.com
-  - DOMAIN,uberproxy.corp.google.com
-  - DOMAIN,uberproxy6.corp.google.com
   - DOMAIN,update.crashlytics.com
   - DOMAIN,update.googleapis.com
   - DOMAIN,wear.googleapis.com
@@ -85105,7 +85070,6 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.pxcc.com
   - DOMAIN,www.recaptcha.net
-  - DOMAIN,xn--flw351e.com
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - DOMAIN-SUFFIX,ai.studio
@@ -85460,13 +85424,18 @@ payload:
   - DOMAIN-SUFFIX,newhtbook.com
   - DOMAIN-SUFFIX,urhtbooks.com
   - DOMAIN,apl-hamivideo.cdn.hinet.net
+  - DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
   - DOMAIN,hamivideo.hinet.net
+  - DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
   - DOMAIN,mobilelive-hamivideo.cdn.hinet.net
   - DOMAIN,pvr-hamivideo.cdn.hinet.net
   - DOMAIN,scc.ott.hinet.net
   - DOMAIN,static-hamivideo.cdn.hinet.net
+  - DOMAIN,thumbnail-hamivideo.cdn.hinet.net
+  - DOMAIN,tlmr-hamivideo2.cdn.hinet.net
   - DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
   - DOMAIN,weblive-hamivideo.cdn.hinet.net
+  - DOMAIN,webvodad-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,fontstar.com.cn
   - DOMAIN-SUFFIX,hanyi.com
   - DOMAIN-SUFFIX,hanyi.com.cn
@@ -96868,6 +96837,9 @@ payload:
   - DOMAIN-SUFFIX,teambition.com
   - DOMAIN-SUFFIX,teambition.net
   - DOMAIN-SUFFIX,teambitionapis.com
+  - DOMAIN-SUFFIX,myteamspeak.com
+  - DOMAIN-SUFFIX,teamspeak-services.com
+  - DOMAIN-SUFFIX,teamspeak.com
   - DOMAIN-SUFFIX,teamviewer.cn
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,teamviewer.us
@@ -97474,6 +97446,7 @@ payload:
   - DOMAIN-SUFFIX,wework-studio.com
   - DOMAIN-SUFFIX,wit.qq.com
   - DOMAIN-SUFFIX,wting.info
+  - DOMAIN-SUFFIX,wxaurl.cn
   - DOMAIN-SUFFIX,wxcloudrun.com
   - DOMAIN-SUFFIX,wxgateway.com
   - DOMAIN-SUFFIX,wxlivecdn.com

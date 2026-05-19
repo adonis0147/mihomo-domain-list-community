@@ -1230,6 +1230,7 @@ payload:
   - +.alexafund.cn
   - +.alexafund.com.cn
   - +.alexanderstreet.com
+  - +.alfa.me
   - +.alfabank.oavdo.amc
   - +.alfabank.ru
   - +.alfabank.st
@@ -1542,6 +1543,7 @@ payload:
   - +.amazonvideo.cc
   - +.amazonvideo.com
   - +.amazonvideodirect.com
+  - +.amazonwebservices.cn
   - +.amazonwebservices.com.cn
   - +.amazonworkdocs.cn
   - +.amazonworkdocs.com
@@ -14568,6 +14570,7 @@ payload:
   - +.mysocialworklab.com
   - +.mysql.com
   - +.mystrikingly.com
+  - +.myteamspeak.com
   - +.myteenwebcam.com
   - +.mythicentertainment.com
   - +.mythicentertainment.net
@@ -19569,6 +19572,8 @@ payload:
   - +.teachmyass.com
   - +.teamneedforspeed.com
   - +.teamskeet.com
+  - +.teamspeak-services.com
+  - +.teamspeak.com
   - +.teamviewer.cn
   - +.teamviewer.com
   - +.teamviewer.us
@@ -23284,6 +23289,7 @@ payload:
   - +.zhainanjidi.xyz
   - +.zhainanjidid.top
   - +.zhangboz1.xyz
+  - +.zhangzhehan.net
   - +.zhengjian.org
   - +.zhengwunet.org
   - +.zhenxiang.biz
@@ -23580,12 +23586,10 @@ payload:
   - cn.download.nvidia.com
   - cn.widevine.com
   - cn.windowssearch.com
-  - cnappinstall.googleadapis.com
   - communities.apple.com
   - configuration.apple.com.akadns.net
   - configuration.apple.com
   - connectivitycheck.gstatic.com
-  - content.googleadapis.com
   - copilot-telemetry-service.githubusercontent.com
   - copilot-telemetry.githubusercontent.com
   - crashlyticsreports-pa.googleapis.com
@@ -23652,7 +23656,6 @@ payload:
   - download.developer.apple.com
   - download.microsoft.com
   - download.mlcc.google.com
-  - download.qatp1.net
   - download.tensorflow.google.com
   - download.visualstudio.microsoft.com
   - downloaddispatch.itunes.apple.com
@@ -23661,7 +23664,6 @@ payload:
   - ea2cn-staging-outlet.dell.com
   - edge.geo.kaspersky.com
   - elib.maruzen.co.jp
-  - emmapplecodevice.googleapis.com
   - emoi-cncdn.bing.com
   - error-tracking.megamarket.tech
   - experiments.apple.com
@@ -23688,7 +23690,6 @@ payload:
   - gbxgateway.dell.com
   - github-api.arkoselabs.com
   - gitlab-assets.oss-cn-hongkong.aliyuncs.com
-  - go.corp.google.com
   - gog-cdn-fastly.gog.com
   - gog-cdn.akamaized.net
   - gog.qtlglb.com
@@ -23816,14 +23817,10 @@ payload:
   - ksn-url.geoksn.kaspersky.com
   - ksn-verdict-geo.kaspersky-labs.com
   - ksn-verdict.geoksn.kaspersky.com
-  - l2-uberproxy.corp.google.com
   - learn.microsoft.com
   - licdn.cn.cdn20.com
   - link.theplatform.com
   - live-patreon-marketing.pantheonsite.io
-  - logger-dev.corp.google.com
-  - logger.corp.google.com
-  - login.corp.google.com
   - loyalnost-adv.ozon.ru
   - lv.queniujq.cn
   - maps.apple.com
@@ -23842,7 +23839,6 @@ payload:
   - metrics.21-school.ru
   - misc-assets.itunes.apple.com
   - ml.cdn-apple.com
-  - monitoring.qpdp1.net
   - mtalk.google.com
   - muse.jhu.edu
   - music.apple.com
@@ -23941,21 +23937,14 @@ payload:
   - prod.databe.floonet.goog
   - productcard.gog-statics.com
   - prodvizhenie-adv.ozon.ru
-  - proxyconfig.corp.google.com
   - public-us-pingsx.api.clonoth.com
   - publicassets.cdn-apple.com
-  - qagpublic.qatp1.net
-  - qgadmin.qcpp1.net
   - qiao-cn.com
   - qpx.googleflights.net
-  - qualysapi.qatp1.net
-  - qualysguard.qpdp1.net
   - questions-adv.ozon.ru
-  - r.cert.corp.google.com
   - r0.mail.ru
   - r0.mradx.net
   - r1.mail.ru
-  - rapture-prod.corp.google.com
   - recaptcha-cn.net
   - recaptcha.net
   - redirector.bdn.dev
@@ -24027,7 +24016,6 @@ payload:
   - safebrowsing-cache.google.com
   - safebrowsing.googleapis.com
   - sberpro.vedomosti.ru
-  - scanservice1.qcpp1.net
   - scene7-cdn.dell.com
   - sdx.microsoft.com
   - se-edge.itunes.apple.com
@@ -24066,7 +24054,6 @@ payload:
   - srch-telemeter10.g.smailru.net
   - ssl-google-analytics.l.google.com
   - ssl.gstatic.com
-  - sslredirect.corp.google.com
   - stacks.vk-portal.net
   - staging-controlbe.floonet.goog
   - staging-databe.floonet.goog
@@ -24088,14 +24075,8 @@ payload:
   - store.storeimages.cdn-apple.com
   - storeedgefd.dsx.mp.microsoft.com
   - straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-  - streaming-uberproxy-rotation.corp.google.com
-  - streaming-uberproxy.corp.google.com
   - streamingaudio.itunes.apple.com
   - su.itunes.apple.com
-  - sup-ssh-relay.corp.google.com
-  - sup-ssh-relay2.corp.google.com
-  - sup.corp.google.com
-  - sup.l.google.com
   - support-china.apple-support.akadns.net
   - support.apple.com
   - supportassist.dell.com
@@ -24117,20 +24098,15 @@ payload:
   - target.vk.com
   - tesla-cdn.thron.cn
   - tesla-cdn.thron.com
-  - test.gbugs-qa.chromium.org
   - tf-feedback.itunes.apple.com
   - time.amazonaws.cn
   - time.izatcloud.net
   - time.xtracloud.net
   - tj-pod1-smp-device.apple.com
   - tools.google.com
-  - tools.l.google.com
   - top-staging.mail.ru
   - tp.louisvuitton.com
   - tracing-http.megamarket.tech
-  - uberproxy-debug4.corp.google.com
-  - uberproxy.corp.google.com
-  - uberproxy6.corp.google.com
   - ubisoft.siteintercept.qualtrics.com
   - universal-activity-service.itunes.apple.com
   - update.crashlytics.com
@@ -24185,7 +24161,6 @@ payload:
   - xapi.ozon.kz
   - xapi.ozon.ru
   - xapi.ozonru.me
-  - xn--flw351e.com
   - xp.apple.com
   - xray.mail.ru
   - xtratime.qcomgeo2.com
