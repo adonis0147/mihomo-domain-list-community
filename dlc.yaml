@@ -10030,6 +10030,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,themeforest.net
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,turn.livekit.cloud
@@ -10181,6 +10182,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,themeforest.net
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,turn.livekit.cloud
@@ -72249,6 +72251,7 @@ payload:
   - DOMAIN-SUFFIX,tantaly.com
   - DOMAIN-SUFFIX,taoil-cn.sbs
   - DOMAIN-SUFFIX,taose.in
+  - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,taptotokyo.com
   - DOMAIN-SUFFIX,taqunuhai.vip
   - DOMAIN-SUFFIX,taradinhos.com
