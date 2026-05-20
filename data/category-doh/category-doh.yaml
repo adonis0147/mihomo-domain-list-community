@@ -42,6 +42,7 @@ payload:
   - dns.rabbitdns.org
   - dns.sb
   - dns.seia.io
+  - dns.shaw.ca
   - dns.surfsharkdns.com
   - dns.switch.ch
   - dns.twnic.tw
@@ -67,6 +68,7 @@ payload:
   - doh.sb
   - doh.tiar.app
   - doh.tiarap.org
+  - doh.xfinity.com
   - ee-tll.doh.sb
   - extended.dns.mullvad.net
   - family.adguard-dns.com
