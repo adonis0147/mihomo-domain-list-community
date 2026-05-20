@@ -10004,6 +10004,7 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
@@ -10154,6 +10155,7 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
@@ -17420,10 +17422,12 @@ payload:
   - DOMAIN-SUFFIX,movidius.org
   - DOMAIN-SUFFIX,movika.com
   - DOMAIN-SUFFIX,mozgcp.net
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,mozillafoundation.org
   - DOMAIN-SUFFIX,mpgw-my.com
   - DOMAIN-SUFFIX,mpnevolution.com
   - DOMAIN-SUFFIX,mr-apple.com.tw
@@ -17540,6 +17544,7 @@ payload:
   - DOMAIN-SUFFIX,mysdn.net
   - DOMAIN-SUFFIX,mytopf.com
   - DOMAIN-SUFFIX,mytrk.link
+  - DOMAIN-SUFFIX,mzl.la
   - DOMAIN-SUFFIX,mzstatic.com
   - DOMAIN-SUFFIX,na-att-idns.net
   - DOMAIN-SUFFIX,namemybeats.com
@@ -66959,10 +66964,12 @@ payload:
   - DOMAIN-SUFFIX,moxing.news
   - DOMAIN-SUFFIX,moystoys.com
   - DOMAIN-SUFFIX,mozgcp.net
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,mozillafoundation.org
   - DOMAIN-SUFFIX,mp.world
   - DOMAIN-SUFFIX,mpfinance.com
   - DOMAIN-SUFFIX,mpgw-my.com
@@ -67302,6 +67309,7 @@ payload:
   - DOMAIN-SUFFIX,myyoungmomisnude.com
   - DOMAIN-SUFFIX,myyoungwifeisnude.com
   - DOMAIN-SUFFIX,mzed.com
+  - DOMAIN-SUFFIX,mzl.la
   - DOMAIN-SUFFIX,mzstatic.com
   - DOMAIN-SUFFIX,n0vadesktop.com
   - DOMAIN-SUFFIX,n26.com
@@ -92154,10 +92162,13 @@ payload:
   - DOMAIN-SUFFIX,mdnplay.dev
   - DOMAIN-SUFFIX,mdnyalp.dev
   - DOMAIN-SUFFIX,mozgcp.net
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,mozillafoundation.org
+  - DOMAIN-SUFFIX,mzl.la
   - DOMAIN-SUFFIX,seamonkey-project.org
   - DOMAIN-SUFFIX,thunderbird.net
   - DOMAIN,mdn.mozillademos.org

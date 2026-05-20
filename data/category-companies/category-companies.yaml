@@ -5203,10 +5203,12 @@ payload:
   - +.movidius.org
   - +.movika.com
   - +.mozgcp.net
+  - +.mozilla.ai
   - +.mozilla.com
   - +.mozilla.community
   - +.mozilla.net
   - +.mozilla.org
+  - +.mozillafoundation.org
   - +.mpgw-my.com
   - +.mpnevolution.com
   - +.mr-apple.com.tw
@@ -5323,6 +5325,7 @@ payload:
   - +.mysdn.net
   - +.mytopf.com
   - +.mytrk.link
+  - +.mzl.la
   - +.mzstatic.com
   - +.na-att-idns.net
   - +.namemybeats.com
