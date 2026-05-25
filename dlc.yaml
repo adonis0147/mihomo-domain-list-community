@@ -10002,6 +10002,7 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mozilla.ai
@@ -10154,6 +10155,7 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mozilla.ai
@@ -66362,6 +66364,7 @@ payload:
   - DOMAIN-SUFFIX,micstl.com
   - DOMAIN-SUFFIX,midatlanticbmwmotorcycles.com
   - DOMAIN-SUFFIX,midentsolutions.com
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,midoushe.com
   - DOMAIN-SUFFIX,mie.co.jp
   - DOMAIN-SUFFIX,miexnoviadesnuda.com
