@@ -18,6 +18,8 @@ payload:
   - +.global.market.xiaomi.com
   - +.logupdate.avlyun.sec.miui.com
   - +.mgslb.com
+  - +.mi-dun.com
+  - +.mi-fds.com
   - +.mi-idc.com
   - +.mi-img.com
   - +.mi.com
@@ -26,6 +28,7 @@ payload:
   - +.mifile.cn
   - +.migames.com
   - +.mijia.tech
+  - +.mioffice.cn
   - +.miot-spec.org
   - +.mipay.com
   - +.misc.in.duokanbox.com

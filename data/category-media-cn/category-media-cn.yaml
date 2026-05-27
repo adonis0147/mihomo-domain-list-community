@@ -23,6 +23,7 @@ payload:
   - +.anhuiyun.com
   - +.anzhuo.cn
   - +.assp.sohu.com
+  - +.bbtnews.com.cn
   - +.bdu.focus.cn
   - +.bianews.com
   - +.binglianhuajianzhan.com
@@ -39,10 +40,12 @@ payload:
   - +.cctvpic.com
   - +.cctvpro.cn
   - +.cctvpro.com.cn
+  - +.cfgw.net.cn
   - +.chaindd.com
   - +.checkzeit.com
   - +.chinaaet.com
   - +.chinabyte.com
+  - +.chinadevelopment.com.cn
   - +.chinaepg.cn
   - +.chinalive.com
   - +.chinanews.com
@@ -71,6 +74,8 @@ payload:
   - +.cs.com.cn
   - +.ctdsb.net
   - +.ctoutiao.com
+  - +.cyol.com
+  - +.cyol.net
   - +.cyzone.cn
   - +.cztv.com
   - +.cztvcdn.com
@@ -85,7 +90,9 @@ payload:
   - +.dzh.com.cn
   - +.dzng.com
   - +.dzwww.com
+  - +.eastday.com
   - +.ecns.cn
+  - +.eeo.com.cn
   - +.expreview.com
   - +.feng.com
   - +.fengcx.com

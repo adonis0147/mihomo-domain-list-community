@@ -1,9 +1,12 @@
 payload:
+  - +.100tal.com
   - +.17zuoye.cn
   - +.17zuoye.com
   - +.17zuoye.net
+  - +.21cnjy.com
   - +.91yunxiao.com
   - +.aiyunxiao.com
+  - +.aoshu.com
   - +.applysquare.com
   - +.applysquare.net
   - +.baicizhan.com
@@ -40,6 +43,8 @@ payload:
   - +.dgjy.net
   - +.edu.cn
   - +.eduei.com
+  - +.eduu.com
+  - +.eduuu.com
   - +.eoffcn.com
   - +.fbstatic.cn
   - +.fenbi.com
@@ -47,6 +52,7 @@ payload:
   - +.fenbike.com
   - +.fenbilantian.cn
   - +.fenbilantian.com
+  - +.gaokao.com
   - +.gatzs.com.cn
   - +.gfbzb.cn
   - +.gfbzb.com
@@ -110,6 +116,7 @@ payload:
   - +.smartedu.cn
   - +.speiyou.com
   - +.sydw8.com
+  - +.tal.com
   - +.tongxuepie.com
   - +.unipus.cn
   - +.weilaiyunxiao.com
@@ -118,6 +125,7 @@ payload:
   - +.x-cloud.cc
   - +.xesimg.com
   - +.xiaoyuankousuan.com
+  - +.xiguacity.cn
   - +.xir.cn
   - +.xiyouyingyu.com
   - +.xkw.com
@@ -125,6 +133,7 @@ payload:
   - +.xuetangx.com
   - +.ybccode.com
   - +.yeshj.com
+  - +.youjiao.com
   - +.ystbds.com
   - +.yuanfudao.com
   - +.yuansouti.com
@@ -141,7 +150,13 @@ payload:
   - +.zgsydw.com
   - +.zhan.com
   - +.zhihuishu.com
+  - +.zhongkao.com
   - +.zjzs.net
+  - +.zuowen.com
+  - +.zuowen8.com
+  - +.zuowenjun.com
+  - +.zuowenku.net
+  - +.zuowenwang.net
   - +.zxxk.com
   - +.zysn.net
   - study.163.com
