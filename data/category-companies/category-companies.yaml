@@ -7538,9 +7538,11 @@ payload:
   - adfstat.yandex.ru
   - admob-cn.com
   - adobeereg.com
+  - ads-img.mozilla.org
   - ads-integration.rustore.ru
   - ads.dahlmessenger.com
   - ads.icq.com
+  - ads.mozilla.org
   - ads.rustore.ru
   - ads.vk.com
   - ads.vk.ru
@@ -7835,6 +7837,8 @@ payload:
   - inappcheck-cn.itunes-apple.com.akadns.net
   - inappcheck-lb.itunes-apple.com.akadns.net
   - inappcheck.itunes.apple.com
+  - incoming-telemetry.thunderbird.net
+  - incoming.telemetry.mozilla.org
   - informer.yandex.ru
   - ingest.apple-studies.com
   - init-kt.apple.com
