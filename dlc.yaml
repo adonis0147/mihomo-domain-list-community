@@ -41131,6 +41131,7 @@ payload:
   - DOMAIN-SUFFIX,libsolutions.domains
   - DOMAIN-SUFFIX,libsolutions.net
   - DOMAIN-SUFFIX,literatumonline.com
+  - DOMAIN-SUFFIX,livinno.org
   - DOMAIN-SUFFIX,ma1lib.org
   - DOMAIN-SUFFIX,mdpi.com
   - DOMAIN-SUFFIX,medrxiv.org
@@ -41151,6 +41152,7 @@ payload:
   - DOMAIN-SUFFIX,oecd-ilibrary.org
   - DOMAIN-SUFFIX,oed.com
   - DOMAIN-SUFFIX,omscr.com
+  - DOMAIN-SUFFIX,opac-project.eu
   - DOMAIN-SUFFIX,openreview.net
   - DOMAIN-SUFFIX,optica.org
   - DOMAIN-SUFFIX,osapublishing.org
@@ -41468,8 +41470,10 @@ payload:
   - DOMAIN-SUFFIX,dlib.eastview.com
   - DOMAIN-SUFFIX,epigeum.com
   - DOMAIN-SUFFIX,imperialbusiness.school
+  - DOMAIN-SUFFIX,livinno.org
   - DOMAIN-SUFFIX,oed.com
   - DOMAIN-SUFFIX,omscr.com
+  - DOMAIN-SUFFIX,opac-project.eu
   - DOMAIN-SUFFIX,oup.com
   - DOMAIN-SUFFIX,ouplaw.com
   - DOMAIN-SUFFIX,oxfordaasc.com
@@ -65558,6 +65562,7 @@ payload:
   - DOMAIN-SUFFIX,livestream.com
   - DOMAIN-SUFFIX,livexxx.me
   - DOMAIN-SUFFIX,livingyourambition.com
+  - DOMAIN-SUFFIX,livinno.org
   - DOMAIN-SUFFIX,livrariart.com.br
   - DOMAIN-SUFFIX,lizardporn.com
   - DOMAIN-SUFFIX,lizol.co.in
@@ -68567,6 +68572,7 @@ payload:
   - DOMAIN-SUFFIX,ootbstudio.co.kr
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN-SUFFIX,op7979.com
+  - DOMAIN-SUFFIX,opac-project.eu
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openamt.com
   - DOMAIN-SUFFIX,openapiplatform.com
@@ -99771,6 +99777,10 @@ payload:
   - DOMAIN-SUFFIX,unityads.unity.cn
   - DOMAIN-SUFFIX,unityads.unitychina.cn
   - DOMAIN-SUFFIX,unitychina.cn
+  - DOMAIN-SUFFIX,liv.ac.uk
+  - DOMAIN-SUFFIX,liverpool.ac.uk
+  - DOMAIN-SUFFIX,livinno.org
+  - DOMAIN-SUFFIX,opac-project.eu
   - DOMAIN-SUFFIX,aicdn.com
   - DOMAIN-SUFFIX,oncdp.com
   - DOMAIN-SUFFIX,upai.com
