@@ -38726,10 +38726,14 @@ payload:
   - DOMAIN-SUFFIX,xhamster18.com
   - DOMAIN-SUFFIX,xhamster18.desi
   - DOMAIN-SUFFIX,xhamster19.com
+  - DOMAIN-SUFFIX,xhamster2.com
   - DOMAIN-SUFFIX,xhamster3.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,xhnews.live
   - DOMAIN-SUFFIX,xhot.pro
+  - DOMAIN-SUFFIX,xhpingcdn.com
+  - DOMAIN-SUFFIX,xhreal5.com
   - DOMAIN-SUFFIX,xhub.tv
   - DOMAIN-SUFFIX,xiangrikui-app.com
   - DOMAIN-SUFFIX,xianir.xyz
@@ -75086,11 +75090,15 @@ payload:
   - DOMAIN-SUFFIX,xhamster18.com
   - DOMAIN-SUFFIX,xhamster18.desi
   - DOMAIN-SUFFIX,xhamster19.com
+  - DOMAIN-SUFFIX,xhamster2.com
   - DOMAIN-SUFFIX,xhamster3.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,xhnews.live
   - DOMAIN-SUFFIX,xhot.pro
+  - DOMAIN-SUFFIX,xhpingcdn.com
   - DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+  - DOMAIN-SUFFIX,xhreal5.com
   - DOMAIN-SUFFIX,xhub.tv
   - DOMAIN-SUFFIX,xiangrikui-app.com
   - DOMAIN-SUFFIX,xianir.xyz
@@ -101562,9 +101570,13 @@ payload:
   - DOMAIN-SUFFIX,xhamster18.com
   - DOMAIN-SUFFIX,xhamster18.desi
   - DOMAIN-SUFFIX,xhamster19.com
+  - DOMAIN-SUFFIX,xhamster2.com
   - DOMAIN-SUFFIX,xhamster3.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,xhnews.live
+  - DOMAIN-SUFFIX,xhpingcdn.com
+  - DOMAIN-SUFFIX,xhreal5.com
   - DOMAIN,widgets.stripst.com
   - DOMAIN-SUFFIX,1xhh.cn
   - DOMAIN-SUFFIX,accxiaoheihe.com
