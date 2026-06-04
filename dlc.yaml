@@ -1393,6 +1393,9 @@ payload:
   - DOMAIN-SUFFIX,ykad-data.youku.com
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,youku.tv
+  - DOMAIN-SUFFIX,youkuhonor.com
+  - DOMAIN-SUFFIX,youkuplay.com
   - DOMAIN-SUFFIX,yowhale.com
   - DOMAIN-SUFFIX,yunos-inc.com
   - DOMAIN-SUFFIX,yunos.com
@@ -11332,6 +11335,7 @@ payload:
   - DOMAIN-SUFFIX,xingyeai.com
   - DOMAIN-SUFFIX,yiyan.baidu.com
   - DOMAIN-SUFFIX,yoma.cn
+  - DOMAIN-SUFFIX,yuanbao.tencent.com
   - DOMAIN-SUFFIX,yuanqi.tencent.com
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,zhiexa.com
@@ -26365,6 +26369,7 @@ payload:
   - DOMAIN-SUFFIX,71acg.net
   - DOMAIN-SUFFIX,71edge.com
   - DOMAIN-SUFFIX,7k7k.com
+  - DOMAIN-SUFFIX,97ting.com
   - DOMAIN-SUFFIX,9game.cn
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,9xsecndns.cn
@@ -26389,6 +26394,7 @@ payload:
   - DOMAIN-SUFFIX,ad.api.mobile.youku.com
   - DOMAIN-SUFFIX,ad.m.iqiyi.com
   - DOMAIN-SUFFIX,ad.mobile.youku.com
+  - DOMAIN-SUFFIX,ad.tencentmusic.com
   - DOMAIN-SUFFIX,adashx.ut.youku.com
   - DOMAIN-SUFFIX,adbehavior.ximalaya.com
   - DOMAIN-SUFFIX,adbkwai.com
@@ -26398,6 +26404,7 @@ payload:
   - DOMAIN-SUFFIX,adse.ximalaya.com
   - DOMAIN-SUFFIX,adserviceretry.kglink.cn
   - DOMAIN-SUFFIX,adserviceretry.kugou.com
+  - DOMAIN-SUFFIX,adstats.tencentmusic.com
   - DOMAIN-SUFFIX,adukwai.com
   - DOMAIN-SUFFIX,afp.iqiyi.com
   - DOMAIN-SUFFIX,aichongzoo.cn
@@ -26752,6 +26759,7 @@ payload:
   - DOMAIN-SUFFIX,jvcsmart.com.cn
   - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,kesong.co
+  - DOMAIN-SUFFIX,kg.qq.com
   - DOMAIN-SUFFIX,kgimg.com
   - DOMAIN-SUFFIX,kglink.cn
   - DOMAIN-SUFFIX,kjcdn.com
@@ -26855,6 +26863,7 @@ payload:
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mobilemsg.youku.com
   - DOMAIN-SUFFIX,mogoo.com
+  - DOMAIN-SUFFIX,monitor.music.qq.com
   - DOMAIN-SUFFIX,morefreegame.com
   - DOMAIN-SUFFIX,motie.com
   - DOMAIN-SUFFIX,motieimg.com
@@ -26867,6 +26876,7 @@ payload:
   - DOMAIN-SUFFIX,mszdld.net
   - DOMAIN-SUFFIX,mtime.cn
   - DOMAIN-SUFFIX,mtime.com
+  - DOMAIN-SUFFIX,music.qq.com
   - DOMAIN-SUFFIX,muwai.com
   - DOMAIN-SUFFIX,muyewx.com
   - DOMAIN-SUFFIX,my4399.com
@@ -26917,6 +26927,7 @@ payload:
   - DOMAIN-SUFFIX,qq163.com
   - DOMAIN-SUFFIX,qq163.net
   - DOMAIN-SUFFIX,qqgameapp.com
+  - DOMAIN-SUFFIX,qqmusic.com
   - DOMAIN-SUFFIX,qtfm.cn
   - DOMAIN-SUFFIX,quehu.com
   - DOMAIN-SUFFIX,qy.net
@@ -26926,6 +26937,7 @@ payload:
   - DOMAIN-SUFFIX,qznovelvod.com
   - DOMAIN-SUFFIX,readnovel.com
   - DOMAIN-SUFFIX,realcybertron.com
+  - DOMAIN-SUFFIX,report.tencentmusic.com
   - DOMAIN-SUFFIX,res.hunantv.com
   - DOMAIN-SUFFIX,rmwxgame.com
   - DOMAIN-SUFFIX,ro.com
@@ -26959,6 +26971,7 @@ payload:
   - DOMAIN-SUFFIX,smgbb.cn
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,sqreader.com
+  - DOMAIN-SUFFIX,stat.y.qq.com
   - DOMAIN-SUFFIX,stat.youku.com
   - DOMAIN-SUFFIX,statis.api.3g.youku.com
   - DOMAIN-SUFFIX,supercachenet.com
@@ -26976,6 +26989,7 @@ payload:
   - DOMAIN-SUFFIX,taptapdada.com
   - DOMAIN-SUFFIX,tcfmglobal.com
   - DOMAIN-SUFFIX,tencent-gcloud.com
+  - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,tencentstart.com
   - DOMAIN-SUFFIX,texasholdemcup.cn
   - DOMAIN-SUFFIX,texasholdemcup.com
@@ -26988,6 +27002,9 @@ payload:
   - DOMAIN-SUFFIX,tiancitycdn.com
   - DOMAIN-SUFFIX,timibase.com
   - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,tingmall.com
+  - DOMAIN-SUFFIX,tmead.y.qq.com
+  - DOMAIN-SUFFIX,tmeadcomm.y.qq.com
   - DOMAIN-SUFFIX,tudou.com
   - DOMAIN-SUFFIX,tuer123.com
   - DOMAIN-SUFFIX,tuyoo.com
@@ -26995,6 +27012,7 @@ payload:
   - DOMAIN-SUFFIX,u17i.com
   - DOMAIN-SUFFIX,u17t.com
   - DOMAIN-SUFFIX,ucg.cn
+  - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,v6-adashx.ut.youku.com
   - DOMAIN-SUFFIX,vgtime.com
@@ -27045,6 +27063,7 @@ payload:
   - DOMAIN-SUFFIX,xyzcdn.net
   - DOMAIN-SUFFIX,xyzfm.link
   - DOMAIN-SUFFIX,xyzfm.space
+  - DOMAIN-SUFFIX,y.qq.com
   - DOMAIN-SUFFIX,yamibo.com
   - DOMAIN-SUFFIX,ycgame.com
   - DOMAIN-SUFFIX,yeshen.com
@@ -27057,6 +27076,7 @@ payload:
   - DOMAIN-SUFFIX,yokaverse.com
   - DOMAIN-SUFFIX,youba.com
   - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,youkuhonor.com
   - DOMAIN-SUFFIX,youxichaguan.com
   - DOMAIN-SUFFIX,youxiputao.com
   - DOMAIN-SUFFIX,youxituoluo.com
@@ -45482,6 +45502,7 @@ payload:
   - DOMAIN-SUFFIX,962.net
   - DOMAIN-SUFFIX,9718.com
   - DOMAIN-SUFFIX,97973.com
+  - DOMAIN-SUFFIX,97ting.com
   - DOMAIN-SUFFIX,99166.com
   - DOMAIN-SUFFIX,998.com
   - DOMAIN-SUFFIX,999d.com
@@ -49257,6 +49278,7 @@ payload:
   - DOMAIN-SUFFIX,qqgexingqianming.com
   - DOMAIN-SUFFIX,qqmail.com
   - DOMAIN-SUFFIX,qqmra.com
+  - DOMAIN-SUFFIX,qqmusic.com
   - DOMAIN-SUFFIX,qqrizhi.com
   - DOMAIN-SUFFIX,qqshuoshuo.com
   - DOMAIN-SUFFIX,qschou.com
@@ -49849,6 +49871,7 @@ payload:
   - DOMAIN-SUFFIX,timibase.com
   - DOMAIN-SUFFIX,timmerse.com
   - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,tingmall.com
   - DOMAIN-SUFFIX,tingyun.com
   - DOMAIN-SUFFIX,tipdm.org
   - DOMAIN-SUFFIX,titanar.com
@@ -50284,6 +50307,7 @@ payload:
   - DOMAIN-SUFFIX,weilaicaijing.com
   - DOMAIN-SUFFIX,weilaiyunxiao.com
   - DOMAIN-SUFFIX,weiphone.net
+  - DOMAIN-SUFFIX,weishi.com
   - DOMAIN-SUFFIX,weixinbridge.com
   - DOMAIN-SUFFIX,weixing.com
   - DOMAIN-SUFFIX,weiyangx.com
@@ -50661,6 +50685,7 @@ payload:
   - DOMAIN-SUFFIX,youjiao.com
   - DOMAIN-SUFFIX,youke.co
   - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,youkuhonor.com
   - DOMAIN-SUFFIX,youlian.fun
   - DOMAIN-SUFFIX,youshang.com
   - DOMAIN-SUFFIX,youxiake.com
@@ -79339,6 +79364,7 @@ payload:
   - DOMAIN-SUFFIX,962.net
   - DOMAIN-SUFFIX,9718.com
   - DOMAIN-SUFFIX,97973.com
+  - DOMAIN-SUFFIX,97ting.com
   - DOMAIN-SUFFIX,99166.com
   - DOMAIN-SUFFIX,998.com
   - DOMAIN-SUFFIX,999d.com
@@ -84042,6 +84068,7 @@ payload:
   - DOMAIN-SUFFIX,qqmail.com
   - DOMAIN-SUFFIX,qqmra.cn
   - DOMAIN-SUFFIX,qqmra.com
+  - DOMAIN-SUFFIX,qqmusic.com
   - DOMAIN-SUFFIX,qqrizhi.com
   - DOMAIN-SUFFIX,qqshuoshuo.com
   - DOMAIN-SUFFIX,qschou.com
@@ -84795,6 +84822,7 @@ payload:
   - DOMAIN-SUFFIX,timibase.com
   - DOMAIN-SUFFIX,timmerse.com
   - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,tingmall.com
   - DOMAIN-SUFFIX,tingyun.com
   - DOMAIN-SUFFIX,tipdm.org
   - DOMAIN-SUFFIX,titanar.com
@@ -85016,6 +85044,7 @@ payload:
   - DOMAIN-SUFFIX,ulikecam.com
   - DOMAIN-SUFFIX,ulogs.umeng.com
   - DOMAIN-SUFFIX,ulogs.umengcloud.com
+  - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,um.run
   - DOMAIN-SUFFIX,umajor.net
@@ -85314,6 +85343,7 @@ payload:
   - DOMAIN-SUFFIX,weilaicaijing.com
   - DOMAIN-SUFFIX,weilaiyunxiao.com
   - DOMAIN-SUFFIX,weiphone.net
+  - DOMAIN-SUFFIX,weishi.com
   - DOMAIN-SUFFIX,weixinbridge.com
   - DOMAIN-SUFFIX,weixing.com
   - DOMAIN-SUFFIX,weiyangx.com
@@ -85745,6 +85775,7 @@ payload:
   - DOMAIN-SUFFIX,youjiao.com
   - DOMAIN-SUFFIX,youke.co
   - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,youkuhonor.com
   - DOMAIN-SUFFIX,youlai.cn
   - DOMAIN-SUFFIX,youlian.fun
   - DOMAIN-SUFFIX,youpin.cn
@@ -99490,6 +99521,7 @@ payload:
   - DOMAIN-SUFFIX,telesec.de
   - DOMAIN-SUFFIX,temp-mail.org
   - DOMAIN-SUFFIX,17roco.com
+  - DOMAIN-SUFFIX,97ting.com
   - DOMAIN-SUFFIX,acctdns.com
   - DOMAIN-SUFFIX,acctdns.net
   - DOMAIN-SUFFIX,acimg.cn
@@ -99854,6 +99886,7 @@ payload:
   - DOMAIN-SUFFIX,qqmail.com
   - DOMAIN-SUFFIX,qqmra.cn
   - DOMAIN-SUFFIX,qqmra.com
+  - DOMAIN-SUFFIX,qqmusic.com
   - DOMAIN-SUFFIX,qyunapp.com
   - DOMAIN-SUFFIX,qzone.com
   - DOMAIN-SUFFIX,readnovel.com
@@ -100033,6 +100066,7 @@ payload:
   - DOMAIN-SUFFIX,timibase.com
   - DOMAIN-SUFFIX,timmerse.com
   - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,tingmall.com
   - DOMAIN-SUFFIX,tjstats.com
   - DOMAIN-SUFFIX,tlivecdn.com
   - DOMAIN-SUFFIX,tlivemcdn.com
@@ -100053,6 +100087,7 @@ payload:
   - DOMAIN-SUFFIX,txyscdn.com
   - DOMAIN-SUFFIX,txyscdn.net
   - DOMAIN-SUFFIX,ugdtimg.com
+  - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,um.run
   - DOMAIN-SUFFIX,uncnn.cn
   - DOMAIN-SUFFIX,vcloudstc.com
@@ -100069,6 +100104,7 @@ payload:
   - DOMAIN-SUFFIX,wegame.com.cn
   - DOMAIN-SUFFIX,wegamedeveloper.com
   - DOMAIN-SUFFIX,wegameplus.com
+  - DOMAIN-SUFFIX,weishi.com
   - DOMAIN-SUFFIX,weixinbridge.com
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,werepository.com.cn
@@ -100204,6 +100240,49 @@ payload:
   - DOMAIN-SUFFIX,yzyxgame.com
   - DOMAIN-SUFFIX,zcjbgame.com
   - DOMAIN-SUFFIX,zhuoyuegame.com
+  - DOMAIN-SUFFIX,97ting.com
+  - DOMAIN-SUFFIX,ad.tencentmusic.com
+  - DOMAIN-SUFFIX,adbehavior.ximalaya.com
+  - DOMAIN-SUFFIX,ads.service.kugou.com
+  - DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+  - DOMAIN-SUFFIX,adse.ximalaya.com
+  - DOMAIN-SUFFIX,adserviceretry.kglink.cn
+  - DOMAIN-SUFFIX,adserviceretry.kugou.com
+  - DOMAIN-SUFFIX,adstats.tencentmusic.com
+  - DOMAIN-SUFFIX,fanxingliveshow.com
+  - DOMAIN-SUFFIX,kg.qq.com
+  - DOMAIN-SUFFIX,kgimg.com
+  - DOMAIN-SUFFIX,kglink.cn
+  - DOMAIN-SUFFIX,koowo.cn
+  - DOMAIN-SUFFIX,koowo.com
+  - DOMAIN-SUFFIX,ktv.com
+  - DOMAIN-SUFFIX,kugoo.com
+  - DOMAIN-SUFFIX,kugou.com
+  - DOMAIN-SUFFIX,kugou.net
+  - DOMAIN-SUFFIX,kugouaudio.com
+  - DOMAIN-SUFFIX,kugouipv6.com
+  - DOMAIN-SUFFIX,kugoukid.com
+  - DOMAIN-SUFFIX,kugouliveshow.com
+  - DOMAIN-SUFFIX,kugouringtone.com
+  - DOMAIN-SUFFIX,kugousenior.com
+  - DOMAIN-SUFFIX,kugoustore.com
+  - DOMAIN-SUFFIX,kugouvoice.com
+  - DOMAIN-SUFFIX,kugouyouth.com
+  - DOMAIN-SUFFIX,kuwo.cn
+  - DOMAIN-SUFFIX,lrts.me
+  - DOMAIN-SUFFIX,monitor.music.qq.com
+  - DOMAIN-SUFFIX,music.qq.com
+  - DOMAIN-SUFFIX,qqmusic.com
+  - DOMAIN-SUFFIX,report.tencentmusic.com
+  - DOMAIN-SUFFIX,stat.y.qq.com
+  - DOMAIN-SUFFIX,tencentmusic.com
+  - DOMAIN-SUFFIX,tingmall.com
+  - DOMAIN-SUFFIX,tmead.y.qq.com
+  - DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+  - DOMAIN-SUFFIX,ultimatemusic.cn
+  - DOMAIN-SUFFIX,ximalaya.com
+  - DOMAIN-SUFFIX,xmcdn.com
+  - DOMAIN-SUFFIX,y.qq.com
   - DOMAIN-SUFFIX,cpatrk.net
   - DOMAIN-SUFFIX,talkingdata.com
   - DOMAIN-SUFFIX,talkinggame.com
@@ -104137,6 +104216,9 @@ payload:
   - DOMAIN-SUFFIX,ykad-data.youku.com
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,youku.tv
+  - DOMAIN-SUFFIX,youkuhonor.com
+  - DOMAIN-SUFFIX,youkuplay.com
   - DOMAIN-SUFFIX,youmind.ai
   - DOMAIN-SUFFIX,youmind.com
   - DOMAIN-SUFFIX,youmind.site
@@ -104400,7 +104482,6 @@ payload:
   - DOMAIN-SUFFIX,yuansouti.com
   - DOMAIN-SUFFIX,yuantiku.com
   - DOMAIN-SUFFIX,hongxiu.com
-  - DOMAIN-SUFFIX,lrts.me
   - DOMAIN-SUFFIX,qdmm.com
   - DOMAIN-SUFFIX,qidian.com
   - DOMAIN-SUFFIX,readnovel.com

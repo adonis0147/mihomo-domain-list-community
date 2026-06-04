@@ -50,6 +50,7 @@ payload:
   - +.71acg.net
   - +.71edge.com
   - +.7k7k.com
+  - +.97ting.com
   - +.9game.cn
   - +.9xgame.com
   - +.9xsecndns.cn
@@ -74,6 +75,7 @@ payload:
   - +.ad.api.mobile.youku.com
   - +.ad.m.iqiyi.com
   - +.ad.mobile.youku.com
+  - +.ad.tencentmusic.com
   - +.adashx.ut.youku.com
   - +.adbehavior.ximalaya.com
   - +.adbkwai.com
@@ -83,6 +85,7 @@ payload:
   - +.adse.ximalaya.com
   - +.adserviceretry.kglink.cn
   - +.adserviceretry.kugou.com
+  - +.adstats.tencentmusic.com
   - +.adukwai.com
   - +.afp.iqiyi.com
   - +.aichongzoo.cn
@@ -437,6 +440,7 @@ payload:
   - +.jvcsmart.com.cn
   - +.kajicam.com
   - +.kesong.co
+  - +.kg.qq.com
   - +.kgimg.com
   - +.kglink.cn
   - +.kjcdn.com
@@ -540,6 +544,7 @@ payload:
   - +.mmstat.com
   - +.mobilemsg.youku.com
   - +.mogoo.com
+  - +.monitor.music.qq.com
   - +.morefreegame.com
   - +.motie.com
   - +.motieimg.com
@@ -552,6 +557,7 @@ payload:
   - +.mszdld.net
   - +.mtime.cn
   - +.mtime.com
+  - +.music.qq.com
   - +.muwai.com
   - +.muyewx.com
   - +.my4399.com
@@ -602,6 +608,7 @@ payload:
   - +.qq163.com
   - +.qq163.net
   - +.qqgameapp.com
+  - +.qqmusic.com
   - +.qtfm.cn
   - +.quehu.com
   - +.qy.net
@@ -611,6 +618,7 @@ payload:
   - +.qznovelvod.com
   - +.readnovel.com
   - +.realcybertron.com
+  - +.report.tencentmusic.com
   - +.res.hunantv.com
   - +.rmwxgame.com
   - +.ro.com
@@ -644,6 +652,7 @@ payload:
   - +.smgbb.cn
   - +.soku.com
   - +.sqreader.com
+  - +.stat.y.qq.com
   - +.stat.youku.com
   - +.statis.api.3g.youku.com
   - +.supercachenet.com
@@ -661,6 +670,7 @@ payload:
   - +.taptapdada.com
   - +.tcfmglobal.com
   - +.tencent-gcloud.com
+  - +.tencentmusic.com
   - +.tencentstart.com
   - +.texasholdemcup.cn
   - +.texasholdemcup.com
@@ -673,6 +683,9 @@ payload:
   - +.tiancitycdn.com
   - +.timibase.com
   - +.tingbook.com
+  - +.tingmall.com
+  - +.tmead.y.qq.com
+  - +.tmeadcomm.y.qq.com
   - +.tudou.com
   - +.tuer123.com
   - +.tuyoo.com
@@ -680,6 +693,7 @@ payload:
   - +.u17i.com
   - +.u17t.com
   - +.ucg.cn
+  - +.ultimatemusic.cn
   - +.ultracachenode.com
   - +.v6-adashx.ut.youku.com
   - +.vgtime.com
@@ -730,6 +744,7 @@ payload:
   - +.xyzcdn.net
   - +.xyzfm.link
   - +.xyzfm.space
+  - +.y.qq.com
   - +.yamibo.com
   - +.ycgame.com
   - +.yeshen.com
@@ -742,6 +757,7 @@ payload:
   - +.yokaverse.com
   - +.youba.com
   - +.youku.com
+  - +.youkuhonor.com
   - +.youxichaguan.com
   - +.youxiputao.com
   - +.youxituoluo.com
