@@ -2839,6 +2839,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,ap.org
@@ -5533,6 +5534,7 @@ payload:
   - DOMAIN-SUFFIX,avs.io
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN,stats.avito.ru
   - DOMAIN-SUFFIX,avmoo.click
   - DOMAIN-SUFFIX,avmoo.com
   - DOMAIN-SUFFIX,tellme.pw
@@ -9392,6 +9394,7 @@ payload:
   - DOMAIN-SUFFIX,appmetrica.yandex.net
   - DOMAIN-SUFFIX,appmetrica.yandex.ru
   - DOMAIN-SUFFIX,appmetrica.yango.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,apptracer.ru
   - DOMAIN-SUFFIX,ar.umeng.com
   - DOMAIN-SUFFIX,ark.letv.com
@@ -9961,10 +9964,12 @@ payload:
   - DOMAIN,incoming.telemetry.mozilla.org
   - DOMAIN,informer.yandex.ru
   - DOMAIN,log-sdk.gifshow.com
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,log3-applog-hl.fqnovel.com
   - DOMAIN,log3-applog.fqnovel.com
   - DOMAIN,log5-applog-hl.fqnovel.com
   - DOMAIN,log5-applog.fqnovel.com
+  - DOMAIN,logs.ads.vungle.com
   - DOMAIN,loyalnost-adv.ozon.ru
   - DOMAIN,marketing-info.wildberries.ru
   - DOMAIN,marketplace-sentry.wb.ru
@@ -10019,6 +10024,7 @@ payload:
   - DOMAIN,sentry.x5.ru
   - DOMAIN,srch-telemeter10.g.smailru.net
   - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.avito.ru
   - DOMAIN,stats.dahlmessenger.com
   - DOMAIN,stats.dev.telega.info
   - DOMAIN,stats.rustore.ru
@@ -10236,6 +10242,7 @@ payload:
   - DOMAIN-SUFFIX,appmetrica.yandex.net
   - DOMAIN-SUFFIX,appmetrica.yandex.ru
   - DOMAIN-SUFFIX,appmetrica.yango.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,apptracer.ru
   - DOMAIN-SUFFIX,ar.umeng.com
   - DOMAIN-SUFFIX,ark.letv.com
@@ -10845,10 +10852,12 @@ payload:
   - DOMAIN,incoming.telemetry.mozilla.org
   - DOMAIN,informer.yandex.ru
   - DOMAIN,log-sdk.gifshow.com
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,log3-applog-hl.fqnovel.com
   - DOMAIN,log3-applog.fqnovel.com
   - DOMAIN,log5-applog-hl.fqnovel.com
   - DOMAIN,log5-applog.fqnovel.com
+  - DOMAIN,logs.ads.vungle.com
   - DOMAIN,loyalnost-adv.ozon.ru
   - DOMAIN,marketing-info.wildberries.ru
   - DOMAIN,marketplace-sentry.wb.ru
@@ -10903,6 +10912,7 @@ payload:
   - DOMAIN,sentry.x5.ru
   - DOMAIN,srch-telemeter10.g.smailru.net
   - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.avito.ru
   - DOMAIN,stats.dahlmessenger.com
   - DOMAIN,stats.dev.telega.info
   - DOMAIN,stats.rustore.ru
@@ -10956,6 +10966,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clipdrop.co
@@ -11111,6 +11122,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clipdrop.co
@@ -21196,6 +21208,7 @@ payload:
   - DOMAIN,ksn-verdict-geo.kaspersky-labs.com
   - DOMAIN,ksn-verdict.geoksn.kaspersky.com
   - DOMAIN,learn.microsoft.com
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,maps.apple.com
   - DOMAIN,mc.yandex.com
   - DOMAIN,mc.yandex.net
@@ -23886,6 +23899,7 @@ payload:
   - DOMAIN,questions-adv.ozon.ru
   - DOMAIN,sentry.ozon.ru
   - DOMAIN,sentry.wb.ru
+  - DOMAIN,stats.avito.ru
   - DOMAIN,web-analytics.wildberries.ru
   - DOMAIN,xapi.ozon.by
   - DOMAIN,xapi.ozon.com.by
@@ -24061,6 +24075,7 @@ payload:
   - DOMAIN,questions-adv.ozon.ru
   - DOMAIN,sentry.ozon.ru
   - DOMAIN,sentry.wb.ru
+  - DOMAIN,stats.avito.ru
   - DOMAIN,web-analytics.wildberries.ru
   - DOMAIN,xapi.ozon.by
   - DOMAIN,xapi.ozon.com.by
@@ -42326,6 +42341,7 @@ payload:
   - DOMAIN,ksn-url.geoksn.kaspersky.com
   - DOMAIN,ksn-verdict-geo.kaspersky-labs.com
   - DOMAIN,ksn-verdict.geoksn.kaspersky.com
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,loyalnost-adv.ozon.ru
   - DOMAIN,marketing-info.wildberries.ru
   - DOMAIN,marketplace-sentry.wb.ru
@@ -42403,6 +42419,7 @@ payload:
   - DOMAIN,sentry.x5.ru
   - DOMAIN,srch-telemeter10.g.smailru.net
   - DOMAIN,stacks.vk-portal.net
+  - DOMAIN,stats.avito.ru
   - DOMAIN,stats.dahlmessenger.com
   - DOMAIN,stats.dev.telega.info
   - DOMAIN,stats.rustore.ru
@@ -59575,6 +59592,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clck.ru
@@ -78468,6 +78486,7 @@ payload:
   - DOMAIN,licdn.cn.cdn20.com
   - DOMAIN,link.theplatform.com
   - DOMAIN,live-patreon-marketing.pantheonsite.io
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,loyalnost-adv.ozon.ru
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,maps.apple.com
@@ -78707,6 +78726,7 @@ payload:
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,static.gc.apple.com
   - DOMAIN,statics.teams.cdn.office.net
+  - DOMAIN,stats.avito.ru
   - DOMAIN,stats.dahlmessenger.com
   - DOMAIN,stats.dev.telega.info
   - DOMAIN,stats.rustore.ru
@@ -104151,6 +104171,7 @@ payload:
   - DOMAIN,clck.yandex.net
   - DOMAIN,clck.yango.com
   - DOMAIN,informer.yandex.ru
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,mc.yandex.com
   - DOMAIN,mc.yandex.net
   - DOMAIN,mc.yango.com
