@@ -27916,6 +27916,7 @@ payload:
   - DOMAIN-SUFFIX,xdaimages.com
   - DOMAIN-SUFFIX,xwbo.com
   - DOMAIN,bbs.boingboing.net
+  - DOMAIN,www.quora.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,quera.ir
   - DOMAIN-SUFFIX,quera.org
   - DOMAIN-SUFFIX,3dmjiasu.com
@@ -97048,6 +97049,7 @@ payload:
   - DOMAIN-SUFFIX,qr.ae
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quoracdn.net
+  - DOMAIN,www.quora.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,qwant.com
   - DOMAIN-SUFFIX,qwant.de
   - DOMAIN-SUFFIX,qwant.fr
