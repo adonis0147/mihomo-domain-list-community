@@ -83,6 +83,7 @@ payload:
   - +.17zuoye.net
   - +.18183.com
   - +.188.com
+  - +.189smarthome.com
   - +.1905.com
   - +.19yxw.com
   - +.1huizhan.com
@@ -493,6 +494,7 @@ payload:
   - +.aipage.com
   - +.aipai.com
   - +.aiqicha.com
+  - +.air-matters.com
   - +.airchangan.com
   - +.airchinacargo.com
   - +.airguilin.com
@@ -639,6 +641,7 @@ payload:
   - +.anycross.com
   - +.anytocopy.com
   - +.anywlan.com
+  - +.aocde.com
   - +.aoshu.com
   - +.aotrip.net
   - +.aoyou.com
@@ -1165,6 +1168,7 @@ payload:
   - +.cdnhwczth23.com
   - +.cdnhwcztu09.com
   - +.cdnhwczxh101.com
+  - +.cdnmama.com
   - +.cdnmg.com
   - +.cdntip.com
   - +.cdntips.com
@@ -1807,6 +1811,7 @@ payload:
   - +.dtstatic.com
   - +.du8.ltd
   - +.dualstack-logs.amap.com
+  - +.duanshu.com
   - +.duapp.com
   - +.duapp.net
   - +.duapps.com
@@ -2143,6 +2148,7 @@ payload:
   - +.funshion.net
   - +.fuwai.com
   - +.fuwj.com
+  - +.fxbaogao.com
   - +.fxt365.com
   - +.fxxz.com
   - +.fyeds.com
@@ -2432,8 +2438,12 @@ payload:
   - +.hikunpeng.net
   - +.hikvision.com
   - +.hima.auto
+  - +.hisense-home.com
+  - +.hisense.com
   - +.hisensehitachi.com
+  - +.hisensekf.com
   - +.hisilicon.com
+  - +.hismarttv.com
   - +.hitevision-solutions.com
   - +.hitv.com
   - +.hiyd.com
@@ -2622,6 +2632,7 @@ payload:
   - +.ibdxiguavod.com
   - +.ibidian.com
   - +.ibobscs.com
+  - +.iboxpay.com
   - +.ibuychem.com
   - +.ibytedapm.com
   - +.ica-alliance.org
@@ -2676,6 +2687,7 @@ payload:
   - +.igexin.com
   - +.igtm-meeting-tencent.com
   - +.igtm.pub
+  - +.iguopin.com
   - +.igwfmc.com
   - +.ihaohaoxuexi.com
   - +.ihappystudio.com
@@ -2990,6 +3002,7 @@ payload:
   - +.job5588.com
   - +.job910.com
   - +.jobjm.com
+  - +.joinpay.com
   - +.jokecommunity.com
   - +.jokecommunity.net
   - +.jomocdn.net
@@ -3027,6 +3040,7 @@ payload:
   - +.juejin.im
   - +.juequling.com
   - +.jugongdan.com
+  - +.juhaokan.org
   - +.juhuasuan.com
   - +.juhuiwan.com
   - +.juhuiwan.net
@@ -3111,6 +3125,7 @@ payload:
   - +.kkmh.com
   - +.kksmg.com
   - +.kkzj.com
+  - +.klingai.com
   - +.klpbbs.com
   - +.knewsmart.com
   - +.kongfz.com
@@ -3286,6 +3301,7 @@ payload:
   - +.lecloudapi.com
   - +.ledu.com
   - +.leetcode-cn.com
+  - +.lehuipay.com
   - +.leigod.com
   - +.leigodjsq.com
   - +.leikeji.com
@@ -3524,6 +3540,7 @@ payload:
   - +.meta.law
   - +.metalrevolution.com
   - +.mfcteda.com
+  - +.mfuns.net
   - +.mgslb.com
   - +.mgtv.com
   - +.mhystatic.com
@@ -3739,6 +3756,8 @@ payload:
   - +.nicaifu.com
   - +.nihaoafrica.org
   - +.ningtingche.com
+  - +.nio.com
+  - +.niohome.com
   - +.nlark.com
   - +.nmrdata.com
   - +.nn.com
@@ -4463,6 +4482,7 @@ payload:
   - +.swhysc.com
   - +.swsmu.com
   - +.sxcxldjy.com
+  - +.sxlcdn.com
   - +.sxsimg.com
   - +.sydw8.com
   - +.syh.zybang.com
@@ -5637,6 +5657,7 @@ payload:
   - +.zdnscloud.net
   - +.zealer.com
   - +.zebracdn.com
+  - +.zeekrgroup.com
   - +.zeekrlife.com
   - +.zgbk.com
   - +.zgcbank.com
@@ -5694,6 +5715,7 @@ payload:
   - +.zhuanzhuan.com
   - +.zhuayoukong.com
   - +.zhubajie.com
+  - +.zhuge.com
   - +.zhulang.com
   - +.zhuoyou.com
   - +.zhuoyuegame.com

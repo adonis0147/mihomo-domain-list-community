@@ -105,6 +105,7 @@ payload:
   - +.18183.com
   - +.188.com
   - +.189.cn
+  - +.189smarthome.com
   - +.1905.com
   - +.19yxw.com
   - +.1hai.cn
@@ -578,6 +579,7 @@ payload:
   - +.aipai.com
   - +.aiqicha.cn
   - +.aiqicha.com
+  - +.air-matters.com
   - +.airchangan.com
   - +.airchina.com.cn
   - +.airchinacargo.com
@@ -749,6 +751,7 @@ payload:
   - +.anywlan.com
   - +.anzhuo.cn
   - +.ao-x.ac.cn
+  - +.aocde.com
   - +.aoshu.com
   - +.aotrip.net
   - +.aoyou.com
@@ -1441,6 +1444,7 @@ payload:
   - +.cdnhwczth23.com
   - +.cdnhwcztu09.com
   - +.cdnhwczxh101.com
+  - +.cdnmama.com
   - +.cdnmg.com
   - +.cdntip.com
   - +.cdntips.com
@@ -1802,6 +1806,7 @@ payload:
   - +.cntv.com.cn
   - +.cntvwb.cn
   - +.cnweblog.com
+  - +.cnwza.cn
   - +.cnzz.com
   - +.cocodiy.com
   - +.code666.com
@@ -2121,6 +2126,7 @@ payload:
   - +.dianwoda.com
   - +.dianzhenkeji.com
   - +.dicos.com.cn
+  - +.dict.cn
   - +.dida365.com
   - +.didi.cn
   - +.didialift.com
@@ -2271,6 +2277,7 @@ payload:
   - +.dtstatic.com
   - +.du8.ltd
   - +.dualstack-logs.amap.com
+  - +.duanshu.com
   - +.duapp.com
   - +.duapp.net
   - +.duapps.com
@@ -2678,6 +2685,7 @@ payload:
   - +.furamc.com.cn
   - +.fuwai.com
   - +.fuwj.com
+  - +.fxbaogao.com
   - +.fxt365.com
   - +.fxxz.com
   - +.fyeds.com
@@ -2844,6 +2852,7 @@ payload:
   - +.goufw.com
   - +.gov.cn
   - +.govqcloud.com
+  - +.govwza.cn
   - +.gowinamc.com
   - +.gpall.cn
   - +.gpall.net
@@ -3047,9 +3056,13 @@ payload:
   - +.hikunpeng.net
   - +.hikvision.com
   - +.hima.auto
+  - +.hisense-home.com
+  - +.hisense.com
   - +.hisensehitachi.com
+  - +.hisensekf.com
   - +.hisilicon.com
   - +.hisilicon.com.cn
+  - +.hismarttv.com
   - +.hitevision-solutions.com
   - +.hitokoto.cn
   - +.hitv.com
@@ -3296,6 +3309,7 @@ payload:
   - +.ibdxiguavod.com
   - +.ibidian.com
   - +.ibobscs.com
+  - +.iboxpay.com
   - +.ibuychem.com
   - +.ibytedapm.com
   - +.ica-alliance.org
@@ -3366,6 +3380,7 @@ payload:
   - +.ign.com.cn
   - +.igtm-meeting-tencent.com
   - +.igtm.pub
+  - +.iguopin.com
   - +.igwfmc.com
   - +.ihaohaoxuexi.com
   - +.ihappystudio.cn
@@ -3725,6 +3740,7 @@ payload:
   - +.job5588.com
   - +.job910.com
   - +.jobjm.com
+  - +.joinpay.com
   - +.jokecommunity.cn
   - +.jokecommunity.com
   - +.jokecommunity.net
@@ -3777,6 +3793,7 @@ payload:
   - +.juejin.im
   - +.juequling.com
   - +.jugongdan.com
+  - +.juhaokan.org
   - +.juhuasuan.com
   - +.juhuiwan.com
   - +.juhuiwan.com.cn
@@ -3882,6 +3899,7 @@ payload:
   - +.kkmh.com
   - +.kksmg.com
   - +.kkzj.com
+  - +.klingai.com
   - +.klpbbs.com
   - +.km6g.cn
   - +.km7g.cn
@@ -4088,6 +4106,7 @@ payload:
   - +.ledu.com
   - +.leetcode-cn.com
   - +.leetcode.cn
+  - +.lehuipay.com
   - +.leigod.cn
   - +.leigod.com
   - +.leigodjsq.com
@@ -4288,6 +4307,7 @@ payload:
   - +.maitix.com
   - +.maixhub.com
   - +.mala.cn
+  - +.mama.cn
   - +.mamayz.cn
   - +.mamayz.com
   - +.mamecn.com
@@ -4378,6 +4398,7 @@ payload:
   - +.metaso.cn
   - +.mfcteda.com
   - +.mfuns.cn
+  - +.mfuns.net
   - +.mgslb.com
   - +.mgtv.com
   - +.mhystatic.com
@@ -4649,6 +4670,8 @@ payload:
   - +.nihaorwanda.cn
   - +.ningtingche.com
   - +.nio.cn
+  - +.nio.com
+  - +.niohome.com
   - +.njcb.com.cn
   - +.njzq.com.cn
   - +.nlark.com
@@ -4860,6 +4883,7 @@ payload:
   - +.philanthropy.xin
   - +.phira.cn
   - +.phoenixcenter.cn
+  - +.php.cn
   - +.phpcomposer.com
   - +.phpweblog.net
   - +.phpwind.com
@@ -5044,6 +5068,7 @@ payload:
   - +.qingfuwucdn.com
   - +.qingfuwucdn.net
   - +.qingping.co
+  - +.qingque.cn
   - +.qingsongchou.com
   - +.qingstor.com
   - +.qingting.fm
@@ -5217,6 +5242,7 @@ payload:
   - +.saibo.com
   - +.samasty.com
   - +.sandai.net
+  - +.sangfor.com.cn
   - +.sanguosha.com
   - +.sankuai.com
   - +.sanweihou.com
@@ -5564,6 +5590,7 @@ payload:
   - +.sxgou.cn
   - +.sxl.cn
   - +.sxlcdn.cn
+  - +.sxlcdn.com
   - +.sxsimg.com
   - +.sydw8.com
   - +.syh.zybang.com
@@ -6971,6 +6998,7 @@ payload:
   - +.zdzq.com.cn
   - +.zealer.com
   - +.zebracdn.com
+  - +.zeekrgroup.com
   - +.zeekrlife.com
   - +.zgbk.com
   - +.zgbznet.com.cn
@@ -7044,6 +7072,7 @@ payload:
   - +.zhuanzhuan.com
   - +.zhuayoukong.com
   - +.zhubajie.com
+  - +.zhuge.com
   - +.zhulang.com
   - +.zhuoyou.com
   - +.zhuoyuegame.com
