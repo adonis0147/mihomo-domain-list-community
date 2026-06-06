@@ -11039,6 +11039,7 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,opal.google
@@ -11195,6 +11196,7 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,opal.google
@@ -26215,6 +26217,7 @@ payload:
   - DOMAIN,gog.qtlglb.com
   - DOMAIN,gogalaxy.gog-statics.com
   - DOMAIN,hamivideo.hinet.net
+  - DOMAIN,hb.imgix.net
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,heads4-ak-spotify-com.akamaized.net
   - DOMAIN,hls-amt.itunes.apple.com
@@ -29456,6 +29459,7 @@ payload:
   - DOMAIN,gog-cdn.akamaized.net
   - DOMAIN,gog.qtlglb.com
   - DOMAIN,gogalaxy.gog-statics.com
+  - DOMAIN,hb.imgix.net
   - DOMAIN,lazer.ppy.sh
   - DOMAIN,lolstatic-a.akamaihd.net
   - DOMAIN,lv.queniujq.cn
@@ -30281,6 +30285,7 @@ payload:
   - DOMAIN,gog-cdn.akamaized.net
   - DOMAIN,gog.qtlglb.com
   - DOMAIN,gogalaxy.gog-statics.com
+  - DOMAIN,hb.imgix.net
   - DOMAIN,lazer.ppy.sh
   - DOMAIN,lolstatic-a.akamaihd.net
   - DOMAIN,lv.queniujq.cn
@@ -70068,6 +70073,7 @@ payload:
   - DOMAIN-SUFFIX,o3t.ru
   - DOMAIN-SUFFIX,o3team.ru
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oanencore.com
   - DOMAIN-SUFFIX,oann.com
@@ -89172,6 +89178,8 @@ payload:
   - DOMAIN-SUFFIX,thehulubraintrust.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
   - DOMAIN,hulu.playback.edge.bamgrid.com
+  - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN,hb.imgix.net
   - DOMAIN-SUFFIX,click.hunantv.com
   - DOMAIN-SUFFIX,da.hunantv.com
   - DOMAIN-SUFFIX,da.mgtv.com
@@ -95538,6 +95546,7 @@ payload:
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
