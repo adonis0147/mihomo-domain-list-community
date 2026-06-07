@@ -7704,6 +7704,7 @@ payload:
   - cl1.apple.com
   - cl2-cdn.origin-apple.com.akadns.net
   - cl2-cn.apple.com
+  - cl2.apple.com.edgekey.net.globalredir.akadns.net
   - cl2.apple.com
   - cl3-cdn.origin-apple.com.akadns.net
   - cl3.apple.com
@@ -7849,6 +7850,7 @@ payload:
   - gs-loc-cn.apple.com
   - gs-loc.apple.com
   - gsp10-ssl-cn.ls.apple.com
+  - gsp11-cn.ls.apple.com
   - gsp12-cn.ls.apple.com
   - gsp13-cn.ls.apple.com
   - gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
@@ -7875,8 +7877,6 @@ payload:
   - hpstore.corpmerchandise.com
   - i.dell.com
   - i.pki.goog
-  - icloud-cdn.icloud.com.akadns.net
-  - icloud.cdn-apple.com
   - images-cn-8.ssl-images-amazon.com
   - images-cn.ssl-images-amazon.com
   - images.apple.com.edgekey.net.globalredir.akadns.net
@@ -7969,10 +7969,8 @@ payload:
   - nexus.dell.com
   - np-edge.itunes.apple.com
   - o.pki.goog
-  - ocsp-lb.apple.com.akadns.net
   - ocsp.apple.com
   - ocsp.pki.goog
-  - ocsp2-lb.apple.com.akadns.net
   - ocsp2.apple.com
   - oemsoc.download.prss.microsoft.com
   - officecdn-microsoft-com.akamaized.net
@@ -8006,7 +8004,6 @@ payload:
   - p19.upd.kaspersky.com
   - pagead-googlehosted.l.google.com
   - pancake.apple.com
-  - pancake.cdn-apple.com.akadns.net
   - pba0.apple.com
   - pd-nk.itunes.apple.com
   - pd.itunes.apple.com
@@ -8050,7 +8047,6 @@ payload:
   - report.ap.yandex-net.ru
   - res-1.cdn.office.net
   - res.cdn.office.net
-  - reserve-prime.apple.com
   - rink.hockeyapp.net
   - rs.mail.ru
   - s.mzstatic.com
