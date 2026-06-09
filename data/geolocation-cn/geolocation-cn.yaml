@@ -2755,6 +2755,7 @@ payload:
   - +.gdrc.com
   - +.gdt.qq.com
   - +.gdtimg.com
+  - +.geekbang.org
   - +.geekpark.net
   - +.geektool.top
   - +.geely.com
@@ -3434,8 +3435,7 @@ payload:
   - +.infineon.cn
   - +.infini-fantasy.com
   - +.infinitynewtab.com
-  - +.infoq.com
-  - +.infoqstatic.com
+  - +.infoq.cn
   - +.inftab.com
   - +.inke.cn
   - +.inkuai.com
@@ -3452,7 +3452,6 @@ payload:
   - +.ioppo.com.cn
   - +.ioppo.net
   - +.iotronic.tech
-  - +.ip-cdn.com
   - +.ip138.com
   - +.ipanda.cn
   - +.ipanda.com
