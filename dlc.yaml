@@ -25207,6 +25207,7 @@ payload:
   - DOMAIN-SUFFIX,nowe.hk
   - DOMAIN-SUFFIX,noxygames.com
   - DOMAIN-SUFFIX,nunuyy.cc
+  - DOMAIN-SUFFIX,nxtv.jp
   - DOMAIN-SUFFIX,odysee.com
   - DOMAIN-SUFFIX,offworldindustries.com
   - DOMAIN-SUFFIX,offworldindustries.net
@@ -25630,6 +25631,9 @@ payload:
   - DOMAIN-SUFFIX,ultimaonline.com
   - DOMAIN-SUFFIX,umamusume.akamaized.net
   - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.co.jp
+  - DOMAIN-SUFFIX,unext.jp
   - DOMAIN-SUFFIX,unravel2.com
   - DOMAIN-SUFFIX,unraveltwo.com
   - DOMAIN-SUFFIX,unrealengine.com
@@ -69965,6 +69969,7 @@ payload:
   - DOMAIN-SUFFIX,nxta.org
   - DOMAIN-SUFFIX,nxtdig.com.hk
   - DOMAIN-SUFFIX,nxtdig.com.tw
+  - DOMAIN-SUFFIX,nxtv.jp
   - DOMAIN-SUFFIX,nyaa.net
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,nyahentai.re
@@ -75142,6 +75147,9 @@ payload:
   - DOMAIN-SUFFIX,uncensoredsexparties.com
   - DOMAIN-SUFFIX,underhentai.net
   - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.co.jp
+  - DOMAIN-SUFFIX,unext.jp
   - DOMAIN-SUFFIX,unfiltered.news
   - DOMAIN-SUFFIX,unidraw.io
   - DOMAIN-SUFFIX,uninhibitedcomix.com
@@ -101933,6 +101941,10 @@ payload:
   - DOMAIN-SUFFIX,w.cnzz.com
   - DOMAIN-SUFFIX,whalecloud.com
   - DOMAIN-SUFFIX,z.gds.cnzz.com
+  - DOMAIN-SUFFIX,nxtv.jp
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.co.jp
+  - DOMAIN-SUFFIX,unext.jp
   - DOMAIN-SUFFIX,95516.com
   - DOMAIN-SUFFIX,95516.net
   - DOMAIN-SUFFIX,chinaunionpay.com
