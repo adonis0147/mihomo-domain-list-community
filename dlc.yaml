@@ -21408,12 +21408,15 @@ payload:
   - DOMAIN-SUFFIX,huobiasia.vip
   - DOMAIN-SUFFIX,huobigroup.com
   - DOMAIN-SUFFIX,huobitoken.com
+  - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,invity.io
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-SUFFIX,kraken.onl
   - DOMAIN-SUFFIX,kucoin.com
   - DOMAIN-SUFFIX,kucoin.plus
+  - DOMAIN-SUFFIX,lighter.exchange
+  - DOMAIN-SUFFIX,lighter.xyz
   - DOMAIN-SUFFIX,localbitcoins.com
   - DOMAIN-SUFFIX,localbitcoinschain.com
   - DOMAIN-SUFFIX,maple.finance
@@ -21473,6 +21476,7 @@ payload:
   - DOMAIN-SUFFIX,zb.com
   - DOMAIN-SUFFIX,zb.io
   - DOMAIN-SUFFIX,zb.live
+  - DOMAIN-SUFFIX,zklighter.elliot.ai
   - DOMAIN,bybit-exchange.github.io
   - DOMAIN,bybit.ada.support
   - DOMAIN,d3r7nsslvs6aaf.cloudfront.net
@@ -21686,6 +21690,7 @@ payload:
   - DOMAIN-SUFFIX,draftjs.org
   - DOMAIN-SUFFIX,ecr.aws
   - DOMAIN-SUFFIX,electronjs.org
+  - DOMAIN-SUFFIX,elegantthemes.com
   - DOMAIN-SUFFIX,elementary.io
   - DOMAIN-SUFFIX,elixir-lang.org
   - DOMAIN-SUFFIX,elrepo.org
@@ -21799,6 +21804,7 @@ payload:
   - DOMAIN-SUFFIX,hex.pm
   - DOMAIN-SUFFIX,hexdocs.pm
   - DOMAIN-SUFFIX,hhvm.com
+  - DOMAIN-SUFFIX,hivepress.io
   - DOMAIN-SUFFIX,hyperscan.io
   - DOMAIN-SUFFIX,iads.unity3d.com
   - DOMAIN-SUFFIX,imageglass.org
@@ -21882,6 +21888,7 @@ payload:
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,mongodb.org
   - DOMAIN-SUFFIX,mono-project.com
+  - DOMAIN-SUFFIX,motopress.com
   - DOMAIN-SUFFIX,mpv.io
   - DOMAIN-SUFFIX,msdn.com
   - DOMAIN-SUFFIX,msinnovationchallenge.com
@@ -22075,6 +22082,7 @@ payload:
   - DOMAIN-SUFFIX,vfsforgit.org
   - DOMAIN-SUFFIX,videojs.com
   - DOMAIN-SUFFIX,videolan.org
+  - DOMAIN-SUFFIX,videopress.com
   - DOMAIN-SUFFIX,vim.org
   - DOMAIN-SUFFIX,visualstudio-staging.com
   - DOMAIN-SUFFIX,visualstudio.co
@@ -22086,6 +22094,7 @@ payload:
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,w.org
   - DOMAIN-SUFFIX,wapm.io
   - DOMAIN-SUFFIX,wasmer.io
   - DOMAIN-SUFFIX,webflow.com
@@ -22094,7 +22103,16 @@ payload:
   - DOMAIN-SUFFIX,weblate.org
   - DOMAIN-SUFFIX,webobjects.com
   - DOMAIN-SUFFIX,wireshark.org
+  - DOMAIN-SUFFIX,wordcamp.org
+  - DOMAIN-SUFFIX,wordpress.com
+  - DOMAIN-SUFFIX,wordpress.net
+  - DOMAIN-SUFFIX,wordpress.org
+  - DOMAIN-SUFFIX,wordpress.tv
+  - DOMAIN-SUFFIX,wp-themes.com
+  - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN-SUFFIX,wpmailsmtp.com
+  - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,x.org
   - DOMAIN-SUFFIX,xamarin.com
   - DOMAIN-SUFFIX,xfce.org
@@ -41417,6 +41435,17 @@ payload:
   - DOMAIN-SUFFIX,donationalerts.com
   - DOMAIN-SUFFIX,driveawaytaxi.org
   - DOMAIN-SUFFIX,drobbox.pro
+  - DOMAIN-SUFFIX,drweb-av.de
+  - DOMAIN-SUFFIX,drweb-av.es
+  - DOMAIN-SUFFIX,drweb-av.it
+  - DOMAIN-SUFFIX,drweb-av.pl
+  - DOMAIN-SUFFIX,drweb.by
+  - DOMAIN-SUFFIX,drweb.cn
+  - DOMAIN-SUFFIX,drweb.co.jp
+  - DOMAIN-SUFFIX,drweb.com
+  - DOMAIN-SUFFIX,drweb.fr
+  - DOMAIN-SUFFIX,drweb.kz
+  - DOMAIN-SUFFIX,drweb.uz
   - DOMAIN-SUFFIX,e.mindbox.ru
   - DOMAIN-SUFFIX,eadaily.com
   - DOMAIN-SUFFIX,eadaily.info
@@ -61577,6 +61606,7 @@ payload:
   - DOMAIN-SUFFIX,electronicarts.fr
   - DOMAIN-SUFFIX,electronicsignature.ru
   - DOMAIN-SUFFIX,electronjs.org
+  - DOMAIN-SUFFIX,elegantthemes.com
   - DOMAIN-SUFFIX,element.io
   - DOMAIN-SUFFIX,elementary.io
   - DOMAIN-SUFFIX,elephantlist.com
@@ -65129,6 +65159,7 @@ payload:
   - DOMAIN-SUFFIX,hydrogenaud.io
   - DOMAIN-SUFFIX,hyper.is
   - DOMAIN-SUFFIX,hyperdreams.com
+  - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,hyperscan.io
   - DOMAIN-SUFFIX,hypnohub.net
   - DOMAIN-SUFFIX,hypnoporn.net
@@ -67147,6 +67178,8 @@ payload:
   - DOMAIN-SUFFIX,lifestyle-tec.ru
   - DOMAIN-SUFFIX,lifewire.com
   - DOMAIN-SUFFIX,lightbridge.com
+  - DOMAIN-SUFFIX,lighter.exchange
+  - DOMAIN-SUFFIX,lighter.xyz
   - DOMAIN-SUFFIX,lightxxxtube.com
   - DOMAIN-SUFFIX,lih.kg
   - DOMAIN-SUFFIX,lihkg.com
@@ -76682,6 +76715,7 @@ payload:
   - DOMAIN-SUFFIX,woolite.pl
   - DOMAIN-SUFFIX,woolite.us
   - DOMAIN-SUFFIX,woolitecarpet.com
+  - DOMAIN-SUFFIX,wordcamp.org
   - DOMAIN-SUFFIX,wordpress.com
   - DOMAIN-SUFFIX,wordpress.net
   - DOMAIN-SUFFIX,wordpress.org
@@ -78020,6 +78054,7 @@ payload:
   - DOMAIN-SUFFIX,zipcine.com
   - DOMAIN-SUFFIX,ziraatbank.ru
   - DOMAIN-SUFFIX,zishy.com
+  - DOMAIN-SUFFIX,zklighter.elliot.ai
   - DOMAIN-SUFFIX,zlib.life
   - DOMAIN-SUFFIX,zlibcdn.com
   - DOMAIN-SUFFIX,zlibcdn2.com
@@ -91384,6 +91419,9 @@ payload:
   - DOMAIN-SUFFIX,ligastavok-csr.ru
   - DOMAIN-SUFFIX,ligastavok.ru
   - DOMAIN-SUFFIX,sozvezdie-dobra.ru
+  - DOMAIN-SUFFIX,lighter.exchange
+  - DOMAIN-SUFFIX,lighter.xyz
+  - DOMAIN-SUFFIX,zklighter.elliot.ai
   - DOMAIN-SUFFIX,lih.kg
   - DOMAIN-SUFFIX,lihkg.com
   - DOMAIN-SUFFIX,delvenetworks.com
@@ -103682,6 +103720,7 @@ payload:
   - DOMAIN-SUFFIX,woolitecarpet.com
   - DOMAIN-SUFFIX,videopress.com
   - DOMAIN-SUFFIX,w.org
+  - DOMAIN-SUFFIX,wordcamp.org
   - DOMAIN-SUFFIX,wordpress.com
   - DOMAIN-SUFFIX,wordpress.net
   - DOMAIN-SUFFIX,wordpress.org
