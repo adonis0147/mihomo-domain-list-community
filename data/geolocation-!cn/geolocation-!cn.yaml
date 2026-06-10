@@ -1325,6 +1325,7 @@ payload:
   - +.allizom.net
   - +.allizom.org
   - +.alljapanesepass.com
+  - +.allkeyshop.com
   - +.allmomsex.com
   - +.allover30.com
   - +.allpasswords.com
@@ -2559,6 +2560,7 @@ payload:
   - +.avdwang.xyz
   - +.avelip.com
   - +.aventertainments.com
+  - +.avermedia.com
   - +.aversbank.ru
   - +.avfox.cc
   - +.avg.com
@@ -3367,6 +3369,7 @@ payload:
   - +.bextbuy.com
   - +.beyondcore.com
   - +.bfa.ru
+  - +.bfads.net
   - +.bffshd.com
   - +.bgicdn.com
   - +.bgm.tv
@@ -4490,6 +4493,7 @@ payload:
   - +.buypass.com
   - +.buypass.no
   - +.buypass.se
+  - +.buyservices.com
   - +.buyshoponly.com
   - +.buzzardflapper.com
   - +.buzzav.com
@@ -5354,6 +5358,7 @@ payload:
   - +.coinalyze.net
   - +.coinbase.com
   - +.coindesk.com
+  - +.coingate.com
   - +.coingecko.com
   - +.coinglass.com
   - +.coinmap.org
@@ -6291,6 +6296,9 @@ payload:
   - +.discountbeatsstore.com
   - +.discountedporn.com
   - +.discountporn.club
+  - +.discourse-cdn.com
+  - +.discourse.group
+  - +.discourse.org
   - +.discovershiretoko.org
   - +.discoveryplus.com
   - +.discreet.com
@@ -6865,6 +6873,10 @@ payload:
   - +.eater.com
   - +.ebahy.com
   - +.ebalovo.com
+  - +.ebates.ca
+  - +.ebates.kr
+  - +.ebates.sg
+  - +.ebatescanada.com
   - +.ebay-authenticate.net
   - +.ebay-confirm.com
   - +.ebay-course.com
@@ -7067,6 +7079,7 @@ payload:
   - +.ebscohost.com
   - +.ebuyer.com
   - +.ebuyheadphones.com
+  - +.ecbsn.com
   - +.ecchinohentai.ru
   - +.ecert.gov.hk
   - +.ecgapp.com.cn
@@ -7951,6 +7964,7 @@ payload:
   - +.fasttext.cc
   - +.fasttrackreadysupport.com
   - +.fatstube.com
+  - +.fatwallet.com
   - +.favebook.com
   - +.favelaporno.com
   - +.favepornmovs.com
@@ -8075,6 +8089,7 @@ payload:
   - +.ficador.com
   - +.ficbook.net
   - +.ficeboock.com
+  - +.ficgs.com
   - +.ficmania.com
   - +.fictionmania.tv
   - +.fifastreet.com
@@ -8671,6 +8686,7 @@ payload:
   - +.fulloutsourcing.jp
   - +.fullpornnetwork.com
   - +.fullsexmovs.com
+  - +.fullstory.com
   - +.fulltaboo.tv
   - +.fullxxxmovies.net
   - +.fundaiphone5s.com
@@ -8778,7 +8794,9 @@ payload:
   - +.gamesfuckgirls.com
   - +.gamesofdesire.com
   - +.gamespark.jp
+  - +.gamesplanet.com
   - +.gamesstack.com
+  - +.gametap.com
   - +.gameuxmasterguide.com
   - +.gaming-notebooks.com
   - +.gandhara.ru
@@ -9024,6 +9042,7 @@ payload:
   - +.gfx.ms
   - +.gfycat.com
   - +.gfysex.com
+  - +.gg.deals
   - +.ggdiao.com
   - +.ggjav.com
   - +.ggoogle.com
@@ -9036,6 +9055,7 @@ payload:
   - +.gh.io
   - +.ghbi.ir
   - +.ghcr.io
+  - +.ghe.com
   - +.ghettotube.com
   - +.ghostarchive.org
   - +.ghostgames.com
@@ -9569,6 +9589,7 @@ payload:
   - +.govforce.com
   - +.gpb.ru
   - +.gpsonextra.net
+  - +.gpstatic.com
   - +.gpstheseries.com
   - +.gputechconf.cn
   - +.gputechconf.co.kr
@@ -12424,6 +12445,7 @@ payload:
   - +.kingkongapp.com
   - +.kingofpics.com
   - +.kingstagram.com
+  - +.kinguin.net
   - +.kinguno.xyz
   - +.kink.com
   - +.kinkbook.com
@@ -12468,6 +12490,7 @@ payload:
   - +.koalaporn.com
   - +.kobbeatssbydredk.com
   - +.kobe-pastel.com
+  - +.kobo.com
   - +.koddobra.ru
   - +.kodi.tv
   - +.kodi.wiki
@@ -14997,7 +15020,9 @@ payload:
   - +.nexon.co.jp
   - +.nexon.com
   - +.nexon.io
+  - +.nexon.net
   - +.nexoncdn.co.kr
+  - +.nexongames.co.kr
   - +.nexpart.com
   - +.nexpart.tv
   - +.next.com
@@ -15060,6 +15085,10 @@ payload:
   - +.nhentaihaven.com
   - +.nhentaihaven.org
   - +.nheos.com
+  - +.nhk
+  - +.nhk.jp
+  - +.nhk.or.jp
+  - +.nhkworld.jp
   - +.nhncorp.jp
   - +.niceanimegames.com
   - +.nicegram.app
@@ -17488,7 +17517,10 @@ payload:
   - +.rakuten.com
   - +.rakuten.com.tw
   - +.rakuten.ne.jp
+  - +.rakuten.tv
   - +.rakuten.tw
+  - +.rakutenadvertising.com
+  - +.rakutengiftcards.ca
   - +.rakuya.com.tw
   - +.randyblue.com
   - +.rapefilms.net
@@ -17892,6 +17924,7 @@ payload:
   - +.rpmfusion.org
   - +.rprimelab.com
   - +.rqbank.ir
+  - +.rrcbsn.com
   - +.rrl28.buzz
   - +.rrs1.xyz
   - +.rrtis.com
@@ -21199,6 +21232,7 @@ payload:
   - +.viewpointsfromfacebook.com
   - +.vigorgame.com
   - +.viju.ru
+  - +.viki.com
   - +.vikiporn.com
   - +.vilavpn.com
   - +.vilavpn.xyz

@@ -405,8 +405,6 @@ payload:
   - +.elpionero.es
   - +.embark-studios.com
   - +.embark.games
-  - +.eneba.com
-  - +.eneba.games
   - +.enlisted.net
   - +.epicgames.com
   - +.epicgames.dev
@@ -435,6 +433,7 @@ payload:
   - +.fic.fan
   - +.ficador.com
   - +.ficbook.net
+  - +.ficgs.com
   - +.ficmania.com
   - +.fifastreet.com
   - +.fifastreet3.com
@@ -474,6 +473,8 @@ payload:
   - +.gamer.ne.jp
   - +.gamesfirsthelsinki.com
   - +.gamespark.jp
+  - +.gamesplanet.com
+  - +.gametap.com
   - +.garena.co.id
   - +.garena.co.th
   - +.garena.com
@@ -512,6 +513,7 @@ payload:
   - +.goodreads.com
   - +.googlevideo.com
   - +.gorin.jp
+  - +.gpstatic.com
   - +.gr-assets.com
   - +.greatgame.asia
   - +.gstore.val.manlaxy.com
@@ -869,7 +871,9 @@ payload:
   - +.nexon.co.jp
   - +.nexon.com
   - +.nexon.io
+  - +.nexon.net
   - +.nexoncdn.co.kr
+  - +.nexongames.co.kr
   - +.nexus-cdn.com
   - +.nexusmods.com
   - +.nflxext.com

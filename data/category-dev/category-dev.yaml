@@ -85,6 +85,9 @@ payload:
   - +.devimages-cdn.apple.com
   - +.devopsassessment.net
   - +.devstreaming-cdn.apple.com
+  - +.discourse-cdn.com
+  - +.discourse.group
+  - +.discourse.org
   - +.docker.com
   - +.docker.io
   - +.dockerstatic.com
@@ -163,6 +166,7 @@ payload:
   - +.getzola.org
   - +.gh.io
   - +.ghcr.io
+  - +.ghe.com
   - +.git-scm.com
   - +.git.io
   - +.gitbook.com

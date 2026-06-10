@@ -214,8 +214,6 @@ payload:
   - +.electronicarts.fr
   - +.embark-studios.com
   - +.embark.games
-  - +.eneba.com
-  - +.eneba.games
   - +.enlisted.net
   - +.epicgames.com
   - +.epicgames.dev
@@ -229,6 +227,7 @@ payload:
   - +.fanatical.com
   - +.feihuo.com
   - +.ffbuddy.com
+  - +.ficgs.com
   - +.fifastreet.com
   - +.fifastreet3.com
   - +.fire-emblem-heroes.com
@@ -260,6 +259,8 @@ payload:
   - +.gamemei.com
   - +.gamepass.com
   - +.gamesfirsthelsinki.com
+  - +.gamesplanet.com
+  - +.gametap.com
   - +.garena.co.id
   - +.garena.co.th
   - +.garena.com
@@ -293,6 +294,7 @@ payload:
   - +.goto-game.org
   - +.gotolink.net
   - +.gouhuo.qq.com
+  - +.gpstatic.com
   - +.gstore.val.manlaxy.com
   - +.gtgres.com
   - +.guoping123.com
@@ -487,7 +489,9 @@ payload:
   - +.nexon.co.jp
   - +.nexon.com
   - +.nexon.io
+  - +.nexon.net
   - +.nexoncdn.co.kr
+  - +.nexongames.co.kr
   - +.nextstudios.com
   - +.nextworkshop.net
   - +.nexus-cdn.com
