@@ -57,6 +57,7 @@ payload:
   - +.21vbc.com
   - +.21vbluecloud.com
   - +.21vbluecloud.net
+  - +.265.com
   - +.2beatsdre.com
   - +.2buybeatsbydre.com
   - +.2drdrebeats.com
@@ -2109,6 +2110,7 @@ payload:
   - +.cpedge.com
   - +.cqcorea.com
   - +.crankplayer.com
+  - +.crashlytics.com
   - +.createspace.com
   - +.createwhatsnext.com
   - +.creativecloud.com
@@ -7581,7 +7583,6 @@ payload:
   - +.zukunftswerkstatt.de
   - 1l-hit.mail.ru
   - 1l-hit.vkplay.ru
-  - 265.com
   - 2mdn-cn.net
   - 2mdn.net
   - a1.mzstatic.com
@@ -8208,6 +8209,7 @@ payload:
   - www.gstatic.com
   - www.microsoft.com
   - www.pxcc.com
+  - www.recaptcha-cn.net
   - www.recaptcha.net
   - www.support.apple.com
   - xp.apple.com

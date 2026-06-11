@@ -2,6 +2,7 @@ payload:
   - +.0emm.com
   - +.1e100.net
   - +.1ucrs.com
+  - +.265.com
   - +.2mdn-cn.net
   - +.2mdn.net
   - +.466453.com
@@ -156,6 +157,7 @@ payload:
   - +.coova.com
   - +.coova.net
   - +.coova.org
+  - +.crashlytics.com
   - +.crossmediapanel.com
   - +.crr.com
   - +.cs4hs.com
@@ -842,7 +844,6 @@ payload:
   - +.yt.be
   - +.ytimg.com
   - +.zukunftswerkstatt.de
-  - 265.com
   - 2mdn-cn.net
   - 2mdn.net
   - admob-cn.com
@@ -964,6 +965,7 @@ payload:
   - www.destinationurl.com
   - www.gstatic.com
   - www.pxcc.com
+  - www.recaptcha-cn.net
   - www.recaptcha.net
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

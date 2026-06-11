@@ -1512,6 +1512,7 @@ payload:
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,466453.com
@@ -1666,6 +1667,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crossmediapanel.com
   - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,cs4hs.com
@@ -2352,7 +2354,6 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zukunftswerkstatt.de
-  - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
   - DOMAIN,admob-cn.com
@@ -2474,6 +2475,7 @@ payload:
   - DOMAIN,www.destinationurl.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.pxcc.com
+  - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
@@ -9372,12 +9374,14 @@ payload:
   - DOMAIN-SUFFIX,analytics-alv.google.com
   - DOMAIN-SUFFIX,analytics-data.io
   - DOMAIN-SUFFIX,analytics.163.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics.umetrip.com
   - DOMAIN-SUFFIX,analytics.vk.com
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,api-adservices.apple.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
@@ -9431,6 +9435,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.advertserve.com
   - DOMAIN-SUFFIX,cdn.banclip.com
   - DOMAIN-SUFFIX,cdn.pocoiq.cn
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,cfts1tifqr.com
   - DOMAIN-SUFFIX,china-caa.org
   - DOMAIN-SUFFIX,chinaciaf.org
@@ -9449,6 +9454,7 @@ payload:
   - DOMAIN-SUFFIX,cnlogs.umengcloud.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,collector.xhamster.com
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,contentabc.com
   - DOMAIN-SUFFIX,counter.yandex.ru
   - DOMAIN-SUFFIX,cpro.baidu.com
@@ -9707,6 +9713,8 @@ payload:
   - DOMAIN-SUFFIX,passport-log.youku.com
   - DOMAIN-SUFFIX,pb.i.sogou.com
   - DOMAIN-SUFFIX,pbmp.ali213.net
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
   - DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
   - DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
@@ -9720,6 +9728,7 @@ payload:
   - DOMAIN-SUFFIX,pmir.3g.qq.com
   - DOMAIN-SUFFIX,policy.video.iqiyi.com
   - DOMAIN-SUFFIX,pos.baidu.com
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,push.qq.com
   - DOMAIN-SUFFIX,pv.hd.sohu.com
   - DOMAIN-SUFFIX,pv.sohu.com
@@ -10220,12 +10229,14 @@ payload:
   - DOMAIN-SUFFIX,analytics-alv.google.com
   - DOMAIN-SUFFIX,analytics-data.io
   - DOMAIN-SUFFIX,analytics.163.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics.umetrip.com
   - DOMAIN-SUFFIX,analytics.vk.com
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,api-adservices.apple.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
@@ -10279,6 +10290,7 @@ payload:
   - DOMAIN-SUFFIX,ccs.umeng.com
   - DOMAIN-SUFFIX,cdn.banclip.com
   - DOMAIN-SUFFIX,cdn.pocoiq.cn
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,cfts1tifqr.com
   - DOMAIN-SUFFIX,china-caa.org
   - DOMAIN-SUFFIX,chinaciaf.org
@@ -10300,6 +10312,7 @@ payload:
   - DOMAIN-SUFFIX,cnlogs.umengcloud.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,collector.xhamster.com
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,contentabc.com
   - DOMAIN-SUFFIX,contextual.media.net
   - DOMAIN-SUFFIX,counter.yandex.ru
@@ -10579,6 +10592,8 @@ payload:
   - DOMAIN-SUFFIX,passport-log.youku.com
   - DOMAIN-SUFFIX,pb.i.sogou.com
   - DOMAIN-SUFFIX,pbmp.ali213.net
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
   - DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
   - DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
@@ -10592,6 +10607,7 @@ payload:
   - DOMAIN-SUFFIX,pmir.3g.qq.com
   - DOMAIN-SUFFIX,policy.video.iqiyi.com
   - DOMAIN-SUFFIX,pos.baidu.com
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,presage.io
   - DOMAIN-SUFFIX,pubmatic.co.jp
   - DOMAIN-SUFFIX,pubmatic.com
@@ -13136,6 +13152,7 @@ payload:
   - DOMAIN-SUFFIX,21vbc.com
   - DOMAIN-SUFFIX,21vbluecloud.com
   - DOMAIN-SUFFIX,21vbluecloud.net
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,2beatsdre.com
   - DOMAIN-SUFFIX,2buybeatsbydre.com
   - DOMAIN-SUFFIX,2drdrebeats.com
@@ -15188,6 +15205,7 @@ payload:
   - DOMAIN-SUFFIX,cpedge.com
   - DOMAIN-SUFFIX,cqcorea.com
   - DOMAIN-SUFFIX,crankplayer.com
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,createspace.com
   - DOMAIN-SUFFIX,createwhatsnext.com
   - DOMAIN-SUFFIX,creativecloud.com
@@ -20660,7 +20678,6 @@ payload:
   - DOMAIN-SUFFIX,zukunftswerkstatt.de
   - DOMAIN,1l-hit.mail.ru
   - DOMAIN,1l-hit.vkplay.ru
-  - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
   - DOMAIN,a1.mzstatic.com
@@ -21287,6 +21304,7 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.microsoft.com
   - DOMAIN,www.pxcc.com
+  - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www.support.apple.com
   - DOMAIN,xp.apple.com
@@ -21446,6 +21464,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
@@ -21621,11 +21640,13 @@ payload:
   - DOMAIN-SUFFIX,anaconda.cloud
   - DOMAIN-SUFFIX,anaconda.com
   - DOMAIN-SUFFIX,anaconda.org
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,android
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,androidify.com
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,api-extractor.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,apisof.net
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,apple-cloudkit.com
@@ -21659,6 +21680,7 @@ payload:
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,carekit.org
   - DOMAIN-SUFFIX,cdn.jetbrains.com
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,centos.org
   - DOMAIN-SUFFIX,chocolatey.org
   - DOMAIN-SUFFIX,clearlinux.org
@@ -21673,8 +21695,10 @@ payload:
   - DOMAIN-SUFFIX,componentkit.org
   - DOMAIN-SUFFIX,compose-spec.io
   - DOMAIN-SUFFIX,conda.io
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,cpan.org
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,cve.org
@@ -21958,6 +21982,8 @@ payload:
   - DOMAIN-SUFFIX,paint.net
   - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,pcre.org
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
   - DOMAIN-SUFFIX,perl.org
   - DOMAIN-SUFFIX,phantomjs.org
   - DOMAIN-SUFFIX,php.net
@@ -21970,6 +21996,7 @@ payload:
   - DOMAIN-SUFFIX,polymerproject.org
   - DOMAIN-SUFFIX,poshtestgallery.com
   - DOMAIN-SUFFIX,postgresql.org
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,pub.dev
   - DOMAIN-SUFFIX,putty.org
   - DOMAIN-SUFFIX,pwabuilder.com
@@ -22150,6 +22177,7 @@ payload:
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,d29vzk4ow07wi7.cloudfront.net
   - DOMAIN,default.exp-tas.com
   - DOMAIN,developer.microsoft.com
@@ -22207,6 +22235,7 @@ payload:
   - DOMAIN,psg-int-centralus.cloudapp.net
   - DOMAIN,psg-int-eastus.cloudapp.net
   - DOMAIN,rink.hockeyapp.net
+  - DOMAIN,update.crashlytics.com
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
   - DOMAIN,vscode.blob.core.windows.net
@@ -54069,10 +54098,12 @@ payload:
   - DOMAIN-SUFFIX,finishkilpailu.fi
   - DOMAIN-SUFFIX,finishwin.be
   - DOMAIN-SUFFIX,yarininsuyu.com
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
   - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com
@@ -54086,6 +54117,7 @@ payload:
   - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,firebaseperusertopics-pa.googleapis.com
   - DOMAIN,firebaseremoteconfig.googleapis.com
+  - DOMAIN,update.crashlytics.com
   - DOMAIN-SUFFIX,extendfirefox.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.hu
@@ -54745,6 +54777,7 @@ payload:
   - DOMAIN-SUFFIX,24hjav.com
   - DOMAIN-SUFFIX,24porn.com
   - DOMAIN-SUFFIX,24porn.pro
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,265sdwe3.com
   - DOMAIN-SUFFIX,2789av.com
   - DOMAIN-SUFFIX,27mmwmmw.top
@@ -56167,6 +56200,7 @@ payload:
   - DOMAIN-SUFFIX,analtime.org
   - DOMAIN-SUFFIX,analvids.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics.vk.com
@@ -56276,6 +56310,7 @@ payload:
   - DOMAIN-SUFFIX,api-extractor.com
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.news
+  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,apibay.org
   - DOMAIN-SUFFIX,apigee.com
   - DOMAIN-SUFFIX,apihub-internal.cn
@@ -59381,6 +59416,7 @@ payload:
   - DOMAIN-SUFFIX,cdnvideohub.com
   - DOMAIN-SUFFIX,cdnxxx-proxy.co
   - DOMAIN-SUFFIX,cdnxxx-proxy.xyz
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,cebay.com
   - DOMAIN-SUFFIX,cegid-cloud.cn
   - DOMAIN-SUFFIX,ceicdata.com
@@ -59969,6 +60005,7 @@ payload:
   - DOMAIN-SUFFIX,conair.me
   - DOMAIN-SUFFIX,conan.xxx
   - DOMAIN-SUFFIX,conda.io
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,connaissancesfinancierespratiques.ca
   - DOMAIN-SUFFIX,connect-in-canada.com
   - DOMAIN-SUFFIX,connectcommerce.cn
@@ -60073,6 +60110,7 @@ payload:
   - DOMAIN-SUFFIX,crabporn.com
   - DOMAIN-SUFFIX,craigslist.org
   - DOMAIN-SUFFIX,crankplayer.com
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,crazy-amateurs.com
   - DOMAIN-SUFFIX,crazyav.xyz
@@ -70298,6 +70336,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,older-women-movies.com
@@ -70965,6 +71004,8 @@ payload:
   - DOMAIN-SUFFIX,peopledreamfunding.com
   - DOMAIN-SUFFIX,peoplenews.tw
   - DOMAIN-SUFFIX,pepabo.com
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
   - DOMAIN-SUFFIX,perfectgirls.net
   - DOMAIN-SUFFIX,perfectgonzo.com
   - DOMAIN-SUFFIX,perfectkickz.net
@@ -71684,6 +71725,7 @@ payload:
   - DOMAIN-SUFFIX,practicalmoneyskills.jp
   - DOMAIN-SUFFIX,prastitutki.ru
   - DOMAIN-SUFFIX,prcm.jp
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,pre-bmwgroup.jobs
   - DOMAIN-SUFFIX,predb.me
   - DOMAIN-SUFFIX,predictivetechnologies.com
@@ -78267,7 +78309,6 @@ payload:
   - DOMAIN,1l-hit.mail.ru
   - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN,1password.drift.click
-  - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
   - DOMAIN,a1.mzstatic.com
@@ -79025,6 +79066,7 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.microsoft.com
   - DOMAIN,www.pxcc.com
+  - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www.support.apple.com
   - DOMAIN,www4-static.gog-statics.com
@@ -86831,6 +86873,7 @@ payload:
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,466453.com
@@ -86982,6 +87025,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crossmediapanel.com
   - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,cs4hs.com
@@ -87661,7 +87705,6 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zukunftswerkstatt.de
-  - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
   - DOMAIN,admob-cn.com
@@ -87783,6 +87826,7 @@ payload:
   - DOMAIN,www.destinationurl.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.pxcc.com
+  - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
@@ -95725,6 +95769,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
@@ -102249,7 +102294,14 @@ payload:
   - DOMAIN-SUFFIX,unionpayintl.cn
   - DOMAIN-SUFFIX,unionpayintl.com
   - DOMAIN-SUFFIX,unionpaysecure.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,iads.unity3d.com
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com
