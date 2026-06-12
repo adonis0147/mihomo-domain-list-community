@@ -8576,6 +8576,7 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,huoshanzhibo.net
   - DOMAIN-SUFFIX,hypercachenet.com
+  - DOMAIN-SUFFIX,hypercachenode.com
   - DOMAIN-SUFFIX,i.snssdk.com
   - DOMAIN-SUFFIX,ibdxiguaimg.com
   - DOMAIN-SUFFIX,ibdxigualive.com
@@ -26643,6 +26644,7 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,huoshanzhibo.net
   - DOMAIN-SUFFIX,huya.com
+  - DOMAIN-SUFFIX,hypercachenode.com
   - DOMAIN-SUFFIX,hzdtv.tv
   - DOMAIN-SUFFIX,hzman.net
   - DOMAIN-SUFFIX,i3839.com
@@ -47867,6 +47869,7 @@ payload:
   - DOMAIN-SUFFIX,hxsd.com
   - DOMAIN-SUFFIX,hybiome.com
   - DOMAIN-SUFFIX,hypercachenet.com
+  - DOMAIN-SUFFIX,hypercachenode.com
   - DOMAIN-SUFFIX,hzdtv.tv
   - DOMAIN-SUFFIX,hzman.net
   - DOMAIN-SUFFIX,i.snssdk.com
@@ -52263,6 +52266,7 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.cn
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,huoshanzhibo.net
+  - DOMAIN-SUFFIX,hypercachenode.com
   - DOMAIN-SUFFIX,idouyinliving.com
   - DOMAIN-SUFFIX,idouyinpic.com
   - DOMAIN-SUFFIX,idouyinstatic.com
@@ -82542,6 +82546,7 @@ payload:
   - DOMAIN-SUFFIX,hxzq.cn
   - DOMAIN-SUFFIX,hybiome.com
   - DOMAIN-SUFFIX,hypercachenet.com
+  - DOMAIN-SUFFIX,hypercachenode.com
   - DOMAIN-SUFFIX,hytung.cn
   - DOMAIN-SUFFIX,hzdtv.tv
   - DOMAIN-SUFFIX,hzman.net
