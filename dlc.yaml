@@ -12100,6 +12100,7 @@ payload:
   - DOMAIN-SUFFIX,myapelsin.ru
   - DOMAIN-SUFFIX,neon.click
   - DOMAIN-SUFFIX,noosferabank.ru
+  - DOMAIN-SUFFIX,nspk.ru
   - DOMAIN-SUFFIX,okko.sport
   - DOMAIN-SUFFIX,okko.tv
   - DOMAIN-SUFFIX,okkoapi.tv
@@ -27436,6 +27437,7 @@ payload:
   - DOMAIN-SUFFIX,nochubank.or.jp
   - DOMAIN-SUFFIX,noosferabank.ru
   - DOMAIN-SUFFIX,nptsibinbank.com
+  - DOMAIN-SUFFIX,nspk.ru
   - DOMAIN-SUFFIX,number26.de
   - DOMAIN-SUFFIX,ogakikyoritsu.co.jp
   - DOMAIN-SUFFIX,oitabank.co.jp
@@ -69993,6 +69995,7 @@ payload:
   - DOMAIN-SUFFIX,nsfw247.to
   - DOMAIN-SUFFIX,nsfwmemes.com
   - DOMAIN-SUFFIX,nsimg.net
+  - DOMAIN-SUFFIX,nspk.ru
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,ntd.com
   - DOMAIN-SUFFIX,ntd.tv
@@ -91646,6 +91649,8 @@ payload:
   - DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
   - DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
   - DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,lpsnmedia.net
   - DOMAIN-SUFFIX,lizhi.fm
