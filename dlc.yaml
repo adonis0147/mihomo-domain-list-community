@@ -9607,6 +9607,7 @@ payload:
   - DOMAIN-SUFFIX,jzt.jd.com
   - DOMAIN-SUFFIX,kaprila.com
   - DOMAIN-SUFFIX,kepler-37b.com
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kuyun.com
   - DOMAIN-SUFFIX,ladsp.com
   - DOMAIN-SUFFIX,leanplum.com
@@ -10473,6 +10474,7 @@ payload:
   - DOMAIN-SUFFIX,jzt.jd.com
   - DOMAIN-SUFFIX,kaprila.com
   - DOMAIN-SUFFIX,kepler-37b.com
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kuyun.com
   - DOMAIN-SUFFIX,ladsp.com
   - DOMAIN-SUFFIX,leanplum.com
@@ -26191,6 +26193,7 @@ payload:
   - DOMAIN,steampipe-partner.akamaized.net
   - DOMAIN,steampipe.akamaized.net
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
@@ -26345,6 +26348,7 @@ payload:
   - DOMAIN-SUFFIX,aisee.tv
   - DOMAIN-SUFFIX,aixifan.com
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,ali213.net
   - DOMAIN-SUFFIX,aligames.com
   - DOMAIN-SUFFIX,aliwx.com.cn
@@ -26729,8 +26733,11 @@ payload:
   - DOMAIN-SUFFIX,kugouyouth.com
   - DOMAIN-SUFFIX,kujiang.com
   - DOMAIN-SUFFIX,kumiao.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kuwo.cn
   - DOMAIN-SUFFIX,kuyin123.com
   - DOMAIN-SUFFIX,kuyinxiu.com
@@ -26981,6 +26988,7 @@ payload:
   - DOMAIN-SUFFIX,wsukwai.com
   - DOMAIN-SUFFIX,wting.info
   - DOMAIN-SUFFIX,wtzw.com
+  - DOMAIN-SUFFIX,wutheringwaves.cn
   - DOMAIN-SUFFIX,xd.cn
   - DOMAIN-SUFFIX,xd.com
   - DOMAIN-SUFFIX,xdcdn.net
@@ -28433,6 +28441,7 @@ payload:
   - DOMAIN-SUFFIX,acesofthunder.net
   - DOMAIN-SUFFIX,activematter.game
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,aligames.com
   - DOMAIN-SUFFIX,amiibo.com
   - DOMAIN-SUFFIX,anthemgame.com
@@ -28739,8 +28748,11 @@ payload:
   - DOMAIN-SUFFIX,konamisportsclub.jp
   - DOMAIN-SUFFIX,konamistyle.jp
   - DOMAIN-SUFFIX,kraftonde.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kyurem.com
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,langrenclub.com
@@ -29281,6 +29293,7 @@ payload:
   - DOMAIN-SUFFIX,wotblitz.com
   - DOMAIN-SUFFIX,wowsblitz.com
   - DOMAIN-SUFFIX,wtmobile.com
+  - DOMAIN-SUFFIX,wutheringwaves.cn
   - DOMAIN-SUFFIX,xbox
   - DOMAIN-SUFFIX,xbox.co
   - DOMAIN-SUFFIX,xbox.com
@@ -29407,6 +29420,7 @@ payload:
   - DOMAIN,steampipe-partner.akamaized.net
   - DOMAIN,steampipe.akamaized.net
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
@@ -30239,6 +30253,7 @@ payload:
   - DOMAIN,steampipe-partner.akamaized.net
   - DOMAIN,steampipe.akamaized.net
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
@@ -30322,6 +30337,7 @@ payload:
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,abdf002.com
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,aligames.com
   - DOMAIN-SUFFIX,anticheatexpert.com
   - DOMAIN-SUFFIX,appeeres.com
@@ -30389,8 +30405,11 @@ payload:
   - DOMAIN-SUFFIX,jiaoyimao.cn
   - DOMAIN-SUFFIX,jiaoyimao.com
   - DOMAIN-SUFFIX,juequling.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,langrenclub.com
   - DOMAIN-SUFFIX,ledu.com
@@ -30493,6 +30512,7 @@ payload:
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,wmsj.cn
   - DOMAIN-SUFFIX,wo1wan.com
+  - DOMAIN-SUFFIX,wutheringwaves.cn
   - DOMAIN-SUFFIX,xd.cn
   - DOMAIN-SUFFIX,xd.com
   - DOMAIN-SUFFIX,xdcdn.net
@@ -45762,6 +45782,7 @@ payload:
   - DOMAIN-SUFFIX,aizhan.com
   - DOMAIN-SUFFIX,ajzq.com
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,akspeedy.com
   - DOMAIN-SUFFIX,aldwx.com
   - DOMAIN-SUFFIX,ali-api-test.net
@@ -45839,6 +45860,7 @@ payload:
   - DOMAIN-SUFFIX,allawnfs.com
   - DOMAIN-SUFFIX,allawno.com
   - DOMAIN-SUFFIX,allawntech.com
+  - DOMAIN-SUFFIX,allday.work
   - DOMAIN-SUFFIX,allhistory.com
   - DOMAIN-SUFFIX,alloyteam.com
   - DOMAIN-SUFFIX,allyes.com
@@ -46325,6 +46347,7 @@ payload:
   - DOMAIN-SUFFIX,camcard.com
   - DOMAIN-SUFFIX,camscanner.com
   - DOMAIN-SUFFIX,cang.com
+  - DOMAIN-SUFFIX,cangpeng.com
   - DOMAIN-SUFFIX,cankaoxiaoxi.com
   - DOMAIN-SUFFIX,capitalonline.net
   - DOMAIN-SUFFIX,cardbaobao.com
@@ -47186,6 +47209,7 @@ payload:
   - DOMAIN-SUFFIX,eolink.com
   - DOMAIN-SUFFIX,er07.com
   - DOMAIN-SUFFIX,erji.net
+  - DOMAIN-SUFFIX,erp198.com
   - DOMAIN-SUFFIX,erp321.com
   - DOMAIN-SUFFIX,erp321.net
   - DOMAIN-SUFFIX,ersjk.com
@@ -48466,8 +48490,11 @@ payload:
   - DOMAIN-SUFFIX,kunlunvi.com
   - DOMAIN-SUFFIX,kunlunwe.com
   - DOMAIN-SUFFIX,kuqin.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kuyin123.com
   - DOMAIN-SUFFIX,kuyinxiu.com
   - DOMAIN-SUFFIX,kuyinyun.com
@@ -79845,6 +79872,7 @@ payload:
   - DOMAIN-SUFFIX,aizhan.com
   - DOMAIN-SUFFIX,ajzq.com
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,akikocorp.cn
   - DOMAIN-SUFFIX,akspeedy.com
   - DOMAIN-SUFFIX,aldwx.com
@@ -79930,6 +79958,7 @@ payload:
   - DOMAIN-SUFFIX,allawnfs.com
   - DOMAIN-SUFFIX,allawno.com
   - DOMAIN-SUFFIX,allawntech.com
+  - DOMAIN-SUFFIX,allday.work
   - DOMAIN-SUFFIX,allflow.cn
   - DOMAIN-SUFFIX,allhistory.com
   - DOMAIN-SUFFIX,alloyteam.com
@@ -80520,6 +80549,7 @@ payload:
   - DOMAIN-SUFFIX,camcard.com
   - DOMAIN-SUFFIX,camscanner.com
   - DOMAIN-SUFFIX,cang.com
+  - DOMAIN-SUFFIX,cangpeng.com
   - DOMAIN-SUFFIX,cankaoxiaoxi.com
   - DOMAIN-SUFFIX,caocao.com.cn
   - DOMAIN-SUFFIX,caocaokeji.cn
@@ -81678,6 +81708,7 @@ payload:
   - DOMAIN-SUFFIX,er07.com
   - DOMAIN-SUFFIX,erji.net
   - DOMAIN-SUFFIX,erp.cn
+  - DOMAIN-SUFFIX,erp198.com
   - DOMAIN-SUFFIX,erp321.cn
   - DOMAIN-SUFFIX,erp321.com
   - DOMAIN-SUFFIX,erp321.net
@@ -83258,8 +83289,11 @@ payload:
   - DOMAIN-SUFFIX,kunlunvi.com
   - DOMAIN-SUFFIX,kunlunwe.com
   - DOMAIN-SUFFIX,kuqin.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kuwo.cn
   - DOMAIN-SUFFIX,kuyin123.com
   - DOMAIN-SUFFIX,kuyinxiu.com
@@ -84838,6 +84872,7 @@ payload:
   - DOMAIN-SUFFIX,suningholdings.com
   - DOMAIN-SUFFIX,sunlife-everbright.com
   - DOMAIN-SUFFIX,sunlogin.net
+  - DOMAIN-SUFFIX,sunrocks.cn
   - DOMAIN-SUFFIX,sunrtb.com
   - DOMAIN-SUFFIX,supercachenet.com
   - DOMAIN-SUFFIX,supercachenode.com
@@ -85810,6 +85845,7 @@ payload:
   - DOMAIN-SUFFIX,wuliujie.com
   - DOMAIN-SUFFIX,wumii.com
   - DOMAIN-SUFFIX,wuming.com
+  - DOMAIN-SUFFIX,wutheringwaves.cn
   - DOMAIN-SUFFIX,wuuxiang.com
   - DOMAIN-SUFFIX,wuximediaglobal.com
   - DOMAIN-SUFFIX,wuyou.net
@@ -91294,8 +91330,17 @@ payload:
   - DOMAIN-SUFFIX,kugouvoice.com
   - DOMAIN-SUFFIX,kugouyouth.com
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game.net
+  - DOMAIN-SUFFIX,aki-game2.com
+  - DOMAIN-SUFFIX,aki-game2.net
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.net
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
   - DOMAIN-SUFFIX,kurogames.net
+  - DOMAIN-SUFFIX,wutheringwaves.cn
   - DOMAIN-SUFFIX,koowo.cn
   - DOMAIN-SUFFIX,koowo.com
   - DOMAIN-SUFFIX,kuwo.cn
@@ -99530,6 +99575,7 @@ payload:
   - DOMAIN,steampipe-partner.akamaized.net
   - DOMAIN,steampipe.akamaized.net
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net

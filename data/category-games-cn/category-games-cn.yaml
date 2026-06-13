@@ -41,6 +41,7 @@ payload:
   - +.9xgame.com
   - +.abdf002.com
   - +.aki-game.com
+  - +.aki-game2.com
   - +.aligames.com
   - +.anticheatexpert.com
   - +.appeeres.com
@@ -108,8 +109,11 @@ payload:
   - +.jiaoyimao.cn
   - +.jiaoyimao.com
   - +.juequling.com
+  - +.kurobbs.com
+  - +.kurogame.com
+  - +.kurogame.xyz
+  - +.kurogames-ads.com
   - +.kurogames.com
-  - +.kurogames.net
   - +.labycore.cn
   - +.langrenclub.com
   - +.ledu.com
@@ -212,6 +216,7 @@ payload:
   - +.winegame.net
   - +.wmsj.cn
   - +.wo1wan.com
+  - +.wutheringwaves.cn
   - +.xd.cn
   - +.xd.com
   - +.xdcdn.net
