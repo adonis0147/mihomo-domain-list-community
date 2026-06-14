@@ -85,6 +85,7 @@ payload:
   - +.16q.cn
   - +.16rd.com
   - +.17173.com
+  - +.17173cdn.com
   - +.172mix.com
   - +.178.com
   - +.178linux.com
@@ -201,7 +202,10 @@ payload:
   - +.36krcdn.com
   - +.36krcnd.com
   - +.37.com
+  - +.37.com.cn
   - +.3733.com
+  - +.37wan.net
+  - +.37wanimg.com
   - +.3839.com
   - +.3839apk.com
   - +.3839app.com
@@ -1582,6 +1586,7 @@ payload:
   - +.chinaqw.com
   - +.chinaso.com
   - +.chinasspp.com
+  - +.chinastarmarket.cn
   - +.chinastock.com.cn
   - +.chinatea.com.cn
   - +.chinatelecom-h.com
@@ -2838,8 +2843,9 @@ payload:
   - +.glsc.com.cn
   - +.glxcc.net
   - +.gm86.com
+  - +.gmdaily.cn
   - +.gmedev.cn
-  - +.gmw.com
+  - +.gmw.cn
   - +.gmz88.com
   - +.gneec.com
   - +.gneec.com.cn
@@ -2916,6 +2922,7 @@ payload:
   - +.guancha.cn
   - +.guanggaoad.youku.com
   - +.guanggaotongapp.cn
+  - +.guangmingdaily.cn
   - +.guangyacdn.com
   - +.guangyapan.com
   - +.guanhaobio.com
@@ -3712,6 +3719,7 @@ payload:
   - +.jingheiot.com
   - +.jinglingbiaozhu.com
   - +.jingpinhui.com
+  - +.jingpt.com
   - +.jingxi.com
   - +.jinianbi.com
   - +.jinjiang.com
@@ -4064,6 +4072,7 @@ payload:
   - +.langeasy.com.cn
   - +.langrenclub.com
   - +.lanhuapp.com
+  - +.lanjinger.com
   - +.lanosso.com
   - +.lanrar.com
   - +.lanzou.com
@@ -4538,6 +4547,7 @@ payload:
   - +.modex.com.cn
   - +.moegirl.org
   - +.moegirl.org.cn
+  - +.moer.cn
   - +.mofang.com
   - +.mofazhu.com
   - +.mogoo.com
@@ -4969,6 +4979,7 @@ payload:
   - +.pkuh6.cn
   - +.pkulaw.com
   - +.pl.youku.com
+  - +.playcool.com
   - +.plbslog.umeng.com
   - +.pmir.3g.qq.com
   - +.pmphmooc.com
