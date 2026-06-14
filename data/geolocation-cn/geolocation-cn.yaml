@@ -15,6 +15,7 @@ payload:
   - +.100bt.com
   - +.100offer.com
   - +.100tal.com
+  - +.100ycdn.com
   - +.10155.com
   - +.10jqka.com.cn
   - +.11183.com.cn
@@ -329,6 +330,7 @@ payload:
   - +.5wyxi.com
   - +.5you.com
   - +.6-u.com
+  - +.6.cn
   - +.61.com
   - +.6655.com
   - +.66law.cn
@@ -1288,6 +1290,7 @@ payload:
   - +.carnoc.com
   - +.cb.baidu.com
   - +.cbern.com.cn
+  - +.cbinews.com
   - +.cbjq.com
   - +.cbjs.baidu.com
   - +.cc-pay.cn
@@ -1503,11 +1506,13 @@ payload:
   - +.changdunovel.com
   - +.changxie.com
   - +.changyan.com
+  - +.changyou.com
   - +.chaojituzi.net
   - +.chaoxing.cc
   - +.chaoxing.com
   - +.chaoxingv.com
   - +.chashebao.com
+  - +.chaspark.com
   - +.chat.top
   - +.chatglm.cn
   - +.chaz.fun
@@ -1516,6 +1521,7 @@ payload:
   - +.chaziyu.com
   - +.chdi.com.cn
   - +.che168.com
+  - +.cheaa.com
   - +.checkzeit.com
   - +.chei.com.cn
   - +.chelaile.net.cn
@@ -1990,6 +1996,7 @@ payload:
   - +.cwxzx.com
   - +.cxbiji.com
   - +.cxmt.com
+  - +.cy.com
   - +.cyagen.com
   - +.cybtc.com
   - +.cyol.com
@@ -2009,6 +2016,7 @@ payload:
   - +.dahe.cn
   - +.daheapp.com
   - +.dahebao.cn
+  - +.daikuan.com
   - +.dajiabao.com
   - +.dajie.com
   - +.dajieimg.com
@@ -2252,6 +2260,7 @@ payload:
   - +.doucang.com
   - +.douding.cn
   - +.doudou.com
+  - +.douguo.com
   - +.douxie.com
   - +.douyin.com
   - +.douyinact.com
@@ -3100,6 +3109,7 @@ payload:
   - +.hnair.com
   - +.hnbntv.com
   - +.hndt.com
+  - +.hnol.net
   - +.hnrcsc.com
   - +.hntv.tv
   - +.hnyuyuhui.com
@@ -3272,6 +3282,7 @@ payload:
   - +.huxiu.com
   - +.huxiucdn.com
   - +.huya.com
+  - +.hwad.net
   - +.hwads-t.api.my7v.com
   - +.hwastro.cn
   - +.hwastro.com
@@ -3435,6 +3446,7 @@ payload:
   - +.imcoming.com
   - +.imdada.cn
   - +.imedao.com
+  - +.img-space.com
   - +.img-x.jd.com
   - +.img4399.com
   - +.imgcdc.com
@@ -3508,6 +3520,7 @@ payload:
   - +.ishuqi.com
   - +.ispqcloud.com
   - +.istoreos.com
+  - +.istv.cn
   - +.isvjcloud.com
   - +.isvjd.com
   - +.isxtv.com
@@ -3762,6 +3775,7 @@ payload:
   - +.job5588.com
   - +.job910.com
   - +.jobjm.com
+  - +.jobui.com
   - +.joinpay.com
   - +.jokecommunity.cn
   - +.jokecommunity.com
@@ -3967,6 +3981,7 @@ payload:
   - +.ku6cdn.com
   - +.ku6img.com
   - +.kuaaa.com
+  - +.kuaidi.com
   - +.kuaidi100.com
   - +.kuaidilab.com
   - +.kuaiduizuoye.com
@@ -4039,6 +4054,7 @@ payload:
   - +.lady8844.com
   - +.lagou.com
   - +.laiwang.com
+  - +.laiyagushi.com
   - +.lancdn.com
   - +.landian.news
   - +.landian.vip
@@ -4406,7 +4422,7 @@ payload:
   - +.meipian.me
   - +.meiqia.com
   - +.meishichina.com
-  - +.meishij.net
+  - +.meishitx.com
   - +.meitu.com
   - +.meituan.com
   - +.meituan.net
@@ -4901,6 +4917,8 @@ payload:
   - +.people.cn
   - +.people.com.cn
   - +.peopleapp.com
+  - +.petalmail.com
+  - +.petalmaps.com
   - +.pg0.cn
   - +.pgdt.gtimg.cn
   - +.pglstatp-sdk-toutiao.com
@@ -5254,7 +5272,6 @@ payload:
   - +.ruiwen.com
   - +.rumt-zh.com
   - +.runoob.com
-  - +.runsheng.com
   - +.ruseer.com
   - +.rwkv.cn
   - +.rwkv.com
@@ -5314,7 +5331,9 @@ payload:
   - +.sdo.com
   - +.searchstatic.com
   - +.searchtoutiaolive.com
+  - +.seasungames.cn
   - +.seasungames.com
+  - +.seasunwbl.com
   - +.sec-wiki.com
   - +.secec.com
   - +.seclab.online
@@ -6060,6 +6079,8 @@ payload:
   - +.tuiwen.net
   - +.tujia.com
   - +.tuniu.com
+  - +.tuniu.net
+  - +.tuniucdn.com
   - +.tutuapp.com
   - +.tuwan.com
   - +.tuwanjun.com
@@ -6216,6 +6237,8 @@ payload:
   - +.vaptcha.com
   - +.vaptcha.net
   - +.variflight.com
+  - +.vbdata.cn
+  - +.vcbeat.top
   - +.vcg.com
   - +.vcgapi.com
   - +.vcimg.com
@@ -6280,6 +6303,7 @@ payload:
   - +.vnet.cn
   - +.vo6z2.cn
   - +.vobao.com
+  - +.voc.com.cn
   - +.vodtcbk.com
   - +.volc-dns.com
   - +.volc-dns.net
@@ -6703,7 +6727,6 @@ payload:
   - +.xinmeng.info
   - +.xinpianchang.com
   - +.xinrenxinshi.com
-  - +.xinshipu.com
   - +.xinwuji.com
   - +.xinyan.cn
   - +.xinyuanfin.com
@@ -6712,6 +6735,7 @@ payload:
   - +.xitong8.com
   - +.xitu.com
   - +.xitu.io
+  - +.xiu123.cn
   - +.xiu8.com
   - +.xiucai.com
   - +.xiumi.us
@@ -6834,6 +6858,7 @@ payload:
   - +.yingjiesheng.com
   - +.yingjiesheng.net
   - +.yingxiong.com
+  - +.yingyonghui.com
   - +.yinhang123.net
   - +.yinxiang.com
   - +.yinyuetai.com
@@ -7015,6 +7040,7 @@ payload:
   - +.z95rr.cn
   - +.zaifan.com
   - +.zaifan.com.cn
+  - +.zaih.com
   - +.zaixiankaoshi.com
   - +.zampda.net
   - +.zampdsp.com
@@ -7080,6 +7106,7 @@ payload:
   - +.zhenai.com
   - +.zhfund.com
   - +.zhibo8.cc
+  - +.zhibo8.com
   - +.zhichanli.com
   - +.zhidemai.com
   - +.zhiding.cn

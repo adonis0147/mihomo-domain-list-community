@@ -1,5 +1,4 @@
 payload:
-  - +.appsflayer.com
   - +.binance.cc
   - +.binance.charity
   - +.binance.cloud
@@ -29,11 +28,19 @@ payload:
   - +.binancezh.pro
   - +.binancezh.sh
   - +.binancezh.top
+  - +.bmwweb.solutions
+  - +.bnappweb.black
+  - +.bnbchain.org
   - +.bnbstatic.com
   - +.bntrace.com
+  - +.bsappapi.cc
   - +.bsappapi.com
+  - +.bscdnweb.com
   - +.nftstatic.com
   - +.saasexch.cc
   - +.saasexch.co
   - +.saasexch.com
+  - +.saasexch.info
   - +.saasexch.io
+  - zftksc.cdn-settings.appsflyersdk.com
+  - zftksc.launches.appsflyersdk.com

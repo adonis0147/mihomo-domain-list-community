@@ -44,7 +44,9 @@ payload:
   - +.5054399.net
   - +.51zmt.top
   - +.5wyxi.com
+  - +.6.cn
   - +.61.com
+  - +.6rooms.com
   - +.71.am
   - +.71acg.com
   - +.71acg.net
@@ -176,11 +178,13 @@ payload:
   - +.buke999.com
   - +.bx1k.com
   - +.c.uaa.iqiyi.com
+  - +.cbjq.com
   - +.ccw.site
   - +.cdkeynogap.com
   - +.cdncl.net
   - +.cgames.com
   - +.changdunovel.com
+  - +.changyou.com
   - +.chat.top
   - +.chuapp.com
   - +.cibn.cc
@@ -193,6 +197,7 @@ payload:
   - +.cookicut.com
   - +.cowlevel.net
   - +.cupid.iqiyi.com
+  - +.cy.com
   - +.da.hunantv.com
   - +.da.mgtv.com
   - +.dandanplay.com
@@ -223,6 +228,7 @@ payload:
   - +.douyutv.com
   - +.dtstatic.com
   - +.duitang.com
+  - +.duoduocdn.com
   - +.duoshan.com
   - +.duowan.com
   - +.dwstatic.com
@@ -246,6 +252,7 @@ payload:
   - +.fanqiesdkvod.com
   - +.fanxingliveshow.com
   - +.feihuo.com
+  - +.fengniao.com
   - +.ffbuddy.com
   - +.forevernine.com
   - +.fqnovel-op.com
@@ -421,6 +428,7 @@ payload:
   - +.ihykb.com
   - +.ikstatic.cn
   - +.im9.com
+  - +.img-space.com
   - +.img4399.com
   - +.imgo.tv
   - +.in.th
@@ -645,6 +653,9 @@ payload:
   - +.scid.cn
   - +.scsentry.cn
   - +.sdo.com
+  - +.seasungames.cn
+  - +.seasungames.com
+  - +.seasunwbl.com
   - +.sfacg.com
   - +.shengqugames.com
   - +.shoutanjjj.com
@@ -680,6 +691,7 @@ payload:
   - +.tencent-gcloud.com
   - +.tencentmusic.com
   - +.tencentstart.com
+  - +.testplus.cn
   - +.texasholdemcup.cn
   - +.texasholdemcup.com
   - +.texasholdemcup.net
@@ -744,8 +756,12 @@ payload:
   - +.xindong.com
   - +.xinlishumeng.com
   - +.xinwuji.com
+  - +.xishanju.com
+  - +.xiu123.cn
   - +.xmcdn.com
   - +.xn--owtw8cc49ajfl.cn
+  - +.xoyo.com
+  - +.xoyocdn.com
   - +.xs.cn
   - +.xs8.cn
   - +.xxsy.net
@@ -786,6 +802,8 @@ payload:
   - +.yzyxgame.com
   - +.zcjbgame.com
   - +.zhanqi.tv
+  - +.zhibo8.cc
+  - +.zhibo8.com
   - +.zhulang.com
   - +.zhuoyou.com
   - +.zhuoyuegame.com

@@ -35,6 +35,7 @@ payload:
   - +.cailianpress.com
   - +.caixin.com
   - +.cankaoxiaoxi.com
+  - +.cbinews.com
   - +.cctv.cn
   - +.cctv.com
   - +.cctv4g.com
@@ -47,6 +48,7 @@ payload:
   - +.cctvpro.com.cn
   - +.cfgw.net.cn
   - +.chaindd.com
+  - +.cheaa.com
   - +.checkzeit.com
   - +.chinaaet.com
   - +.chinabyte.com
@@ -130,6 +132,7 @@ payload:
   - +.hexin.com.cn
   - +.hexun.com
   - +.hndt.com
+  - +.hnol.net
   - +.hntv.tv
   - +.huanqiu.com
   - +.huanqiucdn.cn
@@ -163,6 +166,7 @@ payload:
   - +.ipanda.com.cn
   - +.ipanda.net
   - +.iresearch.cn
+  - +.istv.cn
   - +.it168.com
   - +.itc.cn
   - +.ithome.com
@@ -307,6 +311,9 @@ payload:
   - +.tvcc.cn
   - +.tvcc.com.cn
   - +.uranus.sogou.com
+  - +.vbdata.cn
+  - +.vcbeat.top
+  - +.voc.com.cn
   - +.wallstcn.com
   - +.wallstreetcn.com
   - +.wannianqingjianzhan.com

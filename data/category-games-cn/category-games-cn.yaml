@@ -61,9 +61,12 @@ payload:
   - +.brawlstars.cn
   - +.buke999.com
   - +.bx1k.com
+  - +.cbjq.com
   - +.cdncl.net
+  - +.changyou.com
   - +.codm.com
   - +.cowlevel.net
+  - +.cy.com
   - +.dobest.com
   - +.edu4399.com
   - +.feihuo.com
@@ -172,6 +175,9 @@ payload:
   - +.scid.cn
   - +.scsentry.cn
   - +.sdo.com
+  - +.seasungames.cn
+  - +.seasungames.com
+  - +.seasunwbl.com
   - +.shengqugames.com
   - +.shyxhy.com
   - +.skydweller.cn
@@ -188,6 +194,7 @@ payload:
   - +.tcfmglobal.com
   - +.tencent-gcloud.com
   - +.tencentstart.com
+  - +.testplus.cn
   - +.texasholdemcup.cn
   - +.texasholdemcup.com
   - +.texasholdemcup.net
@@ -223,7 +230,10 @@ payload:
   - +.xhlsgs.com
   - +.xindong.com
   - +.xinwuji.com
+  - +.xishanju.com
   - +.xn--owtw8cc49ajfl.cn
+  - +.xoyo.com
+  - +.xoyocdn.com
   - +.ycgame.com
   - +.yingxiong.com
   - +.yokaverse.com

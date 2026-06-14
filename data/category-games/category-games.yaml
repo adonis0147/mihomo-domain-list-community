@@ -125,8 +125,10 @@ payload:
   - +.camelotherald.net
   - +.capitalgames.com
   - +.capturingreality.com
+  - +.cbjq.com
   - +.cdncl.net
   - +.championshipseriesleague.com
+  - +.changyou.com
   - +.chillingo.com
   - +.chunkbase.com
   - +.clash.com
@@ -148,6 +150,7 @@ payload:
   - +.cubicmotion.com
   - +.cubicodyssey.game
   - +.curseforge.com
+  - +.cy.com
   - +.cygames.co.jp
   - +.cygames.jp
   - +.daoc.net
@@ -708,6 +711,9 @@ payload:
   - +.sdo.com
   - +.seagroup.com
   - +.seaofsolitude.com
+  - +.seasungames.cn
+  - +.seasungames.com
+  - +.seasunwbl.com
   - +.seeurlpcl.com
   - +.sekai.colorfulpalette.org
   - +.shadowcomplex.com
@@ -761,6 +767,7 @@ payload:
   - +.steam.tv
   - +.steamchina.com
   - +.steamcommunity.com
+  - +.steamconnecttest.com
   - +.steamcontent.com
   - +.steamdb.info
   - +.steamdeck.com
@@ -813,6 +820,7 @@ payload:
   - +.tellmewhygame.com
   - +.tencent-gcloud.com
   - +.tencentstart.com
+  - +.testplus.cn
   - +.texasholdemcup.cn
   - +.texasholdemcup.com
   - +.texasholdemcup.net
@@ -935,9 +943,12 @@ payload:
   - +.xhlsgs.com
   - +.xindong.com
   - +.xinwuji.com
+  - +.xishanju.com
   - +.xn--mts47c3w9b1qr.cn
   - +.xn--mts47c3w9b1qr.net
   - +.xn--owtw8cc49ajfl.cn
+  - +.xoyo.com
+  - +.xoyocdn.com
   - +.ycgame.com
   - +.yingxiong.com
   - +.ylands.com
