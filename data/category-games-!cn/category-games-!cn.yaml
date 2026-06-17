@@ -600,7 +600,6 @@ payload:
   - +.stellasora.global
   - +.stellasora.jp
   - +.supercell.com
-  - +.supercell.helpshift.com
   - +.supercell.net
   - +.supercellcreators.com
   - +.supercellgames.com
@@ -794,6 +793,8 @@ payload:
   - steamusercontent-a.akamaihd.net
   - steamuserimages-a.akamaihd.net
   - steamvideo-a.akamaihd.net
+  - supercell.helpshift.com
+  - supercell.zendesk.com
   - ubisoft-orbit-savegames.s3.amazonaws.com
   - ubisoft-uplay-savegames.s3.amazonaws.com
   - ubisoft.siteintercept.qualtrics.com
