@@ -12477,6 +12477,7 @@ payload:
   - DOMAIN-SUFFIX,globalsigncdn.com
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
   - DOMAIN-SUFFIX,gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,hackerguardian.com
   - DOMAIN-SUFFIX,harica.gr
@@ -12609,6 +12610,7 @@ payload:
   - DOMAIN-SUFFIX,wisekey.com
   - DOMAIN-SUFFIX,wisekey.com.hk
   - DOMAIN-SUFFIX,ws.symantec.com
+  - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,zert.ch
   - DOMAIN,c.pki.goog
@@ -16431,6 +16433,7 @@ payload:
   - DOMAIN-SUFFIX,gobuyonlinestore.net
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
   - DOMAIN-SUFFIX,godoc.org
   - DOMAIN-SUFFIX,gofile.me
   - DOMAIN-SUFFIX,gogettaxi.org
@@ -19570,6 +19573,7 @@ payload:
   - DOMAIN-SUFFIX,taxiaid.org
   - DOMAIN-SUFFIX,taxiguru.org
   - DOMAIN-SUFFIX,taxitax.org
+  - DOMAIN-SUFFIX,tb.pro
   - DOMAIN-SUFFIX,teamviewer.cn
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,teamviewer.us
@@ -19635,6 +19639,7 @@ payload:
   - DOMAIN-SUFFIX,thumbzilla.com
   - DOMAIN-SUFFIX,thunderbird.net
   - DOMAIN-SUFFIX,thunderbolttechnology.net
+  - DOMAIN-SUFFIX,thundermail.com
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timefxapp.com
   - DOMAIN-SUFFIX,timelinestoryteller.com
@@ -20134,6 +20139,7 @@ payload:
   - DOMAIN-SUFFIX,worldsecuresystems.com
   - DOMAIN-SUFFIX,worldsfastestgamer.net
   - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,wuxiapple.com
   - DOMAIN-SUFFIX,wwapple.net
   - DOMAIN-SUFFIX,wwtbam.com
@@ -23119,6 +23125,7 @@ payload:
   - DOMAIN-SUFFIX,fragrancebay.com
   - DOMAIN-SUFFIX,francemail.com
   - DOMAIN-SUFFIX,futureshop.ca
+  - DOMAIN-SUFFIX,gamewtb.com
   - DOMAIN-SUFFIX,geek-squad-support.com
   - DOMAIN-SUFFIX,geek-squad.net
   - DOMAIN-SUFFIX,geek-squad.org
@@ -44776,6 +44783,7 @@ payload:
   - DOMAIN-SUFFIX,ctyun.online
   - DOMAIN-SUFFIX,cylink.pro
   - DOMAIN-SUFFIX,cylink0122.icu
+  - DOMAIN-SUFFIX,dfvpn.com
   - DOMAIN-SUFFIX,dlercloud.com
   - DOMAIN-SUFFIX,dlercloud.me
   - DOMAIN-SUFFIX,dlercloud.org
@@ -60963,6 +60971,7 @@ payload:
   - DOMAIN-SUFFIX,dewitwithdurex.com
   - DOMAIN-SUFFIX,dexterhorn.com
   - DOMAIN-SUFFIX,dezyred.com
+  - DOMAIN-SUFFIX,dfvpn.com
   - DOMAIN-SUFFIX,dgaqp.com
   - DOMAIN-SUFFIX,dgg.gg
   - DOMAIN-SUFFIX,dgwav.com
@@ -63629,6 +63638,7 @@ payload:
   - DOMAIN-SUFFIX,gamesstack.com
   - DOMAIN-SUFFIX,gametap.com
   - DOMAIN-SUFFIX,gameuxmasterguide.com
+  - DOMAIN-SUFFIX,gamewtb.com
   - DOMAIN-SUFFIX,gaming-notebooks.com
   - DOMAIN-SUFFIX,gandhara.ru
   - DOMAIN-SUFFIX,gandi.net
@@ -64076,6 +64086,7 @@ payload:
   - DOMAIN-SUFFIX,gockhuatviet.com
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
   - DOMAIN-SUFFIX,godbolt.org
   - DOMAIN-SUFFIX,godoc.org
   - DOMAIN-SUFFIX,goduckgo.com
@@ -74699,6 +74710,7 @@ payload:
   - DOMAIN-SUFFIX,taylorandfrancis.com
   - DOMAIN-SUFFIX,taylorfrancis.com
   - DOMAIN-SUFFIX,tb-esim.ru
+  - DOMAIN-SUFFIX,tb.pro
   - DOMAIN-SUFFIX,tbank-online.com
   - DOMAIN-SUFFIX,tbank.ru
   - DOMAIN-SUFFIX,tbib.org
@@ -75068,6 +75080,7 @@ payload:
   - DOMAIN-SUFFIX,thumbzilla.com
   - DOMAIN-SUFFIX,thunderbird.net
   - DOMAIN-SUFFIX,thunderbolttechnology.net
+  - DOMAIN-SUFFIX,thundermail.com
   - DOMAIN-SUFFIX,thz7.net
   - DOMAIN-SUFFIX,thzu.cc
   - DOMAIN-SUFFIX,tiandixing.org
@@ -77208,6 +77221,7 @@ payload:
   - DOMAIN-SUFFIX,wrenchead.com
   - DOMAIN-SUFFIX,ws-blau.com
   - DOMAIN-SUFFIX,ws-tcg.com
+  - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.jobs
   - DOMAIN-SUFFIX,wsj.net
@@ -87200,6 +87214,8 @@ payload:
   - DOMAIN,crl.globalsign.net
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
+  - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,gofundme.com
   - DOMAIN-SUFFIX,gog-statics.com
@@ -95063,7 +95079,9 @@ payload:
   - DOMAIN-SUFFIX,popcornjs.org
   - DOMAIN-SUFFIX,publicsuffix.org
   - DOMAIN-SUFFIX,seamonkey-project.org
+  - DOMAIN-SUFFIX,tb.pro
   - DOMAIN-SUFFIX,thunderbird.net
+  - DOMAIN-SUFFIX,thundermail.com
   - DOMAIN-SUFFIX,webmademovies.org
   - DOMAIN,ads-img.mozilla.org
   - DOMAIN,ads.mozilla.org
