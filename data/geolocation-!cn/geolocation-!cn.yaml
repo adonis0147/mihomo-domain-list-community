@@ -24114,10 +24114,8 @@ payload:
   - gbxgateway.dell.com
   - github-api.arkoselabs.com
   - gitlab-assets.oss-cn-hongkong.aliyuncs.com
-  - gog-cdn-fastly.gog.com
-  - gog-cdn.akamaized.net
+  - gog-cdn-lumen.secure2.footprint.net
   - gog.qtlglb.com
-  - gogalaxy.gog-statics.com
   - gonglchuangl.net
   - gongyichuangyi.net
   - google-analytics-cn.com
@@ -24257,7 +24255,6 @@ payload:
   - mc.yango.com
   - mdr.ksn.kaspersky-labs.com
   - medone-education.thieme.com
-  - menu-static.gog-statics.com
   - mesu-cdn.apple.com.akadns.net
   - mesu-china.apple.com.akadns.net
   - mesu.apple.com
@@ -24357,7 +24354,6 @@ payload:
   - prod-databe.floonet.goog
   - prod-support.apple-support.akadns.net
   - prod.databe.floonet.goog
-  - productcard.gog-statics.com
   - prodvizhenie-adv.ozon.ru
   - public-us-pingsx.api.clonoth.com
   - publicassets.cdn-apple.com
@@ -24479,7 +24475,6 @@ payload:
   - staging-controlbe.floonet.goog
   - staging-databe.floonet.goog
   - staging.databe.floonet.goog
-  - static-login.gog-statics.com
   - static.gc.apple.com
   - statics.teams.cdn.office.net
   - stats.avito.ru
@@ -24577,7 +24572,6 @@ payload:
   - www.recaptcha-cn.net
   - www.recaptcha.net
   - www.support.apple.com
-  - www4-static.gog-statics.com
   - xapi.ozon.by
   - xapi.ozon.com.by
   - xapi.ozon.com.kz
@@ -24741,15 +24735,12 @@ payload:
   - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
   - DOMAIN-REGEX,^(.+\.)*zh\.okaapps\.com$
   - DOMAIN-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$
-  - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
   - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
-  - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
   - DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
-  - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - DOMAIN-REGEX,javdb\d+\.com$
