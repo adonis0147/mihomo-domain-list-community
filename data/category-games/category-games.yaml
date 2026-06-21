@@ -150,6 +150,7 @@ payload:
   - +.crossout.net
   - +.crsed.net
   - +.crysis.jp
+  - +.csgo.com.cn
   - +.csgo.wmsj.cn
   - +.cubicmotion.com
   - +.cubicodyssey.game
@@ -180,6 +181,7 @@ payload:
   - +.donkeykongcountryreturns.com
   - +.doom.com
   - +.dota2.com
+  - +.dota2.com.cn
   - +.dota2.wmsj.cn
   - +.dragonage.com
   - +.dragonagekeep.com
@@ -294,8 +296,10 @@ payload:
   - +.gloryofheracles.com
   - +.goblocks.com
   - +.goblox.com
+  - +.gog-services.com
   - +.gog-statics.com
   - +.gog.com
+  - +.gogalaxy.com
   - +.gooblox.com
   - +.goto-game.com
   - +.goto-game.mobi
@@ -340,6 +344,7 @@ payload:
   - +.img4399.com
   - +.in.th
   - +.industrialtoys.com
+  - +.insights-collector.gog.com
   - +.instituteofwar.org
   - +.itch.io
   - +.itch.zone
@@ -375,6 +380,7 @@ payload:
   - +.kyurem.com
   - +.labycore.cn
   - +.langrenclub.com
+  - +.laohu.com
   - +.lcsmerch.com
   - +.leaguehighschool.com
   - +.leagueoflegends.ca
@@ -906,6 +912,7 @@ payload:
   - +.winegame.net
   - +.wmsj.cn
   - +.wmsjsteam.com
+  - +.wmupd.com
   - +.wo1wan.com
   - +.worldflipper.akamaized.net
   - +.worldflipper.jp

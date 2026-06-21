@@ -79,6 +79,7 @@ payload:
   - +.crossout.net
   - +.crsed.net
   - +.crysis.jp
+  - +.csgo.com.cn
   - +.csgo.wmsj.cn
   - +.cubicmotion.com
   - +.cubicodyssey.game
@@ -107,6 +108,7 @@ payload:
   - +.donkeykongcountryreturns.com
   - +.doom.com
   - +.dota2.com
+  - +.dota2.com.cn
   - +.dota2.wmsj.cn
   - +.dragonage.com
   - +.dragonagekeep.com
@@ -203,8 +205,10 @@ payload:
   - +.gloryofheracles.com
   - +.goblocks.com
   - +.goblox.com
+  - +.gog-services.com
   - +.gog-statics.com
   - +.gog.com
+  - +.gogalaxy.com
   - +.gooblox.com
   - +.gpstatic.com
   - +.gstore.val.manlaxy.com
@@ -226,6 +230,7 @@ payload:
   - +.hutpromos.com
   - +.hyprsense.com
   - +.industrialtoys.com
+  - +.insights-collector.gog.com
   - +.instituteofwar.org
   - +.itch.io
   - +.itch.zone

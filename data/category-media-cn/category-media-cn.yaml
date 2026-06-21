@@ -7,6 +7,7 @@ payload:
   - +.36krcdn.com
   - +.36krcnd.com
   - +.3conline.com
+  - +.3elife.net
   - +.56.com
   - +.56img.com
   - +.6655.com
@@ -30,6 +31,9 @@ payload:
   - +.bbtnews.com.cn
   - +.bdu.focus.cn
   - +.bianews.com
+  - +.bjnews.com.cn
+  - +.bkeconomy.com
+  - +.btime.com
   - +.caijing.com.cn
   - +.cailianpress.com
   - +.caixin.com
@@ -45,6 +49,7 @@ payload:
   - +.cctvpic.com
   - +.cctvpro.cn
   - +.cctvpro.com.cn
+  - +.ce.cn
   - +.cfgw.net.cn
   - +.chaindd.com
   - +.cheaa.com
@@ -72,6 +77,7 @@ payload:
   - +.cntv.cn
   - +.cntv.com.cn
   - +.cntvwb.cn
+  - +.cnwest.com
   - +.coolbuy.com
   - +.cooldock.com
   - +.cqcb.com
@@ -93,6 +99,7 @@ payload:
   - +.daheapp.com
   - +.dahebao.cn
   - +.danjuanfunds.com
+  - +.dayoo.com
   - +.dgtle.com
   - +.dianzhenkeji.com
   - +.donews.com
@@ -103,17 +110,20 @@ payload:
   - +.eastday.com
   - +.ecns.cn
   - +.eeo.com.cn
+  - +.evolife.cn
   - +.expreview.com
   - +.feng.com
   - +.fengcx.com
   - +.fengedu.com
   - +.fengimg.com
+  - +.fjsen.com
   - +.focus-img.cn
   - +.focus.cn
   - +.fpb.sohu.com
   - +.freebuf.com
   - +.geekbang.org
   - +.geekpark.net
+  - +.gfan.com
   - +.gjgbdszt.cn
   - +.gjgbdszt.com.cn
   - +.gjgbdszt.net.cn
@@ -212,6 +222,7 @@ payload:
   - +.neweekly.com.cn
   - +.news.cn
   - +.newsimg.cn
+  - +.newssc.org
   - +.nfpeople.com
   - +.oeeee.com
   - +.ofweek.com
@@ -235,6 +246,7 @@ payload:
   - +.pv.hd.sohu.com
   - +.pv.sohu.com
   - +.qbitai.com
+  - +.qianlong.com
   - +.qianzhan.com
   - +.qiluyidian.net
   - +.qingdaochina.org
@@ -242,6 +254,7 @@ payload:
   - +.ql1d.com
   - +.qpb.sohu.com
   - +.qpb1.sohu.com
+  - +.rednet.cn
   - +.reke.at.sohu.com
   - +.ruanmei.com
   - +.saayaa.com
@@ -267,6 +280,7 @@ payload:
   - +.statickksmg.com
   - +.stcn.com
   - +.stockstar.com
+  - +.sxtvs.com
   - +.szhk.com
   - +.sznews.com
   - +.szpgm.com
@@ -303,6 +317,8 @@ payload:
   - +.xinhuanet.com
   - +.xinhuaxmt.com
   - +.xinmeng.info
+  - +.xinmin.cn
+  - +.xinminweekly.com.cn
   - +.xkb.com.cn
   - +.xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
   - +.xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
@@ -327,6 +343,7 @@ payload:
   - +.zgjtb.com
   - +.zhichanli.com
   - +.zhiding.cn
+  - +.zjol.com.cn
   - +.zjstv.com
   - +.zol-img.com.cn
   - +.zol.com.cn
