@@ -1,5 +1,6 @@
 payload:
   - +.byspotify.com
+  - +.lifeatspotify.com
   - +.pscdn.co
   - +.scdn.co
   - +.spoti.fi
@@ -12,6 +13,7 @@ payload:
   - +.spotifycharts.com
   - +.spotifycodes.com
   - +.spotifyforbrands.com
+  - +.spotifyforvendors.com
   - +.spotifyjobs.com
   - +.tospotify.com
   - adeventtracker.spotify.com

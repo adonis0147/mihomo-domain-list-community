@@ -185,6 +185,7 @@ payload:
   - +.efproject.net
   - +.elderscrolls.com
   - +.engkoo.com
+  - +.exp-tas.com
   - +.fasttrackreadysupport.com
   - +.femalefounderscomp.com
   - +.flightsimulator.com
@@ -209,6 +210,7 @@ payload:
   - +.git.io
   - +.github.ai
   - +.github.blog
+  - +.github.career
   - +.github.com
   - +.github.community
   - +.github.dev
@@ -581,7 +583,10 @@ payload:
   - +.vsassets.io
   - +.vscode-cdn.net
   - +.vscode-unpkg.net
+  - +.vscode-webview.net
   - +.vscode.dev
+  - +.vscodeedu.app
+  - +.vscodeedu.com
   - +.wbd.ms
   - +.what-fan.net
   - +.windows
@@ -637,7 +642,6 @@ payload:
   - copilot-telemetry-service.githubusercontent.com
   - copilot-telemetry.githubusercontent.com
   - ctldl.windowsupdate.com
-  - default.exp-tas.com
   - developer.microsoft.com
   - download.microsoft.com
   - download.visualstudio.microsoft.com
