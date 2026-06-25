@@ -19,10 +19,13 @@ payload:
   - +.aliyunfile.com
   - +.aliyunidaas.com
   - +.aliyunpds.com
+  - +.ap-southeast-1.aliyuncs.com
   - +.atanx.alicdn.com
   - +.atanx2.alicdn.com
   - +.baichuan-sdk.alicdn.com
   - +.cdngslb.com
+  - +.cn-hangzhou.aliyuncs.com
+  - +.cn-shanghai.aliyuncs.com
   - +.fcapp.run
   - +.hichina.com
   - +.ica-alliance.org

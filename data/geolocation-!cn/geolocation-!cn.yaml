@@ -23847,6 +23847,7 @@ payload:
   - a4.mzstatic.com
   - a4e8s8k3.map2.ssl.hwcdn.net
   - a5.mzstatic.com
+  - account-cn.alibabacloud.com
   - activate.activation-v2.kaspersky.com
   - activation-v2.geo.kaspersky.com
   - activation-v2.kaspersky.com
@@ -23932,6 +23933,7 @@ payload:
   - api-secure.carrotquest.app
   - api-secure.carrottrack.app
   - api-staging.mindbox.ru
+  - api.alibabacloud.com
   - api.carrotquest.app
   - api.carrotquest.io
   - api.carrottrack.app
@@ -24031,6 +24033,7 @@ payload:
   - clientservices.googleapis.com
   - cma.itunes.apple.com
   - cn-smp-paymentservices.apple.com
+  - cn.alibabacloud.com
   - cn.download.nvidia.com
   - cn.widevine.com
   - cn.windowssearch.com
@@ -24521,6 +24524,7 @@ payload:
   - stats.rustore.ru
   - stats.telega.info
   - stats.vk-portal.net
+  - status.alibabacloud.com
   - stocks-sparkline-lb.apple.com.akadns.net
   - stocks-sparkline.apple.com
   - store.apple.com.edgekey.net.globalredir.akadns.net
