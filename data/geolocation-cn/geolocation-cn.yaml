@@ -351,6 +351,7 @@ payload:
   - +.71acg.com
   - +.71acg.net
   - +.71edge.com
+  - +.71shi.net
   - +.7230.com
   - +.72byte.com
   - +.72whys.com
@@ -385,6 +386,7 @@ payload:
   - +.88y.cn
   - +.8btc.com
   - +.8gcdp.cn
+  - +.8m2.net
   - +.8n82b.cn
   - +.8uri.cn
   - +.900.la
@@ -468,7 +470,6 @@ payload:
   - +.acimg.cn
   - +.acjs.aliyun.com
   - +.acloudrender.com
-  - +.acplay.net
   - +.activity-dy.com
   - +.activity-wbsj.com
   - +.activity-zhendingtech.com
@@ -749,6 +750,7 @@ payload:
   - +.anitabi.cn
   - +.anitama.cn
   - +.anitama.net
+  - +.anixplayer.net
   - +.anjuke.com
   - +.anjukestatic.com
   - +.anker.com.cn
@@ -775,7 +777,6 @@ payload:
   - +.anytocopy.com
   - +.anywlan.com
   - +.anzhuo.cn
-  - +.ao-x.ac.cn
   - +.aocde.com
   - +.aoshu.com
   - +.aotrip.net
@@ -952,7 +953,6 @@ payload:
   - +.bdispatch.com
   - +.bdispatch.net
   - +.bdmozon.com
-  - +.bdmyandex.com
   - +.bdns-api-test.net
   - +.bdns-boe.com
   - +.bdns-boe.net
@@ -1663,6 +1663,7 @@ payload:
   - +.cignacmb-ipmi.com
   - +.cignacmb.com
   - +.cignacmbamc.com
+  - +.cilisouou.com
   - +.cindasc.com
   - +.citibank.com.cn
   - +.citic
@@ -2055,7 +2056,6 @@ payload:
   - +.damai.cn
   - +.dancf.com
   - +.dandan818.com
-  - +.dandanplay.com
   - +.dandanvoice.com
   - +.dangbei.com
   - +.dangbei.net
@@ -2345,6 +2345,7 @@ payload:
   - +.dui.ai
   - +.dui88.com
   - +.duiba.com.cn
+  - +.duifene.com
   - +.duiopen.com
   - +.duiou.com.cn
   - +.duitang.com
@@ -2906,6 +2907,7 @@ payload:
   - +.gongxiangcj.com
   - +.gongxiangjizhang.com
   - +.gongyi.xin
+  - +.goodq.top
   - +.goofish.com
   - +.goofish.pro
   - +.goosail.com
@@ -2971,6 +2973,7 @@ payload:
   - +.guazistatic.com
   - +.guba.com.cn
   - +.gucheng.com
+  - +.gugudata.com
   - +.guigu.org
   - +.guodu.com
   - +.guoguo-app.com
@@ -3044,6 +3047,7 @@ payload:
   - +.haosou.com.cn
   - +.haosou.net
   - +.haote.com
+  - +.haowenti.net
   - +.haowu.link
   - +.haoyouyinxiang.com
   - +.hapierxia.com
@@ -3718,6 +3722,7 @@ payload:
   - +.jet-ego.com
   - +.jet-logistics.com
   - +.jetlogistic.com
+  - +.jfcoop.com
   - +.jfdaily.com
   - +.jhgtgb.com
   - +.jhscm.com
@@ -3748,6 +3753,7 @@ payload:
   - +.jiemeng8.com
   - +.jiemian.com
   - +.jiemian.com.cn
+  - +.jigecili.com
   - +.jiguang.cn
   - +.jike.city
   - +.jikecdn.com
@@ -4566,6 +4572,7 @@ payload:
   - +.miraclevision.com
   - +.mirrorcast.cn
   - +.mirrors.yun-idc.com
+  - +.misaka-net.top
   - +.misc.in.duokanbox.com
   - +.missevan.com
   - +.missjia.net
@@ -4614,6 +4621,7 @@ payload:
   - +.mojidict.com
   - +.mokahr.com
   - +.moleecel.com
+  - +.moliranran.com
   - +.monika.love
   - +.monitor.music.qq.com
   - +.monitor.uu.qq.com
@@ -4841,6 +4849,7 @@ payload:
   - +.ocfund.cn
   - +.ocwms.com
   - +.oeeee.com
+  - +.oend.net
   - +.offcn.com
   - +.officese.com
   - +.ofweek.com
@@ -5045,6 +5054,7 @@ payload:
   - +.pl.youku.com
   - +.playcool.com
   - +.plbslog.umeng.com
+  - +.pljzy.top
   - +.pmir.3g.qq.com
   - +.pmphmooc.com
   - +.pn1waq.com
@@ -5084,6 +5094,7 @@ payload:
   - +.procg.cn
   - +.programmer.com.cn
   - +.programmer.net.cn
+  - +.proj101.cn
   - +.proximabeta.com
   - +.psbc.com
   - +.pstatp.com
@@ -5092,7 +5103,6 @@ payload:
   - +.pubgno1.cn
   - +.pubgtool.com
   - +.pubyun.com
-  - +.puddingcat.top
   - +.puh3.net.cn
   - +.pupuapi.com
   - +.pupumall.com
@@ -5201,6 +5211,7 @@ payload:
   - +.qingsongchou.com
   - +.qingstor.com
   - +.qingting.fm
+  - +.qingtingai.net
   - +.qingtingtrip.com
   - +.qingzhouip.com
   - +.qiniu.com
@@ -5280,6 +5291,7 @@ payload:
   - +.quyaoya.com
   - +.qweather.com
   - +.qweather.net
+  - +.qweatherapi.com
   - +.qwen.ai
   - +.qwenlm.ai
   - +.qwps.cn
@@ -5993,6 +6005,7 @@ payload:
   - +.tiancity.com
   - +.tiancitycdn.com
   - +.tiangong.cn
+  - +.tianhw.top
   - +.tianjimedia.com
   - +.tianjin-air.com
   - +.tianlailive.com
@@ -6061,7 +6074,6 @@ payload:
   - +.tobosu.com
   - +.todesk.cn
   - +.todesk.com
-  - +.tokcoder.com
   - +.tokyotrial.cn
   - +.tom.com
   - +.tongdun.net
@@ -6493,6 +6505,7 @@ payload:
   - +.vrzwk.top
   - +.vscenevideo.com
   - +.vsread.com
+  - +.vtdd.vip
   - +.vvstc.com
   - +.vxo7tu.com
   - +.vzuu.com
@@ -6565,6 +6578,7 @@ payload:
   - +.weilaiyunxiao.com
   - +.weiphone.net
   - +.weishi.com
+  - +.weixin.com
   - +.weixinbridge.com
   - +.weixing.com
   - +.weiyangx.com
@@ -6674,6 +6688,7 @@ payload:
   - +.wsdvs.com
   - +.wsglb.com
   - +.wsglb.net
+  - +.wsjqnmmrmv.world
   - +.wsoso.com
   - +.wss.cc
   - +.wss.email
@@ -7181,6 +7196,7 @@ payload:
   - +.zggbdszt.com.cn
   - +.zggbdszt.net.cn
   - +.zggqzp.com
+  - +.zggx100.com
   - +.zgjm.org
   - +.zgjsks.com
   - +.zgjtb.com
