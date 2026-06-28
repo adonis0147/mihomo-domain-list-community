@@ -41069,6 +41069,7 @@ payload:
   - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,52pt.site
+  - DOMAIN-SUFFIX,animebytes.tv
   - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,avistaz.to
   - DOMAIN-SUFFIX,beitai.pt
@@ -41087,12 +41088,14 @@ payload:
   - DOMAIN-SUFFIX,cinemaz.to
   - DOMAIN-SUFFIX,cyanbug.net
   - DOMAIN-SUFFIX,dicmusic.com
+  - DOMAIN-SUFFIX,digitalcore.club
   - DOMAIN-SUFFIX,dmhy.best
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,eastgame.org
   - DOMAIN-SUFFIX,et8.org
   - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,filelist.io
+  - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,greatposterwall.com
   - DOMAIN-SUFFIX,haidan.video
   - DOMAIN-SUFFIX,hdarea.club
@@ -41142,6 +41145,7 @@ payload:
   - DOMAIN-SUFFIX,nicept.net
   - DOMAIN-SUFFIX,npupt.com
   - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,orpheus.network
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,pandapt.net
   - DOMAIN-SUFFIX,passthepopcorn.me
@@ -41165,14 +41169,18 @@ payload:
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,pttime.top
   - DOMAIN-SUFFIX,rainbowisland.co
+  - DOMAIN-SUFFIX,redacted.sh
   - DOMAIN-SUFFIX,rousi.zip
   - DOMAIN-SUFFIX,share.ilolicon.com
   - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,skyey2.com
   - DOMAIN-SUFFIX,skyeysnow.com
+  - DOMAIN-SUFFIX,sportscult.org
   - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,superbits.org
   - DOMAIN-SUFFIX,tju.pt
   - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,torrentleech.cc
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,ubits.club
@@ -48742,6 +48750,7 @@ payload:
   - DOMAIN-SUFFIX,kidsccshow.com
   - DOMAIN-SUFFIX,kimi.com
   - DOMAIN-SUFFIX,kimiss.com
+  - DOMAIN-SUFFIX,kimxz.com
   - DOMAIN-SUFFIX,kingdee.com
   - DOMAIN-SUFFIX,kinghomechina.com
   - DOMAIN-SUFFIX,kingsoft-office-service.com
@@ -48773,7 +48782,6 @@ payload:
   - DOMAIN-SUFFIX,ks-cdn1.com
   - DOMAIN-SUFFIX,ks-live.com
   - DOMAIN-SUFFIX,ksapisrv.com
-  - DOMAIN-SUFFIX,kscord.com
   - DOMAIN-SUFFIX,kskwai.com
   - DOMAIN-SUFFIX,ksmobile.com
   - DOMAIN-SUFFIX,ksord.com
@@ -83787,6 +83795,7 @@ payload:
   - DOMAIN-SUFFIX,kimg.cn
   - DOMAIN-SUFFIX,kimi.com
   - DOMAIN-SUFFIX,kimiss.com
+  - DOMAIN-SUFFIX,kimxz.com
   - DOMAIN-SUFFIX,kingdee.com
   - DOMAIN-SUFFIX,kinghomechina.com
   - DOMAIN-SUFFIX,kingsoft-office-service.com
@@ -83830,7 +83839,6 @@ payload:
   - DOMAIN-SUFFIX,ks-cdn1.com
   - DOMAIN-SUFFIX,ks-live.com
   - DOMAIN-SUFFIX,ksapisrv.com
-  - DOMAIN-SUFFIX,kscord.com
   - DOMAIN-SUFFIX,kshbank.cn
   - DOMAIN-SUFFIX,kskwai.com
   - DOMAIN-SUFFIX,ksmobile.com
@@ -91884,13 +91892,14 @@ payload:
   - DOMAIN-SUFFIX,kcdnvip.com
   - DOMAIN-SUFFIX,kdocs.cn
   - DOMAIN-SUFFIX,kimg.cn
+  - DOMAIN-SUFFIX,kimxz.com
   - DOMAIN-SUFFIX,kingsoft-office-service.com
   - DOMAIN-SUFFIX,kingsoft.com
   - DOMAIN-SUFFIX,ks-cdn.com
   - DOMAIN-SUFFIX,ks-cdn1.com
   - DOMAIN-SUFFIX,ks-live.com
-  - DOMAIN-SUFFIX,kscord.com
   - DOMAIN-SUFFIX,ksmobile.com
+  - DOMAIN-SUFFIX,ksord.com
   - DOMAIN-SUFFIX,ksosoft.com
   - DOMAIN-SUFFIX,ksyun.com
   - DOMAIN-SUFFIX,ksyuncdn.com
@@ -104801,7 +104810,7 @@ payload:
   - DOMAIN-SUFFIX,docer.com
   - DOMAIN-SUFFIX,iciba.com
   - DOMAIN-SUFFIX,kdocs.cn
-  - DOMAIN-SUFFIX,kscord.com
+  - DOMAIN-SUFFIX,kimxz.com
   - DOMAIN-SUFFIX,papocket.com
   - DOMAIN-SUFFIX,qwps.cn
   - DOMAIN-SUFFIX,wps.cn
