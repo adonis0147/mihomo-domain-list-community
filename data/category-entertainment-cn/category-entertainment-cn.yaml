@@ -51,6 +51,7 @@ payload:
   - +.5wyxi.com
   - +.6.cn
   - +.61.com
+  - +.66rpg.com
   - +.6rooms.com
   - +.71.am
   - +.71acg.com
@@ -97,6 +98,7 @@ payload:
   - +.afp.iqiyi.com
   - +.aichongzoo.cn
   - +.aihst8.com
+  - +.aireads.cn
   - +.aisee.tv
   - +.aixifan.com
   - +.aki-game.com
@@ -189,9 +191,18 @@ payload:
   - +.cdkeynogap.com
   - +.cdncl.net
   - +.cgames.com
+  - +.cgyouxi.com
   - +.changdunovel.com
   - +.changyou.com
   - +.chat.top
+  - +.chatdrama.cn
+  - +.chatdrama.net
+  - +.chatqidian.cn
+  - +.chatqidian.net
+  - +.chattext.cn
+  - +.chatwrite.net
+  - +.chatxiaoxiang.com
+  - +.chatyuewen.cn
   - +.chuapp.com
   - +.cibn.cc
   - +.cibntv.net
@@ -210,6 +221,7 @@ payload:
   - +.dc.letv.com
   - +.ddmogo.com
   - +.debugmode.cn
+  - +.dishu3.com
   - +.diyring.cc
   - +.dmhmusic.com
   - +.dmzj.com
@@ -591,6 +603,7 @@ payload:
   - +.mysiteres.com
   - +.nadianshi.com
   - +.nagcloudcs.com
+  - +.nalrer.cn
   - +.natfrp.com
   - +.news.yxrb.net
   - +.newstjk.com
@@ -602,6 +615,7 @@ payload:
   - +.novelfmstatic.com
   - +.novelfmvod.com
   - +.nzsiteres.com
+  - +.open-douyin.com
   - +.p-log.ykimg.com
   - +.passport-log.youku.com
   - +.pearvideo.com
@@ -786,6 +800,7 @@ payload:
   - +.xs.cn
   - +.xs8.cn
   - +.xxsy.net
+  - +.xxsypro.com
   - +.xyys.com
   - +.xyzcdn.net
   - +.xyzfm.link
@@ -796,6 +811,7 @@ payload:
   - +.yeshen.com
   - +.yingxiong.com
   - +.yiyouliao.com
+  - +.yjwujian.cn
   - +.yk-ssp.ad.youku.com
   - +.ykad-data.youku.com
   - +.ykimg.com
@@ -818,6 +834,7 @@ payload:
   - +.yximgs.com
   - +.yxwsgame.com
   - +.yy.com
+  - +.yysls.cn
   - +.yystatic.com
   - +.yystv.cn
   - +.yzyxgame.com
