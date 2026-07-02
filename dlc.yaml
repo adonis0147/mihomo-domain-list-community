@@ -6991,6 +6991,7 @@ payload:
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,cn.bing.net
   - DOMAIN-SUFFIX,cn.mm.bing.net
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,dictate.ms
   - DOMAIN-SUFFIX,ditu.live.com
@@ -11044,6 +11045,7 @@ payload:
   - DOMAIN-SUFFIX,comfy.org
   - DOMAIN-SUFFIX,comfyci.org
   - DOMAIN-SUFFIX,comfyregistry.org
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,crewai.com
@@ -11206,6 +11208,7 @@ payload:
   - DOMAIN-SUFFIX,comfy.org
   - DOMAIN-SUFFIX,comfyci.org
   - DOMAIN-SUFFIX,comfyregistry.org
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,crewai.com
@@ -15260,6 +15263,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,coreduo.com
   - DOMAIN-SUFFIX,coreextreme.com
   - DOMAIN-SUFFIX,corel.com
@@ -41944,6 +41948,7 @@ payload:
   - DOMAIN-SUFFIX,flomni.com
   - DOMAIN-SUFFIX,fon.bet
   - DOMAIN-SUFFIX,fon.promo
+  - DOMAIN-SUFFIX,foto-planeta.com
   - DOMAIN-SUFFIX,freeassange.tech
   - DOMAIN-SUFFIX,freede.tech
   - DOMAIN-SUFFIX,freedert.online
@@ -42196,6 +42201,7 @@ payload:
   - DOMAIN-SUFFIX,prodcontest.com
   - DOMAIN-SUFFIX,promodj.com
   - DOMAIN-SUFFIX,psk
+  - DOMAIN-SUFFIX,ptsecurity.com
   - DOMAIN-SUFFIX,pushgrow.io
   - DOMAIN-SUFFIX,pvubank.com
   - DOMAIN-SUFFIX,pz.help
@@ -42203,6 +42209,7 @@ payload:
   - DOMAIN-SUFFIX,rabbitcounter.com
   - DOMAIN-SUFFIX,rabota.by
   - DOMAIN-SUFFIX,radar.imgsmail.ru
+  - DOMAIN-SUFFIX,randomgodbot.com
   - DOMAIN-SUFFIX,rbth.com
   - DOMAIN-SUFFIX,reg.cloud
   - DOMAIN-SUFFIX,reg.com
@@ -42301,6 +42308,7 @@ payload:
   - DOMAIN-SUFFIX,selectel.live
   - DOMAIN-SUFFIX,servercore.com
   - DOMAIN-SUFFIX,servercore.live
+  - DOMAIN-SUFFIX,servicepipe.tech
   - DOMAIN-SUFFIX,shedevrum.ai
   - DOMAIN-SUFFIX,shop-rt.com
   - DOMAIN-SUFFIX,sistema-capital.com
@@ -42322,6 +42330,7 @@ payload:
   - DOMAIN-SUFFIX,sputnikmediabank.com
   - DOMAIN-SUFFIX,sputniknews.com
   - DOMAIN-SUFFIX,srv-hub.org
+  - DOMAIN-SUFFIX,standoff365.com
   - DOMAIN-SUFFIX,static-storage.net
   - DOMAIN-SUFFIX,staticmy.com
   - DOMAIN-SUFFIX,su
@@ -60612,6 +60621,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copro.pw
   - DOMAIN-SUFFIX,copy-manga.com
   - DOMAIN-SUFFIX,copy20.com
@@ -94363,6 +94373,7 @@ payload:
   - DOMAIN-SUFFIX,cn.mm.bing.net
   - DOMAIN-SUFFIX,codethemicrobit.com
   - DOMAIN-SUFFIX,collector.github.com
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,cortanaanalytics.com
   - DOMAIN-SUFFIX,cortanaskills.com
   - DOMAIN-SUFFIX,cosmosdb.info
@@ -97640,6 +97651,9 @@ payload:
   - DOMAIN-SUFFIX,pornhubpremium.com
   - DOMAIN-SUFFIX,pornpros.com
   - DOMAIN-SUFFIX,pornprosnetwork.com
+  - DOMAIN-SUFFIX,ptcloud.ru
+  - DOMAIN-SUFFIX,ptsecurity.com
+  - DOMAIN-SUFFIX,standoff365.com
   - DOMAIN-SUFFIX,postimages.org
   - DOMAIN-SUFFIX,postimg.cc
   - DOMAIN-SUFFIX,pplive.cn
@@ -99736,6 +99750,8 @@ payload:
   - DOMAIN-SUFFIX,vscale.ru
   - DOMAIN-SUFFIX,sentry-cdn.com
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,servicepipe.ru
+  - DOMAIN-SUFFIX,servicepipe.tech
   - DOMAIN-SUFFIX,setapp.com
   - DOMAIN-SUFFIX,setn.com
   - DOMAIN-SUFFIX,settv.com.tw
