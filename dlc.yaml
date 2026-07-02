@@ -10035,6 +10035,7 @@ payload:
   - DOMAIN,new-adv.ozon.ru
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,o4504926511693824.ingest.sentry.io
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN,p3-ad-sign.byteimg.com
   - DOMAIN,p6-ad-sign.byteimg.com
   - DOMAIN,p9-ad-sign.byteimg.com
@@ -10932,6 +10933,7 @@ payload:
   - DOMAIN,new-adv.ozon.ru
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,o4504926511693824.ingest.sentry.io
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN,p3-ad-sign.byteimg.com
   - DOMAIN,p6-ad-sign.byteimg.com
   - DOMAIN,p9-ad-sign.byteimg.com
@@ -11155,7 +11157,9 @@ payload:
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openaiassets.blob.core.windows.net
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicom.imgix.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -11315,7 +11319,9 @@ payload:
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openaiassets.blob.core.windows.net
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicom.imgix.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -79470,6 +79476,7 @@ payload:
   - DOMAIN,officemkt.download.prss.microsoft.com
   - DOMAIN,officemktuat.download.prss.microsoft.com
   - DOMAIN,ood.opsource.net
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN,oscdn.apple.com
   - DOMAIN,oscdn.origin-apple.com.akadns.net
   - DOMAIN,osrelease.download.prss.microsoft.com
@@ -91652,6 +91659,7 @@ payload:
   - DOMAIN-SUFFIX,s0n.cn
   - DOMAIN-SUFFIX,jinshuju.net
   - DOMAIN-SUFFIX,jinshujucdn.com
+  - DOMAIN-SUFFIX,jsj.top
   - DOMAIN-SUFFIX,jiyu-kobo.co.jp
   - DOMAIN-SUFFIX,jkf.net
   - DOMAIN-SUFFIX,jkface.net
@@ -96802,7 +96810,9 @@ payload:
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openaiassets.blob.core.windows.net
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicom.imgix.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
