@@ -52,6 +52,7 @@ payload:
   - +.sbeacon.sina.com.cn
   - +.sdkclick.mobile.sina.cn
   - +.shihuo.cn
+  - +.sina
   - +.sina.cn
   - +.sina.com
   - +.sina.com.cn
@@ -75,6 +76,7 @@ payload:
   - +.wbimg.cn
   - +.wbimg.com
   - +.wcdn.cn
+  - +.weibo
   - +.weibo.cn
   - +.weibo.com
   - +.weibo.com.cn
@@ -87,6 +89,7 @@ payload:
   - +.xhsrcdn.com
   - +.xiaochuankeji.cn
   - +.xiaohongshu.com
+  - +.xn--9krt00a
   - +.zhihu-web-analytics.zhihu.com
   - +.zhihu.com
   - +.zhimg.com

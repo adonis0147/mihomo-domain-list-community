@@ -1821,6 +1821,7 @@ payload:
   - +.apple-store.cn
   - +.apple-store.net
   - +.apple-store.wang
+  - +.apple-studies.com
   - +.apple-usa.net
   - +.apple-watch.com.ru
   - +.apple.ae
@@ -2319,6 +2320,7 @@ payload:
   - +.atlassian-dev.net
   - +.atlassian.com
   - +.atlassian.net
+  - +.atmeta.com
   - +.atnext.com
   - +.atokara.jp
   - +.atom.io
@@ -2717,6 +2719,7 @@ payload:
   - +.aztask.cn
   - +.azure
   - +.azure-api.cn
+  - +.azure-api.net
   - +.azure-apihub.cn
   - +.azure-automation.cn
   - +.azure-connectedvehicles-stage.cn
@@ -2781,6 +2784,7 @@ payload:
   - +.azureserviceprofiler.com
   - +.azuresmartspaces.net
   - +.azurestackvalidation.com
+  - +.azurestaticapps.net
   - +.azurewebsites.net
   - +.b-cdn.net
   - +.b-eroland.net
@@ -24137,6 +24141,7 @@ payload:
   - edge.geo.kaspersky.com
   - elib.maruzen.co.jp
   - emoi-cncdn.bing.com
+  - entitlements-edge.itunes.apple.com
   - error-tracking.megamarket.tech
   - experiments.apple.com
   - f.c2r.ts.cdn.office.net
@@ -24149,6 +24154,7 @@ payload:
   - fontfiles.googleapis.com
   - fonts.googleapis.com
   - fonts.gstatic.com
+  - fpinit.itunes.apple.com
   - fta.dell.com
   - ftaapj.dell.com
   - ftaemea.dell.com
@@ -24229,7 +24235,6 @@ payload:
   - incoming-telemetry.thunderbird.net
   - incoming.telemetry.mozilla.org
   - informer.yandex.ru
-  - ingest.apple-studies.com
   - init-kt.apple.com
   - init-p01md-lb.push-apple.com.akadns.net
   - init-p01md.apple.com

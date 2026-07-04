@@ -25,6 +25,7 @@ payload:
   - +.sbeacon.sina.com.cn
   - +.sdkclick.mobile.sina.cn
   - +.sg.weibo.com
+  - +.sina
   - +.sina.cn
   - +.sina.com
   - +.sina.com.cn
@@ -47,9 +48,11 @@ payload:
   - +.wbimg.cn
   - +.wbimg.com
   - +.wcdn.cn
+  - +.weibo
   - +.weibo.cn
   - +.weibo.com
   - +.weibo.com.cn
   - +.weibocdn.com
   - +.weibopay.com
   - +.xhaiwai.com
+  - +.xn--9krt00a
