@@ -2,6 +2,7 @@ payload:
   - +.aispeech.com
   - +.antafu.com
   - +.antaq.com
+  - +.aorizon.cn
   - +.api-building.fun
   - +.askdiandian.com
   - +.baichuan-ai.com
@@ -40,6 +41,8 @@ payload:
   - +.dumate.cn
   - +.faxingbao.com
   - +.hailuoai.com
+  - +.happyhorse.cn
+  - +.happyshrimp.cn
   - +.hi-butterfly.cn
   - +.hunyuan.tencent.com
   - +.instreet.com
@@ -81,6 +84,7 @@ payload:
   - +.rwkv.com
   - +.safeskill.cn
   - +.skillhub.cn
+  - +.sleeplesshorizon.cn
   - +.tapnow.top
   - +.tcwqqdy.guru
   - +.tiangong.cn

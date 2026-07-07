@@ -1,5 +1,7 @@
 payload:
   - +.100classicbooks.com
+  - +.17173.com
+  - +.17173cdn.com
   - +.17roco.com
   - +.2k.com
   - +.2kcoretech.online
@@ -524,6 +526,8 @@ payload:
   - +.nikke-jp.com
   - +.nikke-kr.com
   - +.nikke-sea.com
+  - +.nikkigames.cn
+  - +.nikkigames.com.cn
   - +.nintendo-europe-sales.com
   - +.nintendo-europe.com
   - +.nintendo.at
@@ -573,6 +577,8 @@ payload:
   - +.origin.tv
   - +.orithegame.com
   - +.pandanet-igs.com
+  - +.papegames.cn
+  - +.papegames.com
   - +.papermc.io
   - +.paragon.com
   - +.personaltrainermath.com
@@ -821,6 +827,7 @@ payload:
   - +.swtor.net
   - +.syxlgame.com
   - +.take2games.com
+  - +.tanwan.com
   - +.tapapks.com
   - +.tapimg.com
   - +.tapimg.net
@@ -857,6 +864,8 @@ payload:
   - +.tuer123.com
   - +.tuyoo.com
   - +.twinmotion.com
+  - +.twyx.cn
+  - +.twyxh.com
   - +.ubi.com
   - +.ubisoft.com
   - +.ubisoftconnect.com
@@ -964,6 +973,8 @@ payload:
   - +.xoyo.com
   - +.xoyocdn.com
   - +.ycgame.com
+  - +.yeyou.com
+  - +.yeyoucdn.com
   - +.yingxiong.com
   - +.yjwujian.cn
   - +.ylands.com
@@ -993,6 +1004,7 @@ payload:
   - +.zhuoyou.com
   - +.zhuoyuegame.com
   - +.zjshulong.com
+  - +.zx.com
   - +.zynga.com
   - +.zyngaplayersupport.com
   - +.zyngapoker.com

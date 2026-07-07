@@ -610,6 +610,8 @@ payload:
   - +.nextstudios.com
   - +.nextvid.net
   - +.nextworkshop.net
+  - +.nikkigames.cn
+  - +.nikkigames.com.cn
   - +.novelfm.com
   - +.novelfmpic.com
   - +.novelfmstatic.com
@@ -617,6 +619,8 @@ payload:
   - +.nzsiteres.com
   - +.open-douyin.com
   - +.p-log.ykimg.com
+  - +.papegames.cn
+  - +.papegames.com
   - +.passport-log.youku.com
   - +.pearvideo.com
   - +.phira.cn
@@ -713,6 +717,7 @@ payload:
   - +.tadu.com
   - +.taihe.com
   - +.taihemusic.cn
+  - +.tanwan.com
   - +.taomee.com
   - +.tapapks.com
   - +.tapimg.com
@@ -743,6 +748,8 @@ payload:
   - +.tudou.com
   - +.tuer123.com
   - +.tuyoo.com
+  - +.twyx.cn
+  - +.twyxh.com
   - +.u17.com
   - +.u17i.com
   - +.u17t.com
@@ -752,6 +759,7 @@ payload:
   - +.v6-adashx.ut.youku.com
   - +.vgtime.com
   - +.videoxiaoyouxi.com
+  - +.vistopia.com.cn
   - +.viviv.com
   - +.vrzwk.cn
   - +.vrzwk.com
@@ -809,6 +817,8 @@ payload:
   - +.yamibo.com
   - +.ycgame.com
   - +.yeshen.com
+  - +.yeyou.com
+  - +.yeyoucdn.com
   - +.yingxiong.com
   - +.yiyouliao.com
   - +.yjwujian.cn
@@ -847,6 +857,7 @@ payload:
   - +.zhuoyuegame.com
   - +.zjshulong.com
   - +.zongheng.com
+  - +.zx.com
   - ads3-normal-hl.zijieapi.com
   - ads3-normal.zijieapi.com
   - ads5-normal-hl.zijieapi.com
