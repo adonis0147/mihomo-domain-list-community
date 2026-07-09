@@ -851,6 +851,19 @@ payload:
   - +.autoimg.cn
   - +.autoimg.com.cn
   - +.autonavi.com
+  - +.aux-home.com
+  - +.auxauto.com.cn
+  - +.auxcss.com
+  - +.auxgroup.com
+  - +.auxshop.cn
+  - +.auxshop.com
+  - +.auxsmart.com.cn
+  - +.auxsol.com
+  - +.auxsolar.com.cn
+  - +.auxsolcloud.com
+  - +.auxtelecom.com
+  - +.auxwy.com
+  - +.auxyl.com
   - +.avermedia.cn
   - +.avicfund.cn
   - +.avicsec.com
@@ -877,6 +890,7 @@ payload:
   - +.babytreeimg.com
   - +.badjs.weixinbridge.com
   - +.badou.com
+  - +.baicaf.com
   - +.baichuan-ai.com
   - +.baichuan-sdk.alicdn.com
   - +.baicizhan.com
@@ -2178,6 +2192,7 @@ payload:
   - +.dcloudstc.net
   - +.dcloudvod.com
   - +.dcloudvod.net
+  - +.dcshfu.com
   - +.dd373.com
   - +.ddcorp.net
   - +.ddfresh.net
@@ -2926,6 +2941,7 @@ payload:
   - +.ghxi.com
   - +.ghzq.com.cn
   - +.gia.jd.com
+  - +.gifpay.com
   - +.gifshow.com
   - +.giftatdw.cn
   - +.giftatdw.com
@@ -3265,6 +3281,7 @@ payload:
   - +.houyuantuan.com
   - +.howbuy.com
   - +.hpplay.cn
+  - +.hprtupgrade.com
   - +.hq-tracking.qq.com
   - +.hqchip.com
   - +.hqdoc.com
@@ -3599,6 +3616,7 @@ payload:
   - +.inanguapi.cn
   - +.inanguapi.com
   - +.incopat.com
+  - +.indeedpower.com
   - +.indienova.com
   - +.inewsweek.cn
   - +.infineon.cn
@@ -3632,6 +3650,7 @@ payload:
   - +.ipchaxun.net
   - +.ipip.net
   - +.iplaysoft.com
+  - +.iposl.com
   - +.ipplus360.com
   - +.iprdp.net
   - +.iprintworks.cn
@@ -4384,6 +4403,7 @@ payload:
   - +.linuxidc.com
   - +.linyaps.org.cn
   - +.liqucn.com
+  - +.listenai.com
   - +.litessl.cn
   - +.litessl.com
   - +.liulanqi.net
@@ -4457,6 +4477,7 @@ payload:
   - +.lufaxcdn.com
   - +.lufunds.com
   - +.luhua.cn
+  - +.lulian.cn
   - +.lunwengo.net
   - +.luogu.com.cn
   - +.luojilab.com
@@ -4627,6 +4648,7 @@ payload:
   - +.miaoya.cn
   - +.miaoyanai.com
   - +.miaozhen.com
+  - +.micun.com
   - +.midasbuy.com
   - +.midea.cn
   - +.midea.com
@@ -4813,11 +4835,17 @@ payload:
   - +.mysqil.com
   - +.myssl-uri.com
   - +.myssl.com
+  - +.mystery0.vip
   - +.mysxl.cn
   - +.myypark.com
   - +.myyx618.com
   - +.myzaker.com
+  - +.mzgjbj.com
   - +.mzres.com
+  - +.mzyyfck.com
+  - +.mzyygb.com
+  - +.mzyygk.com
+  - +.mzyyzl.com
   - +.n.cn
   - +.n0q.cn
   - +.nadianshi.com
@@ -4832,8 +4860,11 @@ payload:
   - +.natfrp.com
   - +.nattest-china.com
   - +.nbd.com.cn
+  - +.nbmzyl.com
+  - +.nbmzyy.com
   - +.nbsdk-baichuan.alicdn.com
   - +.nbsdk-baichuan.taobao.com
+  - +.nbyzfeyy.com
   - +.ncss.cn
   - +.ncss.org.cn
   - +.ndcpp.com
@@ -5494,6 +5525,7 @@ payload:
   - +.sankuai.com
   - +.sanweihou.com
   - +.sanwen.net
+  - +.sanxing.com
   - +.sao.cn
   - +.saolife.com
   - +.saraba1st.com
@@ -5585,6 +5617,7 @@ payload:
   - +.shanhaitujian.com
   - +.shanshuihotel.com
   - +.shanxijianzhuzizhi.com
+  - +.share123.top
   - +.shareintelli.com
   - +.sharejs.com
   - +.sharesdk.cn
@@ -5648,6 +5681,7 @@ payload:
   - +.shuqistat.com
   - +.shutcm.com
   - +.shuxinyc.com
+  - +.shuyifuwu.com.cn
   - +.shyhhema.com
   - +.shyxhy.com
   - +.shzq.com
@@ -5736,6 +5770,7 @@ payload:
   - +.sojson.com
   - +.sojump.com
   - +.soku.com
+  - +.solarcloud.top
   - +.solidot.org
   - +.somode.com
   - +.sootoo.com
@@ -6087,6 +6122,7 @@ payload:
   - +.tfogc.com
   - +.tfzq.com
   - +.tgbus.com
+  - +.tggfl.com
   - +.tgovcloud.com
   - +.tgpro.top
   - +.tgprocs.net
@@ -6108,6 +6144,7 @@ payload:
   - +.thinkprinter.cn
   - +.thinkprinter.com.cn
   - +.thinkprinter.net
+  - +.thispx.com
   - +.thmnet.com
   - +.threatbook.cn
   - +.threatbook.com
@@ -6183,6 +6220,7 @@ payload:
   - +.tmtpost.com
   - +.tmtsmartlife.com
   - +.tmtsmartrun.com
+  - +.tmwanba.com
   - +.tnettms.com
   - +.tns.simba.taobao.com
   - +.to8to.com
@@ -6374,6 +6412,8 @@ payload:
   - +.ufileos.com
   - +.ugdtimg.com
   - +.uggame.com
+  - +.ugnas.cloud
+  - +.ugnas.com
   - +.ugshare-img.com
   - +.ugslb.cn
   - +.ugslb.com

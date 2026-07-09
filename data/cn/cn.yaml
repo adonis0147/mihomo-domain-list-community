@@ -721,6 +721,15 @@ payload:
   - +.autohome.com
   - +.autohome.tel
   - +.autonavi.com
+  - +.aux-home.com
+  - +.auxcss.com
+  - +.auxgroup.com
+  - +.auxshop.com
+  - +.auxsol.com
+  - +.auxsolcloud.com
+  - +.auxtelecom.com
+  - +.auxwy.com
+  - +.auxyl.com
   - +.avicsec.com
   - +.avlyun.com
   - +.awemeughun.com
@@ -744,6 +753,7 @@ payload:
   - +.babytreeimg.com
   - +.badjs.weixinbridge.com
   - +.badou.com
+  - +.baicaf.com
   - +.baichuan-ai.com
   - +.baichuan-sdk.alicdn.com
   - +.baicizhan.com
@@ -1720,6 +1730,7 @@ payload:
   - +.dcloudstc.net
   - +.dcloudvod.com
   - +.dcloudvod.net
+  - +.dcshfu.com
   - +.dd373.com
   - +.ddcorp.net
   - +.ddfresh.net
@@ -2332,6 +2343,7 @@ payload:
   - +.ggowan.com
   - +.ghxi.com
   - +.gia.jd.com
+  - +.gifpay.com
   - +.gifshow.com
   - +.giftatdw.com
   - +.giftattoday.com
@@ -2589,6 +2601,7 @@ payload:
   - +.houyicaiji.com
   - +.houyuantuan.com
   - +.howbuy.com
+  - +.hprtupgrade.com
   - +.hq-tracking.qq.com
   - +.hqchip.com
   - +.hqdoc.com
@@ -2850,6 +2863,7 @@ payload:
   - +.in.th
   - +.inanguapi.com
   - +.incopat.com
+  - +.indeedpower.com
   - +.indienova.com
   - +.infini-fantasy.com
   - +.infinitynewtab.com
@@ -2874,6 +2888,7 @@ payload:
   - +.ipchaxun.net
   - +.ipip.net
   - +.iplaysoft.com
+  - +.iposl.com
   - +.ipplus360.com
   - +.iprdp.net
   - +.ipshu.com
@@ -3507,6 +3522,7 @@ payload:
   - +.linsn.com
   - +.linuxidc.com
   - +.liqucn.com
+  - +.listenai.com
   - +.litessl.com
   - +.liulanqi.net
   - +.liulishuo.com
@@ -3708,6 +3724,7 @@ payload:
   - +.miaowu.baidu.com
   - +.miaoyanai.com
   - +.miaozhen.com
+  - +.micun.com
   - +.midasbuy.com
   - +.midea.com
   - +.mideaepayuat.com
@@ -3858,10 +3875,16 @@ payload:
   - +.mysqil.com
   - +.myssl-uri.com
   - +.myssl.com
+  - +.mystery0.vip
   - +.myypark.com
   - +.myyx618.com
   - +.myzaker.com
+  - +.mzgjbj.com
   - +.mzres.com
+  - +.mzyyfck.com
+  - +.mzyygb.com
+  - +.mzyygk.com
+  - +.mzyyzl.com
   - +.nadianshi.com
   - +.nagcloudcs.com
   - +.naixuecha.com
@@ -3872,8 +3895,11 @@ payload:
   - +.narwaltech.com
   - +.natfrp.com
   - +.nattest-china.com
+  - +.nbmzyl.com
+  - +.nbmzyy.com
   - +.nbsdk-baichuan.alicdn.com
   - +.nbsdk-baichuan.taobao.com
+  - +.nbyzfeyy.com
   - +.ndcpp.com
   - +.nease.net
   - +.neihancommunity.com
@@ -4393,6 +4419,7 @@ payload:
   - +.sankuai.com
   - +.sanweihou.com
   - +.sanwen.net
+  - +.sanxing.com
   - +.saolife.com
   - +.saraba1st.com
   - +.sast.fun
@@ -4461,6 +4488,7 @@ payload:
   - +.shanhaitujian.com
   - +.shanshuihotel.com
   - +.shanxijianzhuzizhi.com
+  - +.share123.top
   - +.shareintelli.com
   - +.sharejs.com
   - +.shebiaotm.com
@@ -4585,6 +4613,7 @@ payload:
   - +.sojson.com
   - +.sojump.com
   - +.soku.com
+  - +.solarcloud.top
   - +.solidot.org
   - +.somode.com
   - +.sootoo.com
@@ -4862,6 +4891,7 @@ payload:
   - +.tfogc.com
   - +.tfzq.com
   - +.tgbus.com
+  - +.tggfl.com
   - +.tgovcloud.com
   - +.tgpro.top
   - +.tgprocs.net
@@ -4875,6 +4905,7 @@ payload:
   - +.thinkcloudlab.com
   - +.thinkpad.com
   - +.thinkprinter.net
+  - +.thispx.com
   - +.thmnet.com
   - +.threatbook.com
   - +.ths123.com
@@ -4936,6 +4967,7 @@ payload:
   - +.tmtpost.com
   - +.tmtsmartlife.com
   - +.tmtsmartrun.com
+  - +.tmwanba.com
   - +.tnettms.com
   - +.tns.simba.taobao.com
   - +.to8to.com
@@ -5088,6 +5120,8 @@ payload:
   - +.ufileos.com
   - +.ugdtimg.com
   - +.uggame.com
+  - +.ugnas.cloud
+  - +.ugnas.com
   - +.ugshare-img.com
   - +.ugslb.com
   - +.ugslb.info

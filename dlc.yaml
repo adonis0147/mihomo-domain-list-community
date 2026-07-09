@@ -4452,6 +4452,7 @@ payload:
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,amp-api.media.apple.com
   - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,aod-ssl.itunes.apple.com
   - DOMAIN,aod.itunes.apple.com
   - DOMAIN,api-edge.apps.apple.com
@@ -4464,7 +4465,6 @@ payload:
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN,apps.mzstatic.com
   - DOMAIN,apptrailers.itunes.apple.com
-  - DOMAIN,auth.music.apple.com
   - DOMAIN,bag-cdn.itunes-apple.com.akadns.net
   - DOMAIN,bag.itunes.apple.com
   - DOMAIN,beatselectronicsllc.tt.omtrdc.net
@@ -4607,8 +4607,11 @@ payload:
   - DOMAIN,pba0.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.itunes.apple.com
   - DOMAIN,play.music.apple.com
+  - DOMAIN,podcasts.apple.com
+  - DOMAIN,podcasts.itunes.apple.com
   - DOMAIN,probe.siri.apple.com
   - DOMAIN,prod-support.apple-support.akadns.net
   - DOMAIN,publicassets.cdn-apple.com
@@ -4717,6 +4720,24 @@ payload:
   - DOMAIN,apple-relay.fastly-edge.com
   - DOMAIN,apple-relay.mask.apple-dns.net
   - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,applemusic.berlin
+  - DOMAIN-SUFFIX,applemusic.co
+  - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,applemusic.com.au
+  - DOMAIN-SUFFIX,applemusic.hamburg
+  - DOMAIN-SUFFIX,applemusic.wang
+  - DOMAIN-SUFFIX,applemusicconnect.com
+  - DOMAIN-SUFFIX,applemusicfestival.com
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN-SUFFIX,musickit.net
+  - DOMAIN-SUFFIX,wwwapplemusic.com
+  - DOMAIN,amp-api-edge.music.apple.com
+  - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,js-cdn.music.apple.com
+  - DOMAIN,music.apple.com
+  - DOMAIN,musicstatus.music.apple.com
+  - DOMAIN,play.music.apple.com
+  - DOMAIN,speedysub.music.apple.com
   - DOMAIN,certs-lb.apple.com.akadns.net
   - DOMAIN,certs.apple.com
   - DOMAIN,crl-lb.apple.com.akadns.net
@@ -4725,6 +4746,10 @@ payload:
   - DOMAIN,ocsp2.apple.com
   - DOMAIN,valid.apple.com
   - DOMAIN,valid.origin-apple.com.akadns.net
+  - DOMAIN-SUFFIX,applepodcasts.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
+  - DOMAIN,podcasts.apple.com
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN,apple-tv-plus-press.apple.com
   - DOMAIN,hls-amt.itunes.apple.com
@@ -5556,6 +5581,37 @@ payload:
   - DOMAIN-SUFFIX,vrnastran.com
   - DOMAIN-SUFFIX,xn--74q434dwff.com
   - DOMAIN-SUFFIX,xn--74q434dwff.net
+  - DOMAIN-SUFFIX,aufit-air.com
+  - DOMAIN-SUFFIX,aux-global.com
+  - DOMAIN-SUFFIX,aux-home.com
+  - DOMAIN-SUFFIX,auxair.com
+  - DOMAIN-SUFFIX,auxauto.com.cn
+  - DOMAIN-SUFFIX,auxcac.cn
+  - DOMAIN-SUFFIX,auxcss.com
+  - DOMAIN-SUFFIX,auxgroup.com
+  - DOMAIN-SUFFIX,auxshop.cn
+  - DOMAIN-SUFFIX,auxshop.com
+  - DOMAIN-SUFFIX,auxsmart.com.cn
+  - DOMAIN-SUFFIX,auxsmart.com
+  - DOMAIN-SUFFIX,auxsol.com
+  - DOMAIN-SUFFIX,auxsolar.com.cn
+  - DOMAIN-SUFFIX,auxsolcloud.com
+  - DOMAIN-SUFFIX,auxtelecom.com
+  - DOMAIN-SUFFIX,auxwy.com
+  - DOMAIN-SUFFIX,auxyl.com
+  - DOMAIN-SUFFIX,mzgjbj.com
+  - DOMAIN-SUFFIX,mzyyfck.com
+  - DOMAIN-SUFFIX,mzyygb.com
+  - DOMAIN-SUFFIX,mzyygk.com
+  - DOMAIN-SUFFIX,mzyyzl.com
+  - DOMAIN-SUFFIX,nbmzyl.com
+  - DOMAIN-SUFFIX,nbmzyy.com
+  - DOMAIN-SUFFIX,nbyzfeyy.com
+  - DOMAIN-SUFFIX,sanxing.com
+  - DOMAIN-SUFFIX,sanxingelectric.com
+  - DOMAIN-SUFFIX,shinflow.com
+  - DOMAIN-SUFFIX,shuyifuwu.com.cn
+  - DOMAIN-SUFFIX,solarcloud.top
   - DOMAIN-SUFFIX,avh.world
   - DOMAIN-SUFFIX,avxde.org
   - DOMAIN-SUFFIX,avxhm.is
@@ -12520,6 +12576,7 @@ payload:
   - DOMAIN-SUFFIX,mryys.cn
   - DOMAIN-SUFFIX,mryys.com
   - DOMAIN-SUFFIX,mysqil.com
+  - DOMAIN-SUFFIX,mystery0.vip
   - DOMAIN-SUFFIX,pljzy.top
   - DOMAIN-SUFFIX,runningcheese.com
   - DOMAIN-SUFFIX,skywt.cn
@@ -21005,6 +21062,7 @@ payload:
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,amp-api.media.apple.com
   - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,an.mail.ru
   - DOMAIN,analytics.google.com
   - DOMAIN,analytics.mobile.yandex.net
@@ -21040,7 +21098,6 @@ payload:
   - DOMAIN,apps.mzstatic.com
   - DOMAIN,apps5.oingo.com
   - DOMAIN,apptrailers.itunes.apple.com
-  - DOMAIN,auth.music.apple.com
   - DOMAIN,avail.googleflights.net
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
@@ -21412,8 +21469,11 @@ payload:
   - DOMAIN,pixel.rustore.ru
   - DOMAIN,pixel.yandex.com
   - DOMAIN,pki-goog.l.google.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.itunes.apple.com
   - DOMAIN,play.music.apple.com
+  - DOMAIN,podcasts.apple.com
+  - DOMAIN,podcasts.itunes.apple.com
   - DOMAIN,practivate.adobe
   - DOMAIN,practivate.adobe.ipp
   - DOMAIN,practivate.adobe.newoa
@@ -24401,6 +24461,7 @@ payload:
   - DOMAIN-SUFFIX,chsi.com.cn
   - DOMAIN-SUFFIX,cnmooc.org
   - DOMAIN-SUFFIX,cugbonline.cn
+  - DOMAIN-SUFFIX,dcshfu.com
   - DOMAIN-SUFFIX,dearedu.com
   - DOMAIN-SUFFIX,dgjy.net
   - DOMAIN-SUFFIX,dict.cn
@@ -24591,6 +24652,7 @@ payload:
   - DOMAIN-SUFFIX,jlcsmt.com
   - DOMAIN-SUFFIX,lceda.cn
   - DOMAIN-SUFFIX,lckfb.com
+  - DOMAIN-SUFFIX,listenai.com
   - DOMAIN-SUFFIX,maixhub.com
   - DOMAIN-SUFFIX,oshwhub.com
   - DOMAIN-SUFFIX,quecmall.cn
@@ -24814,6 +24876,15 @@ payload:
   - DOMAIN-SUFFIX,apexlegends.com
   - DOMAIN-SUFFIX,appget.com
   - DOMAIN-SUFFIX,apple-itunes.cn
+  - DOMAIN-SUFFIX,applemusic.berlin
+  - DOMAIN-SUFFIX,applemusic.co
+  - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,applemusic.com.au
+  - DOMAIN-SUFFIX,applemusic.hamburg
+  - DOMAIN-SUFFIX,applemusic.wang
+  - DOMAIN-SUFFIX,applemusicconnect.com
+  - DOMAIN-SUFFIX,applemusicfestival.com
+  - DOMAIN-SUFFIX,applepodcasts.com
   - DOMAIN-SUFFIX,appmedia.jp
   - DOMAIN-SUFFIX,archiveofourown.com
   - DOMAIN-SUFFIX,archiveofourown.net
@@ -25600,7 +25671,9 @@ payload:
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,mushymush.tv
+  - DOMAIN-SUFFIX,music.apple.com
   - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,muvluv-girls-garden.com
   - DOMAIN-SUFFIX,myhulu.com
   - DOMAIN-SUFFIX,mynavi.jp
@@ -25805,6 +25878,7 @@ payload:
   - DOMAIN-SUFFIX,plutotv.net
   - DOMAIN-SUFFIX,pocketcasts.com
   - DOMAIN-SUFFIX,podcast.apple.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
   - DOMAIN-SUFFIX,pogo.com
   - DOMAIN-SUFFIX,pogobeta.com
   - DOMAIN-SUFFIX,pokedex3d.com
@@ -26254,6 +26328,7 @@ payload:
   - DOMAIN-SUFFIX,wwe9.com
   - DOMAIN-SUFFIX,wwr-stardom.com
   - DOMAIN-SUFFIX,wwtbam.com
+  - DOMAIN-SUFFIX,wwwapplemusic.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
   - DOMAIN-SUFFIX,wwwitunes.com
   - DOMAIN-SUFFIX,xbox
@@ -26488,6 +26563,9 @@ payload:
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
   - DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
+  - DOMAIN,amp-api-edge.music.apple.com
+  - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,aod-ssl.itunes.apple.com
   - DOMAIN,aod.itunes.apple.com
   - DOMAIN,apl-hamivideo.cdn.hinet.net
@@ -26595,6 +26673,7 @@ payload:
   - DOMAIN,itunes-apple.com.akadns.net
   - DOMAIN,itunes.apple.com
   - DOMAIN,itunesconnect.apple.com
+  - DOMAIN,js-cdn.music.apple.com
   - DOMAIN,lastfm.freetls.fastly.net
   - DOMAIN,lazer.ppy.sh
   - DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
@@ -26606,6 +26685,8 @@ payload:
   - DOMAIN,misc-assets.itunes.apple.com
   - DOMAIN,mobilelive-hamivideo.cdn.hinet.net
   - DOMAIN,msh.amazon.co.uk
+  - DOMAIN,music.apple.com
+  - DOMAIN,musicstatus.music.apple.com
   - DOMAIN,mvod.itunes.apple.com
   - DOMAIN,myapp.itunes.apple.com
   - DOMAIN,netflix.com.edgesuite.net
@@ -26627,7 +26708,11 @@ payload:
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.itunes.apple.com
+  - DOMAIN,play.music.apple.com
+  - DOMAIN,podcasts.apple.com
+  - DOMAIN,podcasts.itunes.apple.com
   - DOMAIN,prd-priconne-redive.akamaized.net
   - DOMAIN,prodforza.blob.core.windows.net
   - DOMAIN,pubg1.battleye.com
@@ -26648,6 +26733,7 @@ payload:
   - DOMAIN,sf-api-token-service.itunes.apple.com
   - DOMAIN,sp.itunes.apple.com
   - DOMAIN,spectator.ppy.sh
+  - DOMAIN,speedysub.music.apple.com
   - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,spotify.map.fastlylb.net
@@ -26678,7 +26764,6 @@ payload:
   - DOMAIN,tlmr-hamivideo2.cdn.hinet.net
   - DOMAIN,tmdb-image-prod.b-cdn.net
   - DOMAIN,tmdb-web-image-prod.b-cdn.net
-  - DOMAIN,tv.applemusic.com
   - DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
   - DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
   - DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
@@ -28285,6 +28370,7 @@ payload:
   - DOMAIN-SUFFIX,meican.com
   - DOMAIN-SUFFIX,meicanstatic.com
   - DOMAIN-SUFFIX,mengniu.com.cn
+  - DOMAIN-SUFFIX,micun.com
   - DOMAIN-SUFFIX,mxbc.com
   - DOMAIN-SUFFIX,mxbc.net
   - DOMAIN-SUFFIX,nongfuspring.com
@@ -34325,6 +34411,7 @@ payload:
   - DOMAIN-SUFFIX,pan.baidu.com
   - DOMAIN-SUFFIX,pan.quark.cn
   - DOMAIN-SUFFIX,pan.xunlei.com
+  - DOMAIN-SUFFIX,share123.top
   - DOMAIN-SUFFIX,sq.cc
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,wenshushu.cn
@@ -46689,6 +46776,15 @@ payload:
   - DOMAIN-SUFFIX,autohome.com
   - DOMAIN-SUFFIX,autohome.tel
   - DOMAIN-SUFFIX,autonavi.com
+  - DOMAIN-SUFFIX,aux-home.com
+  - DOMAIN-SUFFIX,auxcss.com
+  - DOMAIN-SUFFIX,auxgroup.com
+  - DOMAIN-SUFFIX,auxshop.com
+  - DOMAIN-SUFFIX,auxsol.com
+  - DOMAIN-SUFFIX,auxsolcloud.com
+  - DOMAIN-SUFFIX,auxtelecom.com
+  - DOMAIN-SUFFIX,auxwy.com
+  - DOMAIN-SUFFIX,auxyl.com
   - DOMAIN-SUFFIX,avicsec.com
   - DOMAIN-SUFFIX,avlyun.com
   - DOMAIN-SUFFIX,awemeughun.com
@@ -46712,6 +46808,7 @@ payload:
   - DOMAIN-SUFFIX,babytreeimg.com
   - DOMAIN-SUFFIX,badjs.weixinbridge.com
   - DOMAIN-SUFFIX,badou.com
+  - DOMAIN-SUFFIX,baicaf.com
   - DOMAIN-SUFFIX,baichuan-ai.com
   - DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
   - DOMAIN-SUFFIX,baicizhan.com
@@ -47688,6 +47785,7 @@ payload:
   - DOMAIN-SUFFIX,dcloudstc.net
   - DOMAIN-SUFFIX,dcloudvod.com
   - DOMAIN-SUFFIX,dcloudvod.net
+  - DOMAIN-SUFFIX,dcshfu.com
   - DOMAIN-SUFFIX,dd373.com
   - DOMAIN-SUFFIX,ddcorp.net
   - DOMAIN-SUFFIX,ddfresh.net
@@ -48300,6 +48398,7 @@ payload:
   - DOMAIN-SUFFIX,ggowan.com
   - DOMAIN-SUFFIX,ghxi.com
   - DOMAIN-SUFFIX,gia.jd.com
+  - DOMAIN-SUFFIX,gifpay.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,giftatdw.com
   - DOMAIN-SUFFIX,giftattoday.com
@@ -48557,6 +48656,7 @@ payload:
   - DOMAIN-SUFFIX,houyicaiji.com
   - DOMAIN-SUFFIX,houyuantuan.com
   - DOMAIN-SUFFIX,howbuy.com
+  - DOMAIN-SUFFIX,hprtupgrade.com
   - DOMAIN-SUFFIX,hq-tracking.qq.com
   - DOMAIN-SUFFIX,hqchip.com
   - DOMAIN-SUFFIX,hqdoc.com
@@ -48818,6 +48918,7 @@ payload:
   - DOMAIN-SUFFIX,in.th
   - DOMAIN-SUFFIX,inanguapi.com
   - DOMAIN-SUFFIX,incopat.com
+  - DOMAIN-SUFFIX,indeedpower.com
   - DOMAIN-SUFFIX,indienova.com
   - DOMAIN-SUFFIX,infini-fantasy.com
   - DOMAIN-SUFFIX,infinitynewtab.com
@@ -48842,6 +48943,7 @@ payload:
   - DOMAIN-SUFFIX,ipchaxun.net
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,iplaysoft.com
+  - DOMAIN-SUFFIX,iposl.com
   - DOMAIN-SUFFIX,ipplus360.com
   - DOMAIN-SUFFIX,iprdp.net
   - DOMAIN-SUFFIX,ipshu.com
@@ -49475,6 +49577,7 @@ payload:
   - DOMAIN-SUFFIX,linsn.com
   - DOMAIN-SUFFIX,linuxidc.com
   - DOMAIN-SUFFIX,liqucn.com
+  - DOMAIN-SUFFIX,listenai.com
   - DOMAIN-SUFFIX,litessl.com
   - DOMAIN-SUFFIX,liulanqi.net
   - DOMAIN-SUFFIX,liulishuo.com
@@ -49676,6 +49779,7 @@ payload:
   - DOMAIN-SUFFIX,miaowu.baidu.com
   - DOMAIN-SUFFIX,miaoyanai.com
   - DOMAIN-SUFFIX,miaozhen.com
+  - DOMAIN-SUFFIX,micun.com
   - DOMAIN-SUFFIX,midasbuy.com
   - DOMAIN-SUFFIX,midea.com
   - DOMAIN-SUFFIX,mideaepayuat.com
@@ -49826,10 +49930,16 @@ payload:
   - DOMAIN-SUFFIX,mysqil.com
   - DOMAIN-SUFFIX,myssl-uri.com
   - DOMAIN-SUFFIX,myssl.com
+  - DOMAIN-SUFFIX,mystery0.vip
   - DOMAIN-SUFFIX,myypark.com
   - DOMAIN-SUFFIX,myyx618.com
   - DOMAIN-SUFFIX,myzaker.com
+  - DOMAIN-SUFFIX,mzgjbj.com
   - DOMAIN-SUFFIX,mzres.com
+  - DOMAIN-SUFFIX,mzyyfck.com
+  - DOMAIN-SUFFIX,mzyygb.com
+  - DOMAIN-SUFFIX,mzyygk.com
+  - DOMAIN-SUFFIX,mzyyzl.com
   - DOMAIN-SUFFIX,nadianshi.com
   - DOMAIN-SUFFIX,nagcloudcs.com
   - DOMAIN-SUFFIX,naixuecha.com
@@ -49840,8 +49950,11 @@ payload:
   - DOMAIN-SUFFIX,narwaltech.com
   - DOMAIN-SUFFIX,natfrp.com
   - DOMAIN-SUFFIX,nattest-china.com
+  - DOMAIN-SUFFIX,nbmzyl.com
+  - DOMAIN-SUFFIX,nbmzyy.com
   - DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
   - DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
+  - DOMAIN-SUFFIX,nbyzfeyy.com
   - DOMAIN-SUFFIX,ndcpp.com
   - DOMAIN-SUFFIX,nease.net
   - DOMAIN-SUFFIX,neihancommunity.com
@@ -50361,6 +50474,7 @@ payload:
   - DOMAIN-SUFFIX,sankuai.com
   - DOMAIN-SUFFIX,sanweihou.com
   - DOMAIN-SUFFIX,sanwen.net
+  - DOMAIN-SUFFIX,sanxing.com
   - DOMAIN-SUFFIX,saolife.com
   - DOMAIN-SUFFIX,saraba1st.com
   - DOMAIN-SUFFIX,sast.fun
@@ -50429,6 +50543,7 @@ payload:
   - DOMAIN-SUFFIX,shanhaitujian.com
   - DOMAIN-SUFFIX,shanshuihotel.com
   - DOMAIN-SUFFIX,shanxijianzhuzizhi.com
+  - DOMAIN-SUFFIX,share123.top
   - DOMAIN-SUFFIX,shareintelli.com
   - DOMAIN-SUFFIX,sharejs.com
   - DOMAIN-SUFFIX,shebiaotm.com
@@ -50553,6 +50668,7 @@ payload:
   - DOMAIN-SUFFIX,sojson.com
   - DOMAIN-SUFFIX,sojump.com
   - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,solarcloud.top
   - DOMAIN-SUFFIX,solidot.org
   - DOMAIN-SUFFIX,somode.com
   - DOMAIN-SUFFIX,sootoo.com
@@ -50830,6 +50946,7 @@ payload:
   - DOMAIN-SUFFIX,tfogc.com
   - DOMAIN-SUFFIX,tfzq.com
   - DOMAIN-SUFFIX,tgbus.com
+  - DOMAIN-SUFFIX,tggfl.com
   - DOMAIN-SUFFIX,tgovcloud.com
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
@@ -50843,6 +50960,7 @@ payload:
   - DOMAIN-SUFFIX,thinkcloudlab.com
   - DOMAIN-SUFFIX,thinkpad.com
   - DOMAIN-SUFFIX,thinkprinter.net
+  - DOMAIN-SUFFIX,thispx.com
   - DOMAIN-SUFFIX,thmnet.com
   - DOMAIN-SUFFIX,threatbook.com
   - DOMAIN-SUFFIX,ths123.com
@@ -50904,6 +51022,7 @@ payload:
   - DOMAIN-SUFFIX,tmtpost.com
   - DOMAIN-SUFFIX,tmtsmartlife.com
   - DOMAIN-SUFFIX,tmtsmartrun.com
+  - DOMAIN-SUFFIX,tmwanba.com
   - DOMAIN-SUFFIX,tnettms.com
   - DOMAIN-SUFFIX,tns.simba.taobao.com
   - DOMAIN-SUFFIX,to8to.com
@@ -51056,6 +51175,8 @@ payload:
   - DOMAIN-SUFFIX,ufileos.com
   - DOMAIN-SUFFIX,ugdtimg.com
   - DOMAIN-SUFFIX,uggame.com
+  - DOMAIN-SUFFIX,ugnas.cloud
+  - DOMAIN-SUFFIX,ugnas.com
   - DOMAIN-SUFFIX,ugshare-img.com
   - DOMAIN-SUFFIX,ugslb.com
   - DOMAIN-SUFFIX,ugslb.info
@@ -79517,6 +79638,7 @@ payload:
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,amp-api.media.apple.com
   - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,an.mail.ru
   - DOMAIN,analytics-adv.ozon.ru
   - DOMAIN,analytics-stage.wildberries.ru
@@ -79556,7 +79678,6 @@ payload:
   - DOMAIN,apps.mzstatic.com
   - DOMAIN,apps5.oingo.com
   - DOMAIN,apptrailers.itunes.apple.com
-  - DOMAIN,auth.music.apple.com
   - DOMAIN,avail.googleflights.net
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
@@ -79992,8 +80113,11 @@ payload:
   - DOMAIN,pixel.rustore.ru
   - DOMAIN,pixel.yandex.com
   - DOMAIN,pki-goog.l.google.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.itunes.apple.com
   - DOMAIN,play.music.apple.com
+  - DOMAIN,podcasts.apple.com
+  - DOMAIN,podcasts.itunes.apple.com
   - DOMAIN,practivate.adobe
   - DOMAIN,practivate.adobe.ipp
   - DOMAIN,practivate.adobe.newoa
@@ -81248,6 +81372,19 @@ payload:
   - DOMAIN-SUFFIX,autoimg.cn
   - DOMAIN-SUFFIX,autoimg.com.cn
   - DOMAIN-SUFFIX,autonavi.com
+  - DOMAIN-SUFFIX,aux-home.com
+  - DOMAIN-SUFFIX,auxauto.com.cn
+  - DOMAIN-SUFFIX,auxcss.com
+  - DOMAIN-SUFFIX,auxgroup.com
+  - DOMAIN-SUFFIX,auxshop.cn
+  - DOMAIN-SUFFIX,auxshop.com
+  - DOMAIN-SUFFIX,auxsmart.com.cn
+  - DOMAIN-SUFFIX,auxsol.com
+  - DOMAIN-SUFFIX,auxsolar.com.cn
+  - DOMAIN-SUFFIX,auxsolcloud.com
+  - DOMAIN-SUFFIX,auxtelecom.com
+  - DOMAIN-SUFFIX,auxwy.com
+  - DOMAIN-SUFFIX,auxyl.com
   - DOMAIN-SUFFIX,avermedia.cn
   - DOMAIN-SUFFIX,avicfund.cn
   - DOMAIN-SUFFIX,avicsec.com
@@ -81274,6 +81411,7 @@ payload:
   - DOMAIN-SUFFIX,babytreeimg.com
   - DOMAIN-SUFFIX,badjs.weixinbridge.com
   - DOMAIN-SUFFIX,badou.com
+  - DOMAIN-SUFFIX,baicaf.com
   - DOMAIN-SUFFIX,baichuan-ai.com
   - DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
   - DOMAIN-SUFFIX,baicizhan.com
@@ -82575,6 +82713,7 @@ payload:
   - DOMAIN-SUFFIX,dcloudstc.net
   - DOMAIN-SUFFIX,dcloudvod.com
   - DOMAIN-SUFFIX,dcloudvod.net
+  - DOMAIN-SUFFIX,dcshfu.com
   - DOMAIN-SUFFIX,dd373.com
   - DOMAIN-SUFFIX,ddcorp.net
   - DOMAIN-SUFFIX,ddfresh.net
@@ -83323,6 +83462,7 @@ payload:
   - DOMAIN-SUFFIX,ghxi.com
   - DOMAIN-SUFFIX,ghzq.com.cn
   - DOMAIN-SUFFIX,gia.jd.com
+  - DOMAIN-SUFFIX,gifpay.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,giftatdw.cn
   - DOMAIN-SUFFIX,giftatdw.com
@@ -83662,6 +83802,7 @@ payload:
   - DOMAIN-SUFFIX,houyuantuan.com
   - DOMAIN-SUFFIX,howbuy.com
   - DOMAIN-SUFFIX,hpplay.cn
+  - DOMAIN-SUFFIX,hprtupgrade.com
   - DOMAIN-SUFFIX,hq-tracking.qq.com
   - DOMAIN-SUFFIX,hqchip.com
   - DOMAIN-SUFFIX,hqdoc.com
@@ -83996,6 +84137,7 @@ payload:
   - DOMAIN-SUFFIX,inanguapi.cn
   - DOMAIN-SUFFIX,inanguapi.com
   - DOMAIN-SUFFIX,incopat.com
+  - DOMAIN-SUFFIX,indeedpower.com
   - DOMAIN-SUFFIX,indienova.com
   - DOMAIN-SUFFIX,inewsweek.cn
   - DOMAIN-SUFFIX,infineon.cn
@@ -84029,6 +84171,7 @@ payload:
   - DOMAIN-SUFFIX,ipchaxun.net
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,iplaysoft.com
+  - DOMAIN-SUFFIX,iposl.com
   - DOMAIN-SUFFIX,ipplus360.com
   - DOMAIN-SUFFIX,iprdp.net
   - DOMAIN-SUFFIX,iprintworks.cn
@@ -84781,6 +84924,7 @@ payload:
   - DOMAIN-SUFFIX,linuxidc.com
   - DOMAIN-SUFFIX,linyaps.org.cn
   - DOMAIN-SUFFIX,liqucn.com
+  - DOMAIN-SUFFIX,listenai.com
   - DOMAIN-SUFFIX,litessl.cn
   - DOMAIN-SUFFIX,litessl.com
   - DOMAIN-SUFFIX,liulanqi.net
@@ -84854,6 +84998,7 @@ payload:
   - DOMAIN-SUFFIX,lufaxcdn.com
   - DOMAIN-SUFFIX,lufunds.com
   - DOMAIN-SUFFIX,luhua.cn
+  - DOMAIN-SUFFIX,lulian.cn
   - DOMAIN-SUFFIX,lunwengo.net
   - DOMAIN-SUFFIX,luogu.com.cn
   - DOMAIN-SUFFIX,luojilab.com
@@ -85024,6 +85169,7 @@ payload:
   - DOMAIN-SUFFIX,miaoya.cn
   - DOMAIN-SUFFIX,miaoyanai.com
   - DOMAIN-SUFFIX,miaozhen.com
+  - DOMAIN-SUFFIX,micun.com
   - DOMAIN-SUFFIX,midasbuy.com
   - DOMAIN-SUFFIX,midea.cn
   - DOMAIN-SUFFIX,midea.com
@@ -85210,11 +85356,17 @@ payload:
   - DOMAIN-SUFFIX,mysqil.com
   - DOMAIN-SUFFIX,myssl-uri.com
   - DOMAIN-SUFFIX,myssl.com
+  - DOMAIN-SUFFIX,mystery0.vip
   - DOMAIN-SUFFIX,mysxl.cn
   - DOMAIN-SUFFIX,myypark.com
   - DOMAIN-SUFFIX,myyx618.com
   - DOMAIN-SUFFIX,myzaker.com
+  - DOMAIN-SUFFIX,mzgjbj.com
   - DOMAIN-SUFFIX,mzres.com
+  - DOMAIN-SUFFIX,mzyyfck.com
+  - DOMAIN-SUFFIX,mzyygb.com
+  - DOMAIN-SUFFIX,mzyygk.com
+  - DOMAIN-SUFFIX,mzyyzl.com
   - DOMAIN-SUFFIX,n.cn
   - DOMAIN-SUFFIX,n0q.cn
   - DOMAIN-SUFFIX,nadianshi.com
@@ -85229,8 +85381,11 @@ payload:
   - DOMAIN-SUFFIX,natfrp.com
   - DOMAIN-SUFFIX,nattest-china.com
   - DOMAIN-SUFFIX,nbd.com.cn
+  - DOMAIN-SUFFIX,nbmzyl.com
+  - DOMAIN-SUFFIX,nbmzyy.com
   - DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
   - DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
+  - DOMAIN-SUFFIX,nbyzfeyy.com
   - DOMAIN-SUFFIX,ncss.cn
   - DOMAIN-SUFFIX,ncss.org.cn
   - DOMAIN-SUFFIX,ndcpp.com
@@ -85891,6 +86046,7 @@ payload:
   - DOMAIN-SUFFIX,sankuai.com
   - DOMAIN-SUFFIX,sanweihou.com
   - DOMAIN-SUFFIX,sanwen.net
+  - DOMAIN-SUFFIX,sanxing.com
   - DOMAIN-SUFFIX,sao.cn
   - DOMAIN-SUFFIX,saolife.com
   - DOMAIN-SUFFIX,saraba1st.com
@@ -85982,6 +86138,7 @@ payload:
   - DOMAIN-SUFFIX,shanhaitujian.com
   - DOMAIN-SUFFIX,shanshuihotel.com
   - DOMAIN-SUFFIX,shanxijianzhuzizhi.com
+  - DOMAIN-SUFFIX,share123.top
   - DOMAIN-SUFFIX,shareintelli.com
   - DOMAIN-SUFFIX,sharejs.com
   - DOMAIN-SUFFIX,sharesdk.cn
@@ -86045,6 +86202,7 @@ payload:
   - DOMAIN-SUFFIX,shuqistat.com
   - DOMAIN-SUFFIX,shutcm.com
   - DOMAIN-SUFFIX,shuxinyc.com
+  - DOMAIN-SUFFIX,shuyifuwu.com.cn
   - DOMAIN-SUFFIX,shyhhema.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,shzq.com
@@ -86133,6 +86291,7 @@ payload:
   - DOMAIN-SUFFIX,sojson.com
   - DOMAIN-SUFFIX,sojump.com
   - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,solarcloud.top
   - DOMAIN-SUFFIX,solidot.org
   - DOMAIN-SUFFIX,somode.com
   - DOMAIN-SUFFIX,sootoo.com
@@ -86484,6 +86643,7 @@ payload:
   - DOMAIN-SUFFIX,tfogc.com
   - DOMAIN-SUFFIX,tfzq.com
   - DOMAIN-SUFFIX,tgbus.com
+  - DOMAIN-SUFFIX,tggfl.com
   - DOMAIN-SUFFIX,tgovcloud.com
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
@@ -86505,6 +86665,7 @@ payload:
   - DOMAIN-SUFFIX,thinkprinter.cn
   - DOMAIN-SUFFIX,thinkprinter.com.cn
   - DOMAIN-SUFFIX,thinkprinter.net
+  - DOMAIN-SUFFIX,thispx.com
   - DOMAIN-SUFFIX,thmnet.com
   - DOMAIN-SUFFIX,threatbook.cn
   - DOMAIN-SUFFIX,threatbook.com
@@ -86580,6 +86741,7 @@ payload:
   - DOMAIN-SUFFIX,tmtpost.com
   - DOMAIN-SUFFIX,tmtsmartlife.com
   - DOMAIN-SUFFIX,tmtsmartrun.com
+  - DOMAIN-SUFFIX,tmwanba.com
   - DOMAIN-SUFFIX,tnettms.com
   - DOMAIN-SUFFIX,tns.simba.taobao.com
   - DOMAIN-SUFFIX,to8to.com
@@ -86771,6 +86933,8 @@ payload:
   - DOMAIN-SUFFIX,ufileos.com
   - DOMAIN-SUFFIX,ugdtimg.com
   - DOMAIN-SUFFIX,uggame.com
+  - DOMAIN-SUFFIX,ugnas.cloud
+  - DOMAIN-SUFFIX,ugnas.com
   - DOMAIN-SUFFIX,ugshare-img.com
   - DOMAIN-SUFFIX,ugslb.cn
   - DOMAIN-SUFFIX,ugslb.com
@@ -92007,7 +92171,9 @@ payload:
   - DOMAIN,osxapps.itunes.g.aaplimg.com
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.itunes.apple.com
+  - DOMAIN,podcasts.itunes.apple.com
   - DOMAIN,se-edge.itunes.apple.com
   - DOMAIN,se2.itunes.apple.com
   - DOMAIN,search.itunes.apple.com
