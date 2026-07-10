@@ -6896,6 +6896,9 @@ payload:
   - DOMAIN-SUFFIX,wolfatbestbuy.com
   - DOMAIN-SUFFIX,wolfatbestbuy.net
   - DOMAIN-SUFFIX,www-bestbuystores.com
+  - DOMAIN-SUFFIX,bestchange.com
+  - DOMAIN-SUFFIX,bestchange.net
+  - DOMAIN-SUFFIX,bestchange.ru
   - DOMAIN-SUFFIX,517lppz.com
   - DOMAIN-SUFFIX,lppz.com
   - DOMAIN-SUFFIX,lppzimg.com
@@ -11699,6 +11702,8 @@ payload:
   - DOMAIN-SUFFIX,greatfire.org
   - DOMAIN-SUFFIX,greatfirevpn.com
   - DOMAIN-SUFFIX,guardianproject.info
+  - DOMAIN-SUFFIX,happ.info
+  - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,haveibeenpwned.com
   - DOMAIN-SUFFIX,hiddify.com
   - DOMAIN-SUFFIX,ipfs-gateway.cloud
@@ -21699,6 +21704,9 @@ payload:
   - DOMAIN-SUFFIX,asproex.com
   - DOMAIN-SUFFIX,asproexapi.com
   - DOMAIN-SUFFIX,base.org
+  - DOMAIN-SUFFIX,bestchange.com
+  - DOMAIN-SUFFIX,bestchange.net
+  - DOMAIN-SUFFIX,bestchange.ru
   - DOMAIN-SUFFIX,binance.cc
   - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,binance.cloud
@@ -21791,6 +21799,7 @@ payload:
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,cyberx.com
   - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,delets.online
   - DOMAIN-SUFFIX,deribit.com
   - DOMAIN-SUFFIX,devcon.org
   - DOMAIN-SUFFIX,dogecoin.com
@@ -21862,12 +21871,17 @@ payload:
   - DOMAIN-SUFFIX,onekey-asset.com
   - DOMAIN-SUFFIX,onekey.so
   - DOMAIN-SUFFIX,onekeycn.com
+  - DOMAIN-SUFFIX,onemoment.cc
   - DOMAIN-SUFFIX,onfinality.io
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN-SUFFIX,osl.com
   - DOMAIN-SUFFIX,paxful.com
+  - DOMAIN-SUFFIX,payget.pro
+  - DOMAIN-SUFFIX,platov.co
   - DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
   - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,ramon.cash
+  - DOMAIN-SUFFIX,ramon.money
   - DOMAIN-SUFFIX,redotpay.com
   - DOMAIN-SUFFIX,redotpay.zendesk.com
   - DOMAIN-SUFFIX,ripple.com
@@ -22103,6 +22117,7 @@ payload:
   - DOMAIN-SUFFIX,cpan.org
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,crocoblock.com
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,cve.org
   - DOMAIN-SUFFIX,cygwin.com
@@ -22335,6 +22350,7 @@ payload:
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,mongodb.org
   - DOMAIN-SUFFIX,mono-project.com
+  - DOMAIN-SUFFIX,motocms.com
   - DOMAIN-SUFFIX,motopress.com
   - DOMAIN-SUFFIX,mpv.io
   - DOMAIN-SUFFIX,msdn.com
@@ -24044,6 +24060,7 @@ payload:
   - DOMAIN-SUFFIX,technogym.su
   - DOMAIN-SUFFIX,telebay.com
   - DOMAIN-SUFFIX,telesell.com
+  - DOMAIN-SUFFIX,templatemonster.com
   - DOMAIN-SUFFIX,terapeack.com
   - DOMAIN-SUFFIX,terapeak.ca
   - DOMAIN-SUFFIX,terapeak.cn
@@ -59025,6 +59042,9 @@ payload:
   - DOMAIN-SUFFIX,bestbuytradein.com
   - DOMAIN-SUFFIX,bestbuyus.com
   - DOMAIN-SUFFIX,bestcamsites.net
+  - DOMAIN-SUFFIX,bestchange.com
+  - DOMAIN-SUFFIX,bestchange.net
+  - DOMAIN-SUFFIX,bestchange.ru
   - DOMAIN-SUFFIX,bestclouddrive.com
   - DOMAIN-SUFFIX,bestdori.com
   - DOMAIN-SUFFIX,besterpornos.com
@@ -61300,6 +61320,7 @@ payload:
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
+  - DOMAIN-SUFFIX,crocoblock.com
   - DOMAIN-SUFFIX,crocotube.com
   - DOMAIN-SUFFIX,cromite.org
   - DOMAIN-SUFFIX,crossborderexpansion.com
@@ -61608,6 +61629,7 @@ payload:
   - DOMAIN-SUFFIX,delcamtv.com
   - DOMAIN-SUFFIX,delcamuniversity.com
   - DOMAIN-SUFFIX,delcamusa.com
+  - DOMAIN-SUFFIX,delets.online
   - DOMAIN-SUFFIX,delicious.com.au
   - DOMAIN-SUFFIX,dell
   - DOMAIN-SUFFIX,dell-alw.com
@@ -65562,6 +65584,8 @@ payload:
   - DOMAIN-SUFFIX,hao62.xyz
   - DOMAIN-SUFFIX,haori888.com
   - DOMAIN-SUFFIX,haplorrhini.com
+  - DOMAIN-SUFFIX,happ.info
+  - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,happymeal.co.nz
   - DOMAIN-SUFFIX,happymeal.com
   - DOMAIN-SUFFIX,happymeal.com.au
@@ -70121,6 +70145,7 @@ payload:
   - DOMAIN-SUFFIX,motiongraphicsandmore.com
   - DOMAIN-SUFFIX,motionpictureser.com
   - DOMAIN-SUFFIX,moto.com
+  - DOMAIN-SUFFIX,motocms.com
   - DOMAIN-SUFFIX,motolia.com
   - DOMAIN-SUFFIX,motopress.com
   - DOMAIN-SUFFIX,motorola.ca
@@ -71610,6 +71635,7 @@ payload:
   - DOMAIN-SUFFIX,onekey.so
   - DOMAIN-SUFFIX,onekeycn.com
   - DOMAIN-SUFFIX,oneme.ru
+  - DOMAIN-SUFFIX,onemoment.cc
   - DOMAIN-SUFFIX,onemozilla.org
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
@@ -71955,6 +71981,7 @@ payload:
   - DOMAIN-SUFFIX,paxlicense.org
   - DOMAIN-SUFFIX,paydiant.com
   - DOMAIN-SUFFIX,payecom.ru
+  - DOMAIN-SUFFIX,payget.pro
   - DOMAIN-SUFFIX,paygonline.com
   - DOMAIN-SUFFIX,payhulu.com
   - DOMAIN-SUFFIX,paylike.com
@@ -72423,6 +72450,7 @@ payload:
   - DOMAIN-SUFFIX,platform.dell.com
   - DOMAIN-SUFFIX,platiecom.ru
   - DOMAIN-SUFFIX,platinumlinks.org
+  - DOMAIN-SUFFIX,platov.co
   - DOMAIN-SUFFIX,play-bmm.shop
   - DOMAIN-SUFFIX,play-bmmer.buzz
   - DOMAIN-SUFFIX,play4free.com
@@ -73321,6 +73349,8 @@ payload:
   - DOMAIN-SUFFIX,rakutenadvertising.com
   - DOMAIN-SUFFIX,rakutengiftcards.ca
   - DOMAIN-SUFFIX,rakuya.com.tw
+  - DOMAIN-SUFFIX,ramon.cash
+  - DOMAIN-SUFFIX,ramon.money
   - DOMAIN-SUFFIX,randyblue.com
   - DOMAIN-SUFFIX,rapefilms.net
   - DOMAIN-SUFFIX,rapetube.me
@@ -75751,6 +75781,7 @@ payload:
   - DOMAIN-SUFFIX,tellmewhygame.com
   - DOMAIN-SUFFIX,temetube.xyz
   - DOMAIN-SUFFIX,temp-mail.org
+  - DOMAIN-SUFFIX,templatemonster.com
   - DOMAIN-SUFFIX,tenbin.ai
   - DOMAIN-SUFFIX,tenbyfotolia.com
   - DOMAIN-SUFFIX,tenor.com

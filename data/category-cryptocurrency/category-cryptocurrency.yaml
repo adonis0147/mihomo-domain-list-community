@@ -4,6 +4,9 @@ payload:
   - +.asproex.com
   - +.asproexapi.com
   - +.base.org
+  - +.bestchange.com
+  - +.bestchange.net
+  - +.bestchange.ru
   - +.binance.cc
   - +.binance.charity
   - +.binance.cloud
@@ -96,6 +99,7 @@ payload:
   - +.curve.fi
   - +.cyberx.com
   - +.debank.com
+  - +.delets.online
   - +.deribit.com
   - +.devcon.org
   - +.dogecoin.com
@@ -167,12 +171,17 @@ payload:
   - +.onekey-asset.com
   - +.onekey.so
   - +.onekeycn.com
+  - +.onemoment.cc
   - +.onfinality.io
   - +.opensea.io
   - +.osl.com
   - +.paxful.com
+  - +.payget.pro
+  - +.platov.co
   - +.pod-15-sunco-ws.zendesk.com
   - +.polymarket.com
+  - +.ramon.cash
+  - +.ramon.money
   - +.redotpay.com
   - +.redotpay.zendesk.com
   - +.ripple.com
