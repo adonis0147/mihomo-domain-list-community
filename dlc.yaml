@@ -34686,6 +34686,7 @@ payload:
   - DOMAIN-REGEX,^nis.+\.10010\.com$
   - DOMAIN-SUFFIX,51nod.com
   - DOMAIN-SUFFIX,acwing.com
+  - DOMAIN-SUFFIX,adacpp.com
   - DOMAIN-SUFFIX,hihocoder.com
   - DOMAIN-SUFFIX,jisuanke.com
   - DOMAIN-SUFFIX,kidsccshow.com
@@ -46485,6 +46486,7 @@ payload:
   - DOMAIN-SUFFIX,ad.weixin.qq.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad1.xiaomi.com
+  - DOMAIN-SUFFIX,adacpp.com
   - DOMAIN-SUFFIX,adash-c.m.taobao.com
   - DOMAIN-SUFFIX,adash-c.ut.taobao.com
   - DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
@@ -81054,6 +81056,7 @@ payload:
   - DOMAIN-SUFFIX,ad.weixin.qq.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad1.xiaomi.com
+  - DOMAIN-SUFFIX,adacpp.com
   - DOMAIN-SUFFIX,adash-c.m.taobao.com
   - DOMAIN-SUFFIX,adash-c.ut.taobao.com
   - DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
