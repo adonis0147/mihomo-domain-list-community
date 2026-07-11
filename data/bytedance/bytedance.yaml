@@ -423,6 +423,7 @@ payload:
   - +.ixigua.com
   - +.ixiguavideo.com
   - +.jianying.com
+  - +.jimeng.com
   - +.jinritemai.com
   - +.jokecommunity.cn
   - +.jokecommunity.com
@@ -697,6 +698,9 @@ payload:
   - +.vestack-sandbox.com
   - +.vestack.cloud
   - +.vfcdnrd.com
+  - +.vlabimg.com
+  - +.vlabstatic.com
+  - +.vlabvod.com
   - +.vol1.cn
   - +.vol6.cn
   - +.volc-dns.com

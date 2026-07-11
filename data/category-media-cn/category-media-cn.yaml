@@ -59,6 +59,7 @@ payload:
   - +.changyou.com
   - +.cheaa.com
   - +.checkzeit.com
+  - +.chenshipin.com
   - +.chinaaet.com
   - +.chinabyte.com
   - +.chinadevelopment.com.cn
@@ -69,11 +70,13 @@ payload:
   - +.chinaott.com
   - +.chinaqw.com
   - +.chinastarmarket.cn
+  - +.chuanbaoguancha.cn
   - +.citv.net.cn
   - +.ckxx.net
   - +.cls.cn
   - +.cnfol.com
   - +.cnfolimg.com
+  - +.cnhubei.com
   - +.cnms.net.cn
   - +.cnr.cn
   - +.cns.com.cn
@@ -128,6 +131,7 @@ payload:
   - +.focus.cn
   - +.fpb.sohu.com
   - +.freebuf.com
+  - +.fromgeek.com
   - +.geekbang.org
   - +.geekpark.net
   - +.gfan.com
@@ -154,6 +158,7 @@ payload:
   - +.hntv.tv
   - +.huanqiu.com
   - +.huanqiucdn.cn
+  - +.hubeidaily.net
   - +.huxiu.com
   - +.huxiucdn.com
   - +.hxnews.com
@@ -207,6 +212,7 @@ payload:
   - +.kjrb.com.cn
   - +.kksmg.com
   - +.knewsmart.com
+  - +.kuaizhan.com
   - +.lancdn.com
   - +.landian.news
   - +.landian.vip
@@ -265,19 +271,24 @@ payload:
   - +.ql1d.com
   - +.qpb.sohu.com
   - +.qpb1.sohu.com
+  - +.qzwb.com
   - +.rednet.cn
   - +.reke.at.sohu.com
   - +.ruanmei.com
   - +.saayaa.com
+  - +.scdaily.cn
   - +.scgchc.com
+  - +.scol.com.cn
   - +.scsjb.cn
   - +.sctv-tf.com
   - +.sctv.com
   - +.secrss.com
   - +.sfccn.com
   - +.shangyexinzhi.com
+  - +.shedunews.net
   - +.shobserver.com
   - +.snowballsecurities.com
+  - +.snxw.com
   - +.sohu
   - +.sohu.com
   - +.sohucs.com
@@ -339,6 +350,7 @@ payload:
   - +.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
   - +.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
   - +.xueqiu.com
+  - +.xxcb.cn
   - +.yangshipin.cn
   - +.ycwb.com
   - +.yesky.com
