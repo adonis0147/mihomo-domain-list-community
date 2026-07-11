@@ -10638,6 +10638,7 @@ payload:
   - DOMAIN-SUFFIX,g3.letv.com
   - DOMAIN-SUFFIX,gdt.qq.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
+  - DOMAIN-SUFFIX,getsentry.com
   - DOMAIN-SUFFIX,gia.jd.com
   - DOMAIN-SUFFIX,gio.ren
   - DOMAIN-SUFFIX,giocdn.com
@@ -10903,8 +10904,11 @@ payload:
   - DOMAIN-SUFFIX,segmenthub.com
   - DOMAIN-SUFFIX,segmentify.com
   - DOMAIN-SUFFIX,sensors.umetrip.com.cn
+  - DOMAIN-SUFFIX,sentry-cdn.com
   - DOMAIN-SUFFIX,sentry.d.mi.com
   - DOMAIN-SUFFIX,sentry.d.xiaomi.net
+  - DOMAIN-SUFFIX,sentry.dev
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sentry.music.163.com
   - DOMAIN-SUFFIX,serving-sys.com
   - DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
@@ -22213,6 +22217,7 @@ payload:
   - DOMAIN-SUFFIX,getcomposer.org
   - DOMAIN-SUFFIX,getfedora.org
   - DOMAIN-SUFFIX,getpaint.net
+  - DOMAIN-SUFFIX,getsentry.com
   - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,gh.io
   - DOMAIN-SUFFIX,ghcr.io
@@ -22473,6 +22478,7 @@ payload:
   - DOMAIN-SUFFIX,scientificlinux.org
   - DOMAIN-SUFFIX,scoop.sh
   - DOMAIN-SUFFIX,sentry-cdn.com
+  - DOMAIN-SUFFIX,sentry.dev
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,serverfault.com
   - DOMAIN-SUFFIX,servicetalk.io
@@ -64776,6 +64782,7 @@ payload:
   - DOMAIN-SUFFIX,getporn.tv
   - DOMAIN-SUFFIX,getprintersupports.com
   - DOMAIN-SUFFIX,getscorecash.com
+  - DOMAIN-SUFFIX,getsentry.com
   - DOMAIN-SUFFIX,getsexgames.com
   - DOMAIN-SUFFIX,getsynapse.io
   - DOMAIN-SUFFIX,gettr.com
@@ -74229,6 +74236,7 @@ payload:
   - DOMAIN-SUFFIX,sensualmothers.com
   - DOMAIN-SUFFIX,sensueel.net
   - DOMAIN-SUFFIX,sentry-cdn.com
+  - DOMAIN-SUFFIX,sentry.dev
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,senzuritv.net
   - DOMAIN-SUFFIX,seo-dash.net
@@ -100628,7 +100636,9 @@ payload:
   - DOMAIN-SUFFIX,vscale.blog
   - DOMAIN-SUFFIX,vscale.io
   - DOMAIN-SUFFIX,vscale.ru
+  - DOMAIN-SUFFIX,getsentry.com
   - DOMAIN-SUFFIX,sentry-cdn.com
+  - DOMAIN-SUFFIX,sentry.dev
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,servicepipe.ru
   - DOMAIN-SUFFIX,servicepipe.tech
