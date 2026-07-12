@@ -24131,6 +24131,7 @@ payload:
   - DOMAIN-SUFFIX,wbautomation.ru
   - DOMAIN-SUFFIX,wbautomation.tech
   - DOMAIN-SUFFIX,wbbasket.ru
+  - DOMAIN-SUFFIX,wbcontent.net
   - DOMAIN-SUFFIX,wbdubna.ru
   - DOMAIN-SUFFIX,wbkids.ru
   - DOMAIN-SUFFIX,wbmail.ru
@@ -24348,6 +24349,7 @@ payload:
   - DOMAIN-SUFFIX,wbautomation.ru
   - DOMAIN-SUFFIX,wbautomation.tech
   - DOMAIN-SUFFIX,wbbasket.ru
+  - DOMAIN-SUFFIX,wbcontent.net
   - DOMAIN-SUFFIX,wbdubna.ru
   - DOMAIN-SUFFIX,wbkids.ru
   - DOMAIN-SUFFIX,wbmail.ru
@@ -42930,6 +42932,7 @@ payload:
   - DOMAIN-SUFFIX,wb.kg
   - DOMAIN-SUFFIX,wb.kz
   - DOMAIN-SUFFIX,wbautomation.tech
+  - DOMAIN-SUFFIX,wbcontent.net
   - DOMAIN-SUFFIX,wbr.by
   - DOMAIN-SUFFIX,wbstatic.net
   - DOMAIN-SUFFIX,wbwh.tech
@@ -54540,7 +54543,11 @@ payload:
   - DOMAIN,espn.hb.omtrdc.net
   - DOMAIN,espndotcom.tt.omtrdc.net
   - DOMAIN-SUFFIX,esp32.com
+  - DOMAIN-SUFFIX,esp8266.cn
+  - DOMAIN-SUFFIX,esp8266.com.cn
   - DOMAIN-SUFFIX,esp8266.com
+  - DOMAIN-SUFFIX,espressif.cn
+  - DOMAIN-SUFFIX,espressif.com.cn
   - DOMAIN-SUFFIX,espressif.com
   - DOMAIN-SUFFIX,arcgis.com
   - DOMAIN-SUFFIX,arcgisonline.com
@@ -77889,6 +77896,7 @@ payload:
   - DOMAIN-SUFFIX,wbautomation.ru
   - DOMAIN-SUFFIX,wbautomation.tech
   - DOMAIN-SUFFIX,wbbasket.ru
+  - DOMAIN-SUFFIX,wbcontent.net
   - DOMAIN-SUFFIX,wbd.ms
   - DOMAIN-SUFFIX,wbdnbo.net
   - DOMAIN-SUFFIX,wbdubna.ru
@@ -106058,6 +106066,7 @@ payload:
   - DOMAIN-SUFFIX,wbautomation.ru
   - DOMAIN-SUFFIX,wbautomation.tech
   - DOMAIN-SUFFIX,wbbasket.ru
+  - DOMAIN-SUFFIX,wbcontent.net
   - DOMAIN-SUFFIX,wbdubna.ru
   - DOMAIN-SUFFIX,wbkids.ru
   - DOMAIN-SUFFIX,wbmail.ru
