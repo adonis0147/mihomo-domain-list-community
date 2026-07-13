@@ -245,7 +245,6 @@ payload:
   - stun.sipthor.net
   - stun.siptraffic.com
   - stun.siptrunk.com
-  - stun.sipus
   - stun.skydrone.aero
   - stun.skylink.ru
   - stun.sma.de
@@ -266,7 +265,6 @@ payload:
   - stun.stochastix.de
   - stun.streamnow.ch
   - stun.stunprotocol.org
-  - stun.stunprotocol.prg
   - stun.symform.com
   - stun.symplicity.com
   - stun.sysadminman.net

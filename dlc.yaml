@@ -586,10 +586,6 @@ payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,crl.versign.net
   - DOMAIN,ood.opsource.net
-  - DOMAIN,practivate.adobe
-  - DOMAIN,practivate.adobe.ipp
-  - DOMAIN,practivate.adobe.newoa
-  - DOMAIN,practivate.adobe.ntp
   - DOMAIN,3dns-1.adobe.com
   - DOMAIN,3dns-2.adobe.com
   - DOMAIN,3dns-3.adobe.com
@@ -622,11 +618,7 @@ payload:
   - DOMAIN,lmlicenses.wip4.adobe.com
   - DOMAIN,na1r.services.adobe.com
   - DOMAIN,ood.opsource.net
-  - DOMAIN,practivate.adobe
   - DOMAIN,practivate.adobe.com
-  - DOMAIN,practivate.adobe.ipp
-  - DOMAIN,practivate.adobe.newoa
-  - DOMAIN,practivate.adobe.ntp
   - DOMAIN,wip.adobe.com
   - DOMAIN,wip1.adobe.com
   - DOMAIN,wip2.adobe.com
@@ -1775,7 +1767,6 @@ payload:
   - DOMAIN-SUFFIX,golang.net
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,gonglchuangl.net
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,googel.com
@@ -11651,6 +11642,7 @@ payload:
   - DOMAIN-SUFFIX,yoma.cn
   - DOMAIN-SUFFIX,yuanbao.tencent.com
   - DOMAIN-SUFFIX,yuanqi.tencent.com
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,zhiexa.com
   - DOMAIN-SUFFIX,zhipuai.cn
@@ -12287,7 +12279,6 @@ payload:
   - DOMAIN-SUFFIX,akbars.ru
   - DOMAIN-SUFFIX,alefbank.com
   - DOMAIN-SUFFIX,alfa.me
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,alfadirect.ru
@@ -16760,7 +16751,6 @@ payload:
   - DOMAIN-SUFFIX,golang.net
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,gonglchuangl.net
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,good-apps.jp
   - DOMAIN-SUFFIX,goodsdunk.net
@@ -17589,7 +17579,6 @@ payload:
   - DOMAIN-SUFFIX,intagram.com
   - DOMAIN-SUFFIX,intagrm.com
   - DOMAIN-SUFFIX,intc.com
-  - DOMAIN-SUFFIX,intel
   - DOMAIN-SUFFIX,intel-research.net
   - DOMAIN-SUFFIX,intel-university-collaboration.net
   - DOMAIN-SUFFIX,intel.ac
@@ -21492,10 +21481,6 @@ payload:
   - DOMAIN,play.music.apple.com
   - DOMAIN,podcasts.apple.com
   - DOMAIN,podcasts.itunes.apple.com
-  - DOMAIN,practivate.adobe
-  - DOMAIN,practivate.adobe.ipp
-  - DOMAIN,practivate.adobe.newoa
-  - DOMAIN,practivate.adobe.ntp
   - DOMAIN,probe.siri.apple.com
   - DOMAIN,prod-controlbe.floonet.goog
   - DOMAIN,prod-databe.floonet.goog
@@ -25553,6 +25538,7 @@ payload:
   - DOMAIN-SUFFIX,kamisama-maeda-lab.com
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kgisystems.com
+  - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
@@ -25567,7 +25553,6 @@ payload:
   - DOMAIN-SUFFIX,kktix.com
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN-SUFFIX,kktv.me
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,konami-igaming.online
   - DOMAIN-SUFFIX,konami.co.jp
   - DOMAIN-SUFFIX,konami.com
@@ -27800,7 +27785,6 @@ payload:
   - DOMAIN-SUFFIX,akita-bank.co.jp
   - DOMAIN-SUFFIX,alefbank.com
   - DOMAIN-SUFFIX,alfa.me
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,alfadirect.ru
@@ -29438,7 +29422,6 @@ payload:
   - DOMAIN-SUFFIX,kirbysepicyarn.com
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
   - DOMAIN-SUFFIX,kiwi.jp
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,konami-igaming.online
   - DOMAIN-SUFFIX,konami.co.jp
   - DOMAIN-SUFFIX,konami.com
@@ -30428,7 +30411,6 @@ payload:
   - DOMAIN-SUFFIX,kirbysepicyarn.com
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
   - DOMAIN-SUFFIX,kiwi.jp
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,konami-igaming.online
   - DOMAIN-SUFFIX,konami.co.jp
   - DOMAIN-SUFFIX,konami.com
@@ -31411,7 +31393,6 @@ payload:
   - DOMAIN-SUFFIX,oryol.ru
   - DOMAIN-SUFFIX,penza.ru
   - DOMAIN-SUFFIX,perm.ru
-  - DOMAIN-SUFFIX,psk
   - DOMAIN-SUFFIX,psk.ru
   - DOMAIN-SUFFIX,pskov.ru
   - DOMAIN-SUFFIX,ptz.ru
@@ -31901,7 +31882,6 @@ payload:
   - DOMAIN-SUFFIX,webinarplus.online
   - DOMAIN-SUFFIX,weswap.digital
   - DOMAIN-SUFFIX,xn--mgba3a4f16a
-  - DOMAIN-SUFFIX,xn--mgba3a4fra
   - DOMAIN-SUFFIX,yasdl.com
   - DOMAIN-SUFFIX,yektanet.com
   - DOMAIN-SUFFIX,zarinpal.com
@@ -41895,7 +41875,6 @@ payload:
   - DOMAIN,qg.lorzl.gq
   - DOMAIN,retracker.ip.ncnet.ru
   - DOMAIN,retracker.lanta.me
-  - DOMAIN,retracker.local
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,run.publictracker.xyz
@@ -42269,7 +42248,6 @@ payload:
   - DOMAIN-SUFFIX,ahilesva.info
   - DOMAIN-SUFFIX,alefbank.com
   - DOMAIN-SUFFIX,alfa.me
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,algoritmika.org
   - DOMAIN-SUFFIX,alt-ad.mail.ru
@@ -42669,7 +42647,6 @@ payload:
   - DOMAIN-SUFFIX,prod-my.games
   - DOMAIN-SUFFIX,prodcontest.com
   - DOMAIN-SUFFIX,promodj.com
-  - DOMAIN-SUFFIX,psk
   - DOMAIN-SUFFIX,ptsecurity.com
   - DOMAIN-SUFFIX,pushgrow.io
   - DOMAIN-SUFFIX,pvubank.com
@@ -45149,7 +45126,6 @@ payload:
   - DOMAIN,stun.sipthor.net
   - DOMAIN,stun.siptraffic.com
   - DOMAIN,stun.siptrunk.com
-  - DOMAIN,stun.sipus
   - DOMAIN,stun.skydrone.aero
   - DOMAIN,stun.skylink.ru
   - DOMAIN,stun.sma.de
@@ -45170,7 +45146,6 @@ payload:
   - DOMAIN,stun.stochastix.de
   - DOMAIN,stun.streamnow.ch
   - DOMAIN,stun.stunprotocol.org
-  - DOMAIN,stun.stunprotocol.prg
   - DOMAIN,stun.symform.com
   - DOMAIN,stun.symplicity.com
   - DOMAIN,stun.sysadminman.net
@@ -48064,6 +48039,7 @@ payload:
   - DOMAIN-SUFFIX,duiopen.com
   - DOMAIN-SUFFIX,duitang.com
   - DOMAIN-SUFFIX,duiwai.baidu.com
+  - DOMAIN-SUFFIX,dulupay.com
   - DOMAIN-SUFFIX,duoduocdn.com
   - DOMAIN-SUFFIX,duokan.com
   - DOMAIN-SUFFIX,duokanbox.com
@@ -52115,6 +52091,7 @@ payload:
   - DOMAIN-SUFFIX,yyshub.top
   - DOMAIN-SUFFIX,yystatic.com
   - DOMAIN-SUFFIX,yytcdn.com
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,yzwb.net
   - DOMAIN-SUFFIX,yzyxgame.com
   - DOMAIN-SUFFIX,z-bank.com
@@ -57053,7 +57030,6 @@ payload:
   - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,alexanderstreet.com
   - DOMAIN-SUFFIX,alfa.me
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,alfadirect.ru
@@ -65176,7 +65152,6 @@ payload:
   - DOMAIN-SUFFIX,gonike.com
   - DOMAIN-SUFFIX,gonzo-movies.com
   - DOMAIN-SUFFIX,gonzo.com
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,gooblox.com
   - DOMAIN-SUFFIX,good-apps.jp
@@ -67203,7 +67178,6 @@ payload:
   - DOMAIN-SUFFIX,intagrm.com
   - DOMAIN-SUFFIX,intc.com
   - DOMAIN-SUFFIX,integral7.com
-  - DOMAIN-SUFFIX,intel
   - DOMAIN-SUFFIX,intel-research.net
   - DOMAIN-SUFFIX,intel-university-collaboration.net
   - DOMAIN-SUFFIX,intel.ac
@@ -68283,6 +68257,7 @@ payload:
   - DOMAIN-SUFFIX,khangar.net
   - DOMAIN-SUFFIX,khotruyentranhx.com
   - DOMAIN-SUFFIX,kichikuou.com
+  - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kickporn.com
   - DOMAIN-SUFFIX,kickshatchannel.com
   - DOMAIN-SUFFIX,kicksnike1.com
@@ -68400,7 +68375,6 @@ payload:
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,konachan.net
   - DOMAIN-SUFFIX,konachan.wjcodes.com
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,konami-igaming.online
   - DOMAIN-SUFFIX,konami.co.jp
   - DOMAIN-SUFFIX,konami.com
@@ -80259,10 +80233,6 @@ payload:
   - DOMAIN,play.music.apple.com
   - DOMAIN,podcasts.apple.com
   - DOMAIN,podcasts.itunes.apple.com
-  - DOMAIN,practivate.adobe
-  - DOMAIN,practivate.adobe.ipp
-  - DOMAIN,practivate.adobe.newoa
-  - DOMAIN,practivate.adobe.ntp
   - DOMAIN,probe.siri.apple.com
   - DOMAIN,prod-controlbe.floonet.goog
   - DOMAIN,prod-databe.floonet.goog
@@ -83111,6 +83081,7 @@ payload:
   - DOMAIN-SUFFIX,duiou.com.cn
   - DOMAIN-SUFFIX,duitang.com
   - DOMAIN-SUFFIX,duiwai.baidu.com
+  - DOMAIN-SUFFIX,dulupay.com
   - DOMAIN-SUFFIX,dumate.cn
   - DOMAIN-SUFFIX,duoduocdn.com
   - DOMAIN-SUFFIX,duokan.com
@@ -88109,6 +88080,7 @@ payload:
   - DOMAIN-SUFFIX,yystv.cn
   - DOMAIN-SUFFIX,yytcdn.com
   - DOMAIN-SUFFIX,yzcdn.cn
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,yzwb.net
   - DOMAIN-SUFFIX,yzyxgame.com
   - DOMAIN-SUFFIX,z-bank.com
@@ -88982,7 +88954,6 @@ payload:
   - DOMAIN-SUFFIX,golang.net
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,gonglchuangl.net
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,googel.com
@@ -91922,7 +91893,6 @@ payload:
   - DOMAIN-SUFFIX,insidefilms.com
   - DOMAIN-SUFFIX,insight.tech
   - DOMAIN-SUFFIX,intc.com
-  - DOMAIN-SUFFIX,intel
   - DOMAIN-SUFFIX,intel-research.net
   - DOMAIN-SUFFIX,intel-university-collaboration.net
   - DOMAIN-SUFFIX,intel.ac
@@ -93059,6 +93029,7 @@ payload:
   - DOMAIN-SUFFIX,keybaseapi.com
   - DOMAIN-SUFFIX,kastatic.org
   - DOMAIN-SUFFIX,khanacademy.org
+  - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kindle
   - DOMAIN-SUFFIX,kindle.cn
   - DOMAIN-SUFFIX,kindle.co.jp
@@ -93142,6 +93113,7 @@ payload:
   - DOMAIN-SUFFIX,pushbr.com
   - DOMAIN-SUFFIX,smarttvcdn.online
   - DOMAIN-SUFFIX,support-kp.com
+  - DOMAIN-SUFFIX,tsx.ovh
   - DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kk.stream
@@ -93165,7 +93137,6 @@ payload:
   - DOMAIN-SUFFIX,573.jp
   - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kiwi.jp
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,konami-igaming.online
   - DOMAIN-SUFFIX,konami.co.jp
   - DOMAIN-SUFFIX,konami.com
@@ -103394,7 +103365,6 @@ payload:
   - DOMAIN-SUFFIX,gn
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,goldpoint
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goodyear
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,google
@@ -103895,7 +103865,6 @@ payload:
   - DOMAIN-SUFFIX,xn--mgb9awbf
   - DOMAIN-SUFFIX,xn--mgba3a3ejt
   - DOMAIN-SUFFIX,xn--mgba3a4f16a
-  - DOMAIN-SUFFIX,xn--mgba3a4fra
   - DOMAIN-SUFFIX,xn--mgba7c0bbn0a
   - DOMAIN-SUFFIX,xn--mgbaam7a8h
   - DOMAIN-SUFFIX,xn--mgbah1a3hjkrd
