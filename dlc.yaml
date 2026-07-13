@@ -11232,6 +11232,7 @@ payload:
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,chutes.ai
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
@@ -11396,6 +11397,7 @@ payload:
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,chutes.ai
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
@@ -31605,6 +31607,7 @@ payload:
   - DOMAIN-SUFFIX,ipbase.com
   - DOMAIN-SUFFIX,ipbot.com
   - DOMAIN-SUFFIX,ipcalf.com
+  - DOMAIN-SUFFIX,ipcheck.ing
   - DOMAIN-SUFFIX,ipchicken.com
   - DOMAIN-SUFFIX,ipdata.co
   - DOMAIN-SUFFIX,ipecho.net
@@ -60764,6 +60767,7 @@ payload:
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,chatgptvideo.xyz
   - DOMAIN-SUFFIX,chatgptvideob.buzz
   - DOMAIN-SUFFIX,chatsex.xxx
@@ -93124,16 +93128,20 @@ payload:
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,ahc.ovh
+  - DOMAIN-SUFFIX,api.alador.space
   - DOMAIN-SUFFIX,cdn-service.space
   - DOMAIN-SUFFIX,cdn2cdn.com
   - DOMAIN-SUFFIX,cdn2site.com
   - DOMAIN-SUFFIX,gfw.ovh
   - DOMAIN-SUFFIX,kino.pub
+  - DOMAIN-SUFFIX,kino.watch
   - DOMAIN-SUFFIX,kinopub.online
   - DOMAIN-SUFFIX,kpdl.link
+  - DOMAIN-SUFFIX,m.alador.space
   - DOMAIN-SUFFIX,mos-gorsud.co
   - DOMAIN-SUFFIX,pushbr.com
   - DOMAIN-SUFFIX,smarttvcdn.online
+  - DOMAIN-SUFFIX,support-kp.com
   - DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kk.stream
@@ -97851,6 +97859,7 @@ payload:
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,oaistatic.com
