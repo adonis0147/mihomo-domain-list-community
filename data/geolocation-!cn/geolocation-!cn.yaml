@@ -2768,6 +2768,7 @@ payload:
   - +.azuredns-prd.org
   - +.azureedge-test.net
   - +.azureedge.net
+  - +.azureedge.us
   - +.azurefd.net
   - +.azurehdinsight.cn
   - +.azureiotcentral.com
@@ -5513,6 +5514,7 @@ payload:
   - +.coova.com
   - +.coova.net
   - +.coova.org
+  - +.copilot-stg.com
   - +.copilot.com
   - +.copro.pw
   - +.copy-manga.com
@@ -13712,6 +13714,7 @@ payload:
   - +.mgo.com
   - +.mhcb.ru
   - +.mhcbr.ru
+  - +.mhgui.com
   - +.mhhanman.xyz
   - +.mhqwe.xyz
   - +.mhradio.org
@@ -19550,6 +19553,7 @@ payload:
   - +.starfox.com
   - +.stargazer-games.com
   - +.stark-verlag.ch
+  - +.starlink.com
   - +.starott.com
   - +.starp2p.com
   - +.starplus.com
@@ -24623,8 +24627,6 @@ payload:
   - t.mail.ru
   - tac.googleapis.com
   - target.vk.com
-  - tesla-cdn.thron.cn
-  - tesla-cdn.thron.com
   - tf-feedback.itunes.apple.com
   - time.amazonaws.cn
   - time.izatcloud.net

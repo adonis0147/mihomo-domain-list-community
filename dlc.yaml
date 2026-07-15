@@ -5812,6 +5812,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azureedge.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
@@ -7048,6 +7049,7 @@ payload:
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,cn.bing.net
   - DOMAIN-SUFFIX,cn.mm.bing.net
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
@@ -11245,6 +11247,7 @@ payload:
   - DOMAIN-SUFFIX,comfy.org
   - DOMAIN-SUFFIX,comfyci.org
   - DOMAIN-SUFFIX,comfyregistry.org
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
@@ -11411,6 +11414,7 @@ payload:
   - DOMAIN-SUFFIX,comfy.org
   - DOMAIN-SUFFIX,comfyci.org
   - DOMAIN-SUFFIX,comfyregistry.org
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
@@ -14605,6 +14609,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azureedge.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
@@ -15496,6 +15501,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,coreduo.com
   - DOMAIN-SUFFIX,coreextreme.com
@@ -19797,6 +19803,7 @@ payload:
   - DOMAIN-SUFFIX,st.com
   - DOMAIN-SUFFIX,stadia.dev
   - DOMAIN-SUFFIX,staffhub.ms
+  - DOMAIN-SUFFIX,starlink.com
   - DOMAIN-SUFFIX,starship-ent.com
   - DOMAIN-SUFFIX,start.com
   - DOMAIN-SUFFIX,static-cisco.com
@@ -25666,6 +25673,7 @@ payload:
   - DOMAIN-SUFFIX,metacritic.com
   - DOMAIN-SUFFIX,mgo-images.com
   - DOMAIN-SUFFIX,mgo.com
+  - DOMAIN-SUFFIX,mhgui.com
   - DOMAIN-SUFFIX,mickey.tv
   - DOMAIN-SUFFIX,miitomo.com
   - DOMAIN-SUFFIX,miitomo.com.cn
@@ -58615,6 +58623,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azureedge.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
@@ -61360,6 +61369,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copro.pw
   - DOMAIN-SUFFIX,copy-manga.com
@@ -69559,6 +69569,7 @@ payload:
   - DOMAIN-SUFFIX,mgo.com
   - DOMAIN-SUFFIX,mhcb.ru
   - DOMAIN-SUFFIX,mhcbr.ru
+  - DOMAIN-SUFFIX,mhgui.com
   - DOMAIN-SUFFIX,mhhanman.xyz
   - DOMAIN-SUFFIX,mhqwe.xyz
   - DOMAIN-SUFFIX,mhradio.org
@@ -75397,6 +75408,7 @@ payload:
   - DOMAIN-SUFFIX,starfox.com
   - DOMAIN-SUFFIX,stargazer-games.com
   - DOMAIN-SUFFIX,stark-verlag.ch
+  - DOMAIN-SUFFIX,starlink.com
   - DOMAIN-SUFFIX,starott.com
   - DOMAIN-SUFFIX,starp2p.com
   - DOMAIN-SUFFIX,starplus.com
@@ -80470,8 +80482,6 @@ payload:
   - DOMAIN,t.mail.ru
   - DOMAIN,tac.googleapis.com
   - DOMAIN,target.vk.com
-  - DOMAIN,tesla-cdn.thron.cn
-  - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,tf-feedback.itunes.apple.com
   - DOMAIN,time.amazonaws.cn
   - DOMAIN,time.izatcloud.net
@@ -94394,6 +94404,7 @@ payload:
   - DOMAIN-SUFFIX,sponichi.co.jp
   - DOMAIN-SUFFIX,weekly-economist.com
   - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,mhgui.com
   - DOMAIN-SUFFIX,malayalamanorama.com
   - DOMAIN-SUFFIX,manorama.com
   - DOMAIN-SUFFIX,manoramanews.com
@@ -95436,6 +95447,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azureedge.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
@@ -95502,6 +95514,7 @@ payload:
   - DOMAIN-SUFFIX,cn.mm.bing.net
   - DOMAIN-SUFFIX,codethemicrobit.com
   - DOMAIN-SUFFIX,collector.github.com
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,cortanaanalytics.com
   - DOMAIN-SUFFIX,cortanaskills.com
@@ -101397,6 +101410,7 @@ payload:
   - DOMAIN-SUFFIX,spacemail.com
   - DOMAIN-SUFFIX,spaceship.com
   - DOMAIN-SUFFIX,spacex.com
+  - DOMAIN-SUFFIX,starlink.com
   - DOMAIN-SUFFIX,sb-cd.com
   - DOMAIN-SUFFIX,spankbang.com
   - DOMAIN-SUFFIX,spankbang.party
@@ -102923,8 +102937,6 @@ payload:
   - DOMAIN-SUFFIX,teslamotors.com.cn
   - DOMAIN-SUFFIX,teslazta.net
   - DOMAIN-SUFFIX,ts.la
-  - DOMAIN,tesla-cdn.thron.cn
-  - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,test.example.com
   - DOMAIN-SUFFIX,sixte.st
   - DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
