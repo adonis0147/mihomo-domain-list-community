@@ -3314,6 +3314,7 @@ payload:
   - +.hqpcb.com
   - +.hr-welink.com
   - +.hrsec.com.cn
+  - +.hrsecn.com
   - +.hsbc.com.cn
   - +.hsbcinsurance.com.cn
   - +.hsbcqh.com.cn
@@ -7688,6 +7689,7 @@ payload:
   - ads5-normal-hl.zijieapi.com
   - ads5-normal.zijieapi.com
   - api.alibabacloud.com
+  - api.blipsandchitz.me
   - apilog-web.acfun.cn
   - cn.alibabacloud.com
   - ctdsb.clouddiffuse.xyz
