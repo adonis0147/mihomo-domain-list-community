@@ -11690,6 +11690,7 @@ payload:
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,citizenlab.ca
   - DOMAIN-SUFFIX,citizenlab.org
+  - DOMAIN-SUFFIX,clashyun.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,crustwebsites.net
   - DOMAIN-SUFFIX,dat.foundation
@@ -11756,7 +11757,6 @@ payload:
   - DOMAIN-SUFFIX,telex.cc
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,tribler.org
-  - DOMAIN-SUFFIX,trojan-gfw.github.io
   - DOMAIN-SUFFIX,tunsafe.com
   - DOMAIN-SUFFIX,turkeyblocks.org
   - DOMAIN-SUFFIX,twister.net.co
@@ -11773,8 +11773,9 @@ payload:
   - DOMAIN-SUFFIX,wikileaks.org
   - DOMAIN-SUFFIX,wikiunblocked.org
   - DOMAIN-SUFFIX,wireguard.com
-  - DOMAIN-SUFFIX,xtls.github.io
   - DOMAIN-SUFFIX,zeronet.io
+  - DOMAIN,trojan-gfw.github.io
+  - DOMAIN,xtls.github.io
   - DOMAIN-SUFFIX,avast.com
   - DOMAIN-SUFFIX,avg.com
   - DOMAIN-SUFFIX,avira.com
@@ -12305,6 +12306,7 @@ payload:
   - DOMAIN-SUFFIX,bbr.ru
   - DOMAIN-SUFFIX,bcs-bank.ru
   - DOMAIN-SUFFIX,bcs.ru
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,bfa.ru
   - DOMAIN-SUFFIX,blanc.ru
   - DOMAIN-SUFFIX,bm-bank.ru
@@ -12354,6 +12356,7 @@ payload:
   - DOMAIN-SUFFIX,gosdolgi.ru
   - DOMAIN-SUFFIX,gpb.ru
   - DOMAIN-SUFFIX,homecredit.ru
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,ibamoscow.ru
   - DOMAIN-SUFFIX,id.ru
   - DOMAIN-SUFFIX,it-katok.ru
@@ -12427,6 +12430,8 @@ payload:
   - DOMAIN-SUFFIX,raiffeisen.ru
   - DOMAIN-SUFFIX,rbcollect.ru
   - DOMAIN-SUFFIX,rbcredit.ru
+  - DOMAIN-SUFFIX,rbsgate.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,rencapbank.ru
   - DOMAIN-SUFFIX,rencredit.ru
   - DOMAIN-SUFFIX,restnproducts.ru
@@ -25270,6 +25275,8 @@ payload:
   - DOMAIN-SUFFIX,esports.gg
   - DOMAIN-SUFFIX,excitebots.com
   - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,f1.com
+  - DOMAIN-SUFFIX,f1tv.com
   - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,fabricmc.net
   - DOMAIN-SUFFIX,faceit-cdn.net
@@ -25297,6 +25304,7 @@ payload:
   - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipnotestudio.com
   - DOMAIN-SUFFIX,forgecdn.net
+  - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,forthethrone.com
   - DOMAIN-SUFFIX,fortnite-vod.akamaized.net
   - DOMAIN-SUFFIX,fortnite.com
@@ -27869,6 +27877,7 @@ payload:
   - DOMAIN-SUFFIX,bbr.ru
   - DOMAIN-SUFFIX,bcs-bank.ru
   - DOMAIN-SUFFIX,bcs.ru
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,bfa.ru
   - DOMAIN-SUFFIX,bim.ir
   - DOMAIN-SUFFIX,bk.mufg.jp
@@ -28022,6 +28031,7 @@ payload:
   - DOMAIN-SUFFIX,hsbcprivatebank.com
   - DOMAIN-SUFFIX,hsbcqh.com.cn
   - DOMAIN-SUFFIX,hsbctrinkaus.de
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,hyakugo.co.jp
   - DOMAIN-SUFFIX,ibamoscow.ru
   - DOMAIN-SUFFIX,ibkr.ca
@@ -28202,6 +28212,8 @@ payload:
   - DOMAIN-SUFFIX,rb24.ir
   - DOMAIN-SUFFIX,rbcollect.ru
   - DOMAIN-SUFFIX,rbcredit.ru
+  - DOMAIN-SUFFIX,rbsgate.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,refah-bank.ir
   - DOMAIN-SUFFIX,rencapbank.ru
   - DOMAIN-SUFFIX,rencredit.ru
@@ -34368,6 +34380,8 @@ payload:
   - DOMAIN-SUFFIX,mosgorzdrav.ru
   - DOMAIN-SUFFIX,oms.karelia.ru
   - DOMAIN-SUFFIX,polyclinika.ru
+  - DOMAIN-SUFFIX,reaviz.com
+  - DOMAIN-SUFFIX,reaviz.ru
   - DOMAIN-SUFFIX,reso-med.com
   - DOMAIN-SUFFIX,reso-med.ru
   - DOMAIN-SUFFIX,smartmed.pro
@@ -42336,6 +42350,7 @@ payload:
   - DOMAIN-SUFFIX,bargipsy.com
   - DOMAIN-SUFFIX,beeline.tv
   - DOMAIN-SUFFIX,beget.com
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,bizmrg.com
   - DOMAIN-SUFFIX,bk6bba-resources.com
   - DOMAIN-SUFFIX,book1917.live
@@ -42495,6 +42510,7 @@ payload:
   - DOMAIN-SUFFIX,hayya.ae
   - DOMAIN-SUFFIX,hh.by
   - DOMAIN-SUFFIX,hh.kz
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,icq-download.com
   - DOMAIN-SUFFIX,icq-mobile.com
   - DOMAIN-SUFFIX,icq-online.com
@@ -42605,6 +42621,7 @@ payload:
   - DOMAIN-SUFFIX,mail-carrotquest.io
   - DOMAIN-SUFFIX,mailicq.org
   - DOMAIN-SUFFIX,mc.yandex.ru
+  - DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,mcs.st
   - DOMAIN-SUFFIX,medsi.com
   - DOMAIN-SUFFIX,medsi.pro
@@ -42713,7 +42730,10 @@ payload:
   - DOMAIN-SUFFIX,rabota.by
   - DOMAIN-SUFFIX,radar.imgsmail.ru
   - DOMAIN-SUFFIX,randomgodbot.com
+  - DOMAIN-SUFFIX,rbsgate.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,rbth.com
+  - DOMAIN-SUFFIX,reaviz.com
   - DOMAIN-SUFFIX,reg.cloud
   - DOMAIN-SUFFIX,reg.com
   - DOMAIN-SUFFIX,relap.mail.ru
@@ -55432,6 +55452,9 @@ payload:
   - DOMAIN-SUFFIX,fontsinuse.com
   - DOMAIN-SUFFIX,forbes.com
   - DOMAIN-SUFFIX,forbesimg.com
+  - DOMAIN-SUFFIX,f1.com
+  - DOMAIN-SUFFIX,f1tv.com
+  - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,forza.net
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
@@ -59154,6 +59177,7 @@ payload:
   - DOMAIN-SUFFIX,berkeley.edu
   - DOMAIN-SUFFIX,berlincompanions.com
   - DOMAIN-SUFFIX,best-sex-games.com
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,best4bim.com
   - DOMAIN-SUFFIX,bestbeats4u.com
   - DOMAIN-SUFFIX,bestbhy.com
@@ -61055,6 +61079,7 @@ payload:
   - DOMAIN-SUFFIX,clashofclans.com
   - DOMAIN-SUFFIX,clashroyale.com
   - DOMAIN-SUFFIX,clashroyaleapp.com
+  - DOMAIN-SUFFIX,clashyun.com
   - DOMAIN-SUFFIX,clasporno.org
   - DOMAIN-SUFFIX,classicnike.com
   - DOMAIN-SUFFIX,classymomsex.com
@@ -63473,6 +63498,8 @@ payload:
   - DOMAIN-SUFFIX,f-droid.com
   - DOMAIN-SUFFIX,f-droid.org
   - DOMAIN-SUFFIX,f-secure.com
+  - DOMAIN-SUFFIX,f1.com
+  - DOMAIN-SUFFIX,f1tv.com
   - DOMAIN-SUFFIX,f5pf.com
   - DOMAIN-SUFFIX,f6.dev
   - DOMAIN-SUFFIX,f6.ru
@@ -64221,6 +64248,7 @@ payload:
   - DOMAIN-SUFFIX,forhertube.com
   - DOMAIN-SUFFIX,formit360.com
   - DOMAIN-SUFFIX,formitfactory.com
+  - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,forpojie.pics
   - DOMAIN-SUFFIX,forshtadt.ru
   - DOMAIN-SUFFIX,fortawesome.com
@@ -66648,6 +66676,7 @@ payload:
   - DOMAIN-SUFFIX,hustler.com
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,hutpromos.com
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,hwgo.com
   - DOMAIN-SUFFIX,hwslabs.com
   - DOMAIN-SUFFIX,hxcsxs.pro
@@ -73574,8 +73603,10 @@ payload:
   - DOMAIN-SUFFIX,rbnainternational.com
   - DOMAIN-SUFFIX,rbplc.com
   - DOMAIN-SUFFIX,rbrandlibrary.com
+  - DOMAIN-SUFFIX,rbsgate.com
   - DOMAIN-SUFFIX,rbsgr.com
   - DOMAIN-SUFFIX,rbspeakup.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,rbth.com
   - DOMAIN-SUFFIX,rbx.com
   - DOMAIN-SUFFIX,rbxcdn.com
@@ -105424,6 +105455,28 @@ payload:
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
   - DOMAIN-SUFFIX,vodafone.nl
+  - DOMAIN-SUFFIX,85b6b2.ws
+  - DOMAIN-SUFFIX,ashdi.vip
+  - DOMAIN-SUFFIX,cdn2cdn.com
+  - DOMAIN-SUFFIX,cdn2site.com
+  - DOMAIN-SUFFIX,cdnsqu.com
+  - DOMAIN-SUFFIX,cdntogo.net
+  - DOMAIN-SUFFIX,digital-cdn.net
+  - DOMAIN-SUFFIX,fotpro135alto.com
+  - DOMAIN-SUFFIX,interkh.com
+  - DOMAIN-SUFFIX,loadbox.ws
+  - DOMAIN-SUFFIX,rstprgapipt.com
+  - DOMAIN-SUFFIX,rtbcdn.cloud
+  - DOMAIN-SUFFIX,showvid.ws
+  - DOMAIN-SUFFIX,srvkp.com
+  - DOMAIN-SUFFIX,stream-balancer-allo-1.live
+  - DOMAIN-SUFFIX,stream-balancer-allo-1.site
+  - DOMAIN-SUFFIX,videobase.biz
+  - DOMAIN-SUFFIX,vkvideo.cloud
+  - DOMAIN-SUFFIX,vokino.org
+  - DOMAIN-SUFFIX,vokino.pro
+  - DOMAIN-SUFFIX,vokino.tv
+  - DOMAIN-SUFFIX,werkecdn.me
   - DOMAIN-SUFFIX,ai-guardrail.com
   - DOMAIN-SUFFIX,ai-guardrail.com.cn
   - DOMAIN-SUFFIX,ai-kaleidoscope.com
