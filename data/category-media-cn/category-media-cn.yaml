@@ -35,6 +35,7 @@ payload:
   - +.bbtnews.com.cn
   - +.bdu.focus.cn
   - +.bianews.com
+  - +.bjd.com.cn
   - +.bjnews.com.cn
   - +.bkeconomy.com
   - +.btime.com
@@ -68,6 +69,7 @@ payload:
   - +.chinanews.com
   - +.chinanews.com.cn
   - +.chinaott.com
+  - +.chinapp.com
   - +.chinaqw.com
   - +.chinastarmarket.cn
   - +.chuanbaoguancha.cn
@@ -111,6 +113,7 @@ payload:
   - +.dayoo.com
   - +.dgtle.com
   - +.dianzhenkeji.com
+  - +.dingxinwen.cn
   - +.donews.com
   - +.dutenews.com
   - +.dzh.com.cn
@@ -156,8 +159,10 @@ payload:
   - +.hndt.com
   - +.hnol.net
   - +.hntv.tv
+  - +.hsw.cn
   - +.huanqiu.com
   - +.huanqiucdn.cn
+  - +.huashangtop.com
   - +.hubeidaily.net
   - +.huxiu.com
   - +.huxiucdn.com
@@ -186,6 +191,7 @@ payload:
   - +.ipanda.com
   - +.ipanda.com.cn
   - +.ipanda.net
+  - +.iqilu.com
   - +.iresearch.cn
   - +.istv.cn
   - +.it168.com
@@ -209,6 +215,7 @@ payload:
   - +.jztvnews.com
   - +.kankanews.com
   - +.kankannews.com
+  - +.kf.cn
   - +.kjrb.com.cn
   - +.kksmg.com
   - +.knewsmart.com
@@ -232,6 +239,7 @@ payload:
   - +.mnw.cn
   - +.moer.cn
   - +.mydrivers.com
+  - +.myhsw.cn
   - +.myzaker.com
   - +.nanyuenews.com
   - +.nbd.com.cn
@@ -321,6 +329,7 @@ payload:
   - +.tmtpost.com
   - +.tmtsmartlife.com
   - +.tmtsmartrun.com
+  - +.topnews.cn
   - +.track.sohu.com
   - +.tvcc.cn
   - +.tvcc.com.cn

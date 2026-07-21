@@ -629,6 +629,7 @@ payload:
   - +.alookweb.com
   - +.aloys233.top
   - +.amap.com
+  - +.amap.net
   - +.amapauto.com
   - +.amazonaws.cn
   - +.amazonaws.com.cn
@@ -1002,6 +1003,7 @@ payload:
   - +.building.fun
   - +.buke999.com
   - +.burningvocabulary.com
+  - +.buyjingxi.com
   - +.bvfcdn.com
   - +.bvfcdn2.com
   - +.bvfcdn3.com
@@ -1173,6 +1175,7 @@ payload:
   - +.cczq.com
   - +.cczq.net
   - +.cd120.com
+  - +.cd120.info
   - +.cdkeynogap.com
   - +.cdn20.com
   - +.cdn30.org
@@ -1342,6 +1345,7 @@ payload:
   - +.chinaott.com
   - +.chinapay.com
   - +.chinapost-life.com
+  - +.chinapp.com
   - +.chinapp.net
   - +.chinapubmed.net
   - +.chinaqw.com
@@ -1572,6 +1576,7 @@ payload:
   - +.colorfulclouds.net
   - +.coloros.com
   - +.coloros.net
+  - +.colorv.com
   - +.combofin.com
   - +.comfylink.com
   - +.commonpcs-test.com
@@ -1996,6 +2001,7 @@ payload:
   - +.eastmoney.com
   - +.eastmoneyfutures.com
   - +.eastsoo.com
+  - +.easyliao.com
   - +.easytomessage.com
   - +.easytrip.com
   - +.eayyou.com
@@ -2401,6 +2407,7 @@ payload:
   - +.goosail.com
   - +.goproxy.io
   - +.goselling.com
+  - +.gosinoic.com
   - +.goto-game.com
   - +.goto-game.mobi
   - +.goto-game.org
@@ -2472,6 +2479,7 @@ payload:
   - +.h-adashx4yt.ut.taobao.com
   - +.h2os.com
   - +.h2tcbox.baidu.com
+  - +.h3c.com
   - +.h5uc.com
   - +.hack520.com
   - +.hackernews.cc
@@ -2671,6 +2679,7 @@ payload:
   - +.httpdns.zhihu.com
   - +.httpdns.zybang.com
   - +.httpdns1.cc.cdnhwc5.com
+  - +.httpdnsmultiapivip.meituan.com
   - +.httpdnsvip.meituan.com
   - +.httpsdns.baidu.com
   - +.huaban.com
@@ -2682,6 +2691,7 @@ payload:
   - +.huangyuhui.net
   - +.huanleguang.com
   - +.huanqiu.com
+  - +.huashangtop.com
   - +.huashengdaili.com
   - +.huatu.com
   - +.huawei.com
@@ -2918,6 +2928,7 @@ payload:
   - +.ipshu.com
   - +.ipshudi.com
   - +.ipssh.net
+  - +.iqilu.com
   - +.iqiyi.com
   - +.iqiyipic.com
   - +.iqoo.com
@@ -3053,6 +3064,7 @@ payload:
   - +.jddapeigou.com
   - +.jddebug.com
   - +.jddglobal.com
+  - +.jddj.com
   - +.jdemall.com
   - +.jdfw1.com
   - +.jdgslb.com
@@ -3397,6 +3409,7 @@ payload:
   - +.kych5.com
   - +.lady8844.com
   - +.lagou.com
+  - +.laifeng.com
   - +.laiwang.com
   - +.laiyagushi.com
   - +.lancdn.com
@@ -3481,6 +3494,7 @@ payload:
   - +.lebo.top
   - +.lecloud.com
   - +.lecloudapi.com
+  - +.lecoo.com
   - +.ledu.com
   - +.leetcode-cn.com
   - +.lehuipay.com
@@ -3545,6 +3559,7 @@ payload:
   - +.lingshoujia.com
   - +.lingxigames.com
   - +.linka2a.net
+  - +.linkflowtech.com
   - +.linkheer.com
   - +.linkvans.com
   - +.linliyz.com
@@ -3818,6 +3833,7 @@ payload:
   - +.mobsdks.com
   - +.modelarts-infer.com
   - +.modelarts-maas.com
+  - +.moedu.com
   - +.moegirl.org
   - +.mofang.com
   - +.mofazhu.com
@@ -3883,6 +3899,7 @@ payload:
   - +.mxbc.com
   - +.mxbc.net
   - +.mxhichina.com
+  - +.my-imcloud.com
   - +.my-qcloud.com
   - +.my4399.com
   - +.my7v.com
@@ -4285,6 +4302,7 @@ payload:
   - +.qianjia.com
   - +.qianlima.com
   - +.qianlong.com
+  - +.qiantucdn.com
   - +.qianwen.com
   - +.qianxin.com
   - +.qianxincdn.com
@@ -4375,6 +4393,7 @@ payload:
   - +.qunjielong.com
   - +.qunliao.info
   - +.quyaoya.com
+  - +.quyixian.com
   - +.qwapp.top
   - +.qwdjapp.com
   - +.qweather.com
@@ -4876,12 +4895,14 @@ payload:
   - +.teambition.net
   - +.teambitionapis.com
   - +.tebiefuza.cloud
+  - +.tec73.com
   - +.techo.chat
   - +.techwalker.com
   - +.tefscloud.com
   - +.tefscloud.net
   - +.tekkenthree.com
   - +.teleows.com
+  - +.telunsu.net
   - +.tenant-zone-dev.com
   - +.tencdns.net
   - +.tencent-cloud.com
@@ -4927,6 +4948,7 @@ payload:
   - +.tendis.net
   - +.tenpay.com
   - +.tenxcloud.com
+  - +.tesoon.com
   - +.test-cignacmb.com
   - +.testads.api.my7v.com
   - +.testwaf.com
@@ -4956,6 +4978,7 @@ payload:
   - +.ths123.com
   - +.thundercdn.com
   - +.thunderurl.com
+  - +.thunis.com
   - +.tiancity.com
   - +.tiancitycdn.com
   - +.tianhw.top
@@ -5092,6 +5115,8 @@ payload:
   - +.trustexporter.com
   - +.trustie.net
   - +.trustutn.org
+  - +.tsinghuaic.com
+  - +.tsingtengms.com
   - +.tsparkling.com
   - +.ttbyte.com
   - +.ttbyte.net
@@ -5190,6 +5215,7 @@ payload:
   - +.umtrack.com
   - +.unaming.info
   - +.unaming.net
+  - +.unicloud.com
   - +.unicom
   - +.unicompayment.com
   - +.union.baidu.com
@@ -5199,6 +5225,11 @@ payload:
   - +.unionpayintl.com
   - +.unionpaysecure.com
   - +.uniontech.com
+  - +.unisdigital.com
+  - +.unisemicon.com
+  - +.unisoc.com
+  - +.unispc.com
+  - +.uniswdc.com
   - +.unityads.unity.cn
   - +.unityads.unitychina.cn
   - +.uoj.ac
@@ -5496,6 +5527,8 @@ payload:
   - +.weidian.com
   - +.weilaicaijing.com
   - +.weilaiyunxiao.com
+  - +.weimob.com
+  - +.weimobdc.com
   - +.weiphone.net
   - +.weishi.com
   - +.weixin.com
@@ -5623,6 +5656,8 @@ payload:
   - +.xbiao.com
   - +.xboxfan.com
   - +.xcsc.com
+  - +.xcz.im
+  - +.xczim.com
   - +.xd.com
   - +.xdcdn.net
   - +.xdqtech.com
@@ -5979,6 +6014,8 @@ payload:
   - +.yunxinfw.com
   - +.yunzhijia.com
   - +.yunzhuxue.com
+  - +.yupao.com
+  - +.yupaowang.com
   - +.yupoo.com
   - +.yuque.com
   - +.yushanfang.com
@@ -6074,6 +6111,7 @@ payload:
   - +.zhisheng.com
   - +.zhixue.com
   - +.zhiye.com
+  - +.zhizhuma.com
   - +.zhiziyun.com
   - +.zhlyen.com
   - +.zhongkao.com
@@ -6128,6 +6166,7 @@ payload:
   - +.zongheng.com
   - +.zpb365.com
   - +.zs-jlc.com
+  - +.zstatic.net
   - +.zsxq.com
   - +.zszq.com
   - +.zt-express.com
@@ -6148,6 +6187,7 @@ payload:
   - +.zui.com
   - +.zuidaima.com
   - +.zuihuimai.com
+  - +.zuimeitianqi.com
   - +.zuk.com
   - +.zuodao.com
   - +.zuowen.com
