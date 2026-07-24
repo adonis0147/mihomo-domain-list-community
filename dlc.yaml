@@ -11697,6 +11697,7 @@ payload:
   - DOMAIN-SUFFIX,crustwebsites.net
   - DOMAIN-SUFFIX,dat.foundation
   - DOMAIN-SUFFIX,democracy.earth
+  - DOMAIN-SUFFIX,docs.rw
   - DOMAIN-SUFFIX,dweb.link
   - DOMAIN-SUFFIX,eff.org
   - DOMAIN-SUFFIX,epicbrowser.com
@@ -11734,6 +11735,7 @@ payload:
   - DOMAIN-SUFFIX,jitsi.org
   - DOMAIN-SUFFIX,jorropo.net
   - DOMAIN-SUFFIX,lantern.io
+  - DOMAIN-SUFFIX,log.rw
   - DOMAIN-SUFFIX,lokinet.org
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,nftstorage.link
@@ -11759,6 +11761,7 @@ payload:
   - DOMAIN-SUFFIX,telex.cc
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,tribler.org
+  - DOMAIN-SUFFIX,try.rw
   - DOMAIN-SUFFIX,tunsafe.com
   - DOMAIN-SUFFIX,turkeyblocks.org
   - DOMAIN-SUFFIX,twister.net.co
@@ -62482,6 +62485,7 @@ payload:
   - DOMAIN-SUFFIX,docs.com
   - DOMAIN-SUFFIX,docs.new
   - DOMAIN-SUFFIX,docs.rs
+  - DOMAIN-SUFFIX,docs.rw
   - DOMAIN-SUFFIX,doctor-videos.com
   - DOMAIN-SUFFIX,documentforce.com
   - DOMAIN-SUFFIX,dodgersexcartoons.com
@@ -68934,6 +68938,7 @@ payload:
   - DOMAIN-SUFFIX,localxlist.org
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,log.dzen.ru
+  - DOMAIN-SUFFIX,log.rw
   - DOMAIN-SUFFIX,logi.com
   - DOMAIN-SUFFIX,logicool.co.jp
   - DOMAIN-SUFFIX,logicoolg.com
@@ -76648,6 +76653,7 @@ payload:
   - DOMAIN-SUFFIX,truyenkk1.com
   - DOMAIN-SUFFIX,truyentranh86.com
   - DOMAIN-SUFFIX,truyenwk.com
+  - DOMAIN-SUFFIX,try.rw
   - DOMAIN-SUFFIX,tryalias.com
   - DOMAIN-SUFFIX,tryboobs.com
   - DOMAIN-SUFFIX,trycloudflare.com
@@ -100392,6 +100398,9 @@ payload:
   - DOMAIN-SUFFIX,reg.cloud
   - DOMAIN-SUFFIX,reg.com
   - DOMAIN-SUFFIX,reg.ru
+  - DOMAIN-SUFFIX,docs.rw
+  - DOMAIN-SUFFIX,log.rw
+  - DOMAIN-SUFFIX,try.rw
   - DOMAIN-SUFFIX,renren-inc.com
   - DOMAIN-SUFFIX,renren.com
   - DOMAIN-SUFFIX,reurl.cc
