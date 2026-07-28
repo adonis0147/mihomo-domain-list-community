@@ -7269,6 +7269,7 @@ payload:
   - DOMAIN-SUFFIX,bsky.app
   - DOMAIN-SUFFIX,bsky.network
   - DOMAIN-SUFFIX,bsky.social
+  - DOMAIN-SUFFIX,blurams.app
   - DOMAIN-SUFFIX,blurams.com
   - DOMAIN-SUFFIX,4myminicard.com
   - DOMAIN-SUFFIX,aboutyourmini.com
@@ -11284,6 +11285,7 @@ payload:
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,h2o.ai
   - DOMAIN-SUFFIX,hf.co
@@ -11451,6 +11453,7 @@ payload:
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,h2o.ai
   - DOMAIN-SUFFIX,hf.co
@@ -11687,6 +11690,7 @@ payload:
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,bypasscensorship.org
   - DOMAIN-SUFFIX,c4rex.co
+  - DOMAIN-SUFFIX,ceno.app
   - DOMAIN-SUFFIX,censorship.ai
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,cf-ipfs.com
@@ -12460,6 +12464,7 @@ payload:
   - DOMAIN-SUFFIX,sber.ru
   - DOMAIN-SUFFIX,sberauto.com
   - DOMAIN-SUFFIX,sberbank-insurance.ru
+  - DOMAIN-SUFFIX,sberbank-tele.com
   - DOMAIN-SUFFIX,sberbank.com
   - DOMAIN-SUFFIX,sberbank.ru
   - DOMAIN-SUFFIX,sberbankaktivno.ru
@@ -12664,6 +12669,7 @@ payload:
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,bromite.org
   - DOMAIN-SUFFIX,browser.kagi.com
+  - DOMAIN-SUFFIX,ceno.app
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,chrome
   - DOMAIN-SUFFIX,chrome.com
@@ -15074,6 +15080,7 @@ payload:
   - DOMAIN-SUFFIX,bluehatnights.com
   - DOMAIN-SUFFIX,bluemix.com
   - DOMAIN-SUFFIX,bluemix.net
+  - DOMAIN-SUFFIX,blurams.app
   - DOMAIN-SUFFIX,blurams.com
   - DOMAIN-SUFFIX,bookonsky.net
   - DOMAIN-SUFFIX,bookstagram.com
@@ -25580,6 +25587,7 @@ payload:
   - DOMAIN-SUFFIX,itunesu.net
   - DOMAIN-SUFFIX,iutunes.com
   - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,ivicdn.tv
   - DOMAIN-SUFFIX,iyf.tv
   - DOMAIN-SUFFIX,joinmaidez.com
   - DOMAIN-SUFFIX,joinsquad.com
@@ -25591,6 +25599,7 @@ payload:
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kick.com
+  - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
@@ -27825,6 +27834,8 @@ payload:
   - DOMAIN-SUFFIX,cdnvideo.ru
   - DOMAIN-SUFFIX,cdnvideohub.com
   - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,ivicdn.tv
+  - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kinorium.com
@@ -28280,6 +28291,7 @@ payload:
   - DOMAIN-SUFFIX,sber.ru
   - DOMAIN-SUFFIX,sberauto.com
   - DOMAIN-SUFFIX,sberbank-insurance.ru
+  - DOMAIN-SUFFIX,sberbank-tele.com
   - DOMAIN-SUFFIX,sberbank.com
   - DOMAIN-SUFFIX,sberbank.ru
   - DOMAIN-SUFFIX,sberbankaktivno.ru
@@ -31717,6 +31729,7 @@ payload:
   - DOMAIN-SUFFIX,ipquery.io
   - DOMAIN-SUFFIX,ipregistry.co
   - DOMAIN-SUFFIX,iproyal.com
+  - DOMAIN-SUFFIX,ipsimple.org
   - DOMAIN-SUFFIX,ipstack.com
   - DOMAIN-SUFFIX,ipv4-internet.yandex.net
   - DOMAIN-SUFFIX,ipv4.internet.yandex.net
@@ -31745,6 +31758,7 @@ payload:
   - DOMAIN-SUFFIX,myiplookup.com
   - DOMAIN-SUFFIX,mylocation.org
   - DOMAIN-SUFFIX,nodedata.io
+  - DOMAIN-SUFFIX,nossl.sh
   - DOMAIN-SUFFIX,osint.sh
   - DOMAIN-SUFFIX,proxycheck.io
   - DOMAIN-SUFFIX,realip.cc
@@ -31781,6 +31795,7 @@ payload:
   - DOMAIN,ip.comss.net
   - DOMAIN,ipv4-check-perf.radar.cloudflare.com
   - DOMAIN,ipv6-check-perf.radar.cloudflare.com
+  - DOMAIN,myip.dnsomatic.com
   - DOMAIN,whatismyip.akamai.com
   - DOMAIN-SUFFIX,4everland.io
   - DOMAIN-SUFFIX,c4rex.co
@@ -34193,6 +34208,8 @@ payload:
   - DOMAIN-SUFFIX,green-box-tv.com
   - DOMAIN-SUFFIX,gw2ru.com
   - DOMAIN-SUFFIX,inosmi.ru
+  - DOMAIN-SUFFIX,ixbt.com
+  - DOMAIN-SUFFIX,ixbt.site
   - DOMAIN-SUFFIX,jinrieluosi.cn
   - DOMAIN-SUFFIX,kanzlerdaddy.ru
   - DOMAIN-SUFFIX,khangar.net
@@ -34414,27 +34431,38 @@ payload:
   - DOMAIN-SUFFIX,zasekin.ru
   - DOMAIN-SUFFIX,zerkalo.io
   - DOMAIN-SUFFIX,zona.media
+  - DOMAIN-SUFFIX,apteka-april.ru
+  - DOMAIN-SUFFIX,apteka.ru
+  - DOMAIN-SUFFIX,aptekiplus.ru
   - DOMAIN-SUFFIX,emias.info
   - DOMAIN-SUFFIX,emias.mos.ru
   - DOMAIN-SUFFIX,emias.ru
+  - DOMAIN-SUFFIX,farmlend.ru
+  - DOMAIN-SUFFIX,gorzdrav.org
   - DOMAIN-SUFFIX,gorzdrav.spb.ru
   - DOMAIN-SUFFIX,klinikabudzdorov.ru
   - DOMAIN-SUFFIX,medsi-premium.ru
   - DOMAIN-SUFFIX,medsi.com
   - DOMAIN-SUFFIX,medsi.pro
   - DOMAIN-SUFFIX,medsi.ru
+  - DOMAIN-SUFFIX,megapteka.ru
   - DOMAIN-SUFFIX,mgfoms.ru
   - DOMAIN-SUFFIX,mofoms.ru
   - DOMAIN-SUFFIX,mosgorzdrav.ru
   - DOMAIN-SUFFIX,oms.karelia.ru
+  - DOMAIN-SUFFIX,planetazdorovo.ru
   - DOMAIN-SUFFIX,polyclinika.ru
+  - DOMAIN-SUFFIX,pz.help
   - DOMAIN-SUFFIX,reaviz.com
   - DOMAIN-SUFFIX,reaviz.ru
   - DOMAIN-SUFFIX,reso-med.com
   - DOMAIN-SUFFIX,reso-med.ru
   - DOMAIN-SUFFIX,smartmed.pro
   - DOMAIN-SUFFIX,spboms.ru
+  - DOMAIN-SUFFIX,stolichki.ru
+  - DOMAIN-SUFFIX,uteka.ru
   - DOMAIN-SUFFIX,vipmed.ru
+  - DOMAIN-SUFFIX,zdravcity.ru
   - DOMAIN-SUFFIX,zub.ru
   - DOMAIN-SUFFIX,androidfilehost.com
   - DOMAIN-SUFFIX,borneo.world
@@ -42297,6 +42325,7 @@ payload:
   - DOMAIN-SUFFIX,okolo.app
   - DOMAIN-SUFFIX,oskelly.co
   - DOMAIN-SUFFIX,oskelly.ru
+  - DOMAIN-SUFFIX,ostin.com
   - DOMAIN-SUFFIX,perekrestok.com
   - DOMAIN-SUFFIX,perekrestok.ru
   - DOMAIN-SUFFIX,regard.ru
@@ -42436,6 +42465,7 @@ payload:
   - DOMAIN-SUFFIX,comss.online
   - DOMAIN-SUFFIX,comss.org
   - DOMAIN-SUFFIX,copymonkey.app
+  - DOMAIN-SUFFIX,corp.express
   - DOMAIN-SUFFIX,counter.yandex.ru
   - DOMAIN-SUFFIX,cups.online
   - DOMAIN-SUFFIX,cxhub.ru
@@ -42503,6 +42533,7 @@ payload:
   - DOMAIN-SUFFIX,etna.ai
   - DOMAIN-SUFFIX,evrasia.rest
   - DOMAIN-SUFFIX,ewisdom.us.kg
+  - DOMAIN-SUFFIX,express.ms
   - DOMAIN-SUFFIX,f6.dev
   - DOMAIN-SUFFIX,f6.security
   - DOMAIN-SUFFIX,facct.email
@@ -42542,8 +42573,10 @@ payload:
   - DOMAIN-SUFFIX,gismeteo.st
   - DOMAIN-SUFFIX,gogettaxi.org
   - DOMAIN-SUFFIX,goicq.org
+  - DOMAIN-SUFFIX,gorzdrav.org
   - DOMAIN-SUFFIX,goup.ai
   - DOMAIN-SUFFIX,green-box-tv.com
+  - DOMAIN-SUFFIX,greywallpass.com
   - DOMAIN-SUFFIX,group-ib.ae
   - DOMAIN-SUFFIX,group-ib.co.uk
   - DOMAIN-SUFFIX,group-ib.com
@@ -42602,6 +42635,9 @@ payload:
   - DOMAIN-SUFFIX,icqvideo.com
   - DOMAIN-SUFFIX,ideco.dev
   - DOMAIN-SUFFIX,it-territory.com
+  - DOMAIN-SUFFIX,ivicdn.tv
+  - DOMAIN-SUFFIX,ixbt.com
+  - DOMAIN-SUFFIX,ixbt.site
   - DOMAIN-SUFFIX,jinrieluosi.cn
   - DOMAIN-SUFFIX,jivo.chat
   - DOMAIN-SUFFIX,jivochat.co.in
@@ -42684,6 +42720,7 @@ payload:
   - DOMAIN-SUFFIX,metrika.yandex.com
   - DOMAIN-SUFFIX,metrika.yandex.net
   - DOMAIN-SUFFIX,metrika.yandex.ru
+  - DOMAIN-SUFFIX,mfa.center
   - DOMAIN-SUFFIX,mindbox.cloud
   - DOMAIN-SUFFIX,mindbox.group
   - DOMAIN-SUFFIX,mindbox.site
@@ -42716,6 +42753,9 @@ payload:
   - DOMAIN-SUFFIX,mytrk.link
   - DOMAIN-SUFFIX,naydex.net
   - DOMAIN-SUFFIX,neon.click
+  - DOMAIN-SUFFIX,netcraze.club
+  - DOMAIN-SUFFIX,netcraze.link
+  - DOMAIN-SUFFIX,netcraze.pro
   - DOMAIN-SUFFIX,netmonet.co
   - DOMAIN-SUFFIX,ngenix.net
   - DOMAIN-SUFFIX,noticias-rt.com
@@ -42737,6 +42777,7 @@ payload:
   - DOMAIN-SUFFIX,okl.lt
   - DOMAIN-SUFFIX,okolo.app
   - DOMAIN-SUFFIX,oskelly.co
+  - DOMAIN-SUFFIX,ostin.com
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
@@ -42771,6 +42812,7 @@ payload:
   - DOMAIN-SUFFIX,prodcontest.com
   - DOMAIN-SUFFIX,promodj.com
   - DOMAIN-SUFFIX,ptsecurity.com
+  - DOMAIN-SUFFIX,public.express
   - DOMAIN-SUFFIX,pushgrow.io
   - DOMAIN-SUFFIX,pvubank.com
   - DOMAIN-SUFFIX,pz.help
@@ -42869,6 +42911,7 @@ payload:
   - DOMAIN-SUFFIX,sber-bank.by
   - DOMAIN-SUFFIX,sber.pro
   - DOMAIN-SUFFIX,sberauto.com
+  - DOMAIN-SUFFIX,sberbank-tele.com
   - DOMAIN-SUFFIX,sberbank.com
   - DOMAIN-SUFFIX,sbercloud.tech
   - DOMAIN-SUFFIX,sbermarketing.ru
@@ -42989,6 +43032,7 @@ payload:
   - DOMAIN-SUFFIX,unirest.tech
   - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,usocial.pro
+  - DOMAIN-SUFFIX,vimu.tv
   - DOMAIN-SUFFIX,viqeo.tv
   - DOMAIN-SUFFIX,viqeotv.com
   - DOMAIN-SUFFIX,vk-analytics.ru
@@ -43069,6 +43113,7 @@ payload:
   - DOMAIN-SUFFIX,x5.team
   - DOMAIN-SUFFIX,x5.tech
   - DOMAIN-SUFFIX,x5static.net
+  - DOMAIN-SUFFIX,xlnk.ms
   - DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
   - DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
   - DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
@@ -45523,6 +45568,7 @@ payload:
   - DOMAIN-SUFFIX,blablacar.ru
   - DOMAIN-SUFFIX,fasten.ru
   - DOMAIN-SUFFIX,gorodpay.ru
+  - DOMAIN-SUFFIX,greywallpass.com
   - DOMAIN-SUFFIX,mosmetro.ru
   - DOMAIN-SUFFIX,mosmetro.tech
   - DOMAIN-SUFFIX,ostrovok.ru
@@ -45749,6 +45795,7 @@ payload:
   - DOMAIN-SUFFIX,cdek.shopping
   - DOMAIN-SUFFIX,cdn77.com
   - DOMAIN-SUFFIX,cdn77.org
+  - DOMAIN-SUFFIX,ceno.app
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,ams02.space
@@ -59721,6 +59768,7 @@ payload:
   - DOMAIN-SUFFIX,bluemix.net
   - DOMAIN-SUFFIX,bluestacks.com
   - DOMAIN-SUFFIX,bluffyporn.com
+  - DOMAIN-SUFFIX,blurams.app
   - DOMAIN-SUFFIX,blurams.com
   - DOMAIN-SUFFIX,blylq.buzz
   - DOMAIN-SUFFIX,blz-contentstack.com
@@ -60867,6 +60915,7 @@ payload:
   - DOMAIN-SUFFIX,cell.com
   - DOMAIN-SUFFIX,cencoastbmw.com
   - DOMAIN-SUFFIX,cenkei.com
+  - DOMAIN-SUFFIX,ceno.app
   - DOMAIN-SUFFIX,censorship.ai
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,centervillage.co.jp
@@ -65711,6 +65760,7 @@ payload:
   - DOMAIN-SUFFIX,greginhollywood.com
   - DOMAIN-SUFFIX,gridaware.app
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,grooby.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,group-ib.ae
@@ -67851,6 +67901,7 @@ payload:
   - DOMAIN-SUFFIX,ius.io
   - DOMAIN-SUFFIX,iutunes.com
   - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,ivicdn.tv
   - DOMAIN-SUFFIX,ivintageporn.com
   - DOMAIN-SUFFIX,iwank.tv
   - DOMAIN-SUFFIX,iwantavnow.com
@@ -68501,6 +68552,7 @@ payload:
   - DOMAIN-SUFFIX,kindleproject.com
   - DOMAIN-SUFFIX,kindnudist.com
   - DOMAIN-SUFFIX,kindteenporn.com
+  - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,kingcomix.com
   - DOMAIN-SUFFIX,kingextre.me
   - DOMAIN-SUFFIX,kingf-av.buzz
@@ -74331,6 +74383,7 @@ payload:
   - DOMAIN-SUFFIX,sber.ru
   - DOMAIN-SUFFIX,sberauto.com
   - DOMAIN-SUFFIX,sberbank-insurance.ru
+  - DOMAIN-SUFFIX,sberbank-tele.com
   - DOMAIN-SUFFIX,sberbank.com
   - DOMAIN-SUFFIX,sberbank.ru
   - DOMAIN-SUFFIX,sberbankaktivno.ru
@@ -97167,6 +97220,11 @@ payload:
   - DOMAIN-SUFFIX,universalstudioshollywood.com
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
+  - DOMAIN-SUFFIX,crazedns.ru
+  - DOMAIN-SUFFIX,netcraze.club
+  - DOMAIN-SUFFIX,netcraze.link
+  - DOMAIN-SUFFIX,netcraze.pro
+  - DOMAIN-SUFFIX,netcraze.ru
   - DOMAIN-SUFFIX,bestsrv.de
   - DOMAIN-SUFFIX,customercontrolpanel.de
   - DOMAIN-SUFFIX,dnsserver1.de
@@ -100986,6 +101044,7 @@ payload:
   - DOMAIN-SUFFIX,sber.ru
   - DOMAIN-SUFFIX,sberauto.com
   - DOMAIN-SUFFIX,sberbank-insurance.ru
+  - DOMAIN-SUFFIX,sberbank-tele.com
   - DOMAIN-SUFFIX,sberbank.com
   - DOMAIN-SUFFIX,sberbank.ru
   - DOMAIN-SUFFIX,sberbankaktivno.ru
@@ -106580,6 +106639,7 @@ payload:
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,t.co
@@ -106640,6 +106700,7 @@ payload:
   - DOMAIN,sentry.x5.ru
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,beth.games
