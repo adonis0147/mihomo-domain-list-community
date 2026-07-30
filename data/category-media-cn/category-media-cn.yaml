@@ -44,6 +44,7 @@ payload:
   - +.caixin.com
   - +.cankaoxiaoxi.com
   - +.cbinews.com
+  - +.ccidcom.com
   - +.cctv.cn
   - +.cctv.com
   - +.cctv4g.com
@@ -96,9 +97,11 @@ payload:
   - +.cqn.com.cn
   - +.cqnews.net
   - +.cqsjb.com
+  - +.cri.cn
   - +.cs.com.cn
   - +.ctdsb.net
   - +.ctoutiao.com
+  - +.cww.net.cn
   - +.cy.com
   - +.cyol.com
   - +.cyol.net
@@ -123,6 +126,7 @@ payload:
   - +.ebrun.com
   - +.ecns.cn
   - +.eeo.com.cn
+  - +.egsea.com
   - +.evolife.cn
   - +.expreview.com
   - +.feng.com
@@ -148,8 +152,11 @@ payload:
   - +.guangmingdaily.cn
   - +.guigu.org
   - +.gw.com.cn
+  - +.gxnews.com.cn
+  - +.gxrb.com.cn
   - +.gxtv.cn
   - +.gxxmt.com
+  - +.gxxw.com
   - +.gztv.com
   - +.haowenti.net
   - +.heimadata.com
@@ -198,6 +205,7 @@ payload:
   - +.itc.cn
   - +.ithome.com
   - +.jfdaily.com
+  - +.jfdaily.com.cn
   - +.jianyuweb.com
   - +.jiemian.com
   - +.jiemian.com.cn
@@ -279,6 +287,7 @@ payload:
   - +.ql1d.com
   - +.qpb.sohu.com
   - +.qpb1.sohu.com
+  - +.qstheory.cn
   - +.qzwb.com
   - +.rednet.cn
   - +.reke.at.sohu.com
@@ -294,6 +303,7 @@ payload:
   - +.sfccn.com
   - +.shangyexinzhi.com
   - +.shedunews.net
+  - +.shobserver.cn
   - +.shobserver.com
   - +.snowballsecurities.com
   - +.snxw.com
@@ -359,6 +369,7 @@ payload:
   - +.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
   - +.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
   - +.xueqiu.com
+  - +.xuexi.cn
   - +.xxcb.cn
   - +.yangshipin.cn
   - +.ycwb.com

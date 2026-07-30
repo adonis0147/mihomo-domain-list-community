@@ -552,10 +552,13 @@ payload:
   - +.alibaba.com
   - +.alibabacapital.com
   - +.alibabachengdun.com
+  - +.alibabachengdun.net
   - +.alibabacorp.com
   - +.alibabadesign.com
   - +.alibabadns.com
   - +.alibabadoctor.com
+  - +.alibabafonts.com
+  - +.alibabafoundation.com
   - +.alibabafuturehotel.com
   - +.alibabagroup.com
   - +.alibabapictures.com
@@ -1165,6 +1168,7 @@ payload:
   - +.ccbfutures.com
   - +.ccbleasing.com
   - +.ccbxt.com
+  - +.ccidcom.com
   - +.ccnew.com
   - +.ccrgt.com
   - +.ccs.umeng.com
@@ -1385,6 +1389,8 @@ payload:
   - +.chugou360.com
   - +.chuimg.com
   - +.chujingapp.com
+  - +.chunyu.mobi
+  - +.chunyuyisheng.com
   - +.chushi.cool
   - +.chushou.tv
   - +.chuyu.me
@@ -1635,6 +1641,7 @@ payload:
   - +.csdn.com
   - +.csdn.net
   - +.csfounder.com
+  - +.csjplatform.com
   - +.csmjzs.com
   - +.cspro.org
   - +.csslcloud.net
@@ -1714,6 +1721,7 @@ payload:
   - +.daocloud.io
   - +.daocloud.vip
   - +.daodoc.com
+  - +.daogou.ai
   - +.daojia.com
   - +.daovoice.io
   - +.data.mistat.india.xiaomi.com
@@ -2044,6 +2052,7 @@ payload:
   - +.eduuu.com
   - +.eeyy.com
   - +.eflycloud.com
+  - +.egsea.com
   - +.ehaier.com
   - +.eiv.baidu.com
   - +.ejoy.com
@@ -2164,6 +2173,7 @@ payload:
   - +.fengkongbao.com
   - +.fengkongcloud.com
   - +.fengniao.com
+  - +.fengniaojipei.net
   - +.fengxian110.com
   - +.fenxi.360.cn
   - +.fenxi.com
@@ -2472,6 +2482,7 @@ payload:
   - +.gxairlines.com
   - +.gxb.io
   - +.gxxmt.com
+  - +.gxxw.com
   - +.gzasc.com
   - +.gzcqs.com
   - +.gzlzfm.com
@@ -2782,6 +2793,8 @@ payload:
   - +.hydun.com
   - +.hypercachenet.com
   - +.hypercachenode.com
+  - +.hzchengdun.com
+  - +.hzchengdun.net
   - +.hzdtv.tv
   - +.hzman.net
   - +.i.snssdk.com
@@ -2971,6 +2984,7 @@ payload:
   - +.ivweb.io
   - +.ivwen.com
   - +.iwanad.baidu.com
+  - +.iwangding.com
   - +.ixgvideo.com
   - +.ixigua.com
   - +.ixiguapi.com
@@ -3257,6 +3271,7 @@ payload:
   - +.jztvnews.com
   - +.k366.com
   - +.kaadas.com
+  - +.kada.com
   - +.kaifayun.com
   - +.kaifubiao.com
   - +.kaihong.com
@@ -3330,6 +3345,7 @@ payload:
   - +.kouclo.com
   - +.koudai.com
   - +.koudai8.com
+  - +.koudaitong.com
   - +.kq7.com
   - +.ks-cdn.com
   - +.ks-cdn1.com
@@ -4145,6 +4161,7 @@ payload:
   - +.paipai.com
   - +.paipaibang.com
   - +.pandarzli.com
+  - +.pangle.cn
   - +.pangolin-dsp-toutiao-b.com
   - +.pangolin-dsp-toutiao.com
   - +.pangolin-hl.snssdk.com
@@ -4454,6 +4471,7 @@ payload:
   - +.rockyenglish.com
   - +.rong360.com
   - +.rongechain.com
+  - +.ronghub.com
   - +.rongshuxia.com
   - +.route53.cn
   - +.routewize.com
@@ -4688,6 +4706,7 @@ payload:
   - +.sojump.com
   - +.soku.com
   - +.solarcloud.top
+  - +.solepic.com
   - +.solidot.org
   - +.somode.com
   - +.sootoo.com
@@ -4829,6 +4848,7 @@ payload:
   - +.taodocs.com
   - +.taomee.com
   - +.taopiaopiao.com
+  - +.taotian.com
   - +.taou.com
   - +.tapapks.com
   - +.tapimg.com
@@ -5609,6 +5629,7 @@ payload:
   - +.wooyun.org
   - +.woozooo.com
   - +.worktile.com
+  - +.wosaimg.com
   - +.woshipm.com
   - +.woxihuan.com
   - +.woyaogexing.com
@@ -5754,6 +5775,7 @@ payload:
   - +.xingyeai.com
   - +.xinhuanet.com
   - +.xinhuaxmt.com
+  - +.xinlingshou.com
   - +.xinlishumeng.com
   - +.xinmeng.info
   - +.xinpianchang.com
@@ -5883,6 +5905,7 @@ payload:
   - +.ygduoyi.com
   - +.yh31.com
   - +.yhd.com
+  - +.yhgfb-cn-static.com
   - +.yicai.com
   - +.yiche.com
   - +.yichengwlkj.com
@@ -5908,6 +5931,7 @@ payload:
   - +.yinzhaowang.com
   - +.yiqifa.com
   - +.yiqifa.org
+  - +.yisou.com
   - +.yisu.com
   - +.yitaifang.com
   - +.yiwan.com
@@ -6020,6 +6044,7 @@ payload:
   - +.yunpian.com
   - +.yunqishi.net
   - +.yunshipei.com
+  - +.yunxi.tv
   - +.yunxiao.com
   - +.yunxindns.com
   - +.yunxinfw.com

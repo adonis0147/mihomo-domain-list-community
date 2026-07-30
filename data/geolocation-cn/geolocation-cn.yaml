@@ -52,6 +52,7 @@ payload:
   - +.123624.com
   - +.123641.com
   - +.12365auto.com
+  - +.12371.cn
   - +.12377.cn
   - +.123842.com
   - +.123860.com
@@ -131,6 +132,7 @@ payload:
   - +.2345.cn
   - +.2345.com
   - +.2345cdn.net
+  - +.2345tianqi.cn
   - +.258.com
   - +.25pp.com
   - +.263.net
@@ -653,10 +655,13 @@ payload:
   - +.alibaba.com
   - +.alibabacapital.com
   - +.alibabachengdun.com
+  - +.alibabachengdun.net
   - +.alibabacorp.com
   - +.alibabadesign.com
   - +.alibabadns.com
   - +.alibabadoctor.com
+  - +.alibabafonts.com
+  - +.alibabafoundation.com
   - +.alibabafuturehotel.com
   - +.alibabagroup.com
   - +.alibabapictures.com
@@ -739,6 +744,7 @@ payload:
   - +.alookweb.com
   - +.aloys233.top
   - +.alyms.cn
+  - +.alysm.cn
   - +.amap.com
   - +.amap.net
   - +.amapauto.com
@@ -1405,6 +1411,7 @@ payload:
   - +.ccbxt.com
   - +.ccf.org.cn
   - +.ccfund.com.cn
+  - +.ccidcom.com
   - +.ccnew.com
   - +.ccrgt.com
   - +.ccs.umeng.com
@@ -1742,6 +1749,8 @@ payload:
   - +.chugou360.com
   - +.chuimg.com
   - +.chujingapp.com
+  - +.chunyu.mobi
+  - +.chunyuyisheng.com
   - +.chushi.cool
   - +.chushou.tv
   - +.chuyu.me
@@ -2034,6 +2043,7 @@ payload:
   - +.cravatar.cn
   - +.cravatar.com
   - +.crggcn.com
+  - +.cri.cn
   - +.crscm.com
   - +.crsky.com
   - +.cryuantafund.com
@@ -2048,6 +2058,7 @@ payload:
   - +.csdn.net.cn
   - +.csdnimg.cn
   - +.csfounder.com
+  - +.csjplatform.com
   - +.csmjzs.com
   - +.cspro.org
   - +.csslcloud.net
@@ -2130,6 +2141,7 @@ payload:
   - +.cup62.cn
   - +.cupid.iqiyi.com
   - +.cvte.com
+  - +.cww.net.cn
   - +.cwxzx.com
   - +.cxbiji.com
   - +.cxmt.com
@@ -2173,6 +2185,7 @@ payload:
   - +.daocloud.io
   - +.daocloud.vip
   - +.daodoc.com
+  - +.daogou.ai
   - +.daojia.com
   - +.daovoice.io
   - +.data.mistat.india.xiaomi.com
@@ -2583,6 +2596,7 @@ payload:
   - +.eeyy.com
   - +.eflycloud.com
   - +.efunds.com.cn
+  - +.egsea.com
   - +.ehaier.com
   - +.eiv.baidu.com
   - +.ejoy.com
@@ -2744,6 +2758,7 @@ payload:
   - +.fengkongcloud.cn
   - +.fengkongcloud.com
   - +.fengniao.com
+  - +.fengniaojipei.net
   - +.fengxian110.com
   - +.fenxi.360.cn
   - +.fenxi.com
@@ -3128,8 +3143,11 @@ payload:
   - +.gwm.com.cn
   - +.gxairlines.com
   - +.gxb.io
+  - +.gxnews.com.cn
+  - +.gxrb.com.cn
   - +.gxtv.cn
   - +.gxxmt.com
+  - +.gxxw.com
   - +.gyzq.com.cn
   - +.gzasc.com
   - +.gzcqs.com
@@ -3525,6 +3543,8 @@ payload:
   - +.hypercachenet.com
   - +.hypercachenode.com
   - +.hytung.cn
+  - +.hzchengdun.com
+  - +.hzchengdun.net
   - +.hzdtv.tv
   - +.hzman.net
   - +.i.snssdk.com
@@ -3759,6 +3779,7 @@ payload:
   - +.ivwen.com
   - +.ivwi3.cn
   - +.iwanad.baidu.com
+  - +.iwangding.com
   - +.ixgvideo.com
   - +.ixiaochuan.cn
   - +.ixigua.com
@@ -3886,6 +3907,7 @@ payload:
   - +.jetlogistic.com
   - +.jfcoop.com
   - +.jfdaily.com
+  - +.jfdaily.com.cn
   - +.jhgtgb.com
   - +.jhscm.com
   - +.jhwan.com.cn
@@ -4092,6 +4114,7 @@ payload:
   - +.k366.com
   - +.ka9bv.cn
   - +.kaadas.com
+  - +.kada.com
   - +.kafan.cn
   - +.kaifayun.com
   - +.kaifubiao.com
@@ -4193,6 +4216,7 @@ payload:
   - +.kouclo.com
   - +.koudai.com
   - +.koudai8.com
+  - +.koudaitong.com
   - +.kq7.com
   - +.krcom.cn
   - +.ks-cdn.com
@@ -5181,6 +5205,7 @@ payload:
   - +.paipai.com
   - +.paipaibang.com
   - +.pandarzli.com
+  - +.pangle.cn
   - +.pangolin-dsp-toutiao-b.com
   - +.pangolin-dsp-toutiao.com
   - +.pangolin-hl.snssdk.com
@@ -5492,6 +5517,7 @@ payload:
   - +.qqrizhi.com
   - +.qqshuoshuo.com
   - +.qschou.com
+  - +.qstheory.cn
   - +.qtfm.cn
   - +.qtlcdn.cn
   - +.qtlcdn.com
@@ -5512,6 +5538,7 @@ payload:
   - +.qunarzz.com
   - +.qunjielong.com
   - +.qunliao.info
+  - +.quntuantuan.cn
   - +.quyaoya.com
   - +.quyixian.com
   - +.qwapp.top
@@ -5573,8 +5600,10 @@ payload:
   - +.rock-chips.com
   - +.rockyenglish.com
   - +.rong360.com
+  - +.rongcloud.cn
   - +.rongdeji.cn
   - +.rongechain.com
+  - +.ronghub.com
   - +.rongshuxia.com
   - +.roomeet.cn
   - +.route53.cn
@@ -5755,6 +5784,7 @@ payload:
   - +.shizhuang-inc.com
   - +.shizhuang-inc.net
   - +.shmetro.com
+  - +.shobserver.cn
   - +.shobserver.com
   - +.shopoppo.cn
   - +.shopoppo.com.cn
@@ -5876,6 +5906,7 @@ payload:
   - +.sojump.com
   - +.soku.com
   - +.solarcloud.top
+  - +.solepic.com
   - +.solidot.org
   - +.somode.com
   - +.sootoo.com
@@ -6057,6 +6088,7 @@ payload:
   - +.taodocs.com
   - +.taomee.com
   - +.taopiaopiao.com
+  - +.taotian.com
   - +.taou.com
   - +.tapapks.com
   - +.tapd.cn
@@ -7024,6 +7056,7 @@ payload:
   - +.worldoftank.cn
   - +.worldoftanks.cn
   - +.worldoftanks.com.cn
+  - +.wosaimg.com
   - +.woshipm.com
   - +.wosms.cn
   - +.wostatic.cn
@@ -7206,6 +7239,7 @@ payload:
   - +.xinhuanet.com
   - +.xinhuaxmt.com
   - +.xinlingshou.cn
+  - +.xinlingshou.com
   - +.xinlishumeng.com
   - +.xinmeng.info
   - +.xinmin.cn
@@ -7225,6 +7259,7 @@ payload:
   - +.xiucai.com
   - +.xiumi.us
   - +.xiumius.com
+  - +.xixikf.cn
   - +.xiyouyingyu.com
   - +.xiziwang.net
   - +.xjietiao.com
@@ -7266,6 +7301,7 @@ payload:
   - +.xuekanba.com
   - +.xueqiu.com
   - +.xuetangx.com
+  - +.xuexi.cn
   - +.xuexi365.com
   - +.xuexi365.com.cn
   - +.xuexi365.net
@@ -7333,6 +7369,7 @@ payload:
   - +.yh31.com
   - +.yhd.com
   - +.yhfund.com.cn
+  - +.yhgfb-cn-static.com
   - +.yicai.com
   - +.yiche.com
   - +.yichengwlkj.com
@@ -7360,6 +7397,7 @@ payload:
   - +.yinzhaowang.com
   - +.yiqifa.com
   - +.yiqifa.org
+  - +.yisou.com
   - +.yisu.com
   - +.yitaifang.com
   - +.yiwan.com
@@ -7502,6 +7540,7 @@ payload:
   - +.yunpian.com
   - +.yunqishi.net
   - +.yunshipei.com
+  - +.yunxi.tv
   - +.yunxiao.com
   - +.yunxindns.com
   - +.yunxinfw.com
