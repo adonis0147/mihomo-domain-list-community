@@ -68,3 +68,4 @@ payload:
   - incoming-telemetry.thunderbird.net
   - incoming.telemetry.mozilla.org
   - mozilla-ohttp.fastly-edge.com
+  - mozilla.map.fastly.net

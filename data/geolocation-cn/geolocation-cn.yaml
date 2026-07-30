@@ -115,6 +115,7 @@ payload:
   - +.19yxw.com
   - +.1hai.cn
   - +.1huizhan.com
+  - +.1kkk.com
   - +.1nongjing.com
   - +.1ppt.com
   - +.1ting.com
@@ -1431,6 +1432,7 @@ payload:
   - +.cdnbuild.com
   - +.cdnbuild.net
   - +.cdncl.net
+  - +.cdndm5.com
   - +.cdndns1.com
   - +.cdndns2.com
   - +.cdndo.com
@@ -2329,6 +2331,9 @@ payload:
   - +.dlife.cn
   - +.dlnel.com
   - +.dlnel.org
+  - +.dm5.cn
+  - +.dm5.com
+  - +.dm9.com
   - +.dmall.com
   - +.dmallcdn.com
   - +.dmhmusic.com
@@ -3008,6 +3013,7 @@ payload:
   - +.glsc.com.cn
   - +.glxcc.net
   - +.gm86.com
+  - +.gmanhua.com
   - +.gmdaily.cn
   - +.gmedev.cn
   - +.gmw.cn
@@ -3285,6 +3291,7 @@ payload:
   - +.hjapi.com
   - +.hjfile.cn
   - +.hkgcloudcs.com
+  - +.hkmanga.com
   - +.hktheone.com
   - +.hlgdata.com
   - +.hlzqgs.com
@@ -4600,6 +4607,9 @@ payload:
   - +.mamayz.cn
   - +.mamayz.com
   - +.mamecn.com
+  - +.manben.com
+  - +.manbenapi.com
+  - +.manhuaren.com
   - +.manhuatai.com
   - +.manmanbuy.com
   - +.manmankan.com
