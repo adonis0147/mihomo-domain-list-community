@@ -12136,7 +12136,10 @@ payload:
   - +.jetbrains.cloud
   - +.jetbrains.com
   - +.jetbrains.com.cn
+  - +.jetbrains.dev
   - +.jetbrains.net
+  - +.jetbrains.org
+  - +.jetbrains.ru
   - +.jetbrains.space
   - +.jetbrains.team
   - +.jetfuelapp.com
@@ -12629,6 +12632,8 @@ payload:
   - +.korona.com
   - +.koshelek.app
   - +.kostenlosepornoclips.com
+  - +.kotl.in
+  - +.kotlinconf.com
   - +.kotlinlang.org
   - +.koubaibu.jp
   - +.koukoku.jp
@@ -12652,6 +12657,7 @@ payload:
   - +.ksescortclub.com
   - +.ksyp10.com
   - +.ktech.team
+  - +.ktor.io
   - +.ktvu.com
   - +.ku77.xyz
   - +.kuaimao-app.com
@@ -14812,6 +14818,7 @@ payload:
   - +.myhulu.com
   - +.myicloud.net
   - +.myipod.net
+  - +.myjetbrains.com
   - +.myjkwd.com
   - +.mylcloud.net
   - +.mylf.com
@@ -19981,6 +19988,7 @@ payload:
   - +.talantix.ru
   - +.talentlens.com
   - +.taleofthenight.com
+  - +.talkingkotlin.com
   - +.talksport.com
   - +.tamilsexvideos.cc
   - +.tampermonkey.net

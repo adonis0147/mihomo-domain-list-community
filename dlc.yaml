@@ -11307,6 +11307,8 @@ payload:
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
   - DOMAIN-SUFFIX,grokipedia.com
@@ -11317,6 +11319,7 @@ payload:
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,jasper.ai
+  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,kiro.dev
@@ -11475,6 +11478,8 @@ payload:
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
   - DOMAIN-SUFFIX,grokipedia.com
@@ -11485,6 +11490,7 @@ payload:
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,jasper.ai
+  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,kiro.dev
@@ -22346,7 +22352,10 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.com.cn
+  - DOMAIN-SUFFIX,jetbrains.dev
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.org
+  - DOMAIN-SUFFIX,jetbrains.ru
   - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
   - DOMAIN-SUFFIX,jfrog.com
@@ -22361,7 +22370,10 @@ payload:
   - DOMAIN-SUFFIX,kali.org
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,kernel.org
+  - DOMAIN-SUFFIX,kotl.in
+  - DOMAIN-SUFFIX,kotlinconf.com
   - DOMAIN-SUFFIX,kotlinlang.org
+  - DOMAIN-SUFFIX,ktor.io
   - DOMAIN-SUFFIX,kubernetes.io
   - DOMAIN-SUFFIX,launchpad.net
   - DOMAIN-SUFFIX,launchpadcontent.net
@@ -22420,6 +22432,7 @@ payload:
   - DOMAIN-SUFFIX,mspairlift.com
   - DOMAIN-SUFFIX,msropendata.com
   - DOMAIN-SUFFIX,msys2.org
+  - DOMAIN-SUFFIX,myjetbrains.com
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,mysql.com
   - DOMAIN-SUFFIX,mystrikingly.com
@@ -22576,6 +22589,7 @@ payload:
   - DOMAIN-SUFFIX,swiftui.cn
   - DOMAIN-SUFFIX,swiftui.com.cn
   - DOMAIN-SUFFIX,system76.com
+  - DOMAIN-SUFFIX,talkingkotlin.com
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,termius.com
   - DOMAIN-SUFFIX,termux.com
@@ -68521,7 +68535,10 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.com.cn
+  - DOMAIN-SUFFIX,jetbrains.dev
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.org
+  - DOMAIN-SUFFIX,jetbrains.ru
   - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
   - DOMAIN-SUFFIX,jetfuelapp.com
@@ -69014,6 +69031,8 @@ payload:
   - DOMAIN-SUFFIX,korona.com
   - DOMAIN-SUFFIX,koshelek.app
   - DOMAIN-SUFFIX,kostenlosepornoclips.com
+  - DOMAIN-SUFFIX,kotl.in
+  - DOMAIN-SUFFIX,kotlinconf.com
   - DOMAIN-SUFFIX,kotlinlang.org
   - DOMAIN-SUFFIX,koubaibu.jp
   - DOMAIN-SUFFIX,koukoku.jp
@@ -69037,6 +69056,7 @@ payload:
   - DOMAIN-SUFFIX,ksescortclub.com
   - DOMAIN-SUFFIX,ksyp10.com
   - DOMAIN-SUFFIX,ktech.team
+  - DOMAIN-SUFFIX,ktor.io
   - DOMAIN-SUFFIX,ktvu.com
   - DOMAIN-SUFFIX,ku77.xyz
   - DOMAIN-SUFFIX,kuaimao-app.com
@@ -71197,6 +71217,7 @@ payload:
   - DOMAIN-SUFFIX,myhulu.com
   - DOMAIN-SUFFIX,myicloud.net
   - DOMAIN-SUFFIX,myipod.net
+  - DOMAIN-SUFFIX,myjetbrains.com
   - DOMAIN-SUFFIX,myjkwd.com
   - DOMAIN-SUFFIX,mylcloud.net
   - DOMAIN-SUFFIX,mylf.com
@@ -76366,6 +76387,7 @@ payload:
   - DOMAIN-SUFFIX,talantix.ru
   - DOMAIN-SUFFIX,talentlens.com
   - DOMAIN-SUFFIX,taleofthenight.com
+  - DOMAIN-SUFFIX,talkingkotlin.com
   - DOMAIN-SUFFIX,talksport.com
   - DOMAIN-SUFFIX,tamilsexvideos.cc
   - DOMAIN-SUFFIX,tampermonkey.net
@@ -93530,17 +93552,27 @@ payload:
   - DOMAIN-SUFFIX,yizhitou.com
   - DOMAIN-SUFFIX,cdn.jetbrains.com
   - DOMAIN-SUFFIX,datalore.io
+  - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,intellij.com
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intellij.org
   - DOMAIN-SUFFIX,jb.gg
+  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.com.cn
+  - DOMAIN-SUFFIX,jetbrains.dev
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.org
+  - DOMAIN-SUFFIX,jetbrains.ru
   - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
+  - DOMAIN-SUFFIX,kotl.in
+  - DOMAIN-SUFFIX,kotlinconf.com
   - DOMAIN-SUFFIX,kotlinlang.org
+  - DOMAIN-SUFFIX,ktor.io
+  - DOMAIN-SUFFIX,myjetbrains.com
+  - DOMAIN-SUFFIX,talkingkotlin.com
   - DOMAIN-SUFFIX,youtrack.cloud
   - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,grazie.aws.intellij.net
