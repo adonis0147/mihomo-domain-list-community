@@ -1551,6 +1551,7 @@ payload:
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,466453.com
   - DOMAIN-SUFFIX,abc.xyz
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,admeld.com
   - DOMAIN-SUFFIX,admob-cn.com
@@ -1574,6 +1575,7 @@ payload:
   - DOMAIN-SUFFIX,angulardart.org
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,apigee.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
@@ -2112,6 +2114,7 @@ payload:
   - DOMAIN-SUFFIX,opensourceinsights.dev
   - DOMAIN-SUFFIX,openthread.io
   - DOMAIN-SUFFIX,openweave.io
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,orbitera.com
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,pagead.l.google.com
@@ -9649,6 +9652,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,api-adservices.apple.com
   - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
@@ -10510,6 +10514,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,api-adservices.apple.com
   - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
@@ -11339,6 +11344,7 @@ payload:
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mozilla.ai
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
@@ -11510,6 +11516,7 @@ payload:
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mozilla.ai
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
@@ -13601,6 +13608,7 @@ payload:
   - DOMAIN-SUFFIX,acmvalidationsaws.com
   - DOMAIN-SUFFIX,acpica.com
   - DOMAIN-SUFFIX,acrobat.com
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,ad.mail.ru
   - DOMAIN-SUFFIX,adam.jp
   - DOMAIN-SUFFIX,adaptivecards.io
@@ -13939,6 +13947,7 @@ payload:
   - DOMAIN-SUFFIX,aplestore.com
   - DOMAIN-SUFFIX,aplleipods.com
   - DOMAIN-SUFFIX,apole.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-dynamics.com
@@ -19145,6 +19154,7 @@ payload:
   - DOMAIN-SUFFIX,openweather.co.uk
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,openweave.io
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,optanedifference.com
   - DOMAIN-SUFFIX,opticore.com
   - DOMAIN-SUFFIX,opticsforthecloud.net
@@ -57057,6 +57067,7 @@ payload:
   - DOMAIN-SUFFIX,acs.org
   - DOMAIN-SUFFIX,actalis.com
   - DOMAIN-SUFFIX,actalis.it
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,activelearnprimary.co.uk
   - DOMAIN-SUFFIX,activelearnprimary.com.au
   - DOMAIN-SUFFIX,activematter.game
@@ -58160,6 +58171,7 @@ payload:
   - DOMAIN-SUFFIX,apornotube.net
   - DOMAIN-SUFFIX,aporntv.com
   - DOMAIN-SUFFIX,apornvideo.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-dynamics.com
@@ -72475,6 +72487,7 @@ payload:
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,openweave.io
   - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,opera.com
   - DOMAIN-SUFFIX,opinionjournal.com
   - DOMAIN-SUFFIX,oppai-doga.info
@@ -89647,6 +89660,7 @@ payload:
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,466453.com
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,admeld.com
   - DOMAIN-SUFFIX,admob-cn.com
@@ -89670,6 +89684,7 @@ payload:
   - DOMAIN-SUFFIX,angulardart.org
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,apigee.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
@@ -90203,6 +90218,7 @@ payload:
   - DOMAIN-SUFFIX,opensourceinsights.dev
   - DOMAIN-SUFFIX,openthread.io
   - DOMAIN-SUFFIX,openweave.io
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,orbitera.com
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,pagead.l.google.com
@@ -90622,6 +90638,7 @@ payload:
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,opal.google
@@ -90662,6 +90679,7 @@ payload:
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,opal.google
