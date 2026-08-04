@@ -25514,6 +25514,7 @@ payload:
   - DOMAIN-SUFFIX,gimy.to
   - DOMAIN-SUFFIX,gimy.tv
   - DOMAIN-SUFFIX,giratina.com
+  - DOMAIN-SUFFIX,glitchwave.com
   - DOMAIN-SUFFIX,gloryofheracles.com
   - DOMAIN-SUFFIX,go-disneyworldgo.com
   - DOMAIN-SUFFIX,go.com
@@ -26149,6 +26150,7 @@ payload:
   - DOMAIN-SUFFIX,radgametools.com
   - DOMAIN-SUFFIX,radiko-cf.com
   - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,rateyourmusic.com
   - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
@@ -26231,6 +26233,7 @@ payload:
   - DOMAIN-SUFFIX,rutube.ru
   - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
+  - DOMAIN-SUFFIX,rym.fm
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,saiganak.com
   - DOMAIN-SUFFIX,scdn.co
@@ -26262,7 +26265,10 @@ payload:
   - DOMAIN-SUFFIX,snk-corp.co.jp
   - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
+  - DOMAIN-SUFFIX,snmc.io
   - DOMAIN-SUFFIX,snowmiku.com
+  - DOMAIN-SUFFIX,sonematic.net
+  - DOMAIN-SUFFIX,sonemic.com
   - DOMAIN-SUFFIX,sonyclassics.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,sonypictures.com
@@ -65682,6 +65688,7 @@ payload:
   - DOMAIN-SUFFIX,glasamerike.net
   - DOMAIN-SUFFIX,gle
   - DOMAIN-SUFFIX,gleline.com
+  - DOMAIN-SUFFIX,glitchwave.com
   - DOMAIN-SUFFIX,global-sci.org
   - DOMAIN-SUFFIX,globaledu.org
   - DOMAIN-SUFFIX,globalriskregulator.com
@@ -74159,6 +74166,7 @@ payload:
   - DOMAIN-SUFFIX,raspbian.org
   - DOMAIN-SUFFIX,rat.xxx
   - DOMAIN-SUFFIX,ratedgross.com
+  - DOMAIN-SUFFIX,rateyourmusic.com
   - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
@@ -74674,6 +74682,7 @@ payload:
   - DOMAIN-SUFFIX,rwbautomation.ru
   - DOMAIN-SUFFIX,rwbautomation.tech
   - DOMAIN-SUFFIX,rwbgeo.ru
+  - DOMAIN-SUFFIX,rym.fm
   - DOMAIN-SUFFIX,ryokoyomiuri.co.jp
   - DOMAIN-SUFFIX,ryukyubank.co.jp
   - DOMAIN-SUFFIX,rzr.to
@@ -75629,6 +75638,7 @@ payload:
   - DOMAIN-SUFFIX,snk-corp.co.jp
   - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
+  - DOMAIN-SUFFIX,snmc.io
   - DOMAIN-SUFFIX,snow.me
   - DOMAIN-SUFFIX,snowcorp.com
   - DOMAIN-SUFFIX,snowmiku.com
@@ -75681,6 +75691,8 @@ payload:
   - DOMAIN-SUFFIX,solostudioksale.com
   - DOMAIN-SUFFIX,solutionstation.com
   - DOMAIN-SUFFIX,solveforx.com
+  - DOMAIN-SUFFIX,sonematic.net
+  - DOMAIN-SUFFIX,sonemic.com
   - DOMAIN-SUFFIX,sonorousporn.com
   - DOMAIN-SUFFIX,sony
   - DOMAIN-SUFFIX,sony-africa.com
@@ -102213,6 +102225,12 @@ payload:
   - DOMAIN-SUFFIX,yeyoucdn.com
   - DOMAIN-SUFFIX,sokolov.io
   - DOMAIN-SUFFIX,sokolov.ru
+  - DOMAIN-SUFFIX,glitchwave.com
+  - DOMAIN-SUFFIX,rateyourmusic.com
+  - DOMAIN-SUFFIX,rym.fm
+  - DOMAIN-SUFFIX,snmc.io
+  - DOMAIN-SUFFIX,sonematic.net
+  - DOMAIN-SUFFIX,sonemic.com
   - DOMAIN-SUFFIX,ginzasonypark.jp
   - DOMAIN-SUFFIX,imageworks.com
   - DOMAIN-SUFFIX,motionpictureser.com
