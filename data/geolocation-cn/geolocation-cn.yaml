@@ -1409,6 +1409,7 @@ payload:
   - +.cbinews.com
   - +.cbjq.com
   - +.cbjs.baidu.com
+  - +.cbn.cn
   - +.cc-pay.cn
   - +.ccb-life.com.cn
   - +.ccb.cn
@@ -1744,7 +1745,6 @@ payload:
   - +.chinazns.com
   - +.chinesemooc.org
   - +.chiphell.com
-  - +.chn.cn
   - +.chndoi.org
   - +.chnppmuseum.com
   - +.chntel.com

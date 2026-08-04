@@ -46116,7 +46116,7 @@ payload:
   - DOMAIN-SUFFIX,chesscomfiles.com
   - DOMAIN-SUFFIX,10099.com.cn
   - DOMAIN-SUFFIX,ahitv.com
-  - DOMAIN-SUFFIX,chn.cn
+  - DOMAIN-SUFFIX,cbn.cn
   - DOMAIN-SUFFIX,cqccn.com
   - DOMAIN-SUFFIX,gcable.com.cn
   - DOMAIN-SUFFIX,isxtv.com
@@ -55982,6 +55982,9 @@ payload:
   - DOMAIN-SUFFIX,flutter.dev
   - DOMAIN-SUFFIX,flutterapp.com
   - DOMAIN-SUFFIX,pub.dev
+  - DOMAIN-SUFFIX,fly.dev
+  - DOMAIN-SUFFIX,fly.io
+  - DOMAIN-SUFFIX,flyio.net
   - DOMAIN-SUFFIX,bk6bba-resources.com
   - DOMAIN-SUFFIX,bk6bba-resources.ru
   - DOMAIN-SUFFIX,fon.bet
@@ -64775,8 +64778,11 @@ payload:
   - DOMAIN-SUFFIX,fluidpreview.com
   - DOMAIN-SUFFIX,flutter.dev
   - DOMAIN-SUFFIX,flutterapp.com
+  - DOMAIN-SUFFIX,fly.dev
+  - DOMAIN-SUFFIX,fly.io
   - DOMAIN-SUFFIX,flyflv.com
   - DOMAIN-SUFFIX,flyingjizz.com
+  - DOMAIN-SUFFIX,flyio.net
   - DOMAIN-SUFFIX,flyyindh-cc.sbs
   - DOMAIN-SUFFIX,fm4.jp
   - DOMAIN-SUFFIX,fmav.top
@@ -82755,6 +82761,7 @@ payload:
   - DOMAIN-SUFFIX,cbinews.com
   - DOMAIN-SUFFIX,cbjq.com
   - DOMAIN-SUFFIX,cbjs.baidu.com
+  - DOMAIN-SUFFIX,cbn.cn
   - DOMAIN-SUFFIX,cc-pay.cn
   - DOMAIN-SUFFIX,ccb-life.com.cn
   - DOMAIN-SUFFIX,ccb.cn
@@ -83090,7 +83097,6 @@ payload:
   - DOMAIN-SUFFIX,chinazns.com
   - DOMAIN-SUFFIX,chinesemooc.org
   - DOMAIN-SUFFIX,chiphell.com
-  - DOMAIN-SUFFIX,chn.cn
   - DOMAIN-SUFFIX,chndoi.org
   - DOMAIN-SUFFIX,chnppmuseum.com
   - DOMAIN-SUFFIX,chntel.com
