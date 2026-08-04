@@ -4669,6 +4669,8 @@ payload:
   - DOMAIN,sync.itunes.apple.com
   - DOMAIN,tf-feedback.itunes.apple.com
   - DOMAIN,tj-pod1-smp-device.apple.com
+  - DOMAIN,tj-pod2-smp-device.apple.com
+  - DOMAIN,tj-pod3-smp-device.apple.com
   - DOMAIN,universal-activity-service.itunes.apple.com
   - DOMAIN,updates-http.cdn-apple.com.akadns.net
   - DOMAIN,updates-http.cdn-apple.com
@@ -11292,6 +11294,8 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,devin.ai
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,diabrowser.engineering
@@ -11464,6 +11468,8 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,devin.ai
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,diabrowser.engineering
@@ -21704,6 +21710,8 @@ payload:
   - DOMAIN,teamviewer.com.cdn.cloudflare.net
   - DOMAIN,tf-feedback.itunes.apple.com
   - DOMAIN,tj-pod1-smp-device.apple.com
+  - DOMAIN,tj-pod2-smp-device.apple.com
+  - DOMAIN,tj-pod3-smp-device.apple.com
   - DOMAIN,tools.google.com
   - DOMAIN,top-staging.mail.ru
   - DOMAIN,tp.louisvuitton.com
@@ -24013,14 +24021,17 @@ payload:
   - DOMAIN-SUFFIX,ozon-credit.ru
   - DOMAIN-SUFFIX,ozon-dostavka.ru
   - DOMAIN-SUFFIX,ozon-tech.ru
+  - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
   - DOMAIN-SUFFIX,ozon.com.kz
   - DOMAIN-SUFFIX,ozon.dev
   - DOMAIN-SUFFIX,ozon.express
+  - DOMAIN-SUFFIX,ozon.global
   - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.li
+  - DOMAIN-SUFFIX,ozon.market
   - DOMAIN-SUFFIX,ozon.ru
   - DOMAIN-SUFFIX,ozon.tech
   - DOMAIN-SUFFIX,ozon.tm
@@ -24389,14 +24400,17 @@ payload:
   - DOMAIN-SUFFIX,ozon-credit.ru
   - DOMAIN-SUFFIX,ozon-dostavka.ru
   - DOMAIN-SUFFIX,ozon-tech.ru
+  - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
   - DOMAIN-SUFFIX,ozon.com.kz
   - DOMAIN-SUFFIX,ozon.dev
   - DOMAIN-SUFFIX,ozon.express
+  - DOMAIN-SUFFIX,ozon.global
   - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.li
+  - DOMAIN-SUFFIX,ozon.market
   - DOMAIN-SUFFIX,ozon.ru
   - DOMAIN-SUFFIX,ozon.tech
   - DOMAIN-SUFFIX,ozon.tm
@@ -26215,6 +26229,7 @@ payload:
   - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,ruinedking.com
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,saiganak.com
@@ -27970,6 +27985,7 @@ payload:
   - DOMAIN-SUFFIX,restream.ru
   - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,smotreshka.tv
   - DOMAIN-SUFFIX,start.ru
@@ -42962,14 +42978,17 @@ payload:
   - DOMAIN-SUFFIX,opennet.dev
   - DOMAIN-SUFFIX,oskelly.co
   - DOMAIN-SUFFIX,ostin.com
+  - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
   - DOMAIN-SUFFIX,ozon.com.kz
   - DOMAIN-SUFFIX,ozon.dev
   - DOMAIN-SUFFIX,ozon.express
+  - DOMAIN-SUFFIX,ozon.global
   - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.li
+  - DOMAIN-SUFFIX,ozon.market
   - DOMAIN-SUFFIX,ozon.tech
   - DOMAIN-SUFFIX,ozon.tm
   - DOMAIN-SUFFIX,ozon.travel
@@ -43087,6 +43106,7 @@ payload:
   - DOMAIN-SUFFIX,russieactuelle.fr
   - DOMAIN-SUFFIX,rustore.team
   - DOMAIN-SUFFIX,rustore.tv
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rwbautomation.tech
   - DOMAIN-SUFFIX,s.mindbox.ru
   - DOMAIN-SUFFIX,saas-support.com
@@ -62329,6 +62349,8 @@ payload:
   - DOMAIN-SUFFIX,deepfreeze.tech
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,definebabe.com
   - DOMAIN-SUFFIX,definefetish.com
@@ -72599,14 +72621,17 @@ payload:
   - DOMAIN-SUFFIX,ozon-credit.ru
   - DOMAIN-SUFFIX,ozon-dostavka.ru
   - DOMAIN-SUFFIX,ozon-tech.ru
+  - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
   - DOMAIN-SUFFIX,ozon.com.kz
   - DOMAIN-SUFFIX,ozon.dev
   - DOMAIN-SUFFIX,ozon.express
+  - DOMAIN-SUFFIX,ozon.global
   - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.li
+  - DOMAIN-SUFFIX,ozon.market
   - DOMAIN-SUFFIX,ozon.ru
   - DOMAIN-SUFFIX,ozon.tech
   - DOMAIN-SUFFIX,ozon.tm
@@ -74636,6 +74661,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,ruvideos.net
   - DOMAIN-SUFFIX,rwb.ru
@@ -81094,6 +81120,8 @@ payload:
   - DOMAIN,time.izatcloud.net
   - DOMAIN,time.xtracloud.net
   - DOMAIN,tj-pod1-smp-device.apple.com
+  - DOMAIN,tj-pod2-smp-device.apple.com
+  - DOMAIN,tj-pod3-smp-device.apple.com
   - DOMAIN,tools.google.com
   - DOMAIN,top-staging.mail.ru
   - DOMAIN,tp.louisvuitton.com
@@ -99069,14 +99097,17 @@ payload:
   - DOMAIN-SUFFIX,ozon-credit.ru
   - DOMAIN-SUFFIX,ozon-dostavka.ru
   - DOMAIN-SUFFIX,ozon-tech.ru
+  - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
   - DOMAIN-SUFFIX,ozon.com.kz
   - DOMAIN-SUFFIX,ozon.dev
   - DOMAIN-SUFFIX,ozon.express
+  - DOMAIN-SUFFIX,ozon.global
   - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.li
+  - DOMAIN-SUFFIX,ozon.market
   - DOMAIN-SUFFIX,ozon.ru
   - DOMAIN-SUFFIX,ozon.tech
   - DOMAIN-SUFFIX,ozon.tm
@@ -101456,6 +101487,7 @@ payload:
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,isafepal.com
   - DOMAIN-SUFFIX,safepal.com

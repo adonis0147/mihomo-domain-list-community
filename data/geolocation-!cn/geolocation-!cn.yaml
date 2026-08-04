@@ -5920,6 +5920,8 @@ payload:
   - +.deepfreeze.tech
   - +.deepl.com
   - +.deepmind.com
+  - +.deepwiki.com
+  - +.deepwiki.org
   - +.deezer.com
   - +.definebabe.com
   - +.definefetish.com
@@ -16190,14 +16192,17 @@ payload:
   - +.ozon-credit.ru
   - +.ozon-dostavka.ru
   - +.ozon-tech.ru
+  - +.ozon.app
   - +.ozon.by
   - +.ozon.com
   - +.ozon.com.by
   - +.ozon.com.kz
   - +.ozon.dev
   - +.ozon.express
+  - +.ozon.global
   - +.ozon.kz
   - +.ozon.li
+  - +.ozon.market
   - +.ozon.ru
   - +.ozon.tech
   - +.ozon.tm
@@ -18227,6 +18232,7 @@ payload:
   - +.rutracker.org
   - +.rutrk.org
   - +.rutube.ru
+  - +.rutube.sport
   - +.rutubelist.ru
   - +.ruvideos.net
   - +.rwb.ru
@@ -24685,6 +24691,8 @@ payload:
   - time.izatcloud.net
   - time.xtracloud.net
   - tj-pod1-smp-device.apple.com
+  - tj-pod2-smp-device.apple.com
+  - tj-pod3-smp-device.apple.com
   - tools.google.com
   - top-staging.mail.ru
   - tp.louisvuitton.com
