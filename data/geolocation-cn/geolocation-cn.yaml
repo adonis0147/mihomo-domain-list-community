@@ -430,6 +430,8 @@ payload:
   - +.9553.com
   - +.95588.com
   - +.95588.com.cn
+  - +.95598.cn
+  - +.95598pay.com
   - +.962.net
   - +.9718.com
   - +.97973.com
@@ -2080,6 +2082,7 @@ payload:
   - +.csdn.net.cn
   - +.csdnimg.cn
   - +.csfounder.com
+  - +.csg.cn
   - +.csjplatform.com
   - +.csmjzs.com
   - +.cspro.org
@@ -2590,6 +2593,7 @@ payload:
   - +.ebscn.com
   - +.ebtrust.com
   - +.eceshi.com
+  - +.echargenet.com
   - +.ecitic.com
   - +.ecjobhome.com
   - +.eclick.baidu.com
@@ -2600,6 +2604,7 @@ payload:
   - +.ecns.cn
   - +.ecombdapi.com
   - +.ecombdstatic.com
+  - +.ecsg.com.cn
   - +.ectencent.cn
   - +.ectencent.com.cn
   - +.ecukwai.com
@@ -2660,6 +2665,7 @@ payload:
   - +.erp321.com
   - +.erp321.net
   - +.ersjk.com
+  - +.esgcc.com.cn
   - +.esp8266.cn
   - +.esp8266.com.cn
   - +.espressif.cn
@@ -5402,6 +5408,7 @@ payload:
   - +.postmail.cn
   - +.postoa.com.cn
   - +.powerapp.io
+  - +.poweremarket.com
   - +.pp.cn
   - +.ppkankan01.com
   - +.pplive.cn
@@ -5823,6 +5830,7 @@ payload:
   - +.sfgy.org
   - +.sg.cn
   - +.sgamer.com
+  - +.sgcc.com.cn
   - +.sgsic.com
   - +.sgtmos.com
   - +.sgyeyou.com
