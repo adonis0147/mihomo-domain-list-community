@@ -18,6 +18,7 @@ payload:
   - +.12diasderegalosdeitunes.pe
   - +.12joursdecadeauxdeitunes.com
   - +.2025copy.com
+  - +.20thcenturystudios.com
   - +.20thcenturystudios.com.au
   - +.20thcenturystudios.com.br
   - +.20thcenturystudios.jp
@@ -41,6 +42,7 @@ payload:
   - +.9anime.ws
   - +.abc-studios.com
   - +.abc.com
+  - +.abcnews.com
   - +.abema-tv.com
   - +.abema.io
   - +.abema.tv
@@ -105,6 +107,7 @@ payload:
   - +.arma3.com
   - +.armaplatform.com
   - +.artstation.com
+  - +.artstationmedia.com
   - +.artstorm.com
   - +.asobostudio.com
   - +.att.tv
@@ -118,6 +121,7 @@ payload:
   - +.bahamut.akamaized.net
   - +.bahamut.com.tw
   - +.bamgrid.com
+  - +.bamtech.net
   - +.bandcamp.com
   - +.bang-dream.com
   - +.bangumi.tv
@@ -185,7 +189,6 @@ payload:
   - +.byspotify.com
   - +.bystys.tech
   - +.bytedapm.com
-  - +.byteoversea.com
   - +.callersbane.com
   - +.callhulu.com
   - +.camelot-europe.com
@@ -262,6 +265,7 @@ payload:
   - +.deezer.com
   - +.denfaminicogamer.jp
   - +.dengekionline.com
+  - +.detpress.com
   - +.deviantart.com
   - +.deviantart.net
   - +.diablo3.com
@@ -273,7 +277,6 @@ payload:
   - +.diddykongracing.com
   - +.dilcdn.com
   - +.dinopoloclub.com
-  - +.directv.com
   - +.disco-api.com
   - +.discomax.com
   - +.discoveryplus.com
@@ -322,7 +325,9 @@ payload:
   - +.disney.ru
   - +.disney.se
   - +.disney.sg
+  - +.disneyaccount.com
   - +.disneyadsales.com
+  - +.disneyanimation.com
   - +.disneyarena.com
   - +.disneyaulani.com
   - +.disneybaby.com
@@ -337,6 +342,7 @@ payload:
   - +.disneyinternationalhd.com
   - +.disneyjunior.com
   - +.disneyjuniortreataday.com
+  - +.disneylandparis.com
   - +.disneylatino.com
   - +.disneymagicmoments.co.il
   - +.disneymagicmoments.co.uk
@@ -358,12 +364,13 @@ payload:
   - +.disneypeoplesurveys.com
   - +.disneyplus.bn5x.net
   - +.disneyplus.com
-  - +.disneyplus.com.ssl.sc.omtrdc.net
+  - +.disneyprivacycenter.com
   - +.disneyredirects.com
   - +.disneysrivieraresort.com
   - +.disneystore.com
   - +.disneystreaming.com
   - +.disneysubscription.com
+  - +.disneytermsofuse.com
   - +.disneytickets.co.uk
   - +.disneyturkiye.com.tr
   - +.disneytvajobs.com
@@ -488,11 +495,14 @@ payload:
   - +.forzamotorsport.net
   - +.forzaracingchampionship.com
   - +.forzarc.com
+  - +.freeform.com
   - +.freehulu.com
   - +.frostbite.com
   - +.funimation.com
   - +.futpromos.com
   - +.futunited.com
+  - +.fxnetwork.com
+  - +.fxnetworks.com
   - +.gaijin.net
   - +.gaijinent.com
   - +.game-repack.site
@@ -627,6 +637,7 @@ payload:
   - +.hobbigame.com
   - +.homebox.com
   - +.homeboxoffice.com
+  - +.hongkongdisneyland.com
   - +.honkaiimpact3.com
   - +.honkaistarrail.com
   - +.hooloo.tv
@@ -819,6 +830,7 @@ payload:
   - +.loverslab.com
   - +.lowiro.com
   - +.lpl.com.cn
+  - +.lucasfilm.com
   - +.maddenchampionship.com
   - +.maddenrewards.com
   - +.maddenseason.info
@@ -1077,6 +1089,7 @@ payload:
   - +.piapro.net
   - +.pinkcore.com
   - +.pinkcore.net
+  - +.pixar.com
   - +.pixiv-recommend.net
   - +.pixiv.co.jp
   - +.pixiv.help
@@ -1257,11 +1270,13 @@ payload:
   - +.screens-lab.jp
   - +.seagroup.com
   - +.seaofsolitude.com
+  - +.searchlightpictures.com
   - +.seeurlpcl.com
   - +.sekai.colorfulpalette.org
   - +.sendvid.com
   - +.shadowcomplex.com
   - +.shadowverse-evolve.com
+  - +.shanghaidisneyresort.com
   - +.shopdisney.com
   - +.shops-disney.com
   - +.showtime.com
@@ -1411,6 +1426,7 @@ payload:
   - +.thesimssocial.com
   - +.thestationbymaker.com
   - +.thetvdb.com
+  - +.thewaltdisneycompany.com
   - +.thewonderful101.com
   - +.thisisgame.com
   - +.thisispolaris.com
@@ -1444,6 +1460,7 @@ payload:
   - +.titanfall.com
   - +.tmdb.org
   - +.tnt-ea.com
+  - +.tokyodisneyresort.jp
   - +.tospotify.com
   - +.toy-people.com
   - +.tra-ww000-cp.akamaized.net
@@ -1455,7 +1472,6 @@ payload:
   - +.ttvnw.net
   - +.ttwstatic.com
   - +.tv.apple.com
-  - +.tvb.com
   - +.tver.co.jp
   - +.tver.jp
   - +.tvigle.ru
@@ -1515,6 +1531,7 @@ payload:
   - +.vrchat.net
   - +.vrv.co
   - +.wallhaven.cc
+  - +.waltdisneystudios.com
   - +.wanuxi.com
   - +.wargaming.com
   - +.wargaming.net
@@ -1885,6 +1902,7 @@ payload:
   - dfp6rglgjqszk.cloudfront.net
   - dgeft87wbj63p.cloudfront.net
   - disney.my.sentry.io
+  - disneyplus.com.ssl.sc.omtrdc.net
   - dlgarenanow-a.akamaihd.net
   - dlmobilegarena-a.akamaihd.net
   - dmqdd6hw24ucf.cloudfront.net

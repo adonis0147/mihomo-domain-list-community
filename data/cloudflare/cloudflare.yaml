@@ -25,6 +25,7 @@ payload:
   - +.cloudflare.com
   - +.cloudflare.dev
   - +.cloudflare.net
+  - +.cloudflare.pay
   - +.cloudflare.tv
   - +.cloudflareaccess.com
   - +.cloudflareanycast.net
