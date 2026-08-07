@@ -531,7 +531,10 @@ payload:
   - +.aiqicha.com
   - +.air-matters.com
   - +.airchangan.com
+  - +.airchina.com
   - +.airchinacargo.com
+  - +.airchinagroup.com
+  - +.airchinalimited.com
   - +.airguilin.com
   - +.airnut.com
   - +.airstarfinance.net
@@ -1559,6 +1562,9 @@ payload:
   - +.cmpay.com
   - +.cmread.com
   - +.cn
+  - +.cn-beijing.aliyuncs.com
+  - +.cn-chengdu.aliyuncs.com
+  - +.cn-guangzhou.aliyuncs.com
   - +.cn-hangzhou.aliyuncs.com
   - +.cn-shanghai.aliyuncs.com
   - +.cn.pool.ntp.org
@@ -2231,6 +2237,7 @@ payload:
   - +.fjsen.com
   - +.fliggy.com
   - +.flxdns.com
+  - +.fly-airchina.com
   - +.flycua.com
   - +.flyme.com
   - +.flymeauto.com
@@ -2700,6 +2707,7 @@ payload:
   - +.hongyuanqh.com
   - +.honor.com
   - +.honorfile.com
+  - +.hotfix-api.aliyuncs.com
   - +.hotread.com
   - +.houdao.com
   - +.houyicaiji.com
@@ -4293,6 +4301,7 @@ payload:
   - +.pgzs.com
   - +.pharmacodia.com
   - +.philanthropy.xin
+  - +.phoenixmiles.com
   - +.phpcomposer.com
   - +.phpweblog.net
   - +.phpwind.com
@@ -4548,6 +4557,7 @@ payload:
   - +.realmemobile.com
   - +.redenmc.com
   - +.redmagic.com
+  - +.registry.aliyuncs.com
   - +.reke.at.sohu.com
   - +.renren-inc.com
   - +.renren.com
@@ -4588,6 +4598,7 @@ payload:
   - +.runningcheese.com
   - +.runoob.com
   - +.ruseer.com
+  - +.ruubypay.com
   - +.rwkv.com
   - +.rzrc114.com
   - +.s-adashx.ut.youku.com
@@ -4624,6 +4635,7 @@ payload:
   - +.scm121.com
   - +.scoregg.com
   - +.scratch5.com
+  - +.sctcd.com
   - +.sctv-tf.com
   - +.sctv.com
   - +.scyol.com
@@ -4695,6 +4707,7 @@ payload:
   - +.shenjing.com
   - +.shenmayouxi.com
   - +.shenzhenair.com
+  - +.shenzhentong.com
   - +.sheui.com
   - +.shfft.com
   - +.shgsec.com
@@ -4786,6 +4799,7 @@ payload:
   - +.snimay.com
   - +.snodehome.com
   - +.snowballsecurities.com
+  - +.snowballtech.com
   - +.snssdk.com
   - +.snxw.com
   - +.so.com
@@ -4838,6 +4852,7 @@ payload:
   - +.splash-ads.unitychina.cn
   - +.springairlines.com
   - +.springtour.com
+  - +.sptcc.com
   - +.sq.cc
   - +.sqqnh.org
   - +.sqreader.com
