@@ -341,6 +341,79 @@ payload:
   - DOMAIN,apilog-web.acfun.cn
   - DOMAIN-SUFFIX,actalis.com
   - DOMAIN-SUFFIX,actalis.it
+  - DOMAIN-SUFFIX,activision.com
+  - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,callofdutyendowment.com
+  - DOMAIN-SUFFIX,callofdutyendowment.org
+  - DOMAIN-SUFFIX,callofdutyleague.com
+  - DOMAIN-SUFFIX,callofdutymobile.com
+  - DOMAIN-SUFFIX,crashbandicoot.com
+  - DOMAIN-SUFFIX,demonware.net
+  - DOMAIN-SUFFIX,highmoonstudios.com
+  - DOMAIN-SUFFIX,infinityward.com
+  - DOMAIN-SUFFIX,ravensoftware.com
+  - DOMAIN-SUFFIX,sekirothegame.com
+  - DOMAIN-SUFFIX,sierragames.com
+  - DOMAIN-SUFFIX,skylanders.com
+  - DOMAIN-SUFFIX,sledgehammergames.com
+  - DOMAIN-SUFFIX,solidstate.com
+  - DOMAIN-SUFFIX,spyrothedragon.com
+  - DOMAIN-SUFFIX,tonyhawk.com
+  - DOMAIN-SUFFIX,tonyhawkthegame.com
+  - DOMAIN-SUFFIX,treyarch.com
+  - DOMAIN-SUFFIX,worldseriesofwarzone.com
+  - DOMAIN-SUFFIX,activision.com
+  - DOMAIN-SUFFIX,activisionblizzard.com
+  - DOMAIN-SUFFIX,activisionblizzardmedia.com
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,benefitsforeveryworld.com
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,blizzardgearstore.com
+  - DOMAIN-SUFFIX,blz-contentstack.com
+  - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,callofdutyendowment.com
+  - DOMAIN-SUFFIX,callofdutyendowment.org
+  - DOMAIN-SUFFIX,callofdutyleague.com
+  - DOMAIN-SUFFIX,callofdutymobile.com
+  - DOMAIN-SUFFIX,candycrush.com
+  - DOMAIN-SUFFIX,crashbandicoot.com
+  - DOMAIN-SUFFIX,demonware.net
+  - DOMAIN-SUFFIX,diablo.com
+  - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
+  - DOMAIN-SUFFIX,diabloimmortal.com
+  - DOMAIN-SUFFIX,europeanwarzoneseries.com
+  - DOMAIN-SUFFIX,firesidegatherings.com
+  - DOMAIN-SUFFIX,heroesofthestorm.com
+  - DOMAIN-SUFFIX,highmoonstudios.com
+  - DOMAIN-SUFFIX,infinityward.com
+  - DOMAIN-SUFFIX,king.com
+  - DOMAIN-SUFFIX,playhearthstone.com
+  - DOMAIN-SUFFIX,playoverwatch.com
+  - DOMAIN-SUFFIX,playwarcraft3.com
+  - DOMAIN-SUFFIX,ravensoftware.com
+  - DOMAIN-SUFFIX,sekirothegame.com
+  - DOMAIN-SUFFIX,sierragames.com
+  - DOMAIN-SUFFIX,skylanders.com
+  - DOMAIN-SUFFIX,sledgehammergames.com
+  - DOMAIN-SUFFIX,solidstate.com
+  - DOMAIN-SUFFIX,spyrothedragon.com
+  - DOMAIN-SUFFIX,starcraft.com
+  - DOMAIN-SUFFIX,starcraft2.com
+  - DOMAIN-SUFFIX,tonyhawk.com
+  - DOMAIN-SUFFIX,tonyhawkthegame.com
+  - DOMAIN-SUFFIX,treyarch.com
+  - DOMAIN-SUFFIX,worldofwarcraft.com
+  - DOMAIN-SUFFIX,worldseriesofwarzone.com
+  - DOMAIN,blizzard.nefficient.co.kr
+  - DOMAIN,blizzcon-a.akamaihd.net
+  - DOMAIN,blzddist1-a.akamaihd.net
+  - DOMAIN,blzddistkr1-a.akamaihd.net
+  - DOMAIN,blzmedia-a.akamaihd.net
+  - DOMAIN,blznav.akamaized.net
+  - DOMAIN,bnetcmsus-a.akamaihd.net
+  - DOMAIN,bnetproduct-a.akamaihd.net
+  - DOMAIN,bnetshopus.akamaized.net
   - DOMAIN-SUFFIX,adblockcdn.com
   - DOMAIN-SUFFIX,getadblock.com
   - DOMAIN-SUFFIX,adblockplus.org
@@ -7190,7 +7263,9 @@ payload:
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,blizzardgearstore.com
   - DOMAIN-SUFFIX,blz-contentstack.com
+  - DOMAIN-SUFFIX,diablo.com
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,firesidegatherings.com
   - DOMAIN-SUFFIX,heroesofthestorm.com
@@ -25118,6 +25193,9 @@ payload:
   - DOMAIN-SUFFIX,ac-pocketcamp.com
   - DOMAIN-SUFFIX,acesofthunder.net
   - DOMAIN-SUFFIX,activematter.game
+  - DOMAIN-SUFFIX,activision.com
+  - DOMAIN-SUFFIX,activisionblizzard.com
+  - DOMAIN-SUFFIX,activisionblizzardmedia.com
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,adventuresbydisney.com
@@ -25211,6 +25289,7 @@ payload:
   - DOMAIN-SUFFIX,beforeigners.com
   - DOMAIN-SUFFIX,bejeweledstars.com
   - DOMAIN-SUFFIX,bejewled-stars.com
+  - DOMAIN-SUFFIX,benefitsforeveryworld.com
   - DOMAIN-SUFFIX,bestdori.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
@@ -25258,9 +25337,15 @@ payload:
   - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,callersbane.com
   - DOMAIN-SUFFIX,callhulu.com
+  - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,callofdutyendowment.com
+  - DOMAIN-SUFFIX,callofdutyendowment.org
+  - DOMAIN-SUFFIX,callofdutyleague.com
+  - DOMAIN-SUFFIX,callofdutymobile.com
   - DOMAIN-SUFFIX,camelot-europe.com
   - DOMAIN-SUFFIX,camelotherald.com
   - DOMAIN-SUFFIX,camelotherald.net
+  - DOMAIN-SUFFIX,candycrush.com
   - DOMAIN-SUFFIX,capitalgames.com
   - DOMAIN-SUFFIX,capturingreality.com
   - DOMAIN-SUFFIX,castro.fm
@@ -25297,6 +25382,7 @@ payload:
   - DOMAIN-SUFFIX,copy-manga.com
   - DOMAIN-SUFFIX,copy20.com
   - DOMAIN-SUFFIX,copy2000.online
+  - DOMAIN-SUFFIX,crashbandicoot.com
   - DOMAIN-SUFFIX,crossout.net
   - DOMAIN-SUFFIX,crsed.net
   - DOMAIN-SUFFIX,crunchyroll.com
@@ -25330,12 +25416,15 @@ payload:
   - DOMAIN-SUFFIX,daznservices.com
   - DOMAIN-SUFFIX,deadspacegame.com
   - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,demonware.net
   - DOMAIN-SUFFIX,denfaminicogamer.jp
   - DOMAIN-SUFFIX,dengekionline.com
   - DOMAIN-SUFFIX,detpress.com
   - DOMAIN-SUFFIX,deviantart.com
   - DOMAIN-SUFFIX,deviantart.net
+  - DOMAIN-SUFFIX,diablo.com
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,dialga.com
   - DOMAIN-SUFFIX,dice.se
@@ -25523,6 +25612,7 @@ payload:
   - DOMAIN-SUFFIX,espncdn.com
   - DOMAIN-SUFFIX,espnqa.com
   - DOMAIN-SUFFIX,esports.gg
+  - DOMAIN-SUFFIX,europeanwarzoneseries.com
   - DOMAIN-SUFFIX,excitebots.com
   - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,f1.com
@@ -25697,6 +25787,7 @@ payload:
   - DOMAIN-SUFFIX,heroesofthestorm.com
   - DOMAIN-SUFFIX,hibiki-cast.jp
   - DOMAIN-SUFFIX,hidive.com
+  - DOMAIN-SUFFIX,highmoonstudios.com
   - DOMAIN-SUFFIX,hikosen.co.jp
   - DOMAIN-SUFFIX,historyofdota.com
   - DOMAIN-SUFFIX,historyofdota.net
@@ -25764,6 +25855,7 @@ payload:
   - DOMAIN-SUFFIX,indazn.com
   - DOMAIN-SUFFIX,indaznlab.com
   - DOMAIN-SUFFIX,industrialtoys.com
+  - DOMAIN-SUFFIX,infinityward.com
   - DOMAIN-SUFFIX,inside-games.jp
   - DOMAIN-SUFFIX,insights-collector.gog.com
   - DOMAIN-SUFFIX,instituteofwar.org
@@ -25820,6 +25912,7 @@ payload:
   - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kinescopecdn.net
+  - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
@@ -26248,6 +26341,7 @@ payload:
   - DOMAIN-SUFFIX,radiko-cf.com
   - DOMAIN-SUFFIX,radiko.jp
   - DOMAIN-SUFFIX,rateyourmusic.com
+  - DOMAIN-SUFFIX,ravensoftware.com
   - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
@@ -26340,6 +26434,7 @@ payload:
   - DOMAIN-SUFFIX,searchlightpictures.com
   - DOMAIN-SUFFIX,seeurlpcl.com
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,sekirothegame.com
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,shadowcomplex.com
   - DOMAIN-SUFFIX,shadowverse-evolve.com
@@ -26348,6 +26443,7 @@ payload:
   - DOMAIN-SUFFIX,shops-disney.com
   - DOMAIN-SUFFIX,showtime.com
   - DOMAIN-SUFFIX,showtimeanytime.com
+  - DOMAIN-SUFFIX,sierragames.com
   - DOMAIN-SUFFIX,sih-db.com
   - DOMAIN-SUFFIX,sih.app
   - DOMAIN-SUFFIX,silicagame.com
@@ -26356,6 +26452,8 @@ payload:
   - DOMAIN-SUFFIX,simg.jp
   - DOMAIN-SUFFIX,skate2.com
   - DOMAIN-SUFFIX,sketchfab.com
+  - DOMAIN-SUFFIX,skylanders.com
+  - DOMAIN-SUFFIX,sledgehammergames.com
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,slinginternational.com
   - DOMAIN-SUFFIX,smartstream.ne.jp
@@ -26366,6 +26464,7 @@ payload:
   - DOMAIN-SUFFIX,snkplaymore.info
   - DOMAIN-SUFFIX,snmc.io
   - DOMAIN-SUFFIX,snowmiku.com
+  - DOMAIN-SUFFIX,solidstate.com
   - DOMAIN-SUFFIX,sonematic.net
   - DOMAIN-SUFFIX,sonemic.com
   - DOMAIN-SUFFIX,sonyclassics.com
@@ -26399,6 +26498,7 @@ payload:
   - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,spyjinx.com
+  - DOMAIN-SUFFIX,spyrothedragon.com
   - DOMAIN-SUFFIX,sqool.net
   - DOMAIN-SUFFIX,squadbusters.com
   - DOMAIN-SUFFIX,ssx3.com
@@ -26528,10 +26628,13 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,tnt-ea.com
   - DOMAIN-SUFFIX,tokyodisneyresort.jp
+  - DOMAIN-SUFFIX,tonyhawk.com
+  - DOMAIN-SUFFIX,tonyhawkthegame.com
   - DOMAIN-SUFFIX,tospotify.com
   - DOMAIN-SUFFIX,toy-people.com
   - DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
   - DOMAIN-SUFFIX,trbcdn.net
+  - DOMAIN-SUFFIX,treyarch.com
   - DOMAIN-SUFFIX,triokini.com
   - DOMAIN-SUFFIX,ttcdn-us.com
   - DOMAIN-SUFFIX,ttlivecdn.com
@@ -26640,6 +26743,7 @@ payload:
   - DOMAIN-SUFFIX,worldofwarcraft.com
   - DOMAIN-SUFFIX,worldofwarplanes.com
   - DOMAIN-SUFFIX,worldofwarships.com
+  - DOMAIN-SUFFIX,worldseriesofwarzone.com
   - DOMAIN-SUFFIX,wotblitz.com
   - DOMAIN-SUFFIX,wowsblitz.com
   - DOMAIN-SUFFIX,ws-blau.com
@@ -29492,6 +29596,9 @@ payload:
   - DOMAIN-SUFFIX,ac-pocketcamp.com
   - DOMAIN-SUFFIX,acesofthunder.net
   - DOMAIN-SUFFIX,activematter.game
+  - DOMAIN-SUFFIX,activision.com
+  - DOMAIN-SUFFIX,activisionblizzard.com
+  - DOMAIN-SUFFIX,activisionblizzardmedia.com
   - DOMAIN-SUFFIX,aki-game.com
   - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,aligames.com
@@ -29529,6 +29636,7 @@ payload:
   - DOMAIN-SUFFIX,bcfmglobal.com
   - DOMAIN-SUFFIX,bejeweledstars.com
   - DOMAIN-SUFFIX,bejewled-stars.com
+  - DOMAIN-SUFFIX,benefitsforeveryworld.com
   - DOMAIN-SUFFIX,benghuai.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
@@ -29561,9 +29669,15 @@ payload:
   - DOMAIN-SUFFIX,buke999.com
   - DOMAIN-SUFFIX,bx1k.com
   - DOMAIN-SUFFIX,callersbane.com
+  - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,callofdutyendowment.com
+  - DOMAIN-SUFFIX,callofdutyendowment.org
+  - DOMAIN-SUFFIX,callofdutyleague.com
+  - DOMAIN-SUFFIX,callofdutymobile.com
   - DOMAIN-SUFFIX,camelot-europe.com
   - DOMAIN-SUFFIX,camelotherald.com
   - DOMAIN-SUFFIX,camelotherald.net
+  - DOMAIN-SUFFIX,candycrush.com
   - DOMAIN-SUFFIX,capitalgames.com
   - DOMAIN-SUFFIX,capturingreality.com
   - DOMAIN-SUFFIX,cbjq.com
@@ -29585,6 +29699,7 @@ payload:
   - DOMAIN-SUFFIX,conquerwithcharacter.com
   - DOMAIN-SUFFIX,convrgencegame.com
   - DOMAIN-SUFFIX,cowlevel.net
+  - DOMAIN-SUFFIX,crashbandicoot.com
   - DOMAIN-SUFFIX,crossout.net
   - DOMAIN-SUFFIX,crsed.net
   - DOMAIN-SUFFIX,crysis.jp
@@ -29603,7 +29718,10 @@ payload:
   - DOMAIN-SUFFIX,dawngatechronicles.com
   - DOMAIN-SUFFIX,dayz.com
   - DOMAIN-SUFFIX,deadspacegame.com
+  - DOMAIN-SUFFIX,demonware.net
+  - DOMAIN-SUFFIX,diablo.com
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,dialga.com
   - DOMAIN-SUFFIX,dice.se
@@ -29671,6 +29789,7 @@ payload:
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,epicgamescdn.com
   - DOMAIN-SUFFIX,escapefromtarkov.com
+  - DOMAIN-SUFFIX,europeanwarzoneseries.com
   - DOMAIN-SUFFIX,excitebots.com
   - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,fabricmc.net
@@ -29766,6 +29885,7 @@ payload:
   - DOMAIN-SUFFIX,heroesofthestorm.com
   - DOMAIN-SUFFIX,heroesports.com
   - DOMAIN-SUFFIX,herogame.com
+  - DOMAIN-SUFFIX,highmoonstudios.com
   - DOMAIN-SUFFIX,historyofdota.com
   - DOMAIN-SUFFIX,historyofdota.net
   - DOMAIN-SUFFIX,historyofdota.org
@@ -29786,6 +29906,7 @@ payload:
   - DOMAIN-SUFFIX,img4399.com
   - DOMAIN-SUFFIX,in.th
   - DOMAIN-SUFFIX,industrialtoys.com
+  - DOMAIN-SUFFIX,infinityward.com
   - DOMAIN-SUFFIX,insights-collector.gog.com
   - DOMAIN-SUFFIX,instituteofwar.org
   - DOMAIN-SUFFIX,itch.io
@@ -29796,6 +29917,7 @@ payload:
   - DOMAIN-SUFFIX,joyjoy.net
   - DOMAIN-SUFFIX,juequling.com
   - DOMAIN-SUFFIX,kgisystems.com
+  - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,kirbysepicyarn.com
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
   - DOMAIN-SUFFIX,kiwi.jp
@@ -30086,6 +30208,7 @@ payload:
   - DOMAIN-SUFFIX,quixel.com
   - DOMAIN-SUFFIX,quixel.se
   - DOMAIN-SUFFIX,radgametools.com
+  - DOMAIN-SUFFIX,ravensoftware.com
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
   - DOMAIN-SUFFIX,rblx.co
@@ -30174,9 +30297,11 @@ payload:
   - DOMAIN-SUFFIX,seasunwbl.com
   - DOMAIN-SUFFIX,seeurlpcl.com
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,sekirothegame.com
   - DOMAIN-SUFFIX,shadowcomplex.com
   - DOMAIN-SUFFIX,shengqugames.com
   - DOMAIN-SUFFIX,shyxhy.com
+  - DOMAIN-SUFFIX,sierragames.com
   - DOMAIN-SUFFIX,sih-db.com
   - DOMAIN-SUFFIX,sih.app
   - DOMAIN-SUFFIX,silicagame.com
@@ -30185,10 +30310,13 @@ payload:
   - DOMAIN-SUFFIX,skate2.com
   - DOMAIN-SUFFIX,sketchfab.com
   - DOMAIN-SUFFIX,skydweller.cn
+  - DOMAIN-SUFFIX,skylanders.com
   - DOMAIN-SUFFIX,sl916.com
+  - DOMAIN-SUFFIX,sledgehammergames.com
   - DOMAIN-SUFFIX,snk-corp.co.jp
   - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
+  - DOMAIN-SUFFIX,solidstate.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN-SUFFIX,speedhunters.com
@@ -30197,6 +30325,7 @@ payload:
   - DOMAIN-SUFFIX,splatoon2tournament.com
   - DOMAIN-SUFFIX,spore.com
   - DOMAIN-SUFFIX,spyjinx.com
+  - DOMAIN-SUFFIX,spyrothedragon.com
   - DOMAIN-SUFFIX,squadbusters.com
   - DOMAIN-SUFFIX,ssx3.com
   - DOMAIN-SUFFIX,st.dl.bscstorage.net
@@ -30299,6 +30428,9 @@ payload:
   - DOMAIN-SUFFIX,timibase.com
   - DOMAIN-SUFFIX,titanfall.com
   - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,tonyhawk.com
+  - DOMAIN-SUFFIX,tonyhawkthegame.com
+  - DOMAIN-SUFFIX,treyarch.com
   - DOMAIN-SUFFIX,tuer123.com
   - DOMAIN-SUFFIX,tuyoo.com
   - DOMAIN-SUFFIX,twinmotion.com
@@ -30371,6 +30503,7 @@ payload:
   - DOMAIN-SUFFIX,worldofwarcraft.com
   - DOMAIN-SUFFIX,worldofwarplanes.com
   - DOMAIN-SUFFIX,worldofwarships.com
+  - DOMAIN-SUFFIX,worldseriesofwarzone.com
   - DOMAIN-SUFFIX,wotblitz.com
   - DOMAIN-SUFFIX,wowsblitz.com
   - DOMAIN-SUFFIX,wtmobile.com
@@ -30559,6 +30692,9 @@ payload:
   - DOMAIN-SUFFIX,ac-pocketcamp.com
   - DOMAIN-SUFFIX,acesofthunder.net
   - DOMAIN-SUFFIX,activematter.game
+  - DOMAIN-SUFFIX,activision.com
+  - DOMAIN-SUFFIX,activisionblizzard.com
+  - DOMAIN-SUFFIX,activisionblizzardmedia.com
   - DOMAIN-SUFFIX,amiibo.com
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
@@ -30587,6 +30723,7 @@ payload:
   - DOMAIN-SUFFIX,battlelog.com
   - DOMAIN-SUFFIX,bejeweledstars.com
   - DOMAIN-SUFFIX,bejewled-stars.com
+  - DOMAIN-SUFFIX,benefitsforeveryworld.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -30607,9 +30744,15 @@ payload:
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com
   - DOMAIN-SUFFIX,callersbane.com
+  - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,callofdutyendowment.com
+  - DOMAIN-SUFFIX,callofdutyendowment.org
+  - DOMAIN-SUFFIX,callofdutyleague.com
+  - DOMAIN-SUFFIX,callofdutymobile.com
   - DOMAIN-SUFFIX,camelot-europe.com
   - DOMAIN-SUFFIX,camelotherald.com
   - DOMAIN-SUFFIX,camelotherald.net
+  - DOMAIN-SUFFIX,candycrush.com
   - DOMAIN-SUFFIX,capitalgames.com
   - DOMAIN-SUFFIX,capturingreality.com
   - DOMAIN-SUFFIX,championshipseriesleague.com
@@ -30625,6 +30768,7 @@ payload:
   - DOMAIN-SUFFIX,commandandconquer.com
   - DOMAIN-SUFFIX,conquerwithcharacter.com
   - DOMAIN-SUFFIX,convrgencegame.com
+  - DOMAIN-SUFFIX,crashbandicoot.com
   - DOMAIN-SUFFIX,crossout.net
   - DOMAIN-SUFFIX,crsed.net
   - DOMAIN-SUFFIX,crysis.jp
@@ -30642,7 +30786,10 @@ payload:
   - DOMAIN-SUFFIX,dawngatechronicles.com
   - DOMAIN-SUFFIX,dayz.com
   - DOMAIN-SUFFIX,deadspacegame.com
+  - DOMAIN-SUFFIX,demonware.net
+  - DOMAIN-SUFFIX,diablo.com
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,dialga.com
   - DOMAIN-SUFFIX,dice.se
@@ -30705,6 +30852,7 @@ payload:
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,epicgamescdn.com
   - DOMAIN-SUFFIX,escapefromtarkov.com
+  - DOMAIN-SUFFIX,europeanwarzoneseries.com
   - DOMAIN-SUFFIX,excitebots.com
   - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,fabricmc.net
@@ -30766,6 +30914,7 @@ payload:
   - DOMAIN-SUFFIX,haydaygame.com
   - DOMAIN-SUFFIX,heroesofdragonage.com
   - DOMAIN-SUFFIX,heroesofthestorm.com
+  - DOMAIN-SUFFIX,highmoonstudios.com
   - DOMAIN-SUFFIX,historyofdota.com
   - DOMAIN-SUFFIX,historyofdota.net
   - DOMAIN-SUFFIX,historyofdota.org
@@ -30779,6 +30928,7 @@ payload:
   - DOMAIN-SUFFIX,hutpromos.com
   - DOMAIN-SUFFIX,hyprsense.com
   - DOMAIN-SUFFIX,industrialtoys.com
+  - DOMAIN-SUFFIX,infinityward.com
   - DOMAIN-SUFFIX,insights-collector.gog.com
   - DOMAIN-SUFFIX,instituteofwar.org
   - DOMAIN-SUFFIX,itch.io
@@ -30786,6 +30936,7 @@ payload:
   - DOMAIN-SUFFIX,joinsquad.com
   - DOMAIN-SUFFIX,joyjoy.net
   - DOMAIN-SUFFIX,kgisystems.com
+  - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,kirbysepicyarn.com
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
   - DOMAIN-SUFFIX,kiwi.jp
@@ -31019,6 +31170,7 @@ payload:
   - DOMAIN-SUFFIX,quixel.com
   - DOMAIN-SUFFIX,quixel.se
   - DOMAIN-SUFFIX,radgametools.com
+  - DOMAIN-SUFFIX,ravensoftware.com
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
   - DOMAIN-SUFFIX,rblx.co
@@ -31090,7 +31242,9 @@ payload:
   - DOMAIN-SUFFIX,seaofsolitude.com
   - DOMAIN-SUFFIX,seeurlpcl.com
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,sekirothegame.com
   - DOMAIN-SUFFIX,shadowcomplex.com
+  - DOMAIN-SUFFIX,sierragames.com
   - DOMAIN-SUFFIX,sih-db.com
   - DOMAIN-SUFFIX,sih.app
   - DOMAIN-SUFFIX,silicagame.com
@@ -31098,9 +31252,12 @@ payload:
   - DOMAIN-SUFFIX,simcity.com
   - DOMAIN-SUFFIX,skate2.com
   - DOMAIN-SUFFIX,sketchfab.com
+  - DOMAIN-SUFFIX,skylanders.com
+  - DOMAIN-SUFFIX,sledgehammergames.com
   - DOMAIN-SUFFIX,snk-corp.co.jp
   - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
+  - DOMAIN-SUFFIX,solidstate.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN-SUFFIX,speedhunters.com
@@ -31109,6 +31266,7 @@ payload:
   - DOMAIN-SUFFIX,splatoon2tournament.com
   - DOMAIN-SUFFIX,spore.com
   - DOMAIN-SUFFIX,spyjinx.com
+  - DOMAIN-SUFFIX,spyrothedragon.com
   - DOMAIN-SUFFIX,squadbusters.com
   - DOMAIN-SUFFIX,ssx3.com
   - DOMAIN-SUFFIX,st.dl.bscstorage.net
@@ -31188,6 +31346,9 @@ payload:
   - DOMAIN-SUFFIX,tiburon.com
   - DOMAIN-SUFFIX,titanfall.com
   - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,tonyhawk.com
+  - DOMAIN-SUFFIX,tonyhawkthegame.com
+  - DOMAIN-SUFFIX,treyarch.com
   - DOMAIN-SUFFIX,twinmotion.com
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
@@ -31238,6 +31399,7 @@ payload:
   - DOMAIN-SUFFIX,worldofwarcraft.com
   - DOMAIN-SUFFIX,worldofwarplanes.com
   - DOMAIN-SUFFIX,worldofwarships.com
+  - DOMAIN-SUFFIX,worldseriesofwarzone.com
   - DOMAIN-SUFFIX,wotblitz.com
   - DOMAIN-SUFFIX,wowsblitz.com
   - DOMAIN-SUFFIX,wtmobile.com
@@ -57330,6 +57492,9 @@ payload:
   - DOMAIN-SUFFIX,activelearnprimary.com.au
   - DOMAIN-SUFFIX,activematter.game
   - DOMAIN-SUFFIX,activeteachonline.com
+  - DOMAIN-SUFFIX,activision.com
+  - DOMAIN-SUFFIX,activisionblizzard.com
+  - DOMAIN-SUFFIX,activisionblizzardmedia.com
   - DOMAIN-SUFFIX,actualidad-rt.com
   - DOMAIN-SUFFIX,ad.games.dmm.com
   - DOMAIN-SUFFIX,ad.mail.ru
@@ -59961,6 +60126,7 @@ payload:
   - DOMAIN-SUFFIX,bellotube.com
   - DOMAIN-SUFFIX,bellsouth.net
   - DOMAIN-SUFFIX,benaughty.fun
+  - DOMAIN-SUFFIX,benefitsforeveryworld.com
   - DOMAIN-SUFFIX,bengalisexvideos.com
   - DOMAIN-SUFFIX,benliton.com
   - DOMAIN-SUFFIX,bentobox.tv
@@ -61286,6 +61452,11 @@ payload:
   - DOMAIN-SUFFIX,callbackkiller.com
   - DOMAIN-SUFFIX,callersbane.com
   - DOMAIN-SUFFIX,callhulu.com
+  - DOMAIN-SUFFIX,callofduty.com
+  - DOMAIN-SUFFIX,callofdutyendowment.com
+  - DOMAIN-SUFFIX,callofdutyendowment.org
+  - DOMAIN-SUFFIX,callofdutyleague.com
+  - DOMAIN-SUFFIX,callofdutymobile.com
   - DOMAIN-SUFFIX,cam-duct.com
   - DOMAIN-SUFFIX,cam4.com
   - DOMAIN-SUFFIX,cam69.com
@@ -61334,6 +61505,7 @@ payload:
   - DOMAIN-SUFFIX,camwhoria.com
   - DOMAIN-SUFFIX,canada-beatsbydre.com
   - DOMAIN-SUFFIX,candidforum-videos.com
+  - DOMAIN-SUFFIX,candycrush.com
   - DOMAIN-SUFFIX,candycumcity.com
   - DOMAIN-SUFFIX,candypleasure.com
   - DOMAIN-SUFFIX,canny.io
@@ -62266,6 +62438,7 @@ payload:
   - DOMAIN-SUFFIX,crabporn.com
   - DOMAIN-SUFFIX,craigslist.org
   - DOMAIN-SUFFIX,crankplayer.com
+  - DOMAIN-SUFFIX,crashbandicoot.com
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,crazy-amateurs.com
@@ -62784,6 +62957,7 @@ payload:
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,democracy.earth
   - DOMAIN-SUFFIX,demonoid.is
+  - DOMAIN-SUFFIX,demonware.net
   - DOMAIN-SUFFIX,demoprint.com
   - DOMAIN-SUFFIX,denfaminicogamer.jp
   - DOMAIN-SUFFIX,dengeamerika.com
@@ -62895,7 +63069,9 @@ payload:
   - DOMAIN-SUFFIX,dgwav.com
   - DOMAIN-SUFFIX,dh44.lol
   - DOMAIN-SUFFIX,dhlestudio.com.co
+  - DOMAIN-SUFFIX,diablo.com
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,diabrowser.engineering
@@ -64249,6 +64425,7 @@ payload:
   - DOMAIN-SUFFIX,europeansustainabledesign.net
   - DOMAIN-SUFFIX,europeansustainabledesigncouncil.com
   - DOMAIN-SUFFIX,europeansustainabledesigncouncil.net
+  - DOMAIN-SUFFIX,europeanwarzoneseries.com
   - DOMAIN-SUFFIX,europepmc.org
   - DOMAIN-SUFFIX,europornstar.com
   - DOMAIN-SUFFIX,eurosexscene.com
@@ -66971,6 +67148,7 @@ payload:
   - DOMAIN-SUFFIX,hifuli.com
   - DOMAIN-SUFFIX,highbolt.net
   - DOMAIN-SUFFIX,highdefinitionbeatsbydre.com
+  - DOMAIN-SUFFIX,highmoonstudios.com
   - DOMAIN-SUFFIX,highporn.net
   - DOMAIN-SUFFIX,hightopnikes.com
   - DOMAIN-SUFFIX,highwirepress.com
@@ -67991,6 +68169,7 @@ payload:
   - DOMAIN-SUFFIX,industrialtoys.com
   - DOMAIN-SUFFIX,infinitetoons.com
   - DOMAIN-SUFFIX,infinitetube.com
+  - DOMAIN-SUFFIX,infinityward.com
   - DOMAIN-SUFFIX,influencersgonewild.com
   - DOMAIN-SUFFIX,infocert.digital
   - DOMAIN-SUFFIX,infocert.it
@@ -69240,6 +69419,7 @@ payload:
   - DOMAIN-SUFFIX,kindnudist.com
   - DOMAIN-SUFFIX,kindteenporn.com
   - DOMAIN-SUFFIX,kinescopecdn.net
+  - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,kingcomix.com
   - DOMAIN-SUFFIX,kingextre.me
   - DOMAIN-SUFFIX,kingf-av.buzz
@@ -74421,6 +74601,7 @@ payload:
   - DOMAIN-SUFFIX,rat.xxx
   - DOMAIN-SUFFIX,ratedgross.com
   - DOMAIN-SUFFIX,rateyourmusic.com
+  - DOMAIN-SUFFIX,ravensoftware.com
   - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
@@ -75248,6 +75429,7 @@ payload:
   - DOMAIN-SUFFIX,seiron-sankei.com
   - DOMAIN-SUFFIX,sejie80.com
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,sekirothegame.com
   - DOMAIN-SUFFIX,seksmet.nl
   - DOMAIN-SUFFIX,sekswebsite.nl
   - DOMAIN-SUFFIX,sekur1213.guru
@@ -75678,6 +75860,7 @@ payload:
   - DOMAIN-SUFFIX,sibreal.org
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,siege-amazon.com
+  - DOMAIN-SUFFIX,sierragames.com
   - DOMAIN-SUFFIX,sifangclub.com
   - DOMAIN-SUFFIX,sigcomm.org
   - DOMAIN-SUFFIX,sigmoidoscopeexam.com
@@ -75783,6 +75966,7 @@ payload:
   - DOMAIN-SUFFIX,sky.com
   - DOMAIN-SUFFIX,skyassets.com
   - DOMAIN-SUFFIX,skycdn.com.cn
+  - DOMAIN-SUFFIX,skylanders.com
   - DOMAIN-SUFFIX,skymansion.net
   - DOMAIN-SUFFIX,skymatter.com
   - DOMAIN-SUFFIX,skyoceanrescue.com
@@ -75820,6 +76004,7 @@ payload:
   - DOMAIN-SUFFIX,slc.tl
   - DOMAIN-SUFFIX,sldolls.com
   - DOMAIN-SUFFIX,sleazyneasy.com
+  - DOMAIN-SUFFIX,sledgehammergames.com
   - DOMAIN-SUFFIX,slides.new
   - DOMAIN-SUFFIX,slideshare.com
   - DOMAIN-SUFFIX,slideshare.net
@@ -75945,6 +76130,7 @@ payload:
   - DOMAIN-SUFFIX,solarcity.com
   - DOMAIN-SUFFIX,solid.ru
   - DOMAIN-SUFFIX,solidifi.app
+  - DOMAIN-SUFFIX,solidstate.com
   - DOMAIN-SUFFIX,solostudioksale.com
   - DOMAIN-SUFFIX,solutionstation.com
   - DOMAIN-SUFFIX,solveforx.com
@@ -76165,6 +76351,7 @@ payload:
   - DOMAIN-SUFFIX,sputnikmediabank.com
   - DOMAIN-SUFFIX,sputniknews.com
   - DOMAIN-SUFFIX,spyjinx.com
+  - DOMAIN-SUFFIX,spyrothedragon.com
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,sqlserveronlinux.com
   - DOMAIN-SUFFIX,sqool.net
@@ -77248,6 +77435,8 @@ payload:
   - DOMAIN-SUFFIX,toncenter.com
   - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,tonicmovies.com
+  - DOMAIN-SUFFIX,tonyhawk.com
+  - DOMAIN-SUFFIX,tonyhawkthegame.com
   - DOMAIN-SUFFIX,toolforge.org
   - DOMAIN-SUFFIX,toolmaking-cadcam.com
   - DOMAIN-SUFFIX,toomadporn.pro
@@ -77382,6 +77571,7 @@ payload:
   - DOMAIN-SUFFIX,trellocdn.com
   - DOMAIN-SUFFIX,trendmicro.com
   - DOMAIN-SUFFIX,trendyporn.com
+  - DOMAIN-SUFFIX,treyarch.com
   - DOMAIN-SUFFIX,trezor.io
   - DOMAIN-SUFFIX,triballo.net
   - DOMAIN-SUFFIX,tribler.org
@@ -79255,6 +79445,7 @@ payload:
   - DOMAIN-SUFFIX,worldscientific.com
   - DOMAIN-SUFFIX,worldsecureemail.com
   - DOMAIN-SUFFIX,worldsecuresystems.com
+  - DOMAIN-SUFFIX,worldseriesofwarzone.com
   - DOMAIN-SUFFIX,worldsex.com
   - DOMAIN-SUFFIX,worldsfastestgamer.net
   - DOMAIN-SUFFIX,wotblitz.com
@@ -86535,6 +86726,7 @@ payload:
   - DOMAIN-SUFFIX,mmarket6.com
   - DOMAIN-SUFFIX,mmbang.com
   - DOMAIN-SUFFIX,mmbang.info
+  - DOMAIN-SUFFIX,mmbizurl.cn
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mndqlib.net
   - DOMAIN-SUFFIX,mnw.cn
@@ -88400,6 +88592,7 @@ payload:
   - DOMAIN-SUFFIX,upfos.com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,uranus.sogou.com
+  - DOMAIN-SUFFIX,url.cn
   - DOMAIN-SUFFIX,urlqh.cn
   - DOMAIN-SUFFIX,urselect.com
   - DOMAIN-SUFFIX,urtc.com.cn
@@ -103663,6 +103856,7 @@ payload:
   - DOMAIN-SUFFIX,mdt.qq.com
   - DOMAIN-SUFFIX,metalrevolution.com
   - DOMAIN-SUFFIX,midasbuy.com
+  - DOMAIN-SUFFIX,mmbizurl.cn
   - DOMAIN-SUFFIX,monitor.music.qq.com
   - DOMAIN-SUFFIX,monitor.uu.qq.com
   - DOMAIN-SUFFIX,mpush.qq.com
@@ -103979,6 +104173,7 @@ payload:
   - DOMAIN-SUFFIX,um.run
   - DOMAIN-SUFFIX,uncnn.cn
   - DOMAIN-SUFFIX,uranus.sogou.com
+  - DOMAIN-SUFFIX,url.cn
   - DOMAIN-SUFFIX,vcloudstc.com
   - DOMAIN-SUFFIX,vcloudstc.net
   - DOMAIN-SUFFIX,vcloudvod.com
