@@ -49,6 +49,7 @@ payload:
   - +.buck.build
   - +.buckbuild.com
   - +.bugsnag.com
+  - +.builtwithnix.org
   - +.busybox.net
   - +.calendarserver.org
   - +.canonical.com
@@ -324,6 +325,7 @@ payload:
   - +.msropendata.com
   - +.msys2.org
   - +.myjetbrains.com
+  - +.mynixos.com
   - +.myoctocat.com
   - +.mysql.com
   - +.mystrikingly.com
@@ -333,7 +335,15 @@ payload:
   - +.nftables.org
   - +.nginx.com
   - +.nginx.org
+  - +.nix-community.org
+  - +.nix.dev
+  - +.nix.store
+  - +.nixcon.org
+  - +.nixcon2017.org
+  - +.nixlang.com
   - +.nixos.org
+  - +.nixos.wiki
+  - +.nixpkgs.org
   - +.nodejs.org
   - +.nodesource.com
   - +.nomadproject.io
