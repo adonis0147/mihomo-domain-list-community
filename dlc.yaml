@@ -19722,6 +19722,8 @@ payload:
   - DOMAIN-SUFFIX,sayeasy.eu
   - DOMAIN-SUFFIX,saynow.com
   - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,sc-gw.com
+  - DOMAIN-SUFFIX,sc-static.net
   - DOMAIN-SUFFIX,scaleform.com
   - DOMAIN-SUFFIX,scartel.ru
   - DOMAIN-SUFFIX,scene7.com
@@ -75390,6 +75392,8 @@ payload:
   - DOMAIN-SUFFIX,sbux.com.my
   - DOMAIN-SUFFIX,sbuxcard.com
   - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,sc-gw.com
+  - DOMAIN-SUFFIX,sc-static.net
   - DOMAIN-SUFFIX,sc.com
   - DOMAIN-SUFFIX,sca-tolo.info
   - DOMAIN-SUFFIX,scala-lang.org
@@ -102760,6 +102764,8 @@ payload:
   - DOMAIN-SUFFIX,zdmimg.com
   - DOMAIN-SUFFIX,zhidemai.com
   - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,sc-gw.com
+  - DOMAIN-SUFFIX,sc-static.net
   - DOMAIN-SUFFIX,snap-dev.net
   - DOMAIN-SUFFIX,snap.com
   - DOMAIN-SUFFIX,snapads.com
