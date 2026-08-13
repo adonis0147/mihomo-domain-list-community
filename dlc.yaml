@@ -26434,6 +26434,7 @@ payload:
   - DOMAIN-SUFFIX,rokutime.com
   - DOMAIN-SUFFIX,rowblocks.com
   - DOMAIN-SUFFIX,rowblox.com
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rstatic.net
   - DOMAIN-SUFFIX,rtbcdn.ru
@@ -30299,6 +30300,7 @@ payload:
   - DOMAIN-SUFFIX,roco.qq.com
   - DOMAIN-SUFFIX,rowblocks.com
   - DOMAIN-SUFFIX,rowblox.com
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rstatic.net
   - DOMAIN-SUFFIX,ruinedking.com
@@ -31254,6 +31256,7 @@ payload:
   - DOMAIN-SUFFIX,rockstarnorth.com
   - DOMAIN-SUFFIX,rowblocks.com
   - DOMAIN-SUFFIX,rowblox.com
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rstatic.net
   - DOMAIN-SUFFIX,ruinedking.com
@@ -75077,6 +75080,7 @@ payload:
   - DOMAIN-SUFFIX,rs2022.com
   - DOMAIN-SUFFIX,rsc.org
   - DOMAIN-SUFFIX,rsf.org
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rshb.ru
   - DOMAIN-SUFFIX,rsk.co
@@ -101962,6 +101966,7 @@ payload:
   - DOMAIN,robloxcorp.s.llnwi.net
   - DOMAIN-SUFFIX,rockstargames.com
   - DOMAIN-SUFFIX,rockstarnorth.com
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,media-rockstargames-com.akamaized.net
@@ -103517,6 +103522,7 @@ payload:
   - DOMAIN-SUFFIX,2kweb.online
   - DOMAIN-SUFFIX,rockstargames.com
   - DOMAIN-SUFFIX,rockstarnorth.com
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,take2games.com
   - DOMAIN-SUFFIX,zynga.com
