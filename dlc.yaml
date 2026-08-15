@@ -8544,6 +8544,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,anycross.com
   - DOMAIN-SUFFIX,api-building.fun
+  - DOMAIN-SUFFIX,applogcdn.com
   - DOMAIN-SUFFIX,arco.design
   - DOMAIN-SUFFIX,ark-doc-resources.cn
   - DOMAIN-SUFFIX,auto-validation.com
@@ -9091,6 +9092,7 @@ payload:
   - DOMAIN-SUFFIX,samasty.com
   - DOMAIN-SUFFIX,sealsuite.com
   - DOMAIN-SUFFIX,sealsuite.net
+  - DOMAIN-SUFFIX,searchpstatp.com
   - DOMAIN-SUFFIX,searchstatic.com
   - DOMAIN-SUFFIX,searchtoutiaolive.com
   - DOMAIN-SUFFIX,securityfeishu.cn
@@ -28998,6 +29000,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.net
   - DOMAIN-SUFFIX,rutracker.nl
   - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.wiki
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,safechat.com
   - DOMAIN-SUFFIX,sis001.com
@@ -47572,6 +47575,7 @@ payload:
   - DOMAIN-SUFFIX,appinn.com
   - DOMAIN-SUFFIX,appjiagu.com
   - DOMAIN-SUFFIX,apple.www.letv.com
+  - DOMAIN-SUFFIX,applogcdn.com
   - DOMAIN-SUFFIX,applysquare.com
   - DOMAIN-SUFFIX,applysquare.net
   - DOMAIN-SUFFIX,appsimg.com
@@ -51519,6 +51523,7 @@ payload:
   - DOMAIN-SUFFIX,sdo.com
   - DOMAIN-SUFFIX,sealsuite.com
   - DOMAIN-SUFFIX,sealsuite.net
+  - DOMAIN-SUFFIX,searchpstatp.com
   - DOMAIN-SUFFIX,searchstatic.com
   - DOMAIN-SUFFIX,searchtoutiaolive.com
   - DOMAIN-SUFFIX,seasungames.com
@@ -63403,6 +63408,7 @@ payload:
   - DOMAIN-SUFFIX,disqusservice.com
   - DOMAIN-SUFFIX,ditu.live.com
   - DOMAIN-SUFFIX,divas.com.uy
+  - DOMAIN-SUFFIX,divdyn.com
   - DOMAIN-SUFFIX,diwodiwo.xyz
   - DOMAIN-SUFFIX,diyarbakirescort.com
   - DOMAIN-SUFFIX,diyuser.buzz
@@ -75197,6 +75203,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.net
   - DOMAIN-SUFFIX,rutracker.nl
   - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.wiki
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,rutube.ru
   - DOMAIN-SUFFIX,rutube.sport
@@ -82764,6 +82771,7 @@ payload:
   - DOMAIN-SUFFIX,appinn.com
   - DOMAIN-SUFFIX,appjiagu.com
   - DOMAIN-SUFFIX,apple.www.letv.com
+  - DOMAIN-SUFFIX,applogcdn.com
   - DOMAIN-SUFFIX,applysquare.com
   - DOMAIN-SUFFIX,applysquare.net
   - DOMAIN-SUFFIX,appsimg.com
@@ -87770,6 +87778,7 @@ payload:
   - DOMAIN-SUFFIX,sdo.com
   - DOMAIN-SUFFIX,sealsuite.com
   - DOMAIN-SUFFIX,sealsuite.net
+  - DOMAIN-SUFFIX,searchpstatp.com
   - DOMAIN-SUFFIX,searchstatic.com
   - DOMAIN-SUFFIX,searchtoutiaolive.com
   - DOMAIN-SUFFIX,seasungames.cn
@@ -102171,6 +102180,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.net
   - DOMAIN-SUFFIX,rutracker.nl
   - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.wiki
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,rutube.ru
