@@ -350,6 +350,7 @@ payload:
   - +.5bite.com
   - +.5ddd.com
   - +.5fun.com
+  - +.5gxcx.net
   - +.5gzm.net
   - +.5ifund.com
   - +.5khouse.com
@@ -2311,6 +2312,7 @@ payload:
   - +.ddzn.tech
   - +.dearedu.com
   - +.debugmode.cn
+  - +.dedao.cn
   - +.dedecms.com
   - +.deepepg.com
   - +.deepin.cn
@@ -2498,6 +2500,7 @@ payload:
   - +.douyinec.com
   - +.douyinfe.com
   - +.douyinliving.com
+  - +.douyinmusicpromotion.com
   - +.douyinpay.com
   - +.douyinpic.com
   - +.douyinstatic.com
@@ -2632,6 +2635,7 @@ payload:
   - +.echargenet.com
   - +.ecitic.com
   - +.ecjobhome.com
+  - +.eckwai.com
   - +.eclick.baidu.com
   - +.ecloud-gdu.com
   - +.ecma.bdimg.com
@@ -3362,6 +3366,7 @@ payload:
   - +.hf-aw.com
   - +.hffunds.cn
   - +.hftfund.com
+  - +.hfx.net
   - +.hfzq.com.cn
   - +.hhtravel.com
   - +.hi-butterfly.cn
@@ -4322,6 +4327,7 @@ payload:
   - +.knewsmart.com
   - +.knownsec.com
   - +.kolbuyer.cn
+  - +.komect.com
   - +.kongfz.com
   - +.koocdn.com
   - +.kookong.com
@@ -4418,6 +4424,9 @@ payload:
   - +.kuyinyun.com
   - +.kuyiso.com
   - +.kwaicdn.com
+  - +.kwaishop.com
+  - +.kwaixiaodian.com
+  - +.kwaiying.com
   - +.kwaizt.com
   - +.kwimgs.com
   - +.kych5.com
@@ -4564,6 +4573,7 @@ payload:
   - +.lenovoprinter.net
   - +.lenovovip.com.cn
   - +.leso.cn
+  - +.letsign.com
   - +.leturich.org
   - +.letv.com
   - +.letvcdn.com
@@ -4978,6 +4988,7 @@ payload:
   - +.mojicdn.com
   - +.mojichina.com
   - +.mojidict.com
+  - +.mojidoc.com
   - +.mokahr.com
   - +.moleecel.com
   - +.moliranran.com
@@ -5582,6 +5593,7 @@ payload:
   - +.qiantucdn.com
   - +.qianuni.com
   - +.qianwen.com
+  - +.qianwenai.com
   - +.qianxin.com
   - +.qianxincdn.com
   - +.qianxuecloud.com
@@ -6702,9 +6714,6 @@ payload:
   - +.tzygd.cn
   - +.u-cdn.net
   - +.u.tools
-  - +.u17.com
-  - +.u17i.com
-  - +.u17t.com
   - +.u3d.cn
   - +.ubmcvideo.baidustatic.com
   - +.ubssdic.com
@@ -6781,6 +6790,7 @@ payload:
   - +.umetrip.com
   - +.umetrip.com.cn
   - +.umetrip.net.cn
+  - +.umiwi.com
   - +.umsns.com
   - +.umtrack.com
   - +.unaming.cn
@@ -7289,6 +7299,7 @@ payload:
   - +.wsglb.com
   - +.wsglb.net
   - +.wsjqnmmrmv.world
+  - +.wskwai.com
   - +.wsoso.com
   - +.wss.cc
   - +.wss.email
@@ -7389,6 +7400,7 @@ payload:
   - +.xiaodutv.com
   - +.xiaoe-tech.com
   - +.xiaogouh5.com
+  - +.xiaohe.cn
   - +.xiaoheihe.cn
   - +.xiaohongshu.com
   - +.xiaojukeji.com
@@ -7452,6 +7464,7 @@ payload:
   - +.xindong.com
   - +.xingjiesj.com
   - +.xingtan001.com
+  - +.xingtu.cn
   - +.xingyeai.com
   - +.xinhuanet.com
   - +.xinhuashudian.com
