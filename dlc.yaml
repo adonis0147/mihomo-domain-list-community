@@ -46212,6 +46212,8 @@ payload:
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,nexitallysafe.com
   - DOMAIN-SUFFIX,nexitcore.com
+  - DOMAIN-SUFFIX,nordcdn.com
+  - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,paofu.cloud
   - DOMAIN-SUFFIX,paofuyun.me
   - DOMAIN-SUFFIX,renzhe.cloud
@@ -72520,8 +72522,10 @@ payload:
   - DOMAIN-SUFFIX,nonstopfap.com
   - DOMAIN-SUFFIX,noodlemagazine.com
   - DOMAIN-SUFFIX,noosferabank.ru
+  - DOMAIN-SUFFIX,nordcdn.com
   - DOMAIN-SUFFIX,nordstrom.com
   - DOMAIN-SUFFIX,nordstrommedia.com
+  - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,norsk.mobi
   - DOMAIN-SUFFIX,norton.com
   - DOMAIN-SUFFIX,notepad-plus-plus.org
@@ -99380,6 +99384,8 @@ payload:
   - DOMAIN-SUFFIX,zapto.org
   - DOMAIN-SUFFIX,nordstrom.com
   - DOMAIN-SUFFIX,nordstrommedia.com
+  - DOMAIN-SUFFIX,nordcdn.com
+  - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion-status.com
   - DOMAIN-SUFFIX,notion.com
