@@ -229,6 +229,7 @@ payload:
   - DOMAIN-SUFFIX,zhuanstatic.com
   - DOMAIN-SUFFIX,zhuanzhuan.com
   - DOMAIN-SUFFIX,2ch.net
+  - DOMAIN-SUFFIX,5ch.io
   - DOMAIN-SUFFIX,5ch.net
   - DOMAIN-SUFFIX,6park.com
   - DOMAIN-SUFFIX,6parkbbs.com
@@ -2766,6 +2767,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amazonwebservices.cn
+  - DOMAIN-SUFFIX,amazonwebservices.com
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -5801,6 +5803,7 @@ payload:
   - DOMAIN-SUFFIX,amazoncognito.com
   - DOMAIN-SUFFIX,amazonses.com
   - DOMAIN-SUFFIX,amazonwebservices.cn
+  - DOMAIN-SUFFIX,amazonwebservices.com
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -5820,6 +5823,8 @@ payload:
   - DOMAIN-SUFFIX,aws-border.cn
   - DOMAIN-SUFFIX,aws-icp-domain-manager.cn
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
+  - DOMAIN-SUFFIX,aws.a2z.com
+  - DOMAIN-SUFFIX,aws.amazon.com
   - DOMAIN-SUFFIX,aws.com
   - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,awsapprunner.com
@@ -14041,6 +14046,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amazonwebservices.cn
+  - DOMAIN-SUFFIX,amazonwebservices.com
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -26170,6 +26176,8 @@ payload:
   - DOMAIN-SUFFIX,nfsworld.com
   - DOMAIN-SUFFIX,ngeo.com
   - DOMAIN-SUFFIX,nico
+  - DOMAIN-SUFFIX,nico.ms
+  - DOMAIN-SUFFIX,nicochannel.jp
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicomanga.jp
   - DOMAIN-SUFFIX,niconico.com
@@ -28926,6 +28934,7 @@ payload:
   - DOMAIN-SUFFIX,4cdn.org
   - DOMAIN-SUFFIX,4chan.org
   - DOMAIN-SUFFIX,4channel.org
+  - DOMAIN-SUFFIX,5ch.io
   - DOMAIN-SUFFIX,5ch.net
   - DOMAIN-SUFFIX,5i01.com
   - DOMAIN-SUFFIX,6park.com
@@ -32270,6 +32279,7 @@ payload:
   - DOMAIN,checkip.amazonaws.com
   - DOMAIN,checkip.dyn.com
   - DOMAIN,checkip.dyndns.org
+  - DOMAIN,checkip.global.api.aws
   - DOMAIN,ip-check-perf.radar.cloudflare.com
   - DOMAIN,ip.comss.net
   - DOMAIN,ipv4-check-perf.radar.cloudflare.com
@@ -45064,6 +45074,7 @@ payload:
   - DOMAIN-SUFFIX,faesebook.com
   - DOMAIN-SUFFIX,fafacebook.com
   - DOMAIN-SUFFIX,faicbooc.com
+  - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,fasebokk.com
   - DOMAIN-SUFFIX,fasebook.com
   - DOMAIN-SUFFIX,faseboox.com
@@ -57316,6 +57327,7 @@ payload:
   - DOMAIN-SUFFIX,59mvmv.com
   - DOMAIN-SUFFIX,5axis-machining.com
   - DOMAIN-SUFFIX,5beatsbydre.com
+  - DOMAIN-SUFFIX,5ch.io
   - DOMAIN-SUFFIX,5ch.net
   - DOMAIN-SUFFIX,5fang.cc
   - DOMAIN-SUFFIX,5i01.com
@@ -58495,6 +58507,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amazonwebservices.cn
+  - DOMAIN-SUFFIX,amazonwebservices.com
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -64933,6 +64946,7 @@ payload:
   - DOMAIN-SUFFIX,fans17.com
   - DOMAIN-SUFFIX,fans66.tw
   - DOMAIN-SUFFIX,fansking.tw
+  - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,fansnudes.com
   - DOMAIN-SUFFIX,fansone.co
   - DOMAIN-SUFFIX,fanspot.jp
@@ -72235,6 +72249,8 @@ payload:
   - DOMAIN-SUFFIX,nickscipio.com
   - DOMAIN-SUFFIX,nicky.xxx
   - DOMAIN-SUFFIX,nico
+  - DOMAIN-SUFFIX,nico.ms
+  - DOMAIN-SUFFIX,nicochannel.jp
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicolepeters.com
   - DOMAIN-SUFFIX,nicomanga.jp
@@ -98937,6 +98953,8 @@ payload:
   - DOMAIN-SUFFIX,nicegram.app
   - DOMAIN-SUFFIX,nicegram.cloud
   - DOMAIN-SUFFIX,nico
+  - DOMAIN-SUFFIX,nico.ms
+  - DOMAIN-SUFFIX,nicochannel.jp
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicomanga.jp
   - DOMAIN-SUFFIX,niconico.com
