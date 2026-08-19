@@ -2910,7 +2910,6 @@ payload:
   - DOMAIN-SUFFIX,amdfanstore.com
   - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,radeon.com
-  - DOMAIN,www.amd.com
   - DOMAIN-SUFFIX,amp.dev
   - DOMAIN-SUFFIX,ampproject.com
   - DOMAIN-SUFFIX,ampproject.net
@@ -7237,7 +7236,6 @@ payload:
   - DOMAIN-SUFFIX,sprinklesapp.com
   - DOMAIN-SUFFIX,th.bing.com
   - DOMAIN,bj1.api.bing.com
-  - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,location.microsoft.com
   - DOMAIN-SUFFIX,bitauto.com
   - DOMAIN-SUFFIX,bitautoimg.com
@@ -11431,6 +11429,7 @@ payload:
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,dola.com
+  - DOMAIN-SUFFIX,dreamgen.com
   - DOMAIN-SUFFIX,duck.ai
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
@@ -11461,6 +11460,7 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
+  - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
@@ -11477,10 +11477,13 @@ payload:
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,notegpt.io
+  - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
@@ -11507,6 +11510,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,themeforest.net
   - DOMAIN-SUFFIX,trae.ai
@@ -11605,6 +11609,7 @@ payload:
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,dola.com
+  - DOMAIN-SUFFIX,dreamgen.com
   - DOMAIN-SUFFIX,duck.ai
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
@@ -11635,6 +11640,7 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
+  - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
@@ -11651,10 +11657,13 @@ payload:
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,notegpt.io
+  - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
@@ -11681,6 +11690,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,themeforest.net
   - DOMAIN-SUFFIX,trae.ai
@@ -11790,7 +11800,6 @@ payload:
   - DOMAIN-SUFFIX,miaoda.cn
   - DOMAIN-SUFFIX,miaoyanai.com
   - DOMAIN-SUFFIX,minimaxi.com
-  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN-SUFFIX,myparallelstory.com
   - DOMAIN-SUFFIX,n.cn
@@ -21293,7 +21302,6 @@ payload:
   - DOMAIN,adv.rustore.ru
   - DOMAIN,adv.vk.ru
   - DOMAIN,advk.vk.ru
-  - DOMAIN,afcs.dell.com
   - DOMAIN,alt-r.my.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
@@ -21413,7 +21421,6 @@ payload:
   - DOMAIN,client-api.itunes.apple.com
   - DOMAIN,clientflow.apple.com.akadns.net
   - DOMAIN,clientflow.apple.com
-  - DOMAIN,clientperipherals.dell.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,cma.itunes.apple.com
   - DOMAIN,cn-smp-paymentservices.apple.com
@@ -21442,7 +21449,6 @@ payload:
   - DOMAIN,cstat.apple.com
   - DOMAIN,cstat.cdn-apple.com
   - DOMAIN,ctldl.windowsupdate.com
-  - DOMAIN,customization-cdn.dell.com
   - DOMAIN,dartsearch-cn.net
   - DOMAIN,dc1-cert.ksn.kaspersky-labs.com
   - DOMAIN,dc1-file.ksn.kaspersky-labs.com
@@ -21450,14 +21456,12 @@ payload:
   - DOMAIN,dc1-st.ksn.kaspersky-labs.com
   - DOMAIN,dc1.ksn.kaspersky-labs.com
   - DOMAIN,dd-cdn.origin-apple.com.akadns.net
-  - DOMAIN,dds.dell.com
   - DOMAIN,dejavu.apple.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,devimages-cdn.apple.com
   - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,dg-meta.video.google.com
   - DOMAIN,discussionschinese.apple.com
-  - DOMAIN,dl.dell.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
   - DOMAIN,dnl-00.geo.kaspersky.com
@@ -21490,33 +21494,22 @@ payload:
   - DOMAIN,downloaddispatch.itunes.apple.com
   - DOMAIN,dreamspark.download.prss.microsoft.com
   - DOMAIN,dreamsparkuat.download.prss.microsoft.com
-  - DOMAIN,ea2cn-dev-outlet.dell.com
-  - DOMAIN,ea2cn-prod-outlet.dell.com
-  - DOMAIN,ea2cn-staging-outlet.dell.com
   - DOMAIN,edge.geo.kaspersky.com
-  - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,entitlements-edge.itunes.apple.com
   - DOMAIN,experiments.apple.com
   - DOMAIN,f.c2r.ts.cdn.office.net
   - DOMAIN,faronics.kayako.com
   - DOMAIN,fbcdn-a.akamaihd.net
-  - DOMAIN,fcs.dell.com
   - DOMAIN,fides-pol.apple.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
   - DOMAIN,fpinit.itunes.apple.com
-  - DOMAIN,fta.dell.com
-  - DOMAIN,ftaapj.dell.com
-  - DOMAIN,ftaemea.dell.com
-  - DOMAIN,ftasitapj.dell.com
   - DOMAIN,g0.gstatic.com
   - DOMAIN,g1.gstatic.com
   - DOMAIN,g2.gstatic.com
   - DOMAIN,g3.gstatic.com
-  - DOMAIN,gbxgateway-dev.dell.com
-  - DOMAIN,gbxgateway.dell.com
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,gonglchuangl.net
   - DOMAIN,gongyichuangyi.net
@@ -21568,7 +21561,6 @@ payload:
   - DOMAIN,guzzoni.apple.com
   - DOMAIN,guzzoni.smoot.apple.com
   - DOMAIN,hpstore.corpmerchandise.com
-  - DOMAIN,i.dell.com
   - DOMAIN,i.pki.goog
   - DOMAIN,images-cn-8.ssl-images-amazon.com
   - DOMAIN,images-cn.ssl-images-amazon.com
@@ -21670,7 +21662,6 @@ payload:
   - DOMAIN,mwf-service.akamaized.net
   - DOMAIN,myapp.itunes.apple.com
   - DOMAIN,myvs.download.prss.microsoft.com
-  - DOMAIN,nexus.dell.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,o.pki.goog
   - DOMAIN,ocsp.apple.com
@@ -21689,7 +21680,6 @@ payload:
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,osxapps.itunes.g.aaplimg.com
   - DOMAIN,p-events-delivery.akamaized.net
-  - DOMAIN,p.cdn.persaas.dell.com
   - DOMAIN,p00.upd.kaspersky.com
   - DOMAIN,p01.upd.kaspersky.com
   - DOMAIN,p02.upd.kaspersky.com
@@ -21784,7 +21774,6 @@ payload:
   - DOMAIN,sa78gs.wpc.edgecastcdn.net
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,scene7-cdn.dell.com
   - DOMAIN,sdx.microsoft.com
   - DOMAIN,se-edge.itunes.apple.com
   - DOMAIN,se2.itunes.apple.com
@@ -21807,12 +21796,8 @@ payload:
   - DOMAIN,sh-pod2-smp-device.apple.com
   - DOMAIN,shazam-insights.cdn-apple.com
   - DOMAIN,shell.cdn.office.net
-  - DOMAIN,si.cdn.dell.com
-  - DOMAIN,sm.dell.com
   - DOMAIN,smp-device-content.apple.com
   - DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
-  - DOMAIN,snp.cdn.dell.com
-  - DOMAIN,snpi.dell.com
   - DOMAIN,software.download.prss.microsoft.com
   - DOMAIN,sp.itunes.apple.com
   - DOMAIN,speedysub.music.apple.com
@@ -21848,7 +21833,6 @@ payload:
   - DOMAIN,su.itunes.apple.com
   - DOMAIN,support-china.apple-support.akadns.net
   - DOMAIN,support.apple.com
-  - DOMAIN,supportassist.dell.com
   - DOMAIN,surface.download.prss.microsoft.com
   - DOMAIN,surface.downloads.prss.microsoft.com
   - DOMAIN,swallow-apple-com.v.aaplimg.com
@@ -21873,7 +21857,6 @@ payload:
   - DOMAIN,tj-pod3-smp-device.apple.com
   - DOMAIN,tools.google.com
   - DOMAIN,top-staging.mail.ru
-  - DOMAIN,tp.louisvuitton.com
   - DOMAIN,universal-activity-service.itunes.apple.com
   - DOMAIN,update.crashlytics.com
   - DOMAIN,update.googleapis.com
@@ -21897,13 +21880,10 @@ payload:
   - DOMAIN,whiteline.mail.ru
   - DOMAIN,windbg.download.prss.microsoft.com
   - DOMAIN,www-cdn.icloud.com.akadns.net
-  - DOMAIN,www-csb.dell.com
   - DOMAIN,www-google-analytics.l.google.com
   - DOMAIN,www-googletagmanager.l.google.com
-  - DOMAIN,www.amd.com
   - DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN,www.apple.com
-  - DOMAIN,www.dell.com
   - DOMAIN,www.destinationurl.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.pxcc.com
@@ -27278,7 +27258,6 @@ payload:
   - DOMAIN,ubistatic8-a.akamaihd.net
   - DOMAIN,ubistatic9-a.akamaihd.net
   - DOMAIN,universal-activity-service.itunes.apple.com
-  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,upp.itunes.apple.com
   - DOMAIN,videos-rockstargames-com.akamaized.net
   - DOMAIN,vod-abematv.akamaized.net
@@ -30718,7 +30697,6 @@ payload:
   - DOMAIN,ubistatic7-a.akamaihd.net
   - DOMAIN,ubistatic8-a.akamaihd.net
   - DOMAIN,ubistatic9-a.akamaihd.net
-  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,videos-rockstargames-com.akamaized.net
   - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
   - DOMAIN,xz.pphimalayanrt.com
@@ -31580,7 +31558,6 @@ payload:
   - DOMAIN,ubistatic7-a.akamaihd.net
   - DOMAIN,ubistatic8-a.akamaihd.net
   - DOMAIN,ubistatic9-a.akamaihd.net
-  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,videos-rockstargames-com.akamaized.net
   - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
   - DOMAIN,xz.pphimalayanrt.com
@@ -50878,7 +50855,6 @@ payload:
   - DOMAIN-SUFFIX,monitor.music.qq.com
   - DOMAIN-SUFFIX,monitor.uu.qq.com
   - DOMAIN-SUFFIX,moocollege.com
-  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moonvy.com
   - DOMAIN-SUFFIX,moonvy.cool
   - DOMAIN-SUFFIX,mop.com
@@ -53960,33 +53936,7 @@ payload:
   - DOMAIN-SUFFIX,solutionstation.com
   - DOMAIN-SUFFIX,studiodell.com
   - DOMAIN-SUFFIX,vce.com
-  - DOMAIN,afcs.dell.com
-  - DOMAIN,clientperipherals.dell.com
-  - DOMAIN,customization-cdn.dell.com
-  - DOMAIN,dds.dell.com
   - DOMAIN,dell.my.site.com
-  - DOMAIN,dl.dell.com
-  - DOMAIN,ea2cn-dev-outlet.dell.com
-  - DOMAIN,ea2cn-prod-outlet.dell.com
-  - DOMAIN,ea2cn-staging-outlet.dell.com
-  - DOMAIN,fcs.dell.com
-  - DOMAIN,fta.dell.com
-  - DOMAIN,ftaapj.dell.com
-  - DOMAIN,ftaemea.dell.com
-  - DOMAIN,ftasitapj.dell.com
-  - DOMAIN,gbxgateway-dev.dell.com
-  - DOMAIN,gbxgateway.dell.com
-  - DOMAIN,i.dell.com
-  - DOMAIN,nexus.dell.com
-  - DOMAIN,p.cdn.persaas.dell.com
-  - DOMAIN,scene7-cdn.dell.com
-  - DOMAIN,si.cdn.dell.com
-  - DOMAIN,sm.dell.com
-  - DOMAIN,snp.cdn.dell.com
-  - DOMAIN,snpi.dell.com
-  - DOMAIN,supportassist.dell.com
-  - DOMAIN,www-csb.dell.com
-  - DOMAIN,www.dell.com
   - DOMAIN-SUFFIX,demonoid.is
   - DOMAIN-SUFFIX,deppon.com
   - DOMAIN-SUFFIX,deppon.com.cn
@@ -63636,6 +63586,7 @@ payload:
   - DOMAIN-SUFFIX,dreamamateurs.com
   - DOMAIN-SUFFIX,dreambmw.ca
   - DOMAIN-SUFFIX,dreamforce.com
+  - DOMAIN-SUFFIX,dreamgen.com
   - DOMAIN-SUFFIX,dreammovies.com
   - DOMAIN-SUFFIX,dreamorder.com
   - DOMAIN-SUFFIX,dreamteamfc.com
@@ -69517,6 +69468,7 @@ payload:
   - DOMAIN-SUFFIX,killercb.ru
   - DOMAIN-SUFFIX,kilmeadeandfriends.com
   - DOMAIN-SUFFIX,kimchi.tv
+  - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,kimogirl.cc
   - DOMAIN-SUFFIX,kimosex.com
   - DOMAIN-SUFFIX,kindgirls.com
@@ -71451,6 +71403,7 @@ payload:
   - DOMAIN-SUFFIX,moomoo.com
   - DOMAIN-SUFFIX,moomooequity.com
   - DOMAIN-SUFFIX,moomootrustee.com
+  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moov.hk
   - DOMAIN-SUFFIX,moozporn.com
   - DOMAIN-SUFFIX,morazzia.com
@@ -72544,6 +72497,7 @@ payload:
   - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,norsk.mobi
   - DOMAIN-SUFFIX,norton.com
+  - DOMAIN-SUFFIX,notegpt.io
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,noticias-rt.com
   - DOMAIN-SUFFIX,notimundo.press
@@ -72554,6 +72508,7 @@ payload:
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notionusercontent.com
+  - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,noveltrove.com
   - DOMAIN-SUFFIX,novids.com
   - DOMAIN-SUFFIX,novinhabucetuda.com
@@ -77033,6 +76988,7 @@ payload:
   - DOMAIN-SUFFIX,talantix.ru
   - DOMAIN-SUFFIX,talentlens.com
   - DOMAIN-SUFFIX,taleofthenight.com
+  - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,talkingkotlin.com
   - DOMAIN-SUFFIX,talksport.com
   - DOMAIN-SUFFIX,tamilsexvideos.cc
@@ -81060,7 +81016,6 @@ payload:
   - DOMAIN,advert-media-api.wb.ru
   - DOMAIN,advert-media-api.wildberries.ru
   - DOMAIN,advk.vk.ru
-  - DOMAIN,afcs.dell.com
   - DOMAIN,agb9r0ad.qllfkl.com
   - DOMAIN,agency-adv.ozon.ru
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -81198,7 +81153,6 @@ payload:
   - DOMAIN,client-api.itunes.apple.com
   - DOMAIN,clientflow.apple.com.akadns.net
   - DOMAIN,clientflow.apple.com
-  - DOMAIN,clientperipherals.dell.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,cma.itunes.apple.com
   - DOMAIN,cn-smp-paymentservices.apple.com
@@ -81226,7 +81180,6 @@ payload:
   - DOMAIN,cstat.apple.com
   - DOMAIN,cstat.cdn-apple.com
   - DOMAIN,ctldl.windowsupdate.com
-  - DOMAIN,customization-cdn.dell.com
   - DOMAIN,dartsearch-cn.net
   - DOMAIN,databank.worldbank.org
   - DOMAIN,datarouter.apps.netherrealm.com
@@ -81236,7 +81189,6 @@ payload:
   - DOMAIN,dc1-st.ksn.kaspersky-labs.com
   - DOMAIN,dc1.ksn.kaspersky-labs.com
   - DOMAIN,dd-cdn.origin-apple.com.akadns.net
-  - DOMAIN,dds.dell.com
   - DOMAIN,dejavu.apple.com
   - DOMAIN,deribit.cdn.prismic.io
   - DOMAIN,deutschewelle.h-cdn.com
@@ -81247,7 +81199,6 @@ payload:
   - DOMAIN,discussionschinese.apple.com
   - DOMAIN,disney.my.sentry.io
   - DOMAIN,dl.begellhouse.com
-  - DOMAIN,dl.dell.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
   - DOMAIN,dnl-00.geo.kaspersky.com
@@ -81280,19 +81231,14 @@ payload:
   - DOMAIN,downloaddispatch.itunes.apple.com
   - DOMAIN,dreamspark.download.prss.microsoft.com
   - DOMAIN,dreamsparkuat.download.prss.microsoft.com
-  - DOMAIN,ea2cn-dev-outlet.dell.com
-  - DOMAIN,ea2cn-prod-outlet.dell.com
-  - DOMAIN,ea2cn-staging-outlet.dell.com
   - DOMAIN,edge.geo.kaspersky.com
   - DOMAIN,elib.maruzen.co.jp
-  - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,entitlements-edge.itunes.apple.com
   - DOMAIN,error-tracking.megamarket.tech
   - DOMAIN,experiments.apple.com
   - DOMAIN,f.c2r.ts.cdn.office.net
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
   - DOMAIN,faronics.kayako.com
-  - DOMAIN,fcs.dell.com
   - DOMAIN,fides-pol.apple.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,firstsearch.oclc.org
@@ -81300,16 +81246,10 @@ payload:
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
   - DOMAIN,fpinit.itunes.apple.com
-  - DOMAIN,fta.dell.com
-  - DOMAIN,ftaapj.dell.com
-  - DOMAIN,ftaemea.dell.com
-  - DOMAIN,ftasitapj.dell.com
   - DOMAIN,g0.gstatic.com
   - DOMAIN,g1.gstatic.com
   - DOMAIN,g2.gstatic.com
   - DOMAIN,g3.gstatic.com
-  - DOMAIN,gbxgateway-dev.dell.com
-  - DOMAIN,gbxgateway.dell.com
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
   - DOMAIN,gog-cdn-lumen.secure2.footprint.net
@@ -81367,7 +81307,6 @@ payload:
   - DOMAIN,holoxx.f5.si
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,hub.slarker.me
-  - DOMAIN,i.dell.com
   - DOMAIN,i.jeded.com
   - DOMAIN,i.pki.goog
   - DOMAIN,images-cn-8.ssl-images-amazon.com
@@ -81479,7 +81418,6 @@ payload:
   - DOMAIN,myvs.download.prss.microsoft.com
   - DOMAIN,nbbb1bb7.pmhcjk.com
   - DOMAIN,new-adv.ozon.ru
-  - DOMAIN,nexus.dell.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,ntp-c.colorado.edu
   - DOMAIN,ntp.aliyun.com
@@ -81527,7 +81465,6 @@ payload:
   - DOMAIN,osrelease.download.prss.microsoft.com
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,osxapps.itunes.g.aaplimg.com
-  - DOMAIN,p.cdn.persaas.dell.com
   - DOMAIN,p00.upd.kaspersky.com
   - DOMAIN,p01.upd.kaspersky.com
   - DOMAIN,p02.upd.kaspersky.com
@@ -81647,7 +81584,6 @@ payload:
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,sberpro.vedomosti.ru
-  - DOMAIN,scene7-cdn.dell.com
   - DOMAIN,sdx.microsoft.com
   - DOMAIN,se-edge.itunes.apple.com
   - DOMAIN,se2.itunes.apple.com
@@ -81673,12 +81609,8 @@ payload:
   - DOMAIN,sh-pod2-smp-device.apple.com
   - DOMAIN,shazam-insights.cdn-apple.com
   - DOMAIN,shell.cdn.office.net
-  - DOMAIN,si.cdn.dell.com
-  - DOMAIN,sm.dell.com
   - DOMAIN,smp-device-content.apple.com
   - DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
-  - DOMAIN,snp.cdn.dell.com
-  - DOMAIN,snpi.dell.com
   - DOMAIN,software.download.prss.microsoft.com
   - DOMAIN,sp.itunes.apple.com
   - DOMAIN,speedysub.music.apple.com
@@ -81714,7 +81646,6 @@ payload:
   - DOMAIN,supercell.helpshift.com
   - DOMAIN,support-china.apple-support.akadns.net
   - DOMAIN,support.apple.com
-  - DOMAIN,supportassist.dell.com
   - DOMAIN,surface.download.prss.microsoft.com
   - DOMAIN,surface.downloads.prss.microsoft.com
   - DOMAIN,swallow-apple-com.v.aaplimg.com
@@ -81739,7 +81670,6 @@ payload:
   - DOMAIN,tj-pod3-smp-device.apple.com
   - DOMAIN,tools.google.com
   - DOMAIN,top-staging.mail.ru
-  - DOMAIN,tp.louisvuitton.com
   - DOMAIN,tracing-http.megamarket.tech
   - DOMAIN,ubisoft.siteintercept.qualtrics.com
   - DOMAIN,universal-activity-service.itunes.apple.com
@@ -81748,7 +81678,6 @@ payload:
   - DOMAIN,updates-http.cdn-apple.com.akadns.net
   - DOMAIN,updates-http.cdn-apple.com
   - DOMAIN,updates.cdn-apple.com
-  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,upp.itunes.apple.com
   - DOMAIN,ut1-time.colorado.edu
   - DOMAIN,utcnist.colorado.edu
@@ -81774,13 +81703,10 @@ payload:
   - DOMAIN,windbg.download.prss.microsoft.com
   - DOMAIN,wrds-www.wharton.upenn.edu
   - DOMAIN,ws.audioscrobbler.com
-  - DOMAIN,www-csb.dell.com
   - DOMAIN,www-google-analytics.l.google.com
   - DOMAIN,www-googletagmanager.l.google.com
-  - DOMAIN,www.amd.com
   - DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN,www.apple.com
-  - DOMAIN,www.dell.com
   - DOMAIN,www.destinationurl.com
   - DOMAIN,www.entrust.cn
   - DOMAIN,www.gstatic.com
@@ -86958,7 +86884,6 @@ payload:
   - DOMAIN-SUFFIX,monitor.uu.qq.com
   - DOMAIN-SUFFIX,mooc.cn
   - DOMAIN-SUFFIX,moocollege.com
-  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN-SUFFIX,moonvy.com
   - DOMAIN-SUFFIX,moonvy.cool
@@ -95426,7 +95351,6 @@ payload:
   - DOMAIN-SUFFIX,louisvuitton.cn
   - DOMAIN-SUFFIX,louisvuitton.com
   - DOMAIN-SUFFIX,lvcampaign.com
-  - DOMAIN,tp.louisvuitton.com
   - DOMAIN-SUFFIX,lowiro.com
   - DOMAIN-SUFFIX,ltn.com.tw
   - DOMAIN-SUFFIX,yes123.com.tw
@@ -97673,7 +97597,6 @@ payload:
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,dreamspark.download.prss.microsoft.com
   - DOMAIN,dreamsparkuat.download.prss.microsoft.com
-  - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,f.c2r.ts.cdn.office.net
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,github-cloud.s3.amazonaws.com
@@ -106088,7 +106011,6 @@ payload:
   - DOMAIN,ubistatic7-a.akamaihd.net
   - DOMAIN,ubistatic8-a.akamaihd.net
   - DOMAIN,ubistatic9-a.akamaihd.net
-  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN-SUFFIX,ubuntu-touch.io
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ubuntu.net
