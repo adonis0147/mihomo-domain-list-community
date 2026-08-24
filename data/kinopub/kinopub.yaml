@@ -14,5 +14,6 @@ payload:
   - +.pushbr.com
   - +.smarttvcdn.online
   - +.support-kp.com
+  - +.teleos.club
   - +.tsx.ovh
   - DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$
