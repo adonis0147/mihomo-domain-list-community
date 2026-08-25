@@ -1,5 +1,6 @@
 payload:
   - +.ads.yahoo.com
+  - +.aolcdn.com
   - +.flic.kr
   - +.flickr
   - +.flickr.com
@@ -7,6 +8,7 @@ payload:
   - +.gemini.yahoo.com
   - +.maktoob.com
   - +.myguide.hk
+  - +.ouryahoo.com
   - +.staticflickr.com
   - +.techcrunch.com
   - +.yahoo
@@ -164,6 +166,7 @@ payload:
   - +.yahoodns.net
   - +.yahoofinance.com
   - +.yahoohealth.com
+  - +.yahooinc.com
   - +.yahoomusic.com
   - +.yahoosandbox.com
   - +.yahoosportsbook.com
