@@ -11826,6 +11826,7 @@ payload:
   - DOMAIN-SUFFIX,cueme.cn
   - DOMAIN-SUFFIX,dbbuilding.fun
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,diandianlife.top
   - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
@@ -11891,6 +11892,7 @@ payload:
   - DOMAIN-SUFFIX,trae.cn
   - DOMAIN-SUFFIX,trae.com.cn
   - DOMAIN-SUFFIX,trae.guru
+  - DOMAIN-SUFFIX,workbuddy.cn
   - DOMAIN-SUFFIX,xiaoaiassist.com
   - DOMAIN-SUFFIX,xiaomimimo.com
   - DOMAIN-SUFFIX,xiezuocat.com
@@ -12374,12 +12376,14 @@ payload:
   - DOMAIN-SUFFIX,shrbank.com
   - DOMAIN-SUFFIX,spdb.com.cn
   - DOMAIN-SUFFIX,suningbank.com
+  - DOMAIN-SUFFIX,tctpwebankcdn.net
   - DOMAIN-SUFFIX,test-cignacmb.com
   - DOMAIN-SUFFIX,unionpay.com
   - DOMAIN-SUFFIX,unionpay.net
   - DOMAIN-SUFFIX,unionpayintl.cn
   - DOMAIN-SUFFIX,unionpayintl.com
   - DOMAIN-SUFFIX,unionpaysecure.com
+  - DOMAIN-SUFFIX,wbweilicai.com
   - DOMAIN-SUFFIX,webank.com
   - DOMAIN-SUFFIX,webankcdn.net
   - DOMAIN-SUFFIX,wegobank.cn
@@ -47155,6 +47159,7 @@ payload:
   - DOMAIN-SUFFIX,360os.com
   - DOMAIN-SUFFIX,360qhcdn.com
   - DOMAIN-SUFFIX,360safe.com
+  - DOMAIN-SUFFIX,360scdn.com
   - DOMAIN-SUFFIX,360shouji.com
   - DOMAIN-SUFFIX,360so.com
   - DOMAIN-SUFFIX,360sou.com
@@ -48843,6 +48848,7 @@ payload:
   - DOMAIN-SUFFIX,deepin.com
   - DOMAIN-SUFFIX,deepinos.org
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,dengguobi.com
   - DOMAIN-SUFFIX,deppon.com
   - DOMAIN-SUFFIX,develenv.com
@@ -52091,6 +52097,7 @@ payload:
   - DOMAIN-SUFFIX,tcltech.com
   - DOMAIN-SUFFIX,tcp5.com
   - DOMAIN-SUFFIX,tcss.qq.com
+  - DOMAIN-SUFFIX,tctpwebankcdn.net
   - DOMAIN-SUFFIX,tcwqqdy.guru
   - DOMAIN-SUFFIX,tdnsv1.com
   - DOMAIN-SUFFIX,tdnsv1.net
@@ -52170,6 +52177,7 @@ payload:
   - DOMAIN-SUFFIX,tencentelasticsearch.com
   - DOMAIN-SUFFIX,tencentid.com
   - DOMAIN-SUFFIX,tencentidentity.com
+  - DOMAIN-SUFFIX,tencentmiying.com
   - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,tencentproxy.com
   - DOMAIN-SUFFIX,tencentrio.com
@@ -52181,6 +52189,7 @@ payload:
   - DOMAIN-SUFFIX,tendbcluster.com
   - DOMAIN-SUFFIX,tendcloud.com
   - DOMAIN-SUFFIX,tendis.net
+  - DOMAIN-SUFFIX,tengmed.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tenxcloud.com
   - DOMAIN-SUFFIX,tesoon.com
@@ -52750,6 +52759,7 @@ payload:
   - DOMAIN-SUFFIX,wasu.tv
   - DOMAIN-SUFFIX,wbclick.mobile.sina.cn
   - DOMAIN-SUFFIX,wbimg.com
+  - DOMAIN-SUFFIX,wbweilicai.com
   - DOMAIN-SUFFIX,wcbygame.com
   - DOMAIN-SUFFIX,wch-ic.com
   - DOMAIN-SUFFIX,wdfok.com
@@ -53926,6 +53936,7 @@ payload:
   - DOMAIN-SUFFIX,uniontech.cn
   - DOMAIN-SUFFIX,uniontech.com
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
   - DOMAIN-SUFFIX,alienware.ae
@@ -82297,6 +82308,7 @@ payload:
   - DOMAIN-SUFFIX,360pay.cn
   - DOMAIN-SUFFIX,360qhcdn.com
   - DOMAIN-SUFFIX,360safe.com
+  - DOMAIN-SUFFIX,360scdn.com
   - DOMAIN-SUFFIX,360shouji.com
   - DOMAIN-SUFFIX,360sjyh.cn
   - DOMAIN-SUFFIX,360so.com
@@ -84440,6 +84452,7 @@ payload:
   - DOMAIN-SUFFIX,deepin.org.cn
   - DOMAIN-SUFFIX,deepinos.org
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,dengguobi.com
   - DOMAIN-SUFFIX,deppon.com
   - DOMAIN-SUFFIX,deppon.com.cn
@@ -88474,6 +88487,7 @@ payload:
   - DOMAIN-SUFFIX,tcltech.com
   - DOMAIN-SUFFIX,tcp5.com
   - DOMAIN-SUFFIX,tcss.qq.com
+  - DOMAIN-SUFFIX,tctpwebankcdn.net
   - DOMAIN-SUFFIX,tcwqqdy.guru
   - DOMAIN-SUFFIX,tdnsdl1.cn
   - DOMAIN-SUFFIX,tdnsdl1.com.cn
@@ -88553,7 +88567,9 @@ payload:
   - DOMAIN-SUFFIX,tencentcdb.cn
   - DOMAIN-SUFFIX,tencentcdb.com
   - DOMAIN-SUFFIX,tencentcdb.com.cn
+  - DOMAIN-SUFFIX,tencentclb.cn
   - DOMAIN-SUFFIX,tencentclb.com
+  - DOMAIN-SUFFIX,tencentclb.com.cn
   - DOMAIN-SUFFIX,tencentcloud-aiot.com
   - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,tencentcloudapi.com
@@ -88577,6 +88593,7 @@ payload:
   - DOMAIN-SUFFIX,tencentelasticsearch.com
   - DOMAIN-SUFFIX,tencentid.com
   - DOMAIN-SUFFIX,tencentidentity.com
+  - DOMAIN-SUFFIX,tencentmiying.com
   - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,tencentproxy.com
   - DOMAIN-SUFFIX,tencentrio.com
@@ -88589,6 +88606,7 @@ payload:
   - DOMAIN-SUFFIX,tendbcluster.com
   - DOMAIN-SUFFIX,tendcloud.com
   - DOMAIN-SUFFIX,tendis.net
+  - DOMAIN-SUFFIX,tengmed.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tenxcloud.com
   - DOMAIN-SUFFIX,tesoon.com
@@ -89285,6 +89303,7 @@ payload:
   - DOMAIN-SUFFIX,wbclick.mobile.sina.cn
   - DOMAIN-SUFFIX,wbimg.cn
   - DOMAIN-SUFFIX,wbimg.com
+  - DOMAIN-SUFFIX,wbweilicai.com
   - DOMAIN-SUFFIX,wcbygame.com
   - DOMAIN-SUFFIX,wcdn.cn
   - DOMAIN-SUFFIX,wch-ic.com
@@ -89414,6 +89433,7 @@ payload:
   - DOMAIN-SUFFIX,wooyun.org
   - DOMAIN-SUFFIX,woozooo.com
   - DOMAIN-SUFFIX,woread.com.cn
+  - DOMAIN-SUFFIX,workbuddy.cn
   - DOMAIN-SUFFIX,workercn.cn
   - DOMAIN-SUFFIX,worktile.com
   - DOMAIN-SUFFIX,worldofship.cn
@@ -101199,7 +101219,9 @@ payload:
   - DOMAIN-SUFFIX,tencentcdb.cn
   - DOMAIN-SUFFIX,tencentcdb.com
   - DOMAIN-SUFFIX,tencentcdb.com.cn
+  - DOMAIN-SUFFIX,tencentclb.cn
   - DOMAIN-SUFFIX,tencentclb.com
+  - DOMAIN-SUFFIX,tencentclb.com.cn
   - DOMAIN-SUFFIX,tencentcloud-aiot.com
   - DOMAIN-SUFFIX,tencentcloudapi.com
   - DOMAIN-SUFFIX,tencentcloudclub.com
@@ -101292,6 +101314,7 @@ payload:
   - DOMAIN-SUFFIX,360pay.cn
   - DOMAIN-SUFFIX,360qhcdn.com
   - DOMAIN-SUFFIX,360safe.com
+  - DOMAIN-SUFFIX,360scdn.com
   - DOMAIN-SUFFIX,360shouji.com
   - DOMAIN-SUFFIX,360sjyh.cn
   - DOMAIN-SUFFIX,360so.com
@@ -104559,7 +104582,9 @@ payload:
   - DOMAIN-SUFFIX,tencentcdb.cn
   - DOMAIN-SUFFIX,tencentcdb.com
   - DOMAIN-SUFFIX,tencentcdb.com.cn
+  - DOMAIN-SUFFIX,tencentclb.cn
   - DOMAIN-SUFFIX,tencentclb.com
+  - DOMAIN-SUFFIX,tencentclb.com.cn
   - DOMAIN-SUFFIX,tencentcloud-aiot.com
   - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,tencentcloudapi.com
@@ -104583,6 +104608,7 @@ payload:
   - DOMAIN-SUFFIX,tencentelasticsearch.com
   - DOMAIN-SUFFIX,tencentid.com
   - DOMAIN-SUFFIX,tencentidentity.com
+  - DOMAIN-SUFFIX,tencentmiying.com
   - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,tencentproxy.com
   - DOMAIN-SUFFIX,tencentrio.com
@@ -104593,6 +104619,7 @@ payload:
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,tendbcluster.com
   - DOMAIN-SUFFIX,tendis.net
+  - DOMAIN-SUFFIX,tengmed.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,testjrzk.net.cn
   - DOMAIN-SUFFIX,testmeet.cn

@@ -151,6 +151,7 @@ payload:
   - +.360os.com
   - +.360qhcdn.com
   - +.360safe.com
+  - +.360scdn.com
   - +.360shouji.com
   - +.360so.com
   - +.360sou.com
@@ -1839,6 +1840,7 @@ payload:
   - +.deepin.com
   - +.deepinos.org
   - +.deepseek.com
+  - +.deepseeksvc.com
   - +.dengguobi.com
   - +.deppon.com
   - +.develenv.com
@@ -5087,6 +5089,7 @@ payload:
   - +.tcltech.com
   - +.tcp5.com
   - +.tcss.qq.com
+  - +.tctpwebankcdn.net
   - +.tcwqqdy.guru
   - +.tdnsv1.com
   - +.tdnsv1.net
@@ -5166,6 +5169,7 @@ payload:
   - +.tencentelasticsearch.com
   - +.tencentid.com
   - +.tencentidentity.com
+  - +.tencentmiying.com
   - +.tencentmusic.com
   - +.tencentproxy.com
   - +.tencentrio.com
@@ -5177,6 +5181,7 @@ payload:
   - +.tendbcluster.com
   - +.tendcloud.com
   - +.tendis.net
+  - +.tengmed.com
   - +.tenpay.com
   - +.tenxcloud.com
   - +.tesoon.com
@@ -5746,6 +5751,7 @@ payload:
   - +.wasu.tv
   - +.wbclick.mobile.sina.cn
   - +.wbimg.com
+  - +.wbweilicai.com
   - +.wcbygame.com
   - +.wch-ic.com
   - +.wdfok.com
