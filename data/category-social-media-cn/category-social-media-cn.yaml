@@ -8,6 +8,7 @@ payload:
   - +.ads.sina.com
   - +.alitui.weibo.com
   - +.askdiandian.com
+  - +.baihe.com
   - +.beacon.sina.com.cn
   - +.biz.weibo.com
   - +.click.uve.mobile.sina.cn
@@ -22,14 +23,18 @@ payload:
   - +.douban.com
   - +.douban.fm
   - +.doubanio.com
+  - +.duoduo.link
   - +.fanfou.com
   - +.gracg.com
+  - +.hammi.cn
   - +.hoopchina.com.cn
   - +.hupu.com
   - +.hupucdn.com
+  - +.immomo.com
   - +.ivwen.com
   - +.ixiaochuan.cn
   - +.izuiyou.com
+  - +.jiayuan.com
   - +.jike.city
   - +.jikecdn.com
   - +.krcom.cn
@@ -41,12 +46,16 @@ payload:
   - +.meipian.cn
   - +.meipian.me
   - +.mixer.sina.cn
+  - +.momocdn.com
   - +.okjike.com
   - +.okjk.co
   - +.p4p.sina.com.cn
   - +.picself.cn
   - +.procg.cn
+  - +.qianliaowang.com
+  - +.qlchat.com
   - +.redelight.cn
+  - +.rnote.com
   - +.rs.sinajs.cn
   - +.ruguoapp.com
   - +.sa.sina.cn
@@ -66,10 +75,14 @@ payload:
   - +.sinajs.com
   - +.slog.sina.cn
   - +.slog.sina.com.cn
+  - +.soulapp.cn
   - +.t.cn
+  - +.tancdn.com
+  - +.tantanapp.com
   - +.taou.com
   - +.tieba.baidu.com
   - +.tieba.com
+  - +.uboxs.com
   - +.uneed.com
   - +.uneedx.com
   - +.videoself.cn
@@ -93,7 +106,10 @@ payload:
   - +.xiaochuankeji.cn
   - +.xiaohongshu.com
   - +.xn--9krt00a
+  - +.zastatic.com
+  - +.zhenai.com
   - +.zhihu-web-analytics.zhihu.com
   - +.zhihu.com
   - +.zhimg.com
   - +.zsxq.com
+  - +.zuiyou.tv

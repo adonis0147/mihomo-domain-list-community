@@ -361,6 +361,7 @@ payload:
   - +.gameabc.com
   - +.gamebonfire.com
   - +.gamediary.cn
+  - +.gamedog.cn
   - +.gameitop.com
   - +.gamelook.com.cn
   - +.gameloop.com
@@ -474,6 +475,7 @@ payload:
   - +.iqiyi.com
   - +.iqiyipic.com
   - +.ishuqi.com
+  - +.ituchong.com
   - +.ja.gamersky.com
   - +.ja1.gamersky.com
   - +.ja2.gamersky.com
@@ -778,6 +780,7 @@ payload:
   - +.tingmall.com
   - +.tmead.y.qq.com
   - +.tmeadcomm.y.qq.com
+  - +.tuchong.com
   - +.tudou.com
   - +.tuer123.com
   - +.tuyoo.com
@@ -850,6 +853,7 @@ payload:
   - +.xyzcdn.net
   - +.xyzfm.link
   - +.xyzfm.space
+  - +.xzw.com
   - +.y.qq.com
   - +.yamibo.com
   - +.ycgame.com
@@ -869,7 +873,9 @@ payload:
   - +.youba.com
   - +.youku.com
   - +.youkuhonor.com
+  - +.youxibao.com
   - +.youxichaguan.com
+  - +.youxiniao.com
   - +.youxiputao.com
   - +.youxituoluo.com
   - +.yuanshen.com
