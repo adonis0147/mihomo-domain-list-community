@@ -99455,6 +99455,8 @@ payload:
   - DOMAIN-SUFFIX,nexon.net
   - DOMAIN-SUFFIX,nexoncdn.co.kr
   - DOMAIN-SUFFIX,nexongames.co.kr
+  - DOMAIN-SUFFIX,nexus-cdn.com
+  - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,178.com
   - DOMAIN-SUFFIX,nga.cn
   - DOMAIN-SUFFIX,ngabbs.com
