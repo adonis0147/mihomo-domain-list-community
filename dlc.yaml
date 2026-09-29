@@ -11525,6 +11525,7 @@ payload:
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,lmstudio.ai
@@ -11535,11 +11536,13 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,mozilla.ai
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
@@ -11556,6 +11559,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,oystermercury.top
@@ -11598,6 +11602,8 @@ payload:
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,geminiweb-pa.clients.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,o33249.ingest.sentry.io
@@ -11707,6 +11713,7 @@ payload:
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,lmstudio.ai
@@ -11717,11 +11724,13 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,mozilla.ai
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
@@ -11738,6 +11747,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,oystermercury.top
@@ -11780,6 +11790,8 @@ payload:
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,geminiweb-pa.clients.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,o33249.ingest.sentry.io
@@ -11982,6 +11994,7 @@ payload:
   - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,haveibeenpwned.com
   - DOMAIN-SUFFIX,hiddify.com
+  - DOMAIN-SUFFIX,huarun.win
   - DOMAIN-SUFFIX,incy.cc
   - DOMAIN-SUFFIX,ipfs-gateway.cloud
   - DOMAIN-SUFFIX,ipfs.anonymize.com
@@ -18693,6 +18706,7 @@ payload:
   - DOMAIN-SUFFIX,messengerdevelopers.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabora.io
   - DOMAIN-SUFFIX,metacloud.com
   - DOMAIN-SUFFIX,metamind.io
@@ -19070,6 +19084,7 @@ payload:
   - DOMAIN-SUFFIX,mtsmedia.ru
   - DOMAIN-SUFFIX,mudbox3d.com
   - DOMAIN-SUFFIX,multiplydiversity.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,musixmatch.com
   - DOMAIN-SUFFIX,muumuu-domain.com
@@ -23032,6 +23047,7 @@ payload:
   - DOMAIN-SUFFIX,changxie.com
   - DOMAIN-SUFFIX,chinauos.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cnblogs.com
   - DOMAIN-SUFFIX,cnblogs.vip
   - DOMAIN-SUFFIX,cnitblog.com
@@ -48710,6 +48726,7 @@ payload:
   - DOMAIN-SUFFIX,cn.pool.ntp.org
   - DOMAIN-SUFFIX,cnanzhi.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cnbksy.com
   - DOMAIN-SUFFIX,cnblogs.com
   - DOMAIN-SUFFIX,cnblogs.vip
@@ -53729,6 +53746,7 @@ payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cnbc.com
   - DOMAIN-SUFFIX,cnbcfm.com
   - DOMAIN-SUFFIX,nbcudigitaladops.com
@@ -68076,6 +68094,7 @@ payload:
   - DOMAIN-SUFFIX,huanyuju.com
   - DOMAIN-SUFFIX,huarenav.com
   - DOMAIN-SUFFIX,huarenporn.com
+  - DOMAIN-SUFFIX,huarun.win
   - DOMAIN-SUFFIX,huashundg.com
   - DOMAIN-SUFFIX,huati.cc
   - DOMAIN-SUFFIX,huaxin-lls.xyz
@@ -71060,6 +71079,7 @@ payload:
   - DOMAIN-SUFFIX,met-nude.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabora.io
   - DOMAIN-SUFFIX,metabrainz.org
   - DOMAIN-SUFFIX,metacloud.com
@@ -72039,6 +72059,7 @@ payload:
   - DOMAIN-SUFFIX,muscache.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musclegirlflix.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,mushymush.tv
   - DOMAIN-SUFFIX,musical.ly
@@ -73413,6 +73434,7 @@ payload:
   - DOMAIN-SUFFIX,openbook.org.tw
   - DOMAIN-SUFFIX,opencas.io
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,opencollective.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opendns.com
@@ -84312,6 +84334,7 @@ payload:
   - DOMAIN-SUFFIX,cn.pool.ntp.org
   - DOMAIN-SUFFIX,cnanzhi.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cnbksy.com
   - DOMAIN-SUFFIX,cnblogs.com
   - DOMAIN-SUFFIX,cnblogs.vip
@@ -91919,6 +91942,7 @@ payload:
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
@@ -91937,6 +91961,8 @@ payload:
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,geminiweb-pa.clients.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
@@ -91962,6 +91988,7 @@ payload:
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
@@ -91980,6 +92007,8 @@ payload:
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,geminiweb-pa.clients.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
@@ -97452,9 +97481,11 @@ payload:
   - DOMAIN-SUFFIX,messengerdevelopers.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,midentsolutions.com
   - DOMAIN-SUFFIX,mobilefacebook.com
   - DOMAIN-SUFFIX,moneywithfacebook.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,myfbfans.com
   - DOMAIN-SUFFIX,nbabot.net
   - DOMAIN-SUFFIX,newsfeed.com
@@ -104475,6 +104506,7 @@ payload:
   - DOMAIN-SUFFIX,cloudidaas.com
   - DOMAIN-SUFFIX,cloudsite.vip
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cncqcloud.com
   - DOMAIN-SUFFIX,coding.me
   - DOMAIN-SUFFIX,coding.net
@@ -105049,6 +105081,7 @@ payload:
   - DOMAIN,wetv.qq.com
   - DOMAIN-SUFFIX,badjs.weixinbridge.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,coding.me
   - DOMAIN-SUFFIX,coding.net
   - DOMAIN-SUFFIX,openmidas.com
