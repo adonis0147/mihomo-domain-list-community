@@ -11990,6 +11990,7 @@ payload:
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,gfw.report
   - DOMAIN-SUFFIX,googlecensorship.org
+  - DOMAIN-SUFFIX,googleplaycensorship.com
   - DOMAIN-SUFFIX,greatfire.org
   - DOMAIN-SUFFIX,greatfirevpn.com
   - DOMAIN-SUFFIX,guardianproject.info
@@ -67000,6 +67001,7 @@ payload:
   - DOMAIN-SUFFIX,googlepagecreator.com
   - DOMAIN-SUFFIX,googlephotos.com
   - DOMAIN-SUFFIX,googleplay.com
+  - DOMAIN-SUFFIX,googleplaycensorship.com
   - DOMAIN-SUFFIX,googleplus.com
   - DOMAIN-SUFFIX,googlesource.com
   - DOMAIN-SUFFIX,googlestore.com
@@ -92186,6 +92188,7 @@ payload:
   - DOMAIN-SUFFIX,freeweibo.com
   - DOMAIN-SUFFIX,freezhihu.org
   - DOMAIN-SUFFIX,googlecensorship.org
+  - DOMAIN-SUFFIX,googleplaycensorship.com
   - DOMAIN-SUFFIX,greatfire.org
   - DOMAIN-SUFFIX,greatfirevpn.com
   - DOMAIN-SUFFIX,pao-pao.net
