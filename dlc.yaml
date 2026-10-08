@@ -9912,7 +9912,6 @@ payload:
   - DOMAIN-SUFFIX,cnaa123.com
   - DOMAIN-SUFFIX,cnlogs.umeng.com
   - DOMAIN-SUFFIX,cnlogs.umengcloud.com
-  - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,collector.xhamster.com
   - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,contentabc.com
@@ -10015,8 +10014,6 @@ payload:
   - DOMAIN-SUFFIX,gozendata.com
   - DOMAIN-SUFFIX,graph-fallback.instagram.com
   - DOMAIN-SUFFIX,graph.instagram.com
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,gs.amplitude.com
   - DOMAIN-SUFFIX,gs.eu.amplitude.com
   - DOMAIN-SUFFIX,guanggaoad.youku.com
@@ -10431,13 +10428,9 @@ payload:
   - DOMAIN,clck.yandex.net
   - DOMAIN,clck.yango.com
   - DOMAIN,click.rustore.ru
-  - DOMAIN,copilot-telemetry-service.githubusercontent.com
-  - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,disney.my.sentry.io
   - DOMAIN,error-tracking.megamarket.tech
   - DOMAIN,google-analytics-suite.ozon.ru
-  - DOMAIN,incoming-telemetry.thunderbird.net
-  - DOMAIN,incoming.telemetry.mozilla.org
   - DOMAIN,informer.yandex.ru
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,log.strm.yandex.ru
@@ -10782,7 +10775,6 @@ payload:
   - DOMAIN-SUFFIX,cnaa123.com
   - DOMAIN-SUFFIX,cnlogs.umeng.com
   - DOMAIN-SUFFIX,cnlogs.umengcloud.com
-  - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,collector.xhamster.com
   - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,contentabc.com
@@ -10891,8 +10883,6 @@ payload:
   - DOMAIN-SUFFIX,gozendata.com
   - DOMAIN-SUFFIX,graph-fallback.instagram.com
   - DOMAIN-SUFFIX,graph.instagram.com
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,growin.cn
   - DOMAIN-SUFFIX,growingio.cn
   - DOMAIN-SUFFIX,growingio.com
@@ -11342,13 +11332,9 @@ payload:
   - DOMAIN,clck.yandex.net
   - DOMAIN,clck.yango.com
   - DOMAIN,click.rustore.ru
-  - DOMAIN,copilot-telemetry-service.githubusercontent.com
-  - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,disney.my.sentry.io
   - DOMAIN,error-tracking.megamarket.tech
   - DOMAIN,google-analytics-suite.ozon.ru
-  - DOMAIN,incoming-telemetry.thunderbird.net
-  - DOMAIN,incoming.telemetry.mozilla.org
   - DOMAIN,informer.yandex.ru
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,log.strm.yandex.ru
@@ -13605,8 +13591,6 @@ payload:
   - DOMAIN-SUFFIX,freenode.net
   - DOMAIN-SUFFIX,gcld-line.com
   - DOMAIN-SUFFIX,graph.org
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,intercom.com
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomassets.com
@@ -15467,6 +15451,7 @@ payload:
   - DOMAIN-SUFFIX,cadmep.com
   - DOMAIN-SUFFIX,cadoverlay.com
   - DOMAIN-SUFFIX,cadren.com
+  - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,caice.com
   - DOMAIN-SUFFIX,calendarserver.org
   - DOMAIN-SUFFIX,calicolabs.com
@@ -17370,8 +17355,6 @@ payload:
   - DOMAIN-SUFFIX,granulate.io
   - DOMAIN-SUFFIX,graph-fallback.instagram.com
   - DOMAIN-SUFFIX,graph.instagram.com
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,graphengine.io
   - DOMAIN-SUFFIX,gravitytank.com
   - DOMAIN-SUFFIX,greenbuildingstudio.com
@@ -22418,6 +22401,7 @@ payload:
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,builtwithnix.org
   - DOMAIN-SUFFIX,busybox.net
+  - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,calendarserver.org
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,carekit.org
@@ -45839,6 +45823,7 @@ payload:
   - DOMAIN-SUFFIX,testmyspeed.com
   - DOMAIN-SUFFIX,testskorosti.ru
   - DOMAIN-SUFFIX,webtest.net
+  - DOMAIN-SUFFIX,wifiman.me
   - DOMAIN-SUFFIX,xnfz.seu.edu.cn
   - DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
   - DOMAIN,www.speedtest.net.cdn.cloudflare.net
@@ -61910,6 +61895,7 @@ payload:
   - DOMAIN-SUFFIX,cadmep.com
   - DOMAIN-SUFFIX,cadoverlay.com
   - DOMAIN-SUFFIX,cadren.com
+  - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,cafr.ca
   - DOMAIN-SUFFIX,cai21.xyz
   - DOMAIN-SUFFIX,caice.com
@@ -67087,8 +67073,6 @@ payload:
   - DOMAIN-SUFFIX,graph-fallback.instagram.com
   - DOMAIN-SUFFIX,graph.instagram.com
   - DOMAIN-SUFFIX,graph.org
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,grapheneos.app
   - DOMAIN-SUFFIX,grapheneos.ca
   - DOMAIN-SUFFIX,grapheneos.com
@@ -90661,6 +90645,7 @@ payload:
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,gitee.io
   - DOMAIN-SUFFIX,atom.io
+  - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,gh.io
@@ -97412,8 +97397,6 @@ payload:
   - DOMAIN-SUFFIX,gfacecbook.com
   - DOMAIN-SUFFIX,graph-fallback.instagram.com
   - DOMAIN-SUFFIX,graph.instagram.com
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,groups.com
   - DOMAIN-SUFFIX,hackerfacebook.com
   - DOMAIN-SUFFIX,hackfacebook.com
@@ -97748,6 +97731,7 @@ payload:
   - DOMAIN-SUFFIX,browser.events.data.msn.cn
   - DOMAIN-SUFFIX,browser.events.data.msn.com
   - DOMAIN-SUFFIX,c-msedge.net
+  - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,callersbane.com
   - DOMAIN-SUFFIX,cegid-cloud.cn
   - DOMAIN-SUFFIX,centralvalidation.com
@@ -108281,8 +108265,6 @@ payload:
   - DOMAIN-SUFFIX,wd.com
   - DOMAIN-SUFFIX,wdc.com
   - DOMAIN-SUFFIX,westerndigital.com
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,wa.me
   - DOMAIN-SUFFIX,whatsapp-plus.info
   - DOMAIN-SUFFIX,whatsapp-plus.me
