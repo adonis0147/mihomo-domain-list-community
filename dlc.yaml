@@ -10327,7 +10327,6 @@ payload:
   - DOMAIN-SUFFIX,wuliao.epro.sogou.com
   - DOMAIN-SUFFIX,wwads.cn
   - DOMAIN-SUFFIX,xy-log.tagtic.cn
-  - DOMAIN-SUFFIX,yabs.yandex.ru
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yandex-metrica.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
@@ -11231,7 +11230,6 @@ payload:
   - DOMAIN-SUFFIX,wuliao.epro.sogou.com
   - DOMAIN-SUFFIX,wwads.cn
   - DOMAIN-SUFFIX,xy-log.tagtic.cn
-  - DOMAIN-SUFFIX,yabs.yandex.ru
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yandex-metrica.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
@@ -11564,6 +11562,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,syntx.ai
   - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,themeforest.net
@@ -11753,6 +11752,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,syntx.ai
   - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,themeforest.net
@@ -15226,6 +15226,7 @@ payload:
   - DOMAIN-SUFFIX,bellsouth.net
   - DOMAIN-SUFFIX,berizaryad.ru
   - DOMAIN-SUFFIX,berkanawireless.com
+  - DOMAIN-SUFFIX,beru.ru
   - DOMAIN-SUFFIX,best4bim.com
   - DOMAIN-SUFFIX,bestbeats4u.com
   - DOMAIN-SUFFIX,bestbim.com
@@ -15366,6 +15367,7 @@ payload:
   - DOMAIN-SUFFIX,bluemix.net
   - DOMAIN-SUFFIX,blurams.app
   - DOMAIN-SUFFIX,blurams.com
+  - DOMAIN-SUFFIX,bookmate.ru
   - DOMAIN-SUFFIX,bookonsky.net
   - DOMAIN-SUFFIX,bookstagram.com
   - DOMAIN-SUFFIX,boom.ru
@@ -15927,6 +15929,7 @@ payload:
   - DOMAIN-SUFFIX,delcamtv.com
   - DOMAIN-SUFFIX,delcamuniversity.com
   - DOMAIN-SUFFIX,delcamusa.com
+  - DOMAIN-SUFFIX,delivery-club.ru
   - DOMAIN-SUFFIX,dell
   - DOMAIN-SUFFIX,dell-alw.com
   - DOMAIN-SUFFIX,dell-brand.com
@@ -16341,6 +16344,7 @@ payload:
   - DOMAIN-SUFFIX,ecotect.net
   - DOMAIN-SUFFIX,ecscad.com
   - DOMAIN-SUFFIX,ecspublisher.com
+  - DOMAIN-SUFFIX,edadeal.ru
   - DOMAIN-SUFFIX,edgefonts.net
   - DOMAIN-SUFFIX,edu-research.org
   - DOMAIN-SUFFIX,education-cadcam.com
@@ -16805,6 +16809,7 @@ payload:
   - DOMAIN-SUFFIX,foftolia.com
   - DOMAIN-SUFFIX,followpype.com
   - DOMAIN-SUFFIX,fonolia.com
+  - DOMAIN-SUFFIX,foodfox.ru
   - DOMAIN-SUFFIX,foofle.com
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,footwear-cadcam.com
@@ -18612,6 +18617,7 @@ payload:
   - DOMAIN-SUFFIX,mapguide.com
   - DOMAIN-SUFFIX,mappingonline.com
   - DOMAIN-SUFFIX,marinecadcam.com
+  - DOMAIN-SUFFIX,market.ru
   - DOMAIN-SUFFIX,marketing-cloud.com
   - DOMAIN-SUFFIX,marketing-nirvana.com
   - DOMAIN-SUFFIX,marketingcloud.com
@@ -19750,6 +19756,7 @@ payload:
   - DOMAIN-SUFFIX,rustore.ru
   - DOMAIN-SUFFIX,rustore.team
   - DOMAIN-SUFFIX,rustore.tv
+  - DOMAIN-SUFFIX,rutaxi.ru
   - DOMAIN-SUFFIX,rzr.to
   - DOMAIN-SUFFIX,s-bluemix.net
   - DOMAIN-SUFFIX,s-cashonmobile.com
@@ -19883,6 +19890,8 @@ payload:
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,shazam.com
   - DOMAIN-SUFFIX,shedevrum.ai
+  - DOMAIN-SUFFIX,shedevrum.com
+  - DOMAIN-SUFFIX,shedevrum.ru
   - DOMAIN-SUFFIX,sheets.new
   - DOMAIN-SUFFIX,shisho.dev
   - DOMAIN-SUFFIX,shoers.com
@@ -20265,6 +20274,7 @@ payload:
   - DOMAIN-SUFFIX,theintelstore.com
   - DOMAIN-SUFFIX,theinventionworks.com
   - DOMAIN-SUFFIX,theinventionworks.net
+  - DOMAIN-SUFFIX,thequestion.ru
   - DOMAIN-SUFFIX,theuab.net
   - DOMAIN-SUFFIX,thinkboxsoftware.com
   - DOMAIN-SUFFIX,thinkdifferent.us
@@ -20502,6 +20512,7 @@ payload:
   - DOMAIN-SUFFIX,verizonmedia.com
   - DOMAIN-SUFFIX,verizonwireless.com
   - DOMAIN-SUFFIX,versly.com
+  - DOMAIN-SUFFIX,vezet.ru
   - DOMAIN-SUFFIX,vfabric.net
   - DOMAIN-SUFFIX,vfsforgit.com
   - DOMAIN-SUFFIX,vfsforgit.org
@@ -20893,7 +20904,7 @@ payload:
   - DOMAIN-SUFFIX,xuite.net
   - DOMAIN-SUFFIX,ya.cc
   - DOMAIN-SUFFIX,ya.ru
-  - DOMAIN-SUFFIX,yabs.yandex.ru
+  - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yahoo
   - DOMAIN-SUFFIX,yahoo-news.com.hk
@@ -21060,8 +21071,10 @@ payload:
   - DOMAIN-SUFFIX,yamaxun.com
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yandex
+  - DOMAIN-SUFFIX,yandex-ad.cn
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-metrica.ru
+  - DOMAIN-SUFFIX,yandex-team.com
   - DOMAIN-SUFFIX,yandex-team.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.asia
@@ -21086,22 +21099,29 @@ payload:
   - DOMAIN-SUFFIX,yandex.kz
   - DOMAIN-SUFFIX,yandex.lt
   - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.market
   - DOMAIN-SUFFIX,yandex.md
   - DOMAIN-SUFFIX,yandex.mobi
   - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.net.ru
   - DOMAIN-SUFFIX,yandex.org
   - DOMAIN-SUFFIX,yandex.pl
+  - DOMAIN-SUFFIX,yandex.pro
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yandex.st
   - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.taxi
   - DOMAIN-SUFFIX,yandex.tj
   - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.tr
+  - DOMAIN-SUFFIX,yandex.travel
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexdataschool.com
+  - DOMAIN-SUFFIX,yandexdataschool.ru
   - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
@@ -21126,6 +21146,7 @@ payload:
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yccdn.ru
   - DOMAIN-SUFFIX,yclients.com
+  - DOMAIN-SUFFIX,ydb.tech
   - DOMAIN-SUFFIX,yho.com
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yimg.jp
@@ -43672,6 +43693,7 @@ payload:
   - DOMAIN-SUFFIX,servicepipe.tech
   - DOMAIN-SUFFIX,sfunpay.com
   - DOMAIN-SUFFIX,shedevrum.ai
+  - DOMAIN-SUFFIX,shedevrum.com
   - DOMAIN-SUFFIX,shop-rt.com
   - DOMAIN-SUFFIX,sistema-capital.com
   - DOMAIN-SUFFIX,skbx.pro
@@ -43883,11 +43905,13 @@ payload:
   - DOMAIN-SUFFIX,xn--p1acf
   - DOMAIN-SUFFIX,xn--p1ai
   - DOMAIN-SUFFIX,ya.cc
-  - DOMAIN-SUFFIX,yabs.yandex.ru
+  - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yandex
+  - DOMAIN-SUFFIX,yandex-ad.cn
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-metrica.ru
+  - DOMAIN-SUFFIX,yandex-team.com
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.asia
   - DOMAIN-SUFFIX,yandex.az
@@ -43910,21 +43934,26 @@ payload:
   - DOMAIN-SUFFIX,yandex.kz
   - DOMAIN-SUFFIX,yandex.lt
   - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.market
   - DOMAIN-SUFFIX,yandex.md
   - DOMAIN-SUFFIX,yandex.mobi
   - DOMAIN-SUFFIX,yandex.net
   - DOMAIN-SUFFIX,yandex.org
   - DOMAIN-SUFFIX,yandex.pl
+  - DOMAIN-SUFFIX,yandex.pro
   - DOMAIN-SUFFIX,yandex.st
   - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.taxi
   - DOMAIN-SUFFIX,yandex.tj
   - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.tr
+  - DOMAIN-SUFFIX,yandex.travel
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexdataschool.com
   - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.net
@@ -43947,6 +43976,7 @@ payload:
   - DOMAIN-SUFFIX,yastat.net
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yclients.com
+  - DOMAIN-SUFFIX,ydb.tech
   - DOMAIN-SUFFIX,yndx.net
   - DOMAIN-SUFFIX,youla.io
   - DOMAIN-SUFFIX,yourgood.app
@@ -60608,6 +60638,7 @@ payload:
   - DOMAIN-SUFFIX,berkanawireless.com
   - DOMAIN-SUFFIX,berkeley.edu
   - DOMAIN-SUFFIX,berlincompanions.com
+  - DOMAIN-SUFFIX,beru.ru
   - DOMAIN-SUFFIX,best-sex-games.com
   - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,best4bim.com
@@ -61517,6 +61548,7 @@ payload:
   - DOMAIN-SUFFIX,booking.cn
   - DOMAIN-SUFFIX,booking.com
   - DOMAIN-SUFFIX,bookmark.xxx
+  - DOMAIN-SUFFIX,bookmate.ru
   - DOMAIN-SUFFIX,bookmybridgestonetyre.com
   - DOMAIN-SUFFIX,bookonsky.net
   - DOMAIN-SUFFIX,books.com.tw
@@ -63267,6 +63299,7 @@ payload:
   - DOMAIN-SUFFIX,delcamusa.com
   - DOMAIN-SUFFIX,delets.online
   - DOMAIN-SUFFIX,delicious.com.au
+  - DOMAIN-SUFFIX,delivery-club.ru
   - DOMAIN-SUFFIX,dell
   - DOMAIN-SUFFIX,dell-alw.com
   - DOMAIN-SUFFIX,dell-brand.com
@@ -64507,6 +64540,7 @@ payload:
   - DOMAIN-SUFFIX,ecscad.com
   - DOMAIN-SUFFIX,ecspublisher.com
   - DOMAIN-SUFFIX,ecuatorianas.best
+  - DOMAIN-SUFFIX,edadeal.ru
   - DOMAIN-SUFFIX,edbi.ir
   - DOMAIN-SUFFIX,edcity.hk
   - DOMAIN-SUFFIX,edengay.net
@@ -65714,6 +65748,7 @@ payload:
   - DOMAIN-SUFFIX,fonts.net
   - DOMAIN-SUFFIX,fontshop.com
   - DOMAIN-SUFFIX,fontsinuse.com
+  - DOMAIN-SUFFIX,foodfox.ru
   - DOMAIN-SUFFIX,foofle.com
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,footseen.com
@@ -70722,6 +70757,7 @@ payload:
   - DOMAIN-SUFFIX,mariokart7.com
   - DOMAIN-SUFFIX,mariokart8.com
   - DOMAIN-SUFFIX,mariosupersluggers.com
+  - DOMAIN-SUFFIX,market.ru
   - DOMAIN-SUFFIX,marketexecutive.net
   - DOMAIN-SUFFIX,marketing-cloud.com
   - DOMAIN-SUFFIX,marketing-nirvana.com
@@ -75618,6 +75654,7 @@ payload:
   - DOMAIN-SUFFIX,rustore.team
   - DOMAIN-SUFFIX,rustore.tv
   - DOMAIN-SUFFIX,rustup.rs
+  - DOMAIN-SUFFIX,rutaxi.ru
   - DOMAIN-SUFFIX,ruten.com.tw
   - DOMAIN-SUFFIX,rutor.info
   - DOMAIN-SUFFIX,rutracker.cc
@@ -76244,6 +76281,8 @@ payload:
   - DOMAIN-SUFFIX,shazam.com
   - DOMAIN-SUFFIX,shdd.ink
   - DOMAIN-SUFFIX,shedevrum.ai
+  - DOMAIN-SUFFIX,shedevrum.com
+  - DOMAIN-SUFFIX,shedevrum.ru
   - DOMAIN-SUFFIX,sheets.new
   - DOMAIN-SUFFIX,sheflix.com
   - DOMAIN-SUFFIX,shegg.com
@@ -77348,6 +77387,7 @@ payload:
   - DOMAIN-SUFFIX,synology.me
   - DOMAIN-SUFFIX,synologydownload.com
   - DOMAIN-SUFFIX,synologyupdate.com
+  - DOMAIN-SUFFIX,syntx.ai
   - DOMAIN-SUFFIX,syosetu.com
   - DOMAIN-SUFFIX,sysinternals.com
   - DOMAIN-SUFFIX,system76.com
@@ -77749,6 +77789,7 @@ payload:
   - DOMAIN-SUFFIX,thepornscat.com
   - DOMAIN-SUFFIX,theporntoplist.com
   - DOMAIN-SUFFIX,theporny.com
+  - DOMAIN-SUFFIX,thequestion.ru
   - DOMAIN-SUFFIX,thesafeporn.com
   - DOMAIN-SUFFIX,thescottishsun.co.uk
   - DOMAIN-SUFFIX,thesffblog.com
@@ -78785,6 +78826,7 @@ payload:
   - DOMAIN-SUFFIX,verygoodnike.com
   - DOMAIN-SUFFIX,veryladyboy.com
   - DOMAIN-SUFFIX,veryshortintroductions.com
+  - DOMAIN-SUFFIX,vezet.ru
   - DOMAIN-SUFFIX,vfabric.net
   - DOMAIN-SUFFIX,vfsco.at
   - DOMAIN-SUFFIX,vfsco.be
@@ -80621,8 +80663,8 @@ payload:
   - DOMAIN-SUFFIX,xzxxtube.com
   - DOMAIN-SUFFIX,ya.cc
   - DOMAIN-SUFFIX,ya.ru
-  - DOMAIN-SUFFIX,yabs.yandex.ru
   - DOMAIN-SUFFIX,yaddal.tv
+  - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yadori.club
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yaeby.info
@@ -80798,8 +80840,10 @@ payload:
   - DOMAIN-SUFFIX,yamoon.club
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yandex
+  - DOMAIN-SUFFIX,yandex-ad.cn
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-metrica.ru
+  - DOMAIN-SUFFIX,yandex-team.com
   - DOMAIN-SUFFIX,yandex-team.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.asia
@@ -80824,22 +80868,29 @@ payload:
   - DOMAIN-SUFFIX,yandex.kz
   - DOMAIN-SUFFIX,yandex.lt
   - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.market
   - DOMAIN-SUFFIX,yandex.md
   - DOMAIN-SUFFIX,yandex.mobi
   - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.net.ru
   - DOMAIN-SUFFIX,yandex.org
   - DOMAIN-SUFFIX,yandex.pl
+  - DOMAIN-SUFFIX,yandex.pro
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yandex.st
   - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.taxi
   - DOMAIN-SUFFIX,yandex.tj
   - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.tr
+  - DOMAIN-SUFFIX,yandex.travel
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexdataschool.com
+  - DOMAIN-SUFFIX,yandexdataschool.ru
   - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
@@ -80880,6 +80931,7 @@ payload:
   - DOMAIN-SUFFIX,yccdn.ru
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,ycombinator.com
+  - DOMAIN-SUFFIX,ydb.tech
   - DOMAIN-SUFFIX,ydn.com.tw
   - DOMAIN-SUFFIX,yeonda.com
   - DOMAIN-SUFFIX,yepporn.com
@@ -109032,18 +109084,24 @@ payload:
   - DOMAIN-SUFFIX,appmetrica.yandex.ru
   - DOMAIN-SUFFIX,appmetrica.yango.com
   - DOMAIN-SUFFIX,berizaryad.ru
+  - DOMAIN-SUFFIX,beru.ru
+  - DOMAIN-SUFFIX,bookmate.ru
   - DOMAIN-SUFFIX,bs.yandex.ru
   - DOMAIN-SUFFIX,cabconnect.org
   - DOMAIN-SUFFIX,clck.ru
   - DOMAIN-SUFFIX,clck.yandex.ru
   - DOMAIN-SUFFIX,clstorage.net
   - DOMAIN-SUFFIX,counter.yandex.ru
+  - DOMAIN-SUFFIX,delivery-club.ru
   - DOMAIN-SUFFIX,driveawaytaxi.org
+  - DOMAIN-SUFFIX,edadeal.ru
   - DOMAIN-SUFFIX,elama.ru
+  - DOMAIN-SUFFIX,foodfox.ru
   - DOMAIN-SUFFIX,gogettaxi.org
   - DOMAIN-SUFFIX,goup.ai
   - DOMAIN-SUFFIX,hayya.ae
   - DOMAIN-SUFFIX,kinopoisk.ru
+  - DOMAIN-SUFFIX,market.ru
   - DOMAIN-SUFFIX,mc.yandex.ru
   - DOMAIN-SUFFIX,meteum.ai
   - DOMAIN-SUFFIX,metrika.yandex.com
@@ -109053,24 +109111,31 @@ payload:
   - DOMAIN-SUFFIX,naydex.net
   - DOMAIN-SUFFIX,realtyverif.ru
   - DOMAIN-SUFFIX,rostaxi.org
+  - DOMAIN-SUFFIX,rutaxi.ru
   - DOMAIN-SUFFIX,shedevrum.ai
+  - DOMAIN-SUFFIX,shedevrum.com
+  - DOMAIN-SUFFIX,shedevrum.ru
   - DOMAIN-SUFFIX,sourcecraft.dev
   - DOMAIN-SUFFIX,static-storage.net
   - DOMAIN-SUFFIX,support-uber.com
   - DOMAIN-SUFFIX,taxiaid.org
   - DOMAIN-SUFFIX,taxiguru.org
   - DOMAIN-SUFFIX,taxitax.org
+  - DOMAIN-SUFFIX,thequestion.ru
   - DOMAIN-SUFFIX,turbopages.org
+  - DOMAIN-SUFFIX,vezet.ru
   - DOMAIN-SUFFIX,webvisor.com
   - DOMAIN-SUFFIX,webvisor.org
   - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
   - DOMAIN-SUFFIX,ya.cc
   - DOMAIN-SUFFIX,ya.ru
-  - DOMAIN-SUFFIX,yabs.yandex.ru
+  - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yandex
+  - DOMAIN-SUFFIX,yandex-ad.cn
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-metrica.ru
+  - DOMAIN-SUFFIX,yandex-team.com
   - DOMAIN-SUFFIX,yandex-team.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.asia
@@ -109095,22 +109160,29 @@ payload:
   - DOMAIN-SUFFIX,yandex.kz
   - DOMAIN-SUFFIX,yandex.lt
   - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.market
   - DOMAIN-SUFFIX,yandex.md
   - DOMAIN-SUFFIX,yandex.mobi
   - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.net.ru
   - DOMAIN-SUFFIX,yandex.org
   - DOMAIN-SUFFIX,yandex.pl
+  - DOMAIN-SUFFIX,yandex.pro
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yandex.st
   - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.taxi
   - DOMAIN-SUFFIX,yandex.tj
   - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.tr
+  - DOMAIN-SUFFIX,yandex.travel
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexdataschool.com
+  - DOMAIN-SUFFIX,yandexdataschool.ru
   - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
@@ -109134,6 +109206,7 @@ payload:
   - DOMAIN-SUFFIX,yastatic-net.ru
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yccdn.ru
+  - DOMAIN-SUFFIX,ydb.tech
   - DOMAIN-SUFFIX,yndx.net
   - DOMAIN,adfstat.yandex.ru
   - DOMAIN,ads.yandex.com

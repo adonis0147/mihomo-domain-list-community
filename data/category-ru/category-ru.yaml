@@ -590,6 +590,7 @@ payload:
   - +.servicepipe.tech
   - +.sfunpay.com
   - +.shedevrum.ai
+  - +.shedevrum.com
   - +.shop-rt.com
   - +.sistema-capital.com
   - +.skbx.pro
@@ -801,11 +802,13 @@ payload:
   - +.xn--p1acf
   - +.xn--p1ai
   - +.ya.cc
-  - +.yabs.yandex.ru
+  - +.yadi.sk
   - +.yads.tech
   - +.yandex
+  - +.yandex-ad.cn
   - +.yandex-bank.net
   - +.yandex-metrica.ru
+  - +.yandex-team.com
   - +.yandex.aero
   - +.yandex.asia
   - +.yandex.az
@@ -828,21 +831,26 @@ payload:
   - +.yandex.kz
   - +.yandex.lt
   - +.yandex.lv
+  - +.yandex.market
   - +.yandex.md
   - +.yandex.mobi
   - +.yandex.net
   - +.yandex.org
   - +.yandex.pl
+  - +.yandex.pro
   - +.yandex.st
   - +.yandex.sx
+  - +.yandex.taxi
   - +.yandex.tj
   - +.yandex.tm
   - +.yandex.tr
+  - +.yandex.travel
   - +.yandex.ua
   - +.yandex.uz
   - +.yandexadexchange.net
   - +.yandexcloud.net
   - +.yandexcom.net
+  - +.yandexdataschool.com
   - +.yandexgo.com
   - +.yandexmetrica.com
   - +.yandexwebcache.net
@@ -865,6 +873,7 @@ payload:
   - +.yastat.net
   - +.yastatic.net
   - +.yclients.com
+  - +.ydb.tech
   - +.yndx.net
   - +.youla.io
   - +.yourgood.app
