@@ -126,6 +126,7 @@ payload:
   - +.opal.google.com
   - +.openai.com
   - +.openai.com.cdn.cloudflare.net
+  - +.openai.org
   - +.openart.ai
   - +.openclaw.ai
   - +.opencode.ai
