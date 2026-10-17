@@ -12315,6 +12315,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,deepwiki.com
@@ -12419,6 +12420,7 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,tripo3d.ai
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,typesafe.ai
   - DOMAIN-SUFFIX,windsurf.build
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,x.ai
@@ -12506,6 +12508,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,deepwiki.com
@@ -12610,6 +12613,7 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,tripo3d.ai
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,typesafe.ai
   - DOMAIN-SUFFIX,windsurf.build
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,x.ai
@@ -29742,6 +29746,7 @@ payload:
   - DOMAIN-SUFFIX,schwab.com.hk
   - DOMAIN-SUFFIX,schwab.com.sg
   - DOMAIN-SUFFIX,schwabassetmanagement.com
+  - DOMAIN-SUFFIX,schwabcdn.com
   - DOMAIN-SUFFIX,schwabplan.com
   - DOMAIN-SUFFIX,sdm.ru
   - DOMAIN-SUFFIX,seb.ru
@@ -55017,6 +55022,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,cutt.ly
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cybertrust.ne.jp
@@ -64057,6 +64063,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,curvybbwwives.com
   - DOMAIN-SUFFIX,curvyerotic.com
@@ -76892,6 +76899,7 @@ payload:
   - DOMAIN-SUFFIX,schwab.com.hk
   - DOMAIN-SUFFIX,schwab.com.sg
   - DOMAIN-SUFFIX,schwabassetmanagement.com
+  - DOMAIN-SUFFIX,schwabcdn.com
   - DOMAIN-SUFFIX,schwabplan.com
   - DOMAIN-SUFFIX,sci-hub.ee
   - DOMAIN-SUFFIX,sci-hub.it.nf
@@ -79403,6 +79411,7 @@ payload:
   - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
   - DOMAIN-SUFFIX,typenetwork.com
+  - DOMAIN-SUFFIX,typesafe.ai
   - DOMAIN-SUFFIX,typesquare.com
   - DOMAIN-SUFFIX,typography.com
   - DOMAIN-SUFFIX,tyre-cadcam.com
@@ -102318,6 +102327,8 @@ payload:
   - DOMAIN,asusrouter.com
   - DOMAIN,instant.arubanetworks.com
   - DOMAIN,local.adguard.org
+  - DOMAIN,localhost.weixin.qq.com
+  - DOMAIN,localhost.work.weixin.qq.com
   - DOMAIN,miwifi.com
   - DOMAIN,oasisauth.h3c.com
   - DOMAIN,router.asus.com
@@ -104220,6 +104231,7 @@ payload:
   - DOMAIN-SUFFIX,schwab.com.hk
   - DOMAIN-SUFFIX,schwab.com.sg
   - DOMAIN-SUFFIX,schwabassetmanagement.com
+  - DOMAIN-SUFFIX,schwabcdn.com
   - DOMAIN-SUFFIX,schwabplan.com
   - DOMAIN-SUFFIX,isiknowledge.com
   - DOMAIN-SUFFIX,newisiknowledge.com
