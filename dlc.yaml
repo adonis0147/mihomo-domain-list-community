@@ -15490,7 +15490,6 @@ payload:
   - DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
   - DOMAIN-SUFFIX,askfacebook.net
   - DOMAIN-SUFFIX,askfacebook.org
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,asp-cc.com
   - DOMAIN-SUFFIX,asp.net
   - DOMAIN-SUFFIX,aspnetcdn.com
@@ -17710,7 +17709,6 @@ payload:
   - DOMAIN-SUFFIX,flickr
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,flickr.net
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipshare.com
   - DOMAIN-SUFFIX,flipwithsurface.com
   - DOMAIN-SUFFIX,flow.dev
@@ -26316,7 +26314,6 @@ payload:
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,artstationmedia.com
   - DOMAIN-SUFFIX,artstorm.com
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,att.tv
   - DOMAIN-SUFFIX,atttvnow.com
   - DOMAIN-SUFFIX,attwatchtv.com
@@ -26703,7 +26700,6 @@ payload:
   - DOMAIN-SUFFIX,fireside.fm
   - DOMAIN-SUFFIX,firesidegatherings.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipnotestudio.com
   - DOMAIN-SUFFIX,forgecdn.net
   - DOMAIN-SUFFIX,formula1.com
@@ -28164,7 +28160,6 @@ payload:
   - DOMAIN,espndotcom.tt.omtrdc.net
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
   - DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
-  - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,fpinit.itunes.apple.com
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,gamer-cds.cdn.hinet.net
@@ -29952,6 +29947,85 @@ payload:
   - DOMAIN,standchartbank.sc.omtrdc.net
   - DOMAIN,standchartbank.tt.omtrdc.net
   - DOMAIN,visor.sberbank.ru
+  - DOMAIN-SUFFIX,a2asimulations.com
+  - DOMAIN-SUFFIX,aerosoft.com
+  - DOMAIN-SUFFIX,apocfly.com
+  - DOMAIN-SUFFIX,asobostudio.com
+  - DOMAIN-SUFFIX,beyondatc.app
+  - DOMAIN-SUFFIX,beyondatc.net
+  - DOMAIN-SUFFIX,carenado.com
+  - DOMAIN-SUFFIX,css.aero
+  - DOMAIN-SUFFIX,digitalcombatsimulator.com
+  - DOMAIN-SUFFIX,fenixsim.com
+  - DOMAIN-SUFFIX,flight1.com
+  - DOMAIN-SUFFIX,flightsim.to
+  - DOMAIN-SUFFIX,flightsimlabs.com
+  - DOMAIN-SUFFIX,flightsimulator.com
+  - DOMAIN-SUFFIX,flybywiresim.com
+  - DOMAIN-SUFFIX,flyisfp.com
+  - DOMAIN-SUFFIX,flytampa.org
+  - DOMAIN-SUFFIX,fs2crew.com
+  - DOMAIN-SUFFIX,fsdreamteam.com
+  - DOMAIN-SUFFIX,hifisimtech.com
+  - DOMAIN-SUFFIX,hifisimtech.zendesk.com
+  - DOMAIN-SUFFIX,hoppie.nl
+  - DOMAIN-SUFFIX,infiniteflight.com
+  - DOMAIN-SUFFIX,infiniteflight.live
+  - DOMAIN-SUFFIX,inibuilds.com
+  - DOMAIN-SUFFIX,ivao.aero
+  - DOMAIN-SUFFIX,justflight.com
+  - DOMAIN-SUFFIX,navigraph.com
+  - DOMAIN-SUFFIX,orbxdirect.com
+  - DOMAIN-SUFFIX,orbxsystems.com
+  - DOMAIN-SUFFIX,parallel42.com
+  - DOMAIN-SUFFIX,pilotedge.net
+  - DOMAIN-SUFFIX,pmdg.com
+  - DOMAIN-SUFFIX,poscon.net
+  - DOMAIN-SUFFIX,precisionmanuals.com
+  - DOMAIN-SUFFIX,prepar3d.com
+  - DOMAIN-SUFFIX,rexgamestudios.com
+  - DOMAIN-SUFFIX,rexsimulations.com
+  - DOMAIN-SUFFIX,rosscarlson.dev
+  - DOMAIN-SUFFIX,sayintentions.ai
+  - DOMAIN-SUFFIX,simbrief.com
+  - DOMAIN-SUFFIX,simmarket.com
+  - DOMAIN-SUFFIX,skylitefly.com
+  - DOMAIN-SUFFIX,synapticsim.com
+  - DOMAIN-SUFFIX,tfdidesign.com
+  - DOMAIN-SUFFIX,thresholdx.net
+  - DOMAIN-SUFFIX,vat-apac.com
+  - DOMAIN-SUFFIX,vatca.org
+  - DOMAIN-SUFFIX,vatcan.ca
+  - DOMAIN-SUFFIX,vatcar.net
+  - DOMAIN-SUFFIX,vateud.net
+  - DOMAIN-SUFFIX,vathk.com
+  - DOMAIN-SUFFIX,vatil.org.il
+  - DOMAIN-SUFFIX,vatjpn.org
+  - DOMAIN-SUFFIX,vatkor.net
+  - DOMAIN-SUFFIX,vatmex.com.mx
+  - DOMAIN-SUFFIX,vatnz.net
+  - DOMAIN-SUFFIX,vatpac.org
+  - DOMAIN-SUFFIX,vatprc.net
+  - DOMAIN-SUFFIX,vatroc.net
+  - DOMAIN-SUFFIX,vats.im
+  - DOMAIN-SUFFIX,vatsea.org
+  - DOMAIN-SUFFIX,vatsim-radar.com
+  - DOMAIN-SUFFIX,vatsim.com.br
+  - DOMAIN-SUFFIX,vatsim.dev
+  - DOMAIN-SUFFIX,vatsim.me
+  - DOMAIN-SUFFIX,vatsim.net
+  - DOMAIN-SUFFIX,vatsim.uk
+  - DOMAIN-SUFFIX,vatssa.com
+  - DOMAIN-SUFFIX,vatsur.org
+  - DOMAIN-SUFFIX,vatusa.net
+  - DOMAIN-SUFFIX,vatwa.net
+  - DOMAIN-SUFFIX,virtualisoftware.com
+  - DOMAIN-SUFFIX,x-plane.com
+  - DOMAIN-SUFFIX,x-plane.org
+  - DOMAIN-SUFFIX,xenviro.net
+  - DOMAIN-SUFFIX,xpilot-project.org
+  - DOMAIN,flightsimulator.azureedge.net
+  - DOMAIN,fsdt.virtuali.s3.amazonaws.com
   - DOMAIN-SUFFIX,3songshu.com
   - DOMAIN-SUFFIX,4008-517-517.cn
   - DOMAIN-SUFFIX,4008117117.com
@@ -30751,7 +30825,6 @@ payload:
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,artstationmedia.com
   - DOMAIN-SUFFIX,artstorm.com
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,astral-vector.com
   - DOMAIN-SUFFIX,awayoutgame.com
   - DOMAIN-SUFFIX,ayudanintendo.com
@@ -30941,7 +31014,6 @@ payload:
   - DOMAIN-SUFFIX,fireemblemawakening.com
   - DOMAIN-SUFFIX,firesidegatherings.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipnotestudio.com
   - DOMAIN-SUFFIX,forevernine.com
   - DOMAIN-SUFFIX,forgecdn.net
@@ -31747,7 +31819,6 @@ payload:
   - DOMAIN,end-api.shallow.ink
   - DOMAIN,end.shallow.ink
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
-  - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog-cdn.akamaized.net
@@ -31845,7 +31916,6 @@ payload:
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,artstationmedia.com
   - DOMAIN-SUFFIX,artstorm.com
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,awayoutgame.com
   - DOMAIN-SUFFIX,ayudanintendo.com
   - DOMAIN-SUFFIX,battle.net
@@ -32006,7 +32076,6 @@ payload:
   - DOMAIN-SUFFIX,fireemblemawakening.com
   - DOMAIN-SUFFIX,firesidegatherings.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipnotestudio.com
   - DOMAIN-SUFFIX,forgecdn.net
   - DOMAIN-SUFFIX,fortnite-vod.akamaized.net
@@ -32612,7 +32681,6 @@ payload:
   - DOMAIN,ea.tt.omtrdc.net
   - DOMAIN,eaassets-a.akamaihd.net
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
-  - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog-cdn.akamaized.net
@@ -60636,7 +60704,6 @@ payload:
   - DOMAIN-SUFFIX,asmr.gay
   - DOMAIN-SUFFIX,asmrbuluo.com
   - DOMAIN-SUFFIX,asn-online.org
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,asp-cc.com
   - DOMAIN-SUFFIX,asp.net
   - DOMAIN-SUFFIX,aspbjournals.org
@@ -66749,7 +66816,6 @@ payload:
   - DOMAIN-SUFFIX,flickr
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,flickr.net
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipfap.com
   - DOMAIN-SUFFIX,flipnotestudio.com
   - DOMAIN-SUFFIX,flipshare.com
@@ -98745,7 +98811,6 @@ payload:
   - DOMAIN-SUFFIX,applicationinsights.net
   - DOMAIN-SUFFIX,appserviceenvironment.cn
   - DOMAIN-SUFFIX,aria.ms
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,asp.net
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,atom.io
@@ -98920,7 +98985,6 @@ payload:
   - DOMAIN-SUFFIX,exp-tas.com
   - DOMAIN-SUFFIX,fasttrackreadysupport.com
   - DOMAIN-SUFFIX,femalefounderscomp.com
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipwithsurface.com
   - DOMAIN-SUFFIX,fluidpreview.com
   - DOMAIN-SUFFIX,footprintdns.com
@@ -108127,6 +108191,31 @@ payload:
   - DOMAIN-SUFFIX,vanishstains.com.au
   - DOMAIN-SUFFIX,vaptcha.com
   - DOMAIN-SUFFIX,vaptcha.net
+  - DOMAIN-SUFFIX,vat-apac.com
+  - DOMAIN-SUFFIX,vatca.org
+  - DOMAIN-SUFFIX,vatcan.ca
+  - DOMAIN-SUFFIX,vatcar.net
+  - DOMAIN-SUFFIX,vateud.net
+  - DOMAIN-SUFFIX,vathk.com
+  - DOMAIN-SUFFIX,vatil.org.il
+  - DOMAIN-SUFFIX,vatjpn.org
+  - DOMAIN-SUFFIX,vatkor.net
+  - DOMAIN-SUFFIX,vatmex.com.mx
+  - DOMAIN-SUFFIX,vatnz.net
+  - DOMAIN-SUFFIX,vatpac.org
+  - DOMAIN-SUFFIX,vatprc.net
+  - DOMAIN-SUFFIX,vatroc.net
+  - DOMAIN-SUFFIX,vats.im
+  - DOMAIN-SUFFIX,vatsea.org
+  - DOMAIN-SUFFIX,vatsim.com.br
+  - DOMAIN-SUFFIX,vatsim.dev
+  - DOMAIN-SUFFIX,vatsim.me
+  - DOMAIN-SUFFIX,vatsim.net
+  - DOMAIN-SUFFIX,vatsim.uk
+  - DOMAIN-SUFFIX,vatssa.com
+  - DOMAIN-SUFFIX,vatsur.org
+  - DOMAIN-SUFFIX,vatusa.net
+  - DOMAIN-SUFFIX,vatwa.net
   - DOMAIN-SUFFIX,veet.at
   - DOMAIN-SUFFIX,veet.be
   - DOMAIN-SUFFIX,veet.ca
@@ -109753,7 +109842,6 @@ payload:
   - DOMAIN-SUFFIX,grok.x.com
   - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,x.ai
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -109761,7 +109849,6 @@ payload:
   - DOMAIN-SUFFIX,callersbane.com
   - DOMAIN-SUFFIX,doom.com
   - DOMAIN-SUFFIX,elderscrolls.com
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,forza.net
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
@@ -109796,7 +109883,6 @@ payload:
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
-  - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,prodforza.blob.core.windows.net
   - DOMAIN-SUFFIX,ro.com
   - DOMAIN-SUFFIX,tapapks.com
