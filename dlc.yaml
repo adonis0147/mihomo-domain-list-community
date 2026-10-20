@@ -5801,8 +5801,10 @@ payload:
   - DOMAIN-SUFFIX,aviasales.com
   - DOMAIN-SUFFIX,aviasales.ru
   - DOMAIN-SUFFIX,avs.io
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN,stats.avito.ru
   - DOMAIN-SUFFIX,avmoo.click
   - DOMAIN-SUFFIX,avmoo.com
@@ -24455,8 +24457,10 @@ payload:
   - DOMAIN-SUFFIX,auto.ru
   - DOMAIN-SUFFIX,automobile.fr
   - DOMAIN-SUFFIX,autoru.me
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,avto.ru
   - DOMAIN-SUFFIX,axbdoll.com.tw
   - DOMAIN-SUFFIX,baazee.com
@@ -25593,8 +25597,10 @@ payload:
   - DOMAIN-SUFFIX,apiauto.ru
   - DOMAIN-SUFFIX,auto.ru
   - DOMAIN-SUFFIX,autoru.me
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,avto.ru
   - DOMAIN-SUFFIX,cian.ru
   - DOMAIN-SUFFIX,cian.site
@@ -25931,6 +25937,8 @@ payload:
   - DOMAIN-SUFFIX,speiyou.com
   - DOMAIN-SUFFIX,sydw8.com
   - DOMAIN-SUFFIX,syh.zybang.com
+  - DOMAIN-SUFFIX,szu.app
+  - DOMAIN-SUFFIX,szu.moe
   - DOMAIN-SUFFIX,tal.com
   - DOMAIN-SUFFIX,tesoon.com
   - DOMAIN-SUFFIX,tongxuepie.com
@@ -45708,7 +45716,9 @@ payload:
   - DOMAIN-SUFFIX,attachmy.com
   - DOMAIN-SUFFIX,autoru.me
   - DOMAIN-SUFFIX,aviasales.com
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,avs.io
   - DOMAIN-SUFFIX,baltnews.com
   - DOMAIN-SUFFIX,baltnews.lt
@@ -54787,6 +54797,8 @@ payload:
   - DOMAIN-SUFFIX,szlcsc.com
   - DOMAIN-SUFFIX,sznews.com
   - DOMAIN-SUFFIX,szpgm.com
+  - DOMAIN-SUFFIX,szu.app
+  - DOMAIN-SUFFIX,szu.moe
   - DOMAIN-SUFFIX,szzfgjj.com
   - DOMAIN-SUFFIX,t00ls.cc
   - DOMAIN-SUFFIX,t00ls.net
@@ -62516,8 +62528,10 @@ payload:
   - DOMAIN-SUFFIX,avinetworks.com
   - DOMAIN-SUFFIX,avinin.com
   - DOMAIN-SUFFIX,avira.com
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,avizoon.site
   - DOMAIN-SUFFIX,avizoone.com
   - DOMAIN-SUFFIX,avjb.com
@@ -91401,6 +91415,8 @@ payload:
   - DOMAIN-SUFFIX,sznews.com
   - DOMAIN-SUFFIX,szpgm.com
   - DOMAIN-SUFFIX,szse.cn
+  - DOMAIN-SUFFIX,szu.app
+  - DOMAIN-SUFFIX,szu.moe
   - DOMAIN-SUFFIX,szzfgjj.com
   - DOMAIN-SUFFIX,t.cn
   - DOMAIN-SUFFIX,t00ls.cc
@@ -110364,6 +110380,7 @@ payload:
   - DOMAIN-SUFFIX,srvkp.com
   - DOMAIN-SUFFIX,stream-balancer-allo-1.live
   - DOMAIN-SUFFIX,stream-balancer-allo-1.site
+  - DOMAIN-SUFFIX,ukrtelcdn.net
   - DOMAIN-SUFFIX,videobase.biz
   - DOMAIN-SUFFIX,vkvideo.cloud
   - DOMAIN-SUFFIX,voidboost.one
