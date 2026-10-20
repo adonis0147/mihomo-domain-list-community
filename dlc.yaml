@@ -36257,11 +36257,19 @@ payload:
   - DOMAIN-SUFFIX,farmlend.ru
   - DOMAIN-SUFFIX,gorzdrav.org
   - DOMAIN-SUFFIX,gorzdrav.spb.ru
+  - DOMAIN-SUFFIX,hello-doc.ru
+  - DOMAIN-SUFFIX,hellodoc.app
+  - DOMAIN-SUFFIX,hellodoc.ru
   - DOMAIN-SUFFIX,klinikabudzdorov.ru
+  - DOMAIN-SUFFIX,medflex.ru
+  - DOMAIN-SUFFIX,medlock.ru
+  - DOMAIN-SUFFIX,medrocket.me
+  - DOMAIN-SUFFIX,medrocket.ru
   - DOMAIN-SUFFIX,medsi-premium.ru
   - DOMAIN-SUFFIX,medsi.com
   - DOMAIN-SUFFIX,medsi.pro
   - DOMAIN-SUFFIX,medsi.ru
+  - DOMAIN-SUFFIX,medtochka.ru
   - DOMAIN-SUFFIX,megapteka.ru
   - DOMAIN-SUFFIX,mgfoms.ru
   - DOMAIN-SUFFIX,mofoms.ru
@@ -36269,6 +36277,9 @@ payload:
   - DOMAIN-SUFFIX,oms.karelia.ru
   - DOMAIN-SUFFIX,planetazdorovo.ru
   - DOMAIN-SUFFIX,polyclinika.ru
+  - DOMAIN-SUFFIX,probolezny.ru
+  - DOMAIN-SUFFIX,prodoctorov.ru
+  - DOMAIN-SUFFIX,protabletky.ru
   - DOMAIN-SUFFIX,pz.help
   - DOMAIN-SUFFIX,reaviz.com
   - DOMAIN-SUFFIX,reaviz.ru
@@ -44446,6 +44457,7 @@ payload:
   - DOMAIN-SUFFIX,gw2ru.com
   - DOMAIN-SUFFIX,haicomdc.com
   - DOMAIN-SUFFIX,hayya.ae
+  - DOMAIN-SUFFIX,hellodoc.app
   - DOMAIN-SUFFIX,hh.by
   - DOMAIN-SUFFIX,hh.kz
   - DOMAIN-SUFFIX,home.bank
@@ -44575,6 +44587,7 @@ payload:
   - DOMAIN-SUFFIX,mc.yandex.ru
   - DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,mcs.st
+  - DOMAIN-SUFFIX,medrocket.me
   - DOMAIN-SUFFIX,medsi.com
   - DOMAIN-SUFFIX,medsi.pro
   - DOMAIN-SUFFIX,megafon.com
