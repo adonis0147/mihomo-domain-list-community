@@ -3027,13 +3027,23 @@ payload:
   - DOMAIN-SUFFIX,annas-archive.se
   - DOMAIN-SUFFIX,anon-v.com
   - DOMAIN-SUFFIX,anon-v.lol
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
+  - DOMAIN-SUFFIX,antspace.dev
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,ap.org
@@ -10473,6 +10483,7 @@ payload:
   - DOMAIN,metrika.kontur.ru
   - DOMAIN,new-adv.ozon.ru
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,o4504926511693824.ingest.sentry.io
   - DOMAIN,openai.qualtrics.com
   - DOMAIN,p3-ad-sign.byteimg.com
@@ -11376,6 +11387,7 @@ payload:
   - DOMAIN,metrika.kontur.ru
   - DOMAIN,new-adv.ozon.ru
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,o4504926511693824.ingest.sentry.io
   - DOMAIN,openai.qualtrics.com
   - DOMAIN,p3-ad-sign.byteimg.com
@@ -12225,6 +12237,7 @@ payload:
   - DOMAIN,metrika.kontur.ru
   - DOMAIN,new-adv.ozon.ru
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,o4504926511693824.ingest.sentry.io
   - DOMAIN,openai.qualtrics.com
   - DOMAIN,p3-ad-sign.byteimg.com
@@ -12296,14 +12309,18 @@ payload:
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,antigravity-unleash.goog
   - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN-SUFFIX,antspace.dev
   - DOMAIN-SUFFIX,anythingllm.com
   - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,chatgpt.site
@@ -12313,10 +12330,16 @@ payload:
   - DOMAIN-SUFFIX,ciciaicdn.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clipdrop.co
@@ -12472,6 +12495,7 @@ payload:
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,openai.qualtrics.com
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaiassets.blob.core.windows.net
@@ -12490,14 +12514,18 @@ payload:
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,antigravity-unleash.goog
   - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN-SUFFIX,antspace.dev
   - DOMAIN-SUFFIX,anythingllm.com
   - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,chatgpt.site
@@ -12507,10 +12535,16 @@ payload:
   - DOMAIN-SUFFIX,ciciaicdn.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clipdrop.co
@@ -12666,6 +12700,7 @@ payload:
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,openai.qualtrics.com
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaiassets.blob.core.windows.net
@@ -14512,6 +14547,17 @@ payload:
   - DOMAIN-SUFFIX,element.io
   - DOMAIN-SUFFIX,fbmessenger.com
   - DOMAIN-SUFFIX,fluffychat.im
+  - DOMAIN-SUFFIX,fluxer.app
+  - DOMAIN-SUFFIX,fluxer.com
+  - DOMAIN-SUFFIX,fluxer.dev
+  - DOMAIN-SUFFIX,fluxer.gg
+  - DOMAIN-SUFFIX,fluxer.gift
+  - DOMAIN-SUFFIX,fluxer.media
+  - DOMAIN-SUFFIX,fluxer.tools
+  - DOMAIN-SUFFIX,fluxerapp.com
+  - DOMAIN-SUFFIX,fluxerstatic.com
+  - DOMAIN-SUFFIX,fluxerstatus.com
+  - DOMAIN-SUFFIX,fluxerusercontent.com
   - DOMAIN-SUFFIX,fragment.com
   - DOMAIN-SUFFIX,freenode.net
   - DOMAIN-SUFFIX,gcld-line.com
@@ -28152,6 +28198,7 @@ payload:
   - DOMAIN,d3c27h4odz752x.cloudfront.net
   - DOMAIN,d3lh5kkip965lj.cloudfront.net
   - DOMAIN,d3nwj80emtnjeo.cloudfront.net
+  - DOMAIN,d3stzm2eumvgb4.cloudfront.net
   - DOMAIN,d3ucl0eqgl80l5.cloudfront.net
   - DOMAIN,d3vd9lfkzbru3h.cloudfront.net
   - DOMAIN,d6d4ismr40iw.cloudfront.net
@@ -48377,6 +48424,8 @@ payload:
   - DOMAIN-SUFFIX,ekahau.com
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,fastspeedtest.com
+  - DOMAIN-SUFFIX,internet.yandex.com
+  - DOMAIN-SUFFIX,internet.yandex.ru
   - DOMAIN-SUFFIX,librespeed.org
   - DOMAIN-SUFFIX,linkmeter.net
   - DOMAIN-SUFFIX,measurementlab.net
@@ -59465,6 +59514,17 @@ payload:
   - DOMAIN-SUFFIX,flutter.dev
   - DOMAIN-SUFFIX,flutterapp.com
   - DOMAIN-SUFFIX,pub.dev
+  - DOMAIN-SUFFIX,fluxer.app
+  - DOMAIN-SUFFIX,fluxer.com
+  - DOMAIN-SUFFIX,fluxer.dev
+  - DOMAIN-SUFFIX,fluxer.gg
+  - DOMAIN-SUFFIX,fluxer.gift
+  - DOMAIN-SUFFIX,fluxer.media
+  - DOMAIN-SUFFIX,fluxer.tools
+  - DOMAIN-SUFFIX,fluxerapp.com
+  - DOMAIN-SUFFIX,fluxerstatic.com
+  - DOMAIN-SUFFIX,fluxerstatus.com
+  - DOMAIN-SUFFIX,fluxerusercontent.com
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,fly.io
   - DOMAIN-SUFFIX,flyio.net
@@ -61637,14 +61697,17 @@ payload:
   - DOMAIN-SUFFIX,anon-v.lol
   - DOMAIN-SUFFIX,ansarbank.com
   - DOMAIN-SUFFIX,ansin.erodayo.com
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,antarvasnaclips.com
   - DOMAIN-SUFFIX,antarvasnax.com
   - DOMAIN-SUFFIX,antenna.co.kr
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,antiphishing.nl
   - DOMAIN-SUFFIX,antiphishing.ru
+  - DOMAIN-SUFFIX,antspace.dev
   - DOMAIN-SUFFIX,anudetube.com
   - DOMAIN-SUFFIX,anxiangxing.com
   - DOMAIN-SUFFIX,anybunny.org
@@ -64933,6 +64996,7 @@ payload:
   - DOMAIN-SUFFIX,charticulator.com
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatango.com
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,chatgpt.site
@@ -65195,10 +65259,16 @@ payload:
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clck.ru
@@ -68362,6 +68432,17 @@ payload:
   - DOMAIN-SUFFIX,fluidpreview.com
   - DOMAIN-SUFFIX,flutter.dev
   - DOMAIN-SUFFIX,flutterapp.com
+  - DOMAIN-SUFFIX,fluxer.app
+  - DOMAIN-SUFFIX,fluxer.com
+  - DOMAIN-SUFFIX,fluxer.dev
+  - DOMAIN-SUFFIX,fluxer.gg
+  - DOMAIN-SUFFIX,fluxer.gift
+  - DOMAIN-SUFFIX,fluxer.media
+  - DOMAIN-SUFFIX,fluxer.tools
+  - DOMAIN-SUFFIX,fluxerapp.com
+  - DOMAIN-SUFFIX,fluxerstatic.com
+  - DOMAIN-SUFFIX,fluxerstatus.com
+  - DOMAIN-SUFFIX,fluxerusercontent.com
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,fly.io
   - DOMAIN-SUFFIX,flyflv.com
@@ -84620,6 +84701,7 @@ payload:
   - DOMAIN,ntppool2.time.nl
   - DOMAIN,o.pki.goog
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,o4504926511693824.ingest.sentry.io
   - DOMAIN,ocsp.apple.com
   - DOMAIN,ocsp.pki.goog
@@ -102977,6 +103059,7 @@ payload:
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,openai.qualtrics.com
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaiassets.blob.core.windows.net
@@ -109369,6 +109452,7 @@ payload:
   - DOMAIN,d36nr0u3xmc4mm.cloudfront.net
   - DOMAIN,d3aqoihi2n8ty8.cloudfront.net
   - DOMAIN,d3c27h4odz752x.cloudfront.net
+  - DOMAIN,d3stzm2eumvgb4.cloudfront.net
   - DOMAIN,d3vd9lfkzbru3h.cloudfront.net
   - DOMAIN,d6d4ismr40iw.cloudfront.net
   - DOMAIN,d6tizftlrpuof.cloudfront.net
