@@ -474,6 +474,7 @@ payload:
   - +.a9vg.com
   - +.aadcloud.cn
   - +.aadcloud.com
+  - +.aaej.cn
   - +.aaic.com.cn
   - +.aaid.umeng.com
   - +.aamgame.com
@@ -1133,6 +1134,7 @@ payload:
   - +.bibaodao.com
   - +.bidchance.com
   - +.biddingx.com
+  - +.bigdatacq.com
   - +.bigfun.cn
   - +.bigfunapp.cn
   - +.bigmodel.cn
@@ -1865,6 +1867,7 @@ payload:
   - +.clawhub-mirror.com
   - +.clawhubmirror.com
   - +.clawsentry.cn
+  - +.cldisk.com
   - +.cleargrass.com
   - +.clewm.net
   - +.cli.im
@@ -2124,13 +2127,17 @@ payload:
   - +.cqcb.com
   - +.cqccn.com
   - +.cqctyiptv.cn
+  - +.cqdcg.com
+  - +.cqge.com.cn
   - +.cqhlw.cn
   - +.cqliving.com
   - +.cqn.com.cn
   - +.cqnews.net
+  - +.cqsdlys.cn
   - +.cqsjb.com
   - +.cqtk.com.cn
   - +.cqvip.com
+  - +.cqyyxc.com
   - +.cr-cts.com
   - +.cr173.com
   - +.crash.163.com
@@ -2417,6 +2424,7 @@ payload:
   - +.didistatic.com
   - +.diditaxi.com.cn
   - +.dig.bdurl.net
+  - +.digitalcnzz.com
   - +.digitaling.com
   - +.diiing.cn
   - +.dili360.com
@@ -2653,6 +2661,7 @@ payload:
   - +.e0n.cn
   - +.eagsen.com
   - +.easec.com.cn
+  - +.easemob.com
   - +.easesale.com
   - +.easiu.com
   - +.eastday.com
@@ -3228,6 +3237,7 @@ payload:
   - +.gowinamc.com
   - +.gpall.cn
   - +.gpall.net
+  - +.gpzshq.cn
   - +.gracg.com
   - +.greatwallwine.com.cn
   - +.gree.cn
@@ -3895,6 +3905,7 @@ payload:
   - +.ioppo.net
   - +.iot-tencent.com
   - +.iotronic.tech
+  - +.ip.cn
   - +.ip138.com
   - +.ipanda.cn
   - +.ipanda.com
@@ -3929,6 +3940,8 @@ payload:
   - +.ishijue.com
   - +.ishumei.com
   - +.ishuqi.com
+  - +.isigning.cn
+  - +.isigning.com
   - +.ispqcloud.com
   - +.istoreos.com
   - +.istv.cn
@@ -5205,6 +5218,7 @@ payload:
   - +.nalrer.cn
   - +.namiso.com
   - +.nanhaicorp.com
+  - +.nanocorechip.com
   - +.nanyuenews.com
   - +.narwal.com
   - +.narwaltech.com
@@ -7684,6 +7698,7 @@ payload:
   - +.xuexi365.com.cn
   - +.xuexi365.net
   - +.xuexicha.com
+  - +.xuexitong.com
   - +.xundupdf.com
   - +.xunfei.cn
   - +.xunfeixxj.com
