@@ -1213,6 +1213,7 @@ payload:
   - +.bocaviation.com
   - +.boccfc.cc
   - +.boccfc.cn
+  - +.bocd.com.cn
   - +.boce.com
   - +.bocfullertonbank.com
   - +.bocgi.com
@@ -1635,6 +1636,8 @@ payload:
   - +.cdnv1.cn
   - +.cdnv2.cn
   - +.cdnv3.cn
+  - +.cdrcb.com
+  - +.cdrcbank.com
   - +.cdut.top
   - +.ce.cn
   - +.ceair.com
@@ -3744,6 +3747,7 @@ payload:
   - +.iadmusicmatvideo.music.126.net
   - +.ialicdn.com
   - +.iask.com
+  - +.ibangbank.com
   - +.ibaotu.com
   - +.ibcet.org
   - +.ibdxiguaimg.com
@@ -5077,8 +5081,6 @@ payload:
   - +.modernjs.cn
   - +.modex.com.cn
   - +.moedu.com
-  - +.moegirl.org
-  - +.moegirl.org.cn
   - +.moer.cn
   - +.mofang.com
   - +.mofazhu.com
@@ -8242,6 +8244,7 @@ payload:
   - api.alibabacloud.com
   - api.blipsandchitz.me
   - apilog-web.acfun.cn
+  - app.moegirl.org.cn
   - cn.alibabacloud.com
   - ctdsb.clouddiffuse.xyz
   - end-api.shallow.ink
@@ -8274,6 +8277,7 @@ payload:
   - rtlog5-applog-hl.fqnovel.com
   - rtlog5-applog.fqnovel.com
   - status.alibabacloud.com
+  - storage.moegirl.org.cn
   - time.izatcloud.net
   - time.xtracloud.net
   - wlog.kuaishou.com

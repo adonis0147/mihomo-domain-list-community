@@ -4067,7 +4067,6 @@ payload:
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
-  - DOMAIN-SUFFIX,icloud.cn
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.de
@@ -10024,6 +10023,7 @@ payload:
   - DOMAIN-SUFFIX,g1.tagtic.cn
   - DOMAIN-SUFFIX,g3.letv.com
   - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
   - DOMAIN-SUFFIX,gia.jd.com
   - DOMAIN-SUFFIX,gmossp-sp.jp
@@ -10890,6 +10890,7 @@ payload:
   - DOMAIN-SUFFIX,g1.tagtic.cn
   - DOMAIN-SUFFIX,g3.letv.com
   - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
   - DOMAIN-SUFFIX,getsentry.com
   - DOMAIN-SUFFIX,gia.jd.com
@@ -11774,6 +11775,7 @@ payload:
   - DOMAIN-SUFFIX,g1.tagtic.cn
   - DOMAIN-SUFFIX,g3.letv.com
   - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
   - DOMAIN-SUFFIX,gia.jd.com
   - DOMAIN-SUFFIX,gmossp-sp.jp
@@ -13202,6 +13204,7 @@ payload:
   - DOMAIN-SUFFIX,bocaviation.com
   - DOMAIN-SUFFIX,boccfc.cc
   - DOMAIN-SUFFIX,boccfc.cn
+  - DOMAIN-SUFFIX,bocd.com.cn
   - DOMAIN-SUFFIX,bocfullertonbank.com
   - DOMAIN-SUFFIX,bocgi.com
   - DOMAIN-SUFFIX,bocgins.com
@@ -13230,6 +13233,8 @@ payload:
   - DOMAIN-SUFFIX,ccblife-test.com.cn
   - DOMAIN-SUFFIX,ccbtrust.com.cn
   - DOMAIN-SUFFIX,ccbxt.com
+  - DOMAIN-SUFFIX,cdrcb.com
+  - DOMAIN-SUFFIX,cdrcbank.com
   - DOMAIN-SUFFIX,cebbank.com
   - DOMAIN-SUFFIX,cfc108.com
   - DOMAIN-SUFFIX,cgbchina.com.cn
@@ -13278,6 +13283,7 @@ payload:
   - DOMAIN-SUFFIX,hsbcinsurance.com.cn
   - DOMAIN-SUFFIX,hsbcqh.com.cn
   - DOMAIN-SUFFIX,hxb.com.cn
+  - DOMAIN-SUFFIX,ibangbank.com
   - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,icbc.com.cn
   - DOMAIN-SUFFIX,icbccs.com.cn
@@ -18675,7 +18681,6 @@ payload:
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
-  - DOMAIN-SUFFIX,icloud.cn
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.de
@@ -28821,7 +28826,6 @@ payload:
   - DOMAIN-SUFFIX,gcloudsdk.com
   - DOMAIN-SUFFIX,gcloudsvcs.com
   - DOMAIN-SUFFIX,gcores.com
-  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,gitv.cn
   - DOMAIN-SUFFIX,gitv.tv
@@ -31181,7 +31185,6 @@ payload:
   - DOMAIN-SUFFIX,gclouddolphin.com
   - DOMAIN-SUFFIX,gcloudsdk.com
   - DOMAIN-SUFFIX,gcloudsvcs.com
-  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,ghostgames.com
   - DOMAIN-SUFFIX,giratina.com
@@ -32995,7 +32998,6 @@ payload:
   - DOMAIN-SUFFIX,gclouddolphin.com
   - DOMAIN-SUFFIX,gcloudsdk.com
   - DOMAIN-SUFFIX,gcloudsvcs.com
-  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,goto-game.com
   - DOMAIN-SUFFIX,goto-game.mobi
   - DOMAIN-SUFFIX,goto-game.net.cn
@@ -47264,30 +47266,20 @@ payload:
   - DOMAIN-SUFFIX,wkap.nl
   - DOMAIN-SUFFIX,wolterskluwer.com
   - DOMAIN-SUFFIX,worldscientific.com
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--gdt08a.hk
-  - DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--mxtq18a.hk
-  - DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y.hk
+  - DOMAIN-SUFFIX,xn--fiq80y.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
   - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
   - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g
   - DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
   - DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--wcv22d.hk
-  - DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
   - DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
   - DOMAIN-SUFFIX,yale.edu
   - DOMAIN-SUFFIX,z-lib.fm
   - DOMAIN-SUFFIX,z-lib.gd
@@ -47492,30 +47484,20 @@ payload:
   - DOMAIN-SUFFIX,hku.hk
   - DOMAIN-SUFFIX,hkust.hk
   - DOMAIN-SUFFIX,polyu.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--gdt08a.hk
-  - DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--mxtq18a.hk
-  - DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y.hk
+  - DOMAIN-SUFFIX,xn--fiq80y.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
   - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
   - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g
   - DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
   - DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--wcv22d.hk
-  - DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
   - DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
   - DOMAIN-SUFFIX,ac.ir
   - DOMAIN-SUFFIX,edu.ir
   - DOMAIN-SUFFIX,iranlms.ir
@@ -49502,14 +49484,14 @@ payload:
   - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,mbalib.com
   - DOMAIN-SUFFIX,mcmod.cn
-  - DOMAIN-SUFFIX,moegirl.org
-  - DOMAIN-SUFFIX,moegirl.org.cn
   - DOMAIN-SUFFIX,pwsannong.com
   - DOMAIN-SUFFIX,qiuwen.wiki
   - DOMAIN-SUFFIX,qiuwenbaike.cn
   - DOMAIN-SUFFIX,sec-wiki.com
   - DOMAIN-SUFFIX,shidianbaike.com
   - DOMAIN-SUFFIX,zdic.net
+  - DOMAIN,app.moegirl.org.cn
+  - DOMAIN,storage.moegirl.org.cn
   - DOMAIN-SUFFIX,cavporn.com
   - DOMAIN-SUFFIX,cavporn.github.io
   - DOMAIN-REGEX,(^|\.)cav1(0[2-9]|1[0-9])\.com$
@@ -51427,6 +51409,8 @@ payload:
   - DOMAIN-SUFFIX,cdntip.com
   - DOMAIN-SUFFIX,cdntips.com
   - DOMAIN-SUFFIX,cdntips.net
+  - DOMAIN-SUFFIX,cdrcb.com
+  - DOMAIN-SUFFIX,cdrcbank.com
   - DOMAIN-SUFFIX,cdut.top
   - DOMAIN-SUFFIX,ceair.com
   - DOMAIN-SUFFIX,cebbank.com
@@ -53066,6 +53050,7 @@ payload:
   - DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
   - DOMAIN-SUFFIX,ialicdn.com
   - DOMAIN-SUFFIX,iask.com
+  - DOMAIN-SUFFIX,ibangbank.com
   - DOMAIN-SUFFIX,ibaotu.com
   - DOMAIN-SUFFIX,ibcet.org
   - DOMAIN-SUFFIX,ibdxiguaimg.com
@@ -54171,7 +54156,6 @@ payload:
   - DOMAIN-SUFFIX,modelarts-infer.com
   - DOMAIN-SUFFIX,modelarts-maas.com
   - DOMAIN-SUFFIX,moedu.com
-  - DOMAIN-SUFFIX,moegirl.org
   - DOMAIN-SUFFIX,mofang.com
   - DOMAIN-SUFFIX,mofazhu.com
   - DOMAIN-SUFFIX,mogoo.com
@@ -57028,12 +57012,12 @@ payload:
   - DOMAIN-SUFFIX,ynjtyiptv.cn
   - DOMAIN-SUFFIX,cuhk.edu.hk
   - DOMAIN-SUFFIX,cuhk.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--mxtq18a.hk
-  - DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y.hk
+  - DOMAIN-SUFFIX,xn--fiq80y.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
   - DOMAIN-SUFFIX,cuinc.oen.tw
   - DOMAIN-SUFFIX,cuinc.tw
   - DOMAIN-SUFFIX,curseforge.com
@@ -58753,12 +58737,7 @@ payload:
   - DOMAIN-SUFFIX,eiu.com
   - DOMAIN-SUFFIX,eduhk.edu.hk
   - DOMAIN-SUFFIX,eduhk.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--wcv22d.hk
-  - DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
   - DOMAIN-SUFFIX,edx-cdn.org
   - DOMAIN-SUFFIX,edx.org
   - DOMAIN-SUFFIX,egghead.io
@@ -71374,7 +71353,6 @@ payload:
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
-  - DOMAIN-SUFFIX,icloud.cn
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.de
@@ -83461,16 +83439,16 @@ payload:
   - DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
   - DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y.hk
+  - DOMAIN-SUFFIX,xn--fiq80y.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
   - DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
   - DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
   - DOMAIN-SUFFIX,xn--flw351e
   - DOMAIN-SUFFIX,xn--flw351e.com
-  - DOMAIN-SUFFIX,xn--gdt08a.hk
-  - DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--ggle-55da.com
   - DOMAIN-SUFFIX,xn--gmq348bujlxrb.com
   - DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com
@@ -83489,22 +83467,16 @@ payload:
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,xn--mtswd61ejxq.com
-  - DOMAIN-SUFFIX,xn--mxtq18a.hk
-  - DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
   - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
   - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g
   - DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
   - DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--q41am8x.com
   - DOMAIN-SUFFIX,xn--qcka1pmc
   - DOMAIN-SUFFIX,xn--qoq462m.com
@@ -83518,11 +83490,7 @@ payload:
   - DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
   - DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
   - DOMAIN-SUFFIX,xn--urs05q.jp
-  - DOMAIN-SUFFIX,xn--wcv22d.hk
-  - DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
   - DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
-  - DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
   - DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz
   - DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.net
   - DOMAIN-SUFFIX,xn--xsq421m.com
@@ -86729,6 +86697,7 @@ payload:
   - DOMAIN-SUFFIX,bocaviation.com
   - DOMAIN-SUFFIX,boccfc.cc
   - DOMAIN-SUFFIX,boccfc.cn
+  - DOMAIN-SUFFIX,bocd.com.cn
   - DOMAIN-SUFFIX,boce.com
   - DOMAIN-SUFFIX,bocfullertonbank.com
   - DOMAIN-SUFFIX,bocgi.com
@@ -87151,6 +87120,8 @@ payload:
   - DOMAIN-SUFFIX,cdnv1.cn
   - DOMAIN-SUFFIX,cdnv2.cn
   - DOMAIN-SUFFIX,cdnv3.cn
+  - DOMAIN-SUFFIX,cdrcb.com
+  - DOMAIN-SUFFIX,cdrcbank.com
   - DOMAIN-SUFFIX,cdut.top
   - DOMAIN-SUFFIX,ce.cn
   - DOMAIN-SUFFIX,ceair.com
@@ -89260,6 +89231,7 @@ payload:
   - DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
   - DOMAIN-SUFFIX,ialicdn.com
   - DOMAIN-SUFFIX,iask.com
+  - DOMAIN-SUFFIX,ibangbank.com
   - DOMAIN-SUFFIX,ibaotu.com
   - DOMAIN-SUFFIX,ibcet.org
   - DOMAIN-SUFFIX,ibdxiguaimg.com
@@ -90593,8 +90565,6 @@ payload:
   - DOMAIN-SUFFIX,modernjs.cn
   - DOMAIN-SUFFIX,modex.com.cn
   - DOMAIN-SUFFIX,moedu.com
-  - DOMAIN-SUFFIX,moegirl.org
-  - DOMAIN-SUFFIX,moegirl.org.cn
   - DOMAIN-SUFFIX,moer.cn
   - DOMAIN-SUFFIX,mofang.com
   - DOMAIN-SUFFIX,mofazhu.com
@@ -93758,6 +93728,7 @@ payload:
   - DOMAIN,api.alibabacloud.com
   - DOMAIN,api.blipsandchitz.me
   - DOMAIN,apilog-web.acfun.cn
+  - DOMAIN,app.moegirl.org.cn
   - DOMAIN,cn.alibabacloud.com
   - DOMAIN,ctdsb.clouddiffuse.xyz
   - DOMAIN,end-api.shallow.ink
@@ -93790,6 +93761,7 @@ payload:
   - DOMAIN,rtlog5-applog-hl.fqnovel.com
   - DOMAIN,rtlog5-applog.fqnovel.com
   - DOMAIN,status.alibabacloud.com
+  - DOMAIN,storage.moegirl.org.cn
   - DOMAIN,time.izatcloud.net
   - DOMAIN,time.xtracloud.net
   - DOMAIN,wlog.kuaishou.com
@@ -95724,12 +95696,7 @@ payload:
   - DOMAIN-SUFFIX,speedtest.com.hk
   - DOMAIN-SUFFIX,hkbu.edu.hk
   - DOMAIN-SUFFIX,hkbu.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
-  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--gdt08a.hk
-  - DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
-  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g
   - DOMAIN-SUFFIX,edcity.hk
   - DOMAIN-SUFFIX,hkedcity.net
   - DOMAIN-SUFFIX,hkreadingcity.net
@@ -96922,7 +96889,6 @@ payload:
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
-  - DOMAIN-SUFFIX,icloud.cn
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.de
@@ -108383,7 +108349,6 @@ payload:
   - DOMAIN-SUFFIX,gclouddolphin.com
   - DOMAIN-SUFFIX,gcloudsdk.com
   - DOMAIN-SUFFIX,gcloudsvcs.com
-  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,goto-game.com
   - DOMAIN-SUFFIX,goto-game.mobi
   - DOMAIN-SUFFIX,goto-game.net.cn

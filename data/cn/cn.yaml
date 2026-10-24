@@ -1306,6 +1306,8 @@ payload:
   - +.cdntip.com
   - +.cdntips.com
   - +.cdntips.net
+  - +.cdrcb.com
+  - +.cdrcbank.com
   - +.cdut.top
   - +.ceair.com
   - +.cebbank.com
@@ -2945,6 +2947,7 @@ payload:
   - +.iadmusicmatvideo.music.126.net
   - +.ialicdn.com
   - +.iask.com
+  - +.ibangbank.com
   - +.ibaotu.com
   - +.ibcet.org
   - +.ibdxiguaimg.com
@@ -4050,7 +4053,6 @@ payload:
   - +.modelarts-infer.com
   - +.modelarts-maas.com
   - +.moedu.com
-  - +.moegirl.org
   - +.mofang.com
   - +.mofazhu.com
   - +.mogoo.com
