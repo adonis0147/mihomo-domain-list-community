@@ -26502,6 +26502,10 @@ payload:
   - DOMAIN-SUFFIX,catchplay.com
   - DOMAIN-SUFFIX,cdnvideo.ru
   - DOMAIN-SUFFIX,cdnvideohub.com
+  - DOMAIN-SUFFIX,cdpred.services
+  - DOMAIN-SUFFIX,cdprojekt.com
+  - DOMAIN-SUFFIX,cdprojekt.red
+  - DOMAIN-SUFFIX,cdprojektred.com
   - DOMAIN-SUFFIX,cf-vanguard.com
   - DOMAIN-SUFFIX,championshipseriesleague.com
   - DOMAIN-SUFFIX,charlotte-anime.jp
@@ -26544,6 +26548,7 @@ payload:
   - DOMAIN-SUFFIX,cubicodyssey.game
   - DOMAIN-SUFFIX,curseforge.com
   - DOMAIN-SUFFIX,cxacg.com
+  - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cygames.co.jp
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,d4dj-pj.com
@@ -27420,6 +27425,7 @@ payload:
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,playbattlegrounds.com
   - DOMAIN-SUFFIX,playfamily.ru
+  - DOMAIN-SUFFIX,playgwent.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playmation.com
   - DOMAIN-SUFFIX,playnintendo.com
@@ -27754,6 +27760,7 @@ payload:
   - DOMAIN-SUFFIX,thestationbymaker.com
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,thewaltdisneycompany.com
+  - DOMAIN-SUFFIX,thewitcher.com
   - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,thisisgame.com
   - DOMAIN-SUFFIX,thisispolaris.com
@@ -30999,6 +31006,10 @@ payload:
   - DOMAIN-SUFFIX,capturingreality.com
   - DOMAIN-SUFFIX,cbjq.com
   - DOMAIN-SUFFIX,cdncl.net
+  - DOMAIN-SUFFIX,cdpred.services
+  - DOMAIN-SUFFIX,cdprojekt.com
+  - DOMAIN-SUFFIX,cdprojekt.red
+  - DOMAIN-SUFFIX,cdprojektred.com
   - DOMAIN-SUFFIX,cgyouxi.com
   - DOMAIN-SUFFIX,championshipseriesleague.com
   - DOMAIN-SUFFIX,changyou.com
@@ -31026,6 +31037,7 @@ payload:
   - DOMAIN-SUFFIX,cubicodyssey.game
   - DOMAIN-SUFFIX,curseforge.com
   - DOMAIN-SUFFIX,cy.com
+  - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cygames.co.jp
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,daoc.net
@@ -31470,6 +31482,7 @@ payload:
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,playbattlegrounds.com
   - DOMAIN-SUFFIX,playcool.com
+  - DOMAIN-SUFFIX,playgwent.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playnintendo.com
   - DOMAIN-SUFFIX,playoverwatch.com
@@ -31741,6 +31754,7 @@ payload:
   - DOMAIN-SUFFIX,thesims3.com
   - DOMAIN-SUFFIX,thesims4.com
   - DOMAIN-SUFFIX,thesimssocial.com
+  - DOMAIN-SUFFIX,thewitcher.com
   - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,thunderstore.io
   - DOMAIN-SUFFIX,thunderstore.org
@@ -32080,6 +32094,10 @@ payload:
   - DOMAIN-SUFFIX,candycrush.com
   - DOMAIN-SUFFIX,capitalgames.com
   - DOMAIN-SUFFIX,capturingreality.com
+  - DOMAIN-SUFFIX,cdpred.services
+  - DOMAIN-SUFFIX,cdprojekt.com
+  - DOMAIN-SUFFIX,cdprojekt.red
+  - DOMAIN-SUFFIX,cdprojektred.com
   - DOMAIN-SUFFIX,championshipseriesleague.com
   - DOMAIN-SUFFIX,chillingo.com
   - DOMAIN-SUFFIX,chunkbase.com
@@ -32102,6 +32120,7 @@ payload:
   - DOMAIN-SUFFIX,cubicmotion.com
   - DOMAIN-SUFFIX,cubicodyssey.game
   - DOMAIN-SUFFIX,curseforge.com
+  - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cygames.co.jp
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,daoc.net
@@ -32447,6 +32466,7 @@ payload:
   - DOMAIN-SUFFIX,playapex.com
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,playbattlegrounds.com
+  - DOMAIN-SUFFIX,playgwent.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playnintendo.com
   - DOMAIN-SUFFIX,playoverwatch.com
@@ -32670,6 +32690,7 @@ payload:
   - DOMAIN-SUFFIX,thesims3.com
   - DOMAIN-SUFFIX,thesims4.com
   - DOMAIN-SUFFIX,thesimssocial.com
+  - DOMAIN-SUFFIX,thewitcher.com
   - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,thunderstore.io
   - DOMAIN-SUFFIX,thunderstore.org
@@ -49581,6 +49602,13 @@ payload:
   - DOMAIN-SUFFIX,cdek.shopping
   - DOMAIN-SUFFIX,cdn77.com
   - DOMAIN-SUFFIX,cdn77.org
+  - DOMAIN-SUFFIX,cdpred.services
+  - DOMAIN-SUFFIX,cdprojekt.com
+  - DOMAIN-SUFFIX,cdprojekt.red
+  - DOMAIN-SUFFIX,cdprojektred.com
+  - DOMAIN-SUFFIX,cyberpunk.net
+  - DOMAIN-SUFFIX,playgwent.com
+  - DOMAIN-SUFFIX,thewitcher.com
   - DOMAIN-SUFFIX,ceno.app
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,cerebras.ai
@@ -65222,6 +65250,10 @@ payload:
   - DOMAIN-SUFFIX,cdnxxx-proxy.co
   - DOMAIN-SUFFIX,cdnxxx-proxy.xyz
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,cdpred.services
+  - DOMAIN-SUFFIX,cdprojekt.com
+  - DOMAIN-SUFFIX,cdprojekt.red
+  - DOMAIN-SUFFIX,cdprojektred.com
   - DOMAIN-SUFFIX,cebay.com
   - DOMAIN-SUFFIX,cegid-cloud.cn
   - DOMAIN-SUFFIX,ceicdata.com
@@ -66111,6 +66143,7 @@ payload:
   - DOMAIN-SUFFIX,cyber-bay.org
   - DOMAIN-SUFFIX,cybercrimecon.com
   - DOMAIN-SUFFIX,cybermondaybeats4sale.com
+  - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cybersport.ru
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cybertrust.ne.jp
@@ -77296,6 +77329,7 @@ payload:
   - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,playfamily.ru
   - DOMAIN-SUFFIX,playforceone.com
+  - DOMAIN-SUFFIX,playgwent.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playmation.com
   - DOMAIN-SUFFIX,playmeow.com
@@ -80886,6 +80920,7 @@ payload:
   - DOMAIN-SUFFIX,thevirtualsexreview.com
   - DOMAIN-SUFFIX,thewaltdisneycompany.com
   - DOMAIN-SUFFIX,theweek.in
+  - DOMAIN-SUFFIX,thewitcher.com
   - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,theyxxx.com
   - DOMAIN-SUFFIX,thieme-connect.com

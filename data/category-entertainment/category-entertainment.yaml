@@ -209,6 +209,10 @@ payload:
   - +.catchplay.com
   - +.cdnvideo.ru
   - +.cdnvideohub.com
+  - +.cdpred.services
+  - +.cdprojekt.com
+  - +.cdprojekt.red
+  - +.cdprojektred.com
   - +.cf-vanguard.com
   - +.championshipseriesleague.com
   - +.charlotte-anime.jp
@@ -251,6 +255,7 @@ payload:
   - +.cubicodyssey.game
   - +.curseforge.com
   - +.cxacg.com
+  - +.cyberpunk.net
   - +.cygames.co.jp
   - +.cygames.jp
   - +.d4dj-pj.com
@@ -1127,6 +1132,7 @@ payload:
   - +.playartifact.com
   - +.playbattlegrounds.com
   - +.playfamily.ru
+  - +.playgwent.com
   - +.playhearthstone.com
   - +.playmation.com
   - +.playnintendo.com
@@ -1461,6 +1467,7 @@ payload:
   - +.thestationbymaker.com
   - +.thetvdb.com
   - +.thewaltdisneycompany.com
+  - +.thewitcher.com
   - +.thewonderful101.com
   - +.thisisgame.com
   - +.thisispolaris.com
