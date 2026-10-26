@@ -2,6 +2,7 @@ payload:
   - +.fast.com
   - +.netflix.ca
   - +.netflix.com
+  - +.netflix.com.edgesuite.net
   - +.netflix.net
   - +.netflixdnstest0.com
   - +.netflixdnstest1.com
@@ -22,7 +23,6 @@ payload:
   - +.nflxsearch.net
   - +.nflxso.net
   - +.nflxvideo.net
-  - netflix.com.edgesuite.net
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
   - DOMAIN-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
   - DOMAIN-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$

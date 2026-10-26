@@ -2567,6 +2567,8 @@ payload:
   - DOMAIN,download.mlcc.google.com
   - DOMAIN,download.tensorflow.google.com
   - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
@@ -6050,6 +6052,7 @@ payload:
   - DOMAIN-SUFFIX,devopsms.com
   - DOMAIN-SUFFIX,gotcosmos.com
   - DOMAIN-SUFFIX,hdinsightservices.cn
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
   - DOMAIN-SUFFIX,management-azure-devices-int.net
   - DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
   - DOMAIN-SUFFIX,management-azure-devices.cn
@@ -6085,6 +6088,8 @@ payload:
   - DOMAIN-SUFFIX,windowsazurestatus.cn
   - DOMAIN,azure.microsoft.com
   - DOMAIN,azuremarketplace.microsoft.com
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,live.applicationinsights.azure.com
   - DOMAIN-SUFFIX,b3log.org
   - DOMAIN-SUFFIX,b3logfile.com
   - DOMAIN-SUFFIX,hacpai.com
@@ -11521,6 +11526,7 @@ payload:
   - DOMAIN-SUFFIX,admusicpic.music.126.net
   - DOMAIN-SUFFIX,adnet.qq.com
   - DOMAIN-SUFFIX,adnet.sohu.com
+  - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN-SUFFIX,adping.qq.com
   - DOMAIN-SUFFIX,adpm.app.qq.com
   - DOMAIN-SUFFIX,ads-api.duolingo.com
@@ -11600,6 +11606,7 @@ payload:
   - DOMAIN-SUFFIX,afd.baidu.com
   - DOMAIN-SUFFIX,afdconf.baidu.com
   - DOMAIN-SUFFIX,afp.iqiyi.com
+  - DOMAIN-SUFFIX,akstat.io
   - DOMAIN-SUFFIX,alimama.alicdn.com
   - DOMAIN-SUFFIX,alitui.weibo.com
   - DOMAIN-SUFFIX,alog.umeng.com
@@ -11632,6 +11639,9 @@ payload:
   - DOMAIN-SUFFIX,app-measurement-cn.com
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,apple.www.letv.com
+  - DOMAIN-SUFFIX,applicationinsights.io
+  - DOMAIN-SUFFIX,applicationinsights.net
+  - DOMAIN-SUFFIX,applogcdn.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,appmetrica.yandex.com
@@ -11641,6 +11651,7 @@ payload:
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,apptracer.ru
   - DOMAIN-SUFFIX,ar.umeng.com
+  - DOMAIN-SUFFIX,aria.ms
   - DOMAIN-SUFFIX,ark.letv.com
   - DOMAIN-SUFFIX,aspect-upush.umeng.com
   - DOMAIN-SUFFIX,assistant-api.amplitude.com
@@ -11695,6 +11706,8 @@ payload:
   - DOMAIN-SUFFIX,click.uve.mobile.sina.cn
   - DOMAIN-SUFFIX,click.uve.weibo.com
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
+  - DOMAIN-SUFFIX,cloudflareinsights-cn.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,cloudpush.iqiyi.com
   - DOMAIN-SUFFIX,cm.baidu.com
   - DOMAIN-SUFFIX,cnaa123.com
@@ -11721,6 +11734,7 @@ payload:
   - DOMAIN-SUFFIX,da.hunantv.com
   - DOMAIN-SUFFIX,da.mgtv.com
   - DOMAIN-SUFFIX,data.flurry.com
+  - DOMAIN-SUFFIX,data.microsoft.com
   - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
@@ -11840,6 +11854,7 @@ payload:
   - DOMAIN-SUFFIX,imgstat.baidu.com
   - DOMAIN-SUFFIX,imp.go.sohu.com
   - DOMAIN-SUFFIX,impact-ad.jp
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
   - DOMAIN-SUFFIX,inner-active.mobi
   - DOMAIN-SUFFIX,innovid.com
   - DOMAIN-SUFFIX,insights-collector.gog.com
@@ -11896,6 +11911,7 @@ payload:
   - DOMAIN-SUFFIX,mcs.snssdk.com
   - DOMAIN-SUFFIX,mdt.qq.com
   - DOMAIN-SUFFIX,mediav.com
+  - DOMAIN-SUFFIX,meitustat.com
   - DOMAIN-SUFFIX,metrics.duolingo.com
   - DOMAIN-SUFFIX,metrics.viqeo.tv
   - DOMAIN-SUFFIX,metrika.yandex.com
@@ -11909,6 +11925,7 @@ payload:
   - DOMAIN-SUFFIX,misc.in.duokanbox.com
   - DOMAIN-SUFFIX,mixer.sina.cn
   - DOMAIN-SUFFIX,mlog.hiido.com
+  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,moat.com
   - DOMAIN-SUFFIX,moatads.com
   - DOMAIN-SUFFIX,mobads-logs.baidu.com
@@ -11964,6 +11981,7 @@ payload:
   - DOMAIN-SUFFIX,panplayable-toutiao.com
   - DOMAIN-SUFFIX,partnerad.l.google.com
   - DOMAIN-SUFFIX,passport-log.youku.com
+  - DOMAIN-SUFFIX,paypalbeacon.com
   - DOMAIN-SUFFIX,pb.i.sogou.com
   - DOMAIN-SUFFIX,pbmp.ali213.net
   - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
@@ -12029,6 +12047,7 @@ payload:
   - DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
   - DOMAIN-SUFFIX,shhs-ydd8x2.yjrmss.cn
   - DOMAIN-SUFFIX,shoppingads.cn
+  - DOMAIN-SUFFIX,shuqistat.com
   - DOMAIN-SUFFIX,shuzilm.cn
   - DOMAIN-SUFFIX,slog.sina.cn
   - DOMAIN-SUFFIX,slog.sina.com.cn
@@ -12059,6 +12078,7 @@ payload:
   - DOMAIN-SUFFIX,tcss.qq.com
   - DOMAIN-SUFFIX,tdsdk.cpatrk.net
   - DOMAIN-SUFFIX,telecome.cn
+  - DOMAIN-SUFFIX,telemetry.microsoft.com
   - DOMAIN-SUFFIX,testads.api.my7v.com
   - DOMAIN-SUFFIX,theta.sogoucdn.com
   - DOMAIN-SUFFIX,tjqonline.cn
@@ -12104,6 +12124,7 @@ payload:
   - DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
   - DOMAIN-SUFFIX,v6-adashx.ut.youku.com
   - DOMAIN-SUFFIX,vk-analytics.ru
+  - DOMAIN-SUFFIX,volceapplog.com
   - DOMAIN-SUFFIX,w.cnzz.com
   - DOMAIN-SUFFIX,wangmeng.baidu.com
   - DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
@@ -12219,12 +12240,19 @@ payload:
   - DOMAIN,click.rustore.ru
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,disney.my.sentry.io
   - DOMAIN,error-tracking.megamarket.tech
+  - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,google-analytics-suite.ozon.ru
   - DOMAIN,incoming-telemetry.thunderbird.net
   - DOMAIN,incoming.telemetry.mozilla.org
   - DOMAIN,informer.yandex.ru
+  - DOMAIN,live.applicationinsights.azure.com
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,log.strm.yandex.ru
   - DOMAIN,log3-applog-hl.fqnovel.com
@@ -12258,6 +12286,7 @@ payload:
   - DOMAIN,reklama.mail.ru
   - DOMAIN,report.ap.yandex-net.ru
   - DOMAIN,rs.mail.ru
+  - DOMAIN,rt.services.visualstudio.com
   - DOMAIN,rtlog3-applog-hl.fqnovel.com
   - DOMAIN,rtlog3-applog.fqnovel.com
   - DOMAIN,rtlog5-applog-hl.fqnovel.com
@@ -12271,6 +12300,7 @@ payload:
   - DOMAIN,sentry.mindbox.ru
   - DOMAIN,sentry.ozon.ru
   - DOMAIN,sentry.popmechanic.ru
+  - DOMAIN,sentry.ppy.sh
   - DOMAIN,sentry.rustore.ru
   - DOMAIN,sentry.sberauto.com
   - DOMAIN,sentry.viqeo.tv
@@ -12288,6 +12318,7 @@ payload:
   - DOMAIN,target.vk.com
   - DOMAIN,top-staging.mail.ru
   - DOMAIN,tracing-http.megamarket.tech
+  - DOMAIN,update.crashlytics.com
   - DOMAIN,visor.sberbank.ru
   - DOMAIN,web-analytics.wildberries.ru
   - DOMAIN,whiteline.mail.ru
@@ -12486,6 +12517,9 @@ payload:
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,antigravity-pa.googleapis.com
   - DOMAIN,antigravity.googleapis.com
+  - DOMAIN,appsgenaiserver-pa.clients.google.com
+  - DOMAIN,appsgenaiserver-pa.clients6.google.com
+  - DOMAIN,appsgenaiserver-pa.googleapis.com
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
@@ -12691,6 +12725,9 @@ payload:
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,antigravity-pa.googleapis.com
   - DOMAIN,antigravity.googleapis.com
+  - DOMAIN,appsgenaiserver-pa.clients.google.com
+  - DOMAIN,appsgenaiserver-pa.clients6.google.com
+  - DOMAIN,appsgenaiserver-pa.googleapis.com
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
@@ -12766,6 +12803,7 @@ payload:
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,hunyuan.tencent.com
   - DOMAIN-SUFFIX,instreet.com
+  - DOMAIN-SUFFIX,kakaxing.com
   - DOMAIN-SUFFIX,kechuangai.com
   - DOMAIN-SUFFIX,kimi.com
   - DOMAIN-SUFFIX,kling-ai.com
@@ -13935,6 +13973,7 @@ payload:
   - DOMAIN-SUFFIX,iridiumbrowser.de
   - DOMAIN-SUFFIX,kiwibrowser.com
   - DOMAIN-SUFFIX,kmeleonbrowser.org
+  - DOMAIN-SUFFIX,librewolf.dev
   - DOMAIN-SUFFIX,librewolf.net
   - DOMAIN-SUFFIX,minbrowser.org
   - DOMAIN-SUFFIX,netsurf-browser.org
@@ -16880,6 +16919,7 @@ payload:
   - DOMAIN-SUFFIX,dashlytrack.app
   - DOMAIN-SUFFIX,dashwood360.com
   - DOMAIN-SUFFIX,data.com
+  - DOMAIN-SUFFIX,data.microsoft.com
   - DOMAIN-SUFFIX,datacloudmy.com
   - DOMAIN-SUFFIX,dataframeworks.com
   - DOMAIN-SUFFIX,dataliberation.org
@@ -18815,6 +18855,7 @@ payload:
   - DOMAIN-SUFFIX,impermium.com
   - DOMAIN-SUFFIX,imstagram.com
   - DOMAIN-SUFFIX,imtagram.com
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
   - DOMAIN-SUFFIX,inbox.ru
   - DOMAIN-SUFFIX,incentivetravelgifts.com
   - DOMAIN-SUFFIX,indiaipad.com
@@ -21232,6 +21273,7 @@ payload:
   - DOMAIN-SUFFIX,tele2.ru
   - DOMAIN-SUFFIX,telega.info
   - DOMAIN-SUFFIX,telega.me
+  - DOMAIN-SUFFIX,telemetry.microsoft.com
   - DOMAIN-SUFFIX,telerik.com
   - DOMAIN-SUFFIX,tellmewhygame.com
   - DOMAIN-SUFFIX,tenbin.ai
@@ -22549,6 +22591,8 @@ payload:
   - DOMAIN,cstat.cdn-apple.com
   - DOMAIN,ctldl.windowsupdate.com
   - DOMAIN,dartsearch-cn.net
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,dc1-cert.ksn.kaspersky-labs.com
   - DOMAIN,dc1-file.ksn.kaspersky-labs.com
   - DOMAIN,dc1-pp.ksn.kaspersky-labs.com
@@ -22602,6 +22646,8 @@ payload:
   - DOMAIN,fbcdn-a.akamaihd.net
   - DOMAIN,fides-pol.apple.com
   - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
@@ -22735,6 +22781,7 @@ payload:
   - DOMAIN,ksn-verdict.geoksn.kaspersky.com
   - DOMAIN,lex.download.prss.microsoft.com
   - DOMAIN,lexuat.download.prss.microsoft.com
+  - DOMAIN,live.applicationinsights.azure.com
   - DOMAIN,log.strm.yandex.ru
   - DOMAIN,maps.apple.com
   - DOMAIN,mbs.download.prss.microsoft.com
@@ -22846,6 +22893,7 @@ payload:
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,rs.mail.ru
   - DOMAIN,rsm.download.prss.microsoft.com
+  - DOMAIN,rt.services.visualstudio.com
   - DOMAIN,s.mzstatic.com
   - DOMAIN,s00.upd.kaspersky.com
   - DOMAIN,s01.upd.kaspersky.com
@@ -23978,6 +24026,7 @@ payload:
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,d29vzk4ow07wi7.cloudfront.net
+  - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,default.exp-tas.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,developers.facebook.com
@@ -24035,6 +24084,7 @@ payload:
   - DOMAIN,psg-int-centralus.cloudapp.net
   - DOMAIN,psg-int-eastus.cloudapp.net
   - DOMAIN,rink.hockeyapp.net
+  - DOMAIN,rt.services.visualstudio.com
   - DOMAIN,update.crashlytics.com
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
@@ -27276,6 +27326,7 @@ payload:
   - DOMAIN-SUFFIX,neoforged.net
   - DOMAIN-SUFFIX,netflix.ca
   - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflix.net
   - DOMAIN-SUFFIX,netflixdnstest0.com
   - DOMAIN-SUFFIX,netflixdnstest1.com
@@ -27661,6 +27712,7 @@ payload:
   - DOMAIN-SUFFIX,spoti.fi
   - DOMAIN-SUFFIX,spotify-everywhere.com
   - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.com.edgesuite.net
   - DOMAIN-SUFFIX,spotify.design
   - DOMAIN-SUFFIX,spotify.link
   - DOMAIN-SUFFIX,spotifycdn.com
@@ -28323,7 +28375,6 @@ payload:
   - DOMAIN,mvod.itunes.apple.com
   - DOMAIN,myapp.itunes.apple.com
   - DOMAIN,nbbb1bb7.pmhcjk.com
-  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN,notify.ppy.sh
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
@@ -28370,7 +28421,6 @@ payload:
   - DOMAIN,sp.itunes.apple.com
   - DOMAIN,spectator.ppy.sh
   - DOMAIN,speedysub.music.apple.com
-  - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,spotify.map.fastlylb.net
   - DOMAIN,static-hamivideo.cdn.hinet.net
@@ -35313,7 +35363,7 @@ payload:
   - DOMAIN-SUFFIX,tebyan.net
   - DOMAIN-SUFFIX,tehrantimes.com
   - DOMAIN-SUFFIX,tejaratnews.com
-  - DOMAIN-SUFFIX,telewebion.com
+  - DOMAIN-SUFFIX,telewebion.net
   - DOMAIN-SUFFIX,tetherland.com
   - DOMAIN-SUFFIX,tgju.org
   - DOMAIN-SUFFIX,tipaxco.com
@@ -37530,7 +37580,7 @@ payload:
   - DOMAIN-SUFFIX,radioquran.ir
   - DOMAIN-SUFFIX,radiotehran.ir
   - DOMAIN-SUFFIX,radiovarzesh.ir
-  - DOMAIN-SUFFIX,telewebion.com
+  - DOMAIN-SUFFIX,telewebion.net
   - DOMAIN-SUFFIX,tmk.ir
   - DOMAIN-SUFFIX,tv3.ir
   - DOMAIN-SUFFIX,tv5.ir
@@ -38407,6 +38457,7 @@ payload:
   - DOMAIN-SUFFIX,wto.org
   - DOMAIN-SUFFIX,xn--yt8h.la
   - DOMAIN,csis-prod.s3.amazonaws.com
+  - DOMAIN,sentry.ppy.sh
   - DOMAIN-SUFFIX,mihuashi.com
   - DOMAIN-SUFFIX,1infra.net
   - DOMAIN-SUFFIX,1password.ca
@@ -49274,12 +49325,234 @@ payload:
   - DOMAIN-SUFFIX,xn--b1agpaeoen.xn--p1ai
   - DOMAIN-SUFFIX,xn--b1agzk.xn--p1ai
   - DOMAIN-SUFFIX,xn--b1agzk9c.xn--p1ai
+  - DOMAIN-SUFFIX,adash-c.m.taobao.com
+  - DOMAIN-SUFFIX,adash-c.ut.taobao.com
+  - DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+  - DOMAIN-SUFFIX,adash.m.taobao.com
+  - DOMAIN-SUFFIX,adash.man.aliyuncs.com
+  - DOMAIN-SUFFIX,adashbc.m.taobao.com
+  - DOMAIN-SUFFIX,adashbc.ut.taobao.com
+  - DOMAIN-SUFFIX,adashx.m.taobao.com
+  - DOMAIN-SUFFIX,adashx.ut.amap.com
+  - DOMAIN-SUFFIX,adashx.ut.ele.me
+  - DOMAIN-SUFFIX,adashx.ut.youku.com
+  - DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
+  - DOMAIN-SUFFIX,adashx4yt.m.taobao.com
+  - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
+  - DOMAIN-SUFFIX,adobestats.io
+  - DOMAIN-SUFFIX,adsh.m.taobao.com
+  - DOMAIN-SUFFIX,akstat.io
+  - DOMAIN-SUFFIX,alog.umeng.com
+  - DOMAIN-SUFFIX,alog.umengcloud.com
+  - DOMAIN-SUFFIX,alogs.umeng.com
+  - DOMAIN-SUFFIX,alogus.umeng.com
+  - DOMAIN-SUFFIX,analytics.163.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+  - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+  - DOMAIN-SUFFIX,api-secure.amplitude.com
+  - DOMAIN-SUFFIX,api-secure.eu.amplitude.com
+  - DOMAIN-SUFFIX,api-sr.amplitude.com
+  - DOMAIN-SUFFIX,api-sr.eu.amplitude.com
+  - DOMAIN-SUFFIX,api.amplitude.com
+  - DOMAIN-SUFFIX,api.eu.amplitude.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,applicationinsights.io
+  - DOMAIN-SUFFIX,applicationinsights.net
+  - DOMAIN-SUFFIX,applogcdn.com
+  - DOMAIN-SUFFIX,appmetrica.yandex.com
+  - DOMAIN-SUFFIX,appmetrica.yandex.net
+  - DOMAIN-SUFFIX,appmetrica.yandex.ru
+  - DOMAIN-SUFFIX,appmetrica.yango.com
+  - DOMAIN-SUFFIX,apptracer.ru
+  - DOMAIN-SUFFIX,aria.ms
+  - DOMAIN-SUFFIX,assistant-api.amplitude.com
+  - DOMAIN-SUFFIX,assistant-api.eu.amplitude.com
+  - DOMAIN-SUFFIX,badjs.weixinbridge.com
+  - DOMAIN-SUFFIX,beacon.cdn.qq.com
+  - DOMAIN-SUFFIX,beacon.qq.com
+  - DOMAIN-SUFFIX,beacon.sina.com.cn
+  - DOMAIN-SUFFIX,beaconcdn.qq.com
+  - DOMAIN-SUFFIX,browser.events.data.msn.cn
+  - DOMAIN-SUFFIX,browser.events.data.msn.com
+  - DOMAIN-SUFFIX,btrace.qq.com
+  - DOMAIN-SUFFIX,bugly.qq.com
+  - DOMAIN-SUFFIX,c-adash.m.taobao.com
   - DOMAIN-SUFFIX,cafe.github.com
+  - DOMAIN-SUFFIX,cdn.amplitude.com
+  - DOMAIN-SUFFIX,cdn.eu.amplitude.com
+  - DOMAIN-SUFFIX,clickstream.sberbank.ru
+  - DOMAIN-SUFFIX,cloudflareinsights-cn.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,cnlogs.umeng.com
+  - DOMAIN-SUFFIX,cnlogs.umengcloud.com
   - DOMAIN-SUFFIX,collector.github.com
+  - DOMAIN-SUFFIX,collector.xhamster.com
+  - DOMAIN-SUFFIX,counter.yandex.ru
+  - DOMAIN-SUFFIX,crash.163.com
+  - DOMAIN-SUFFIX,crash2.zhihu.com
+  - DOMAIN-SUFFIX,crashlytics.163.com
+  - DOMAIN-SUFFIX,data.microsoft.com
+  - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,dualstack-logs.amap.com
+  - DOMAIN-SUFFIX,e.stat.ykimg.com
+  - DOMAIN-SUFFIX,engagement-static.amplitude.com
+  - DOMAIN-SUFFIX,engagement-static.eu.amplitude.com
+  - DOMAIN-SUFFIX,extlog.snssdk.com
+  - DOMAIN-SUFFIX,fclog.baidu.com
+  - DOMAIN-SUFFIX,gs.amplitude.com
+  - DOMAIN-SUFFIX,gs.eu.amplitude.com
+  - DOMAIN-SUFFIX,h-adashx.ut.ele.me
+  - DOMAIN-SUFFIX,h-adashx.ut.taobao.com
+  - DOMAIN-SUFFIX,h-adashx.ut.youku.com
+  - DOMAIN-SUFFIX,h-adashx4yt.ut.taobao.com
+  - DOMAIN-SUFFIX,htrace.wetvinfo.com
+  - DOMAIN-SUFFIX,ifacelog.iqiyi.com
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
+  - DOMAIN-SUFFIX,insights-collector.gog.com
+  - DOMAIN-SUFFIX,lab.amplitude.com
+  - DOMAIN-SUFFIX,lab.eu.amplitude.com
+  - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,log-upload.mihoyo.com
+  - DOMAIN-SUFFIX,log.dzen.ru
+  - DOMAIN-SUFFIX,log.hunantv.com
+  - DOMAIN-SUFFIX,log.sina.cn
+  - DOMAIN-SUFFIX,log.tbs.qq.com
+  - DOMAIN-SUFFIX,log.v2.hunantv.com
+  - DOMAIN-SUFFIX,log.zijieapi.com
+  - DOMAIN-SUFFIX,log2.sina.cn
+  - DOMAIN-SUFFIX,logger.qmai.cn
+  - DOMAIN-SUFFIX,logs.amap.com
+  - DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
+  - DOMAIN-SUFFIX,lstat.youku.com
+  - DOMAIN-SUFFIX,m-adash.m.taobao.com
+  - DOMAIN-SUFFIX,mbdlog.iqiyi.com
+  - DOMAIN-SUFFIX,mc.yandex.ru
+  - DOMAIN-SUFFIX,meitustat.com
+  - DOMAIN-SUFFIX,metrics.duolingo.com
+  - DOMAIN-SUFFIX,metrics.viqeo.tv
+  - DOMAIN-SUFFIX,metrika.yandex.com
+  - DOMAIN-SUFFIX,metrika.yandex.net
+  - DOMAIN-SUFFIX,metrika.yandex.ru
+  - DOMAIN-SUFFIX,mmstat.com
+  - DOMAIN-SUFFIX,monitor.music.qq.com
+  - DOMAIN-SUFFIX,monitor.uu.qq.com
+  - DOMAIN-SUFFIX,mtrace.qq.com
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,p-log.ykimg.com
+  - DOMAIN-SUFFIX,passport-log.youku.com
+  - DOMAIN-SUFFIX,paypalbeacon.com
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
+  - DOMAIN-SUFFIX,pimlog.baidu.com
+  - DOMAIN-SUFFIX,plbslog.umeng.com
+  - DOMAIN-SUFFIX,regionconfig.amplitude.com
+  - DOMAIN-SUFFIX,regionconfig.eu.amplitude.com
+  - DOMAIN-SUFFIX,report.qqweb.qq.com
+  - DOMAIN-SUFFIX,report.tencentmusic.com
+  - DOMAIN-SUFFIX,retcode.taobao.com
+  - DOMAIN-SUFFIX,rmonitor.qq.com
+  - DOMAIN-SUFFIX,s-adashx.ut.youku.com
+  - DOMAIN-SUFFIX,sbeacon.sina.com.cn
+  - DOMAIN-SUFFIX,sentry.d.mi.com
+  - DOMAIN-SUFFIX,sentry.d.xiaomi.net
+  - DOMAIN-SUFFIX,sentry.music.163.com
+  - DOMAIN-SUFFIX,shuqistat.com
+  - DOMAIN-SUFFIX,slog.sina.cn
+  - DOMAIN-SUFFIX,slog.sina.com.cn
+  - DOMAIN-SUFFIX,sngmta.qq.com
+  - DOMAIN-SUFFIX,sr-client-cfg.amplitude.com
+  - DOMAIN-SUFFIX,sr-client-cfg.eu.amplitude.com
+  - DOMAIN-SUFFIX,stat.m.jd.com
+  - DOMAIN-SUFFIX,stat.y.qq.com
+  - DOMAIN-SUFFIX,stat.youku.com
+  - DOMAIN-SUFFIX,statis.api.3g.youku.com
+  - DOMAIN-SUFFIX,stats.music.xiaomi.com
+  - DOMAIN-SUFFIX,telemetry.microsoft.com
+  - DOMAIN-SUFFIX,tpstelemetry.tencent.com
+  - DOMAIN-SUFFIX,trace.qq.com
+  - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+  - DOMAIN-SUFFIX,trackingprd.hwwt8.com
+  - DOMAIN-SUFFIX,trackserver.shuxinyc.com
+  - DOMAIN-SUFFIX,ulogs.umeng.com
+  - DOMAIN-SUFFIX,ulogs.umengcloud.com
+  - DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+  - DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
+  - DOMAIN-SUFFIX,v6-adashx.ut.ele.me
+  - DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
+  - DOMAIN-SUFFIX,v6-adashx.ut.youku.com
+  - DOMAIN-SUFFIX,volceapplog.com
+  - DOMAIN-SUFFIX,webvisor.com
+  - DOMAIN-SUFFIX,webvisor.org
+  - DOMAIN-SUFFIX,yandex-metrica.ru
+  - DOMAIN-SUFFIX,yandexmetrica.com
+  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+  - DOMAIN,analytics-stage.wildberries.ru
+  - DOMAIN,analytics.mobile.yandex.net
+  - DOMAIN,analytics.wildberries.ru
+  - DOMAIN,apilog-web.acfun.cn
+  - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,dc.services.visualstudio.com
+  - DOMAIN,disney.my.sentry.io
+  - DOMAIN,error-tracking.megamarket.tech
+  - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,incoming-telemetry.thunderbird.net
   - DOMAIN,incoming.telemetry.mozilla.org
+  - DOMAIN,live.applicationinsights.azure.com
+  - DOMAIN,log-sdk.gifshow.com
+  - DOMAIN,log.strm.yandex.ru
+  - DOMAIN,log3-applog-hl.fqnovel.com
+  - DOMAIN,log3-applog.fqnovel.com
+  - DOMAIN,log5-applog-hl.fqnovel.com
+  - DOMAIN,log5-applog.fqnovel.com
+  - DOMAIN,marketplace-sentry.wb.ru
+  - DOMAIN,mc.yandex.com
+  - DOMAIN,mc.yandex.net
+  - DOMAIN,mc.yango.com
+  - DOMAIN,metrics.21-school.ru
+  - DOMAIN,metrika.kontur.ru
+  - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
+  - DOMAIN,o4504926511693824.ingest.sentry.io
+  - DOMAIN,rt.services.visualstudio.com
+  - DOMAIN,rtlog3-applog-hl.fqnovel.com
+  - DOMAIN,rtlog3-applog.fqnovel.com
+  - DOMAIN,rtlog5-applog-hl.fqnovel.com
+  - DOMAIN,rtlog5-applog.fqnovel.com
+  - DOMAIN,sentry-ng.g.smailru.net
+  - DOMAIN,sentry.dev-my.com
+  - DOMAIN,sentry.dev-my.games
+  - DOMAIN,sentry.hetzner.company
+  - DOMAIN,sentry.iptv.rt.ru
+  - DOMAIN,sentry.kontur.host
+  - DOMAIN,sentry.mindbox.ru
+  - DOMAIN,sentry.ozon.ru
+  - DOMAIN,sentry.popmechanic.ru
+  - DOMAIN,sentry.ppy.sh
+  - DOMAIN,sentry.rustore.ru
+  - DOMAIN,sentry.sberauto.com
+  - DOMAIN,sentry.viqeo.tv
+  - DOMAIN,sentry.wb.ru
+  - DOMAIN,sentry.x5.ru
+  - DOMAIN,srch-telemeter10.g.smailru.net
+  - DOMAIN,stats.avito.ru
+  - DOMAIN,stats.dahlmessenger.com
+  - DOMAIN,stats.dev.telega.info
+  - DOMAIN,stats.rustore.ru
+  - DOMAIN,stats.telega.info
+  - DOMAIN,stats.vk-portal.net
+  - DOMAIN,tracing-http.megamarket.tech
+  - DOMAIN,update.crashlytics.com
+  - DOMAIN,web-analytics.wildberries.ru
+  - DOMAIN,wlog.kuaishou.com
   - DOMAIN-SUFFIX,100haryt.com
   - DOMAIN-SUFFIX,akyllytilsimat.com
   - DOMAIN-SUFFIX,alfarhatbarakaty.com
@@ -49490,7 +49763,6 @@ payload:
   - DOMAIN-SUFFIX,fgo.wiki
   - DOMAIN-SUFFIX,huijistatic.com
   - DOMAIN-SUFFIX,huijiwiki.com
-  - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,mbalib.com
   - DOMAIN-SUFFIX,mcmod.cn
   - DOMAIN-SUFFIX,pwsannong.com
@@ -52401,6 +52673,7 @@ payload:
   - DOMAIN-SUFFIX,fhldns.com
   - DOMAIN-SUFFIX,fhyx.com
   - DOMAIN-SUFFIX,filez.com
+  - DOMAIN-SUFFIX,filmorigin.com
   - DOMAIN-SUFFIX,fimmu.com
   - DOMAIN-SUFFIX,finchina.com
   - DOMAIN-SUFFIX,finclip.com
@@ -53394,7 +53667,6 @@ payload:
   - DOMAIN-SUFFIX,jikecdn.com
   - DOMAIN-SUFFIX,jikeiot.cloud
   - DOMAIN-SUFFIX,jikexueyuan.com
-  - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,jimeng.com
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jinchutou.com
@@ -53551,6 +53823,7 @@ payload:
   - DOMAIN-SUFFIX,kaipuyun.net
   - DOMAIN-SUFFIX,kaixin001.com
   - DOMAIN-SUFFIX,kajicam.com
+  - DOMAIN-SUFFIX,kakaxing.com
   - DOMAIN-SUFFIX,kameng98.com
   - DOMAIN-SUFFIX,kanbox.com
   - DOMAIN-SUFFIX,kanimg.com
@@ -56144,6 +56417,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoluyouxuan.com
   - DOMAIN-SUFFIX,xiaoluzhidian.com
   - DOMAIN-SUFFIX,xiaomaicn.com
+  - DOMAIN-SUFFIX,xiaomaigui.com
   - DOMAIN-SUFFIX,xiaomengai.com
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net
@@ -66254,6 +66528,7 @@ payload:
   - DOMAIN-SUFFIX,dat.foundation
   - DOMAIN-SUFFIX,data-tscbank.ru
   - DOMAIN-SUFFIX,data.com
+  - DOMAIN-SUFFIX,data.microsoft.com
   - DOMAIN-SUFFIX,databank.ru
   - DOMAIN-SUFFIX,datacloudmy.com
   - DOMAIN-SUFFIX,dataframeworks.com
@@ -71744,6 +72019,7 @@ payload:
   - DOMAIN-SUFFIX,imtintl.com
   - DOMAIN-SUFFIX,imzog.com
   - DOMAIN-SUFFIX,in-bank.ru
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
   - DOMAIN-SUFFIX,inaporn.com
   - DOMAIN-SUFFIX,inasian.club
   - DOMAIN-SUFFIX,inbox.ru
@@ -73324,6 +73600,7 @@ payload:
   - DOMAIN-SUFFIX,library.lol
   - DOMAIN-SUFFIX,librarylovefest.com
   - DOMAIN-SUFFIX,libraryofthumbs.com
+  - DOMAIN-SUFFIX,librewolf.dev
   - DOMAIN-SUFFIX,librewolf.net
   - DOMAIN-SUFFIX,libsolutions.app
   - DOMAIN-SUFFIX,libsolutions.domains
@@ -79608,7 +79885,6 @@ payload:
   - DOMAIN-SUFFIX,siteripz.net
   - DOMAIN-SUFFIX,situero.com
   - DOMAIN-SUFFIX,six9dy.pw
-  - DOMAIN-SUFFIX,sixte.st
   - DOMAIN-SUFFIX,sjcollect.com
   - DOMAIN-SUFFIX,sjhsp1.buzz
   - DOMAIN-SUFFIX,skate2.com
@@ -80706,6 +80982,7 @@ payload:
   - DOMAIN-SUFFIX,telegram.space
   - DOMAIN-SUFFIX,telekom.com
   - DOMAIN-SUFFIX,telekom.de
+  - DOMAIN-SUFFIX,telemetry.microsoft.com
   - DOMAIN-SUFFIX,telerik.com
   - DOMAIN-SUFFIX,telesco.pe
   - DOMAIN-SUFFIX,telesec.de
@@ -80751,30 +81028,6 @@ payload:
   - DOMAIN-SUFFIX,teslamotors.com
   - DOMAIN-SUFFIX,teslamotors.com.cn
   - DOMAIN-SUFFIX,teslazta.net
-  - DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
-  - DOMAIN-SUFFIX,test-ipv6.arauc.br
-  - DOMAIN-SUFFIX,test-ipv6.belwue.net
-  - DOMAIN-SUFFIX,test-ipv6.carnet.hr
-  - DOMAIN-SUFFIX,test-ipv6.cl
-  - DOMAIN-SUFFIX,test-ipv6.com
-  - DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
-  - DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
-  - DOMAIN-SUFFIX,test-ipv6.cz
-  - DOMAIN-SUFFIX,test-ipv6.epic.network
-  - DOMAIN-SUFFIX,test-ipv6.fratec.net
-  - DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
-  - DOMAIN-SUFFIX,test-ipv6.go6.si
-  - DOMAIN-SUFFIX,test-ipv6.hu
-  - DOMAIN-SUFFIX,test-ipv6.is
-  - DOMAIN-SUFFIX,test-ipv6.iu13.net
-  - DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
-  - DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
-  - DOMAIN-SUFFIX,test-ipv6.roedu.net
-  - DOMAIN-SUFFIX,test-ipv6.se
-  - DOMAIN-SUFFIX,test-ipv6.sin.vr.org
-  - DOMAIN-SUFFIX,test-ipv6.ttk.ru
-  - DOMAIN-SUFFIX,testipv6.cn
-  - DOMAIN-SUFFIX,testipv6.de
   - DOMAIN-SUFFIX,testonfox.com
   - DOMAIN-SUFFIX,tetrika-school.ru
   - DOMAIN-SUFFIX,tettediferro.it
@@ -84808,6 +85061,8 @@ payload:
   - DOMAIN,dartsearch-cn.net
   - DOMAIN,databank.worldbank.org
   - DOMAIN,datarouter.apps.netherrealm.com
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,dc1-cert.ksn.kaspersky-labs.com
   - DOMAIN,dc1-file.ksn.kaspersky-labs.com
   - DOMAIN,dc1-pp.ksn.kaspersky-labs.com
@@ -84866,6 +85121,8 @@ payload:
   - DOMAIN,faronics.kayako.com
   - DOMAIN,fides-pol.apple.com
   - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,firstsearch.oclc.org
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleapis.com
@@ -85009,6 +85266,7 @@ payload:
   - DOMAIN,licdn.cn.cdn20.com
   - DOMAIN,link.theplatform.com
   - DOMAIN,live-patreon-marketing.pantheonsite.io
+  - DOMAIN,live.applicationinsights.azure.com
   - DOMAIN,log.strm.yandex.ru
   - DOMAIN,loyalnost-adv.ozon.ru
   - DOMAIN,lv.queniujq.cn
@@ -85180,6 +85438,7 @@ payload:
   - DOMAIN,rsshub.umzzz.com
   - DOMAIN,rsshub.woodland.cafe
   - DOMAIN,rsshub2.asailor.org
+  - DOMAIN,rt.services.visualstudio.com
   - DOMAIN,s.mzstatic.com
   - DOMAIN,s00.upd.kaspersky.com
   - DOMAIN,s01.upd.kaspersky.com
@@ -85224,6 +85483,7 @@ payload:
   - DOMAIN,sentry.mindbox.ru
   - DOMAIN,sentry.ozon.ru
   - DOMAIN,sentry.popmechanic.ru
+  - DOMAIN,sentry.ppy.sh
   - DOMAIN,sentry.rustore.ru
   - DOMAIN,sentry.viqeo.tv
   - DOMAIN,sentry.wb.ru
@@ -88420,6 +88680,7 @@ payload:
   - DOMAIN-SUFFIX,fhldns.com
   - DOMAIN-SUFFIX,fhyx.com
   - DOMAIN-SUFFIX,filez.com
+  - DOMAIN-SUFFIX,filmorigin.com
   - DOMAIN-SUFFIX,fimmu.com
   - DOMAIN-SUFFIX,finchina.com
   - DOMAIN-SUFFIX,finclip.com
@@ -89653,7 +89914,6 @@ payload:
   - DOMAIN-SUFFIX,jikecdn.com
   - DOMAIN-SUFFIX,jikeiot.cloud
   - DOMAIN-SUFFIX,jikexueyuan.com
-  - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,jimeng.com
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jinantimes.com.cn
@@ -89847,6 +90107,7 @@ payload:
   - DOMAIN-SUFFIX,kaipuyun.net
   - DOMAIN-SUFFIX,kaixin001.com
   - DOMAIN-SUFFIX,kajicam.com
+  - DOMAIN-SUFFIX,kakaxing.com
   - DOMAIN-SUFFIX,kameng98.com
   - DOMAIN-SUFFIX,kanbox.com
   - DOMAIN-SUFFIX,kancloud.cn
@@ -93080,6 +93341,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoluyouxuan.com
   - DOMAIN-SUFFIX,xiaoluzhidian.com
   - DOMAIN-SUFFIX,xiaomaicn.com
+  - DOMAIN-SUFFIX,xiaomaigui.com
   - DOMAIN-SUFFIX,xiaomengai.com
   - DOMAIN-SUFFIX,xiaomi.cn
   - DOMAIN-SUFFIX,xiaomi.com
@@ -95049,6 +95311,8 @@ payload:
   - DOMAIN,download.mlcc.google.com
   - DOMAIN,download.tensorflow.google.com
   - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
@@ -95167,6 +95431,9 @@ payload:
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,antigravity-pa.googleapis.com
   - DOMAIN,antigravity.googleapis.com
+  - DOMAIN,appsgenaiserver-pa.clients.google.com
+  - DOMAIN,appsgenaiserver-pa.clients6.google.com
+  - DOMAIN,appsgenaiserver-pa.googleapis.com
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
@@ -95213,6 +95480,9 @@ payload:
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,antigravity-pa.googleapis.com
   - DOMAIN,antigravity.googleapis.com
+  - DOMAIN,appsgenaiserver-pa.clients.google.com
+  - DOMAIN,appsgenaiserver-pa.clients6.google.com
+  - DOMAIN,appsgenaiserver-pa.googleapis.com
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
@@ -99041,6 +99311,8 @@ payload:
   - DOMAIN-SUFFIX,libgen.rs
   - DOMAIN-SUFFIX,libgen.st
   - DOMAIN-SUFFIX,library.lol
+  - DOMAIN-SUFFIX,librewolf.dev
+  - DOMAIN-SUFFIX,librewolf.net
   - DOMAIN-SUFFIX,liepin.com
   - DOMAIN-SUFFIX,lietou-static.com
   - DOMAIN-SUFFIX,lietou.com
@@ -100972,6 +101244,7 @@ payload:
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,crossborderexpansion.com
+  - DOMAIN-SUFFIX,data.microsoft.com
   - DOMAIN-SUFFIX,dcg.microsoft.com
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,devopsassessment.net
@@ -101043,6 +101316,7 @@ payload:
   - DOMAIN-SUFFIX,ie8.co
   - DOMAIN-SUFFIX,ie9.com
   - DOMAIN-SUFFIX,imaginecup.pl
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
   - DOMAIN-SUFFIX,ingads.com
   - DOMAIN-SUFFIX,insiderdevtour.com
   - DOMAIN-SUFFIX,internetexplorer.co
@@ -101358,6 +101632,7 @@ payload:
   - DOMAIN-SUFFIX,t-msedge.net
   - DOMAIN-SUFFIX,tailwindtraders.com
   - DOMAIN-SUFFIX,techhub.ms
+  - DOMAIN-SUFFIX,telemetry.microsoft.com
   - DOMAIN-SUFFIX,tellmewhygame.com
   - DOMAIN-SUFFIX,tfsallin.net
   - DOMAIN-SUFFIX,th.bing.com
@@ -101445,6 +101720,8 @@ payload:
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,ctldl.windowsupdate.com
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,download.visualstudio.microsoft.com
@@ -101464,6 +101741,7 @@ payload:
   - DOMAIN,itacademyuat.download.prss.microsoft.com
   - DOMAIN,lex.download.prss.microsoft.com
   - DOMAIN,lexuat.download.prss.microsoft.com
+  - DOMAIN,live.applicationinsights.azure.com
   - DOMAIN,mbs.download.prss.microsoft.com
   - DOMAIN,mpnbenefits.download.prss.microsoft.com
   - DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
@@ -101482,6 +101760,7 @@ payload:
   - DOMAIN,osrelease.download.prss.microsoft.com
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,rsm.download.prss.microsoft.com
+  - DOMAIN,rt.services.visualstudio.com
   - DOMAIN,sdx.microsoft.com
   - DOMAIN,shell.cdn.office.net
   - DOMAIN,software.download.prss.microsoft.com
@@ -101560,6 +101839,7 @@ payload:
   - DOMAIN-SUFFIX,xamarin.com
   - DOMAIN,az764295.vo.msecnd.net
   - DOMAIN,bingsettingssearch.trafficmanager.net
+  - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,default.exp-tas.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,download.visualstudio.microsoft.com
@@ -101569,6 +101849,7 @@ payload:
   - DOMAIN,psg-int-centralus.cloudapp.net
   - DOMAIN,psg-int-eastus.cloudapp.net
   - DOMAIN,rink.hockeyapp.net
+  - DOMAIN,rt.services.visualstudio.com
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
   - DOMAIN,vscode.blob.core.windows.net
@@ -101589,6 +101870,7 @@ payload:
   - DOMAIN-SUFFIX,msmartlife.cn
   - DOMAIN-SUFFIX,msmartlife.com
   - DOMAIN-SUFFIX,smartmidea.net
+  - DOMAIN-SUFFIX,xiaomaigui.com
   - DOMAIN-SUFFIX,benghuai.com
   - DOMAIN-SUFFIX,bh3.com
   - DOMAIN-SUFFIX,bhsr.com
@@ -102497,6 +102779,7 @@ payload:
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netflix.ca
   - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflix.net
   - DOMAIN-SUFFIX,netflixdnstest0.com
   - DOMAIN-SUFFIX,netflixdnstest1.com
@@ -102517,7 +102800,6 @@ payload:
   - DOMAIN-SUFFIX,nflxsearch.net
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
-  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
   - DOMAIN-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
   - DOMAIN-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -104118,6 +104400,7 @@ payload:
   - DOMAIN-SUFFIX,themathsfactor.com
   - DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
   - DOMAIN-SUFFIX,ppy.sh
+  - DOMAIN,sentry.ppy.sh
   - DOMAIN-SUFFIX,cpan.org
   - DOMAIN-SUFFIX,metacpan.org
   - DOMAIN-SUFFIX,modperl.pl
@@ -107007,6 +107290,7 @@ payload:
   - DOMAIN-SUFFIX,spoti.fi
   - DOMAIN-SUFFIX,spotify-everywhere.com
   - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.com.edgesuite.net
   - DOMAIN-SUFFIX,spotify.design
   - DOMAIN-SUFFIX,spotify.link
   - DOMAIN-SUFFIX,spotifycdn.com
@@ -107025,7 +107309,6 @@ payload:
   - DOMAIN,cdn-spotify-experiments.conductrics.com
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,heads4-ak-spotify-com.akamaized.net
-  - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,spotify.map.fastlylb.net
   - DOMAIN-SUFFIX,apress.com
@@ -108521,31 +108804,42 @@ payload:
   - DOMAIN-SUFFIX,teslazta.net
   - DOMAIN-SUFFIX,ts.la
   - DOMAIN,test.example.com
+  - DOMAIN-SUFFIX,ip6.ro
+  - DOMAIN-SUFFIX,ipv6.uz
+  - DOMAIN-SUFFIX,ipv6ready.me
   - DOMAIN-SUFFIX,sixte.st
   - DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
+  - DOMAIN-SUFFIX,test-ipv6.amelek.net
+  - DOMAIN-SUFFIX,test-ipv6.ams.vr.org
   - DOMAIN-SUFFIX,test-ipv6.arauc.br
-  - DOMAIN-SUFFIX,test-ipv6.belwue.net
-  - DOMAIN-SUFFIX,test-ipv6.carnet.hr
+  - DOMAIN-SUFFIX,test-ipv6.cgates.lt
   - DOMAIN-SUFFIX,test-ipv6.cl
+  - DOMAIN-SUFFIX,test-ipv6.coloradointerlink.net
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
   - DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
   - DOMAIN-SUFFIX,test-ipv6.cz
+  - DOMAIN-SUFFIX,test-ipv6.datafiber.nl
   - DOMAIN-SUFFIX,test-ipv6.epic.network
   - DOMAIN-SUFFIX,test-ipv6.fratec.net
   - DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
-  - DOMAIN-SUFFIX,test-ipv6.go6.si
   - DOMAIN-SUFFIX,test-ipv6.hu
-  - DOMAIN-SUFFIX,test-ipv6.is
+  - DOMAIN-SUFFIX,test-ipv6.in
   - DOMAIN-SUFFIX,test-ipv6.iu13.net
-  - DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
+  - DOMAIN-SUFFIX,test-ipv6.jp
+  - DOMAIN-SUFFIX,test-ipv6.karsolink.com
+  - DOMAIN-SUFFIX,test-ipv6.nl
   - DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
   - DOMAIN-SUFFIX,test-ipv6.roedu.net
+  - DOMAIN-SUFFIX,test-ipv6.run
   - DOMAIN-SUFFIX,test-ipv6.se
-  - DOMAIN-SUFFIX,test-ipv6.sin.vr.org
-  - DOMAIN-SUFFIX,test-ipv6.ttk.ru
+  - DOMAIN-SUFFIX,test-ipv6.triplebit.us
+  - DOMAIN-SUFFIX,test.version6.ru
+  - DOMAIN-SUFFIX,testipv6.be
+  - DOMAIN-SUFFIX,testipv6.ca
   - DOMAIN-SUFFIX,testipv6.cn
   - DOMAIN-SUFFIX,testipv6.de
+  - DOMAIN-SUFFIX,testipv6.net
   - DOMAIN-SUFFIX,ctan.org
   - DOMAIN-SUFFIX,latex-project.org
   - DOMAIN-SUFFIX,miktex.org
