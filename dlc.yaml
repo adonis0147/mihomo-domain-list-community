@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,18comic-god.xyz
   - DOMAIN-SUFFIX,18comic.cc
   - DOMAIN-SUFFIX,18comic.company
+  - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,asjmapihost.cc
@@ -7263,6 +7264,7 @@ payload:
   - DOMAIN-SUFFIX,bingapistatistics.com
   - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,bluehatnights.com
@@ -9206,11 +9208,14 @@ payload:
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,tlbapm.com
@@ -12810,6 +12815,9 @@ payload:
   - DOMAIN-SUFFIX,dui.ai
   - DOMAIN-SUFFIX,duiopen.com
   - DOMAIN-SUFFIX,dumate.cn
+  - DOMAIN-SUFFIX,favonis.cloud
+  - DOMAIN-SUFFIX,favonis.com
+  - DOMAIN-SUFFIX,favonis.space
   - DOMAIN-SUFFIX,faxingbao.com
   - DOMAIN-SUFFIX,hailuoai.com
   - DOMAIN-SUFFIX,happyhorse.cn
@@ -16309,6 +16317,7 @@ payload:
   - DOMAIN-SUFFIX,bingapistatistics.com
   - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,binoculus.com
@@ -20085,6 +20094,7 @@ payload:
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftnet.org
+  - DOMAIN-SUFFIX,msftstatic.com
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,mshome.net
@@ -26443,6 +26453,7 @@ payload:
   - DOMAIN-SUFFIX,amcn.com
   - DOMAIN-SUFFIX,amcnetworks.com
   - DOMAIN-SUFFIX,amcplus.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,amebame.com
   - DOMAIN-SUFFIX,amebaownd.com
@@ -27864,11 +27875,14 @@ payload:
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,titanfall.com
@@ -31005,6 +31019,7 @@ payload:
   - DOMAIN-SUFFIX,aki-game.com
   - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,aligames.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,amiibo.com
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
@@ -32112,6 +32127,7 @@ payload:
   - DOMAIN-SUFFIX,activision.com
   - DOMAIN-SUFFIX,activisionblizzard.com
   - DOMAIN-SUFFIX,activisionblizzardmedia.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,amiibo.com
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
@@ -38585,6 +38601,7 @@ payload:
   - DOMAIN-SUFFIX,18comic-god.xyz
   - DOMAIN-SUFFIX,18comic.cc
   - DOMAIN-SUFFIX,18comic.company
+  - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18commic.com
@@ -52635,6 +52652,9 @@ payload:
   - DOMAIN-SUFFIX,fanxingliveshow.com
   - DOMAIN-SUFFIX,fastapi.net
   - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,favonis.cloud
+  - DOMAIN-SUFFIX,favonis.com
+  - DOMAIN-SUFFIX,favonis.space
   - DOMAIN-SUFFIX,faxingbao.com
   - DOMAIN-SUFFIX,fbank.com
   - DOMAIN-SUFFIX,fcapp.run
@@ -60725,6 +60745,7 @@ payload:
   - DOMAIN-SUFFIX,18comic-god.xyz
   - DOMAIN-SUFFIX,18comic.cc
   - DOMAIN-SUFFIX,18comic.company
+  - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18commic.com
@@ -64193,6 +64214,7 @@ payload:
   - DOMAIN-SUFFIX,bingoporno.com
   - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,bingx.com
@@ -69995,6 +70017,7 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubhelp.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
@@ -75416,6 +75439,7 @@ payload:
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftnet.org
+  - DOMAIN-SUFFIX,msftstatic.com
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,mshome.net
@@ -81319,11 +81343,14 @@ payload:
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,tilda.cc
@@ -88631,6 +88658,9 @@ payload:
   - DOMAIN-SUFFIX,fastcdn.com
   - DOMAIN-SUFFIX,fastcdn.com.cn
   - DOMAIN-SUFFIX,fastcom.com.cn
+  - DOMAIN-SUFFIX,favonis.cloud
+  - DOMAIN-SUFFIX,favonis.com
+  - DOMAIN-SUFFIX,favonis.space
   - DOMAIN-SUFFIX,faxingbao.com
   - DOMAIN-SUFFIX,fbank.com
   - DOMAIN-SUFFIX,fbstatic.cn
@@ -101237,6 +101267,7 @@ payload:
   - DOMAIN-SUFFIX,bingapistatistics.com
   - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,blazor.net
@@ -101538,6 +101569,7 @@ payload:
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftnet.org
+  - DOMAIN-SUFFIX,msftstatic.com
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,mshome.net
@@ -109108,11 +109140,14 @@ payload:
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,ttcdn-us.com
