@@ -45116,7 +45116,7 @@ payload:
   - DOMAIN-REGEX,(^|\.)783([a-z][a-z]?)?\.tv$
   - DOMAIN-REGEX,(^|\.)7mm0([0-1][0-9]?)?\.com$
   - DOMAIN-REGEX,(^|\.)8dgo[1-57-9]\.com$
-  - DOMAIN-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?.com$
+  - DOMAIN-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?\.com$
   - DOMAIN-REGEX,(^|\.)91p[0-9][0-9]?\.com$
   - DOMAIN-REGEX,(^|\.)91porn[0-9]?\.store$
   - DOMAIN-REGEX,(^|\.)91porn[0-9]{3}\.me$
@@ -45171,6 +45171,7 @@ payload:
   - DOMAIN-REGEX,(^|\.)hkfg[1-7]\.xyz$
   - DOMAIN-REGEX,(^|\.)hs[1-9]{2}\.vip$
   - DOMAIN-REGEX,(^|\.)jav777\.(cc|tv|work)$
+  - DOMAIN-REGEX,(^|\.)javdb\d+\.com$
   - DOMAIN-REGEX,(^|\.)jb[1-9][0-9]\.lol$
   - DOMAIN-REGEX,(^|\.)jbk0([0-1][0-9]?)?\.com$
   - DOMAIN-REGEX,(^|\.)jdyy[1-9]?\.me$
@@ -45243,7 +45244,6 @@ payload:
   - DOMAIN-REGEX,(^|\.)zy[0-9]{4}\.top$
   - DOMAIN-REGEX,(^|\.)zztt[1-6][0-9]\.com$
   - DOMAIN-REGEX,(^|\.)zzz[1-9][0-9]\.top$
-  - DOMAIN-REGEX,javdb\d+\.com$
   - DOMAIN-SUFFIX,equinox.io
   - DOMAIN-SUFFIX,ngrok-agent.com
   - DOMAIN-SUFFIX,ngrok-free.app
@@ -85760,7 +85760,7 @@ payload:
   - DOMAIN-REGEX,(^|\.)783([a-z][a-z]?)?\.tv$
   - DOMAIN-REGEX,(^|\.)7mm0([0-1][0-9]?)?\.com$
   - DOMAIN-REGEX,(^|\.)8dgo[1-57-9]\.com$
-  - DOMAIN-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?.com$
+  - DOMAIN-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?\.com$
   - DOMAIN-REGEX,(^|\.)91p[0-9][0-9]?\.com$
   - DOMAIN-REGEX,(^|\.)91porn[0-9]?\.store$
   - DOMAIN-REGEX,(^|\.)91porn[0-9]{3}\.me$
@@ -85819,6 +85819,7 @@ payload:
   - DOMAIN-REGEX,(^|\.)hkfg[1-7]\.xyz$
   - DOMAIN-REGEX,(^|\.)hs[1-9]{2}\.vip$
   - DOMAIN-REGEX,(^|\.)jav777\.(cc|tv|work)$
+  - DOMAIN-REGEX,(^|\.)javdb\d+\.com$
   - DOMAIN-REGEX,(^|\.)jb[1-9][0-9]\.lol$
   - DOMAIN-REGEX,(^|\.)jbk0([0-1][0-9]?)?\.com$
   - DOMAIN-REGEX,(^|\.)jdyy[1-9]?\.me$
@@ -85905,7 +85906,6 @@ payload:
   - DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-  - DOMAIN-REGEX,javdb\d+\.com$
   - DOMAIN-SUFFIX,0033.cn
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,0123456789.com
@@ -98279,7 +98279,7 @@ payload:
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,jdbimgs.com
   - DOMAIN-SUFFIX,jdbstatic.com
-  - DOMAIN-REGEX,javdb\d+\.com$
+  - DOMAIN-REGEX,(^|\.)javdb\d+\.com$
   - DOMAIN-SUFFIX,javwide.com
   - DOMAIN-SUFFIX,javwide.tv
   - DOMAIN-SUFFIX,1huizhan.com
