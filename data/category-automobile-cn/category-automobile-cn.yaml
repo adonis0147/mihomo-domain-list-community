@@ -9,6 +9,7 @@ payload:
   - +.bitauto.com
   - +.bitautoimg.com
   - +.byd.com
+  - +.chery.cn
   - +.cheyisou.com
   - +.dcarapi.com
   - +.dcarimg.com
@@ -18,6 +19,7 @@ payload:
   - +.dcdapp.com
   - +.dongchedi.com
   - +.dongchediapp.com
+  - +.faw.cn
   - +.geely.com
   - +.guazi.com
   - +.guazi.net
@@ -26,10 +28,20 @@ payload:
   - +.gzurl.cn
   - +.izuche.com
   - +.izuchebao.com
+  - +.jac.com.cn
+  - +.jiakaobaodian.com
+  - +.kakamobi.com
   - +.lixiang.com
+  - +.lynkco-test.com
+  - +.lynkco.com
+  - +.lynkco.com.cn
+  - +.maiche.com
+  - +.mc-cdn.cn
+  - +.mucang.cn
   - +.nio.cn
   - +.nio.com
   - +.niohome.com
+  - +.seres.cn
   - +.wkzuche.com
   - +.xiaopeng.com
   - +.yccdn.com
