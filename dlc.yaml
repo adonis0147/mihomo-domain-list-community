@@ -3054,6 +3054,8 @@ payload:
   - DOMAIN-SUFFIX,claudepages.dev
   - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN,http-intake.logs.us5.datadoghq.com
+  - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,apnews.com
@@ -12573,8 +12575,10 @@ payload:
   - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,geminiweb-pa.clients.google.com
   - DOMAIN,geminiweb-pa.clients6.google.com
+  - DOMAIN,http-intake.logs.us5.datadoghq.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
+  - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,openai.qualtrics.com
@@ -12787,8 +12791,10 @@ payload:
   - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,geminiweb-pa.clients.google.com
   - DOMAIN,geminiweb-pa.clients6.google.com
+  - DOMAIN,http-intake.logs.us5.datadoghq.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
+  - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,openai.qualtrics.com
@@ -85497,6 +85503,7 @@ payload:
   - DOMAIN,hb4bbbbb.pmhcjk.com
   - DOMAIN,holoxx.f5.si
   - DOMAIN,hpstore.corpmerchandise.com
+  - DOMAIN,http-intake.logs.us5.datadoghq.com
   - DOMAIN,hub.slarker.me
   - DOMAIN,i.jeded.com
   - DOMAIN,i.pki.goog
@@ -85639,6 +85646,7 @@ payload:
   - DOMAIN,ntppool1.time.nl
   - DOMAIN,ntppool2.time.nl
   - DOMAIN,o.pki.goog
+  - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,o4504926511693824.ingest.sentry.io

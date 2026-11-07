@@ -24621,6 +24621,7 @@ payload:
   - hb4bbbbb.pmhcjk.com
   - holoxx.f5.si
   - hpstore.corpmerchandise.com
+  - http-intake.logs.us5.datadoghq.com
   - hub.slarker.me
   - i.jeded.com
   - i.pki.goog
@@ -24763,6 +24764,7 @@ payload:
   - ntppool1.time.nl
   - ntppool2.time.nl
   - o.pki.goog
+  - o1158394.ingest.us.sentry.io
   - o33249.ingest.sentry.io
   - o33249.ingest.us.sentry.io
   - o4504926511693824.ingest.sentry.io
