@@ -12893,6 +12893,7 @@ payload:
   - DOMAIN-SUFFIX,myparallelstory.com
   - DOMAIN-SUFFIX,n.cn
   - DOMAIN-SUFFIX,namiso.com
+  - DOMAIN-SUFFIX,nia-teams.com
   - DOMAIN-SUFFIX,obriccloud.com
   - DOMAIN-SUFFIX,obricclouddw.com
   - DOMAIN-SUFFIX,oceancloudapi.com
@@ -30473,6 +30474,7 @@ payload:
   - DOMAIN-SUFFIX,ptt2.cc
   - DOMAIN-SUFFIX,ptt3.cc
   - DOMAIN-SUFFIX,qr.ae
+  - DOMAIN-SUFFIX,questionablequesting.com
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quoracdn.net
   - DOMAIN-SUFFIX,redd.it
@@ -30499,6 +30501,8 @@ payload:
   - DOMAIN-SUFFIX,sis001.com
   - DOMAIN-SUFFIX,soyjak.party
   - DOMAIN-SUFFIX,soyjak.st
+  - DOMAIN-SUFFIX,spacebattles.com
+  - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,xda-cdn.com
   - DOMAIN-SUFFIX,xda-developers.com
@@ -54862,6 +54866,7 @@ payload:
   - DOMAIN-SUFFIX,nfpeople.com
   - DOMAIN-SUFFIX,ngabbs.com
   - DOMAIN-SUFFIX,ngacn.cc
+  - DOMAIN-SUFFIX,nia-teams.com
   - DOMAIN-SUFFIX,nic.xin
   - DOMAIN-SUFFIX,nicaifu.com
   - DOMAIN-SUFFIX,nicezhuanye.com
@@ -78736,6 +78741,7 @@ payload:
   - DOMAIN-SUFFIX,quatrowireless.com
   - DOMAIN-SUFFIX,quatrum.com.br
   - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,questionablequesting.com
   - DOMAIN-SUFFIX,questvisual.com
   - DOMAIN-SUFFIX,quicinc.com
   - DOMAIN-SUFFIX,quickbook.com.br
@@ -80542,6 +80548,7 @@ payload:
   - DOMAIN-SUFFIX,soyjak.party
   - DOMAIN-SUFFIX,soyjak.st
   - DOMAIN-SUFFIX,sp.cool
+  - DOMAIN-SUFFIX,spacebattles.com
   - DOMAIN-SUFFIX,spaceexplored.com
   - DOMAIN-SUFFIX,spacely.com.au
   - DOMAIN-SUFFIX,spacemail.com
@@ -82321,6 +82328,7 @@ payload:
   - DOMAIN-SUFFIX,v-has.com
   - DOMAIN-SUFFIX,v.gd
   - DOMAIN-SUFFIX,v.ps
+  - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,v2ph.com
@@ -91477,6 +91485,7 @@ payload:
   - DOMAIN-SUFFIX,nga.cn
   - DOMAIN-SUFFIX,ngabbs.com
   - DOMAIN-SUFFIX,ngacn.cc
+  - DOMAIN-SUFFIX,nia-teams.com
   - DOMAIN-SUFFIX,nic.xin
   - DOMAIN-SUFFIX,nicaifu.com
   - DOMAIN-SUFFIX,nicezhuanye.com
