@@ -13034,6 +13034,7 @@ payload:
   - DOMAIN-SUFFIX,lantern.io
   - DOMAIN-SUFFIX,log.rw
   - DOMAIN-SUFFIX,lokinet.org
+  - DOMAIN-SUFFIX,manyvoices.news
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,nftstorage.link
   - DOMAIN-SUFFIX,nsloon.com
@@ -74423,6 +74424,7 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,manytoon.com
   - DOMAIN-SUFFIX,manyvids.com
+  - DOMAIN-SUFFIX,manyvoices.news
   - DOMAIN-SUFFIX,maomi-shipin.com
   - DOMAIN-SUFFIX,maomiav.one
   - DOMAIN-SUFFIX,maomiav.top
@@ -96144,6 +96146,7 @@ payload:
   - DOMAIN-SUFFIX,googleplaycensorship.com
   - DOMAIN-SUFFIX,greatfire.org
   - DOMAIN-SUFFIX,greatfirevpn.com
+  - DOMAIN-SUFFIX,manyvoices.news
   - DOMAIN-SUFFIX,pao-pao.net
   - DOMAIN-SUFFIX,wikiunblocked.org
   - DOMAIN-SUFFIX,gree.cn
