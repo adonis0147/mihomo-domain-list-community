@@ -1849,6 +1849,7 @@ payload:
   - +.canva.com
   - +.canvastatus.com
   - +.capitalg.com
+  - +.captive.apple.com
   - +.carbon.com
   - +.careersatfb.com
   - +.carekit.org
@@ -7860,6 +7861,7 @@ payload:
   - configuration-lb.ls-apple.com.akadns.net
   - configuration.apple.com.akadns.net
   - configuration.apple.com
+  - configuration.ls.apple.com
   - connectivitycheck.gstatic.com
   - copilot-telemetry-service.githubusercontent.com
   - copilot-telemetry.githubusercontent.com
@@ -8090,11 +8092,13 @@ payload:
   - msproduct.download.prss.microsoft.com
   - mtalk.google.com
   - music.apple.com
+  - musicstatus.itunes.apple.com
   - musicstatus.music.apple.com
   - mvod.itunes.apple.com
   - mwf-service.akamaized.net
   - myapp.itunes.apple.com
   - myvs.download.prss.microsoft.com
+  - mzstorekit.itunes.apple.com
   - np-edge.itunes.apple.com
   - o.pki.goog
   - ocsp.apple.com

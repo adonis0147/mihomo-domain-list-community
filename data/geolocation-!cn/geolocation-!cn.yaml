@@ -4810,6 +4810,7 @@ payload:
   - +.capitalgames.com
   - +.capitaliq.com
   - +.capitalt.ru
+  - +.captive.apple.com
   - +.capturingreality.com
   - +.carbon.com
   - +.carcare-and-tireshop.jp
@@ -6002,6 +6003,7 @@ payload:
   - +.deasians.com
   - +.debank.com
   - +.debian.org
+  - +.debot.ai
   - +.debug.com
   - +.debugproject.com
   - +.decentr.net
@@ -18168,6 +18170,7 @@ payload:
   - +.relap.mail.ru
   - +.relateiq.com
   - +.remirepo.net
+  - +.remna.dev
   - +.remna.st
   - +.rencapbank.ru
   - +.renchead.com
@@ -24483,6 +24486,7 @@ payload:
   - communities.apple.com
   - configuration.apple.com.akadns.net
   - configuration.apple.com
+  - configuration.ls.apple.com
   - connectivitycheck.gstatic.com
   - copilot-telemetry-service.githubusercontent.com
   - copilot-telemetry.githubusercontent.com
@@ -24735,10 +24739,12 @@ payload:
   - mtalk.google.com
   - muse.jhu.edu
   - music.apple.com
+  - musicstatus.itunes.apple.com
   - musicstatus.music.apple.com
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
   - myvs.download.prss.microsoft.com
+  - mzstorekit.itunes.apple.com
   - nbbb1bb7.pmhcjk.com
   - new-adv.ozon.ru
   - np-edge.itunes.apple.com

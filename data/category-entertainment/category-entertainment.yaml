@@ -2031,9 +2031,11 @@ payload:
   - mobilelive-hamivideo.cdn.hinet.net
   - msh.amazon.co.uk
   - music.apple.com
+  - musicstatus.itunes.apple.com
   - musicstatus.music.apple.com
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
+  - mzstorekit.itunes.apple.com
   - nbbb1bb7.pmhcjk.com
   - notify.ppy.sh
   - np-edge.itunes.apple.com
