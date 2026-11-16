@@ -13947,6 +13947,8 @@ payload:
   - DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
   - DOMAIN-SUFFIX,xn--d1abkf4ap.fun
   - DOMAIN-SUFFIX,xn--h1ao.site
+  - DOMAIN-SUFFIX,yandex-bank.net
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,yoobusiness.ru
   - DOMAIN-SUFFIX,yookassa.ru
   - DOMAIN-SUFFIX,yoomoney.ru
@@ -22280,6 +22282,7 @@ payload:
   - DOMAIN-SUFFIX,yastat.net
   - DOMAIN-SUFFIX,yastatic-net.ru
   - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,yccdn.ru
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,ydb.tech
@@ -30257,6 +30260,8 @@ payload:
   - DOMAIN-SUFFIX,yamagatabank.co.jp
   - DOMAIN-SUFFIX,yamaguchibank.co.jp
   - DOMAIN-SUFFIX,yamanashibank.co.jp
+  - DOMAIN-SUFFIX,yandex-bank.net
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,yokohamabank.co.jp
   - DOMAIN-SUFFIX,yomabank.com
   - DOMAIN-SUFFIX,yoobusiness.ru
@@ -84678,6 +84683,7 @@ payload:
   - DOMAIN-SUFFIX,yaya.cyou
   - DOMAIN-SUFFIX,yayadizhi.xyz
   - DOMAIN-SUFFIX,yazhouse8.com
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,yccdn.ru
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,ycombinator.com
@@ -113296,6 +113302,7 @@ payload:
   - DOMAIN-SUFFIX,yastat.net
   - DOMAIN-SUFFIX,yastatic-net.ru
   - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,yccdn.ru
   - DOMAIN-SUFFIX,ydb.tech
   - DOMAIN-SUFFIX,yndx.net
