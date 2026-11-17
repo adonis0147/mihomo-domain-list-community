@@ -122,6 +122,8 @@ payload:
   - +.apple.www.letv.com
   - +.arcaea.cn
   - +.ark.letv.com
+  - +.arknights.com
+  - +.arknights.com.cn
   - +.astral-vector.com
   - +.atianqi.com
   - +.atm.youku.com
@@ -407,6 +409,7 @@ payload:
   - +.hero.com
   - +.heroesports.com
   - +.herogame.com
+  - +.hgto.cc
   - +.hifuntv.com
   - +.hitv.com
   - +.hkgcloudcs.com
@@ -436,7 +439,13 @@ payload:
   - +.huoshanzhibo.com
   - +.huoshanzhibo.net
   - +.huya.com
+  - +.hycdn.cn
+  - +.hycdn.com
   - +.hypercachenode.com
+  - +.hypergryph.cn
+  - +.hypergryph.com
+  - +.hypergryph.com.cn
+  - +.hypergryph.net
   - +.hzdtv.tv
   - +.hzman.net
   - +.i3839.com
@@ -644,6 +653,7 @@ payload:
   - +.novelfmstatic.com
   - +.novelfmvod.com
   - +.nzsiteres.com
+  - +.octavedge.com
   - +.open-douyin.com
   - +.p-log.ykimg.com
   - +.papegames.cn
@@ -734,6 +744,8 @@ payload:
   - +.shuqistat.com
   - +.shyxhy.com
   - +.singworld.net
+  - +.skland.com
+  - +.skland.net
   - +.skydweller.cn
   - +.sl916.com
   - +.smgbb.cn

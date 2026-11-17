@@ -74,6 +74,8 @@ payload:
   - +.appeeres.com
   - +.arcaea.cn
   - +.arcraiders.com
+  - +.arknights.com
+  - +.arknights.com.cn
   - +.arma3.com
   - +.armaplatform.com
   - +.artstation.com
@@ -178,6 +180,7 @@ payload:
   - +.cy.com
   - +.cyberpunk.net
   - +.cygames.co.jp
+  - +.cygames.com
   - +.cygames.jp
   - +.daoc.net
   - +.darkageofcamelot.com
@@ -352,6 +355,7 @@ payload:
   - +.heroesofthestorm.com
   - +.heroesports.com
   - +.herogame.com
+  - +.hgto.cc
   - +.highmoonstudios.com
   - +.historyofdota.com
   - +.historyofdota.net
@@ -365,6 +369,12 @@ payload:
   - +.humancoexperience.com
   - +.humblebundle.com
   - +.hutpromos.com
+  - +.hycdn.cn
+  - +.hycdn.com
+  - +.hypergryph.cn
+  - +.hypergryph.com
+  - +.hypergryph.com.cn
+  - +.hypergryph.net
   - +.hyprsense.com
   - +.i3839.com
   - +.ihappystudio.cn
@@ -598,6 +608,7 @@ payload:
   - +.nintendowii.com
   - +.noxygames.com
   - +.nzsiteres.com
+  - +.octavedge.com
   - +.offworldindustries.com
   - +.offworldindustries.net
   - +.op.gg
@@ -784,6 +795,8 @@ payload:
   - +.skate2.com
   - +.sketchfab.com
   - +.skinswap.com
+  - +.skland.com
+  - +.skland.net
   - +.skydweller.cn
   - +.skylanders.com
   - +.sl916.com

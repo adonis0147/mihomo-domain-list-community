@@ -26747,6 +26747,7 @@ payload:
   - DOMAIN-SUFFIX,cxacg.com
   - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,d4dj-pj.com
   - DOMAIN-SUFFIX,da-files.com
@@ -28774,6 +28775,8 @@ payload:
   - DOMAIN-SUFFIX,apple.www.letv.com
   - DOMAIN-SUFFIX,arcaea.cn
   - DOMAIN-SUFFIX,ark.letv.com
+  - DOMAIN-SUFFIX,arknights.com
+  - DOMAIN-SUFFIX,arknights.com.cn
   - DOMAIN-SUFFIX,astral-vector.com
   - DOMAIN-SUFFIX,atianqi.com
   - DOMAIN-SUFFIX,atm.youku.com
@@ -29059,6 +29062,7 @@ payload:
   - DOMAIN-SUFFIX,hero.com
   - DOMAIN-SUFFIX,heroesports.com
   - DOMAIN-SUFFIX,herogame.com
+  - DOMAIN-SUFFIX,hgto.cc
   - DOMAIN-SUFFIX,hifuntv.com
   - DOMAIN-SUFFIX,hitv.com
   - DOMAIN-SUFFIX,hkgcloudcs.com
@@ -29088,7 +29092,13 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,huoshanzhibo.net
   - DOMAIN-SUFFIX,huya.com
+  - DOMAIN-SUFFIX,hycdn.cn
+  - DOMAIN-SUFFIX,hycdn.com
   - DOMAIN-SUFFIX,hypercachenode.com
+  - DOMAIN-SUFFIX,hypergryph.cn
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.com.cn
+  - DOMAIN-SUFFIX,hypergryph.net
   - DOMAIN-SUFFIX,hzdtv.tv
   - DOMAIN-SUFFIX,hzman.net
   - DOMAIN-SUFFIX,i3839.com
@@ -29296,6 +29306,7 @@ payload:
   - DOMAIN-SUFFIX,novelfmstatic.com
   - DOMAIN-SUFFIX,novelfmvod.com
   - DOMAIN-SUFFIX,nzsiteres.com
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,open-douyin.com
   - DOMAIN-SUFFIX,p-log.ykimg.com
   - DOMAIN-SUFFIX,papegames.cn
@@ -29386,6 +29397,8 @@ payload:
   - DOMAIN-SUFFIX,shuqistat.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,singworld.net
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
   - DOMAIN-SUFFIX,skydweller.cn
   - DOMAIN-SUFFIX,sl916.com
   - DOMAIN-SUFFIX,smgbb.cn
@@ -31157,6 +31170,8 @@ payload:
   - DOMAIN-SUFFIX,appeeres.com
   - DOMAIN-SUFFIX,arcaea.cn
   - DOMAIN-SUFFIX,arcraiders.com
+  - DOMAIN-SUFFIX,arknights.com
+  - DOMAIN-SUFFIX,arknights.com.cn
   - DOMAIN-SUFFIX,arma3.com
   - DOMAIN-SUFFIX,armaplatform.com
   - DOMAIN-SUFFIX,artstation.com
@@ -31261,6 +31276,7 @@ payload:
   - DOMAIN-SUFFIX,cy.com
   - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,daoc.net
   - DOMAIN-SUFFIX,darkageofcamelot.com
@@ -31435,6 +31451,7 @@ payload:
   - DOMAIN-SUFFIX,heroesofthestorm.com
   - DOMAIN-SUFFIX,heroesports.com
   - DOMAIN-SUFFIX,herogame.com
+  - DOMAIN-SUFFIX,hgto.cc
   - DOMAIN-SUFFIX,highmoonstudios.com
   - DOMAIN-SUFFIX,historyofdota.com
   - DOMAIN-SUFFIX,historyofdota.net
@@ -31448,6 +31465,12 @@ payload:
   - DOMAIN-SUFFIX,humancoexperience.com
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,hutpromos.com
+  - DOMAIN-SUFFIX,hycdn.cn
+  - DOMAIN-SUFFIX,hycdn.com
+  - DOMAIN-SUFFIX,hypergryph.cn
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.com.cn
+  - DOMAIN-SUFFIX,hypergryph.net
   - DOMAIN-SUFFIX,hyprsense.com
   - DOMAIN-SUFFIX,i3839.com
   - DOMAIN-SUFFIX,ihappystudio.cn
@@ -31681,6 +31704,7 @@ payload:
   - DOMAIN-SUFFIX,nintendowii.com
   - DOMAIN-SUFFIX,noxygames.com
   - DOMAIN-SUFFIX,nzsiteres.com
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,offworldindustries.com
   - DOMAIN-SUFFIX,offworldindustries.net
   - DOMAIN-SUFFIX,op.gg
@@ -31867,6 +31891,8 @@ payload:
   - DOMAIN-SUFFIX,skate2.com
   - DOMAIN-SUFFIX,sketchfab.com
   - DOMAIN-SUFFIX,skinswap.com
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
   - DOMAIN-SUFFIX,skydweller.cn
   - DOMAIN-SUFFIX,skylanders.com
   - DOMAIN-SUFFIX,sl916.com
@@ -32349,6 +32375,7 @@ payload:
   - DOMAIN-SUFFIX,curseforge.com
   - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,daoc.net
   - DOMAIN-SUFFIX,darkageofcamelot.com
@@ -33182,6 +33209,8 @@ payload:
   - DOMAIN-SUFFIX,anticheatexpert.com
   - DOMAIN-SUFFIX,appeeres.com
   - DOMAIN-SUFFIX,arcaea.cn
+  - DOMAIN-SUFFIX,arknights.com
+  - DOMAIN-SUFFIX,arknights.com.cn
   - DOMAIN-SUFFIX,astral-vector.com
   - DOMAIN-SUFFIX,battlecare.net
   - DOMAIN-SUFFIX,bcfmglobal.com
@@ -33242,7 +33271,14 @@ payload:
   - DOMAIN-SUFFIX,hero.com
   - DOMAIN-SUFFIX,heroesports.com
   - DOMAIN-SUFFIX,herogame.com
+  - DOMAIN-SUFFIX,hgto.cc
   - DOMAIN-SUFFIX,hkgcloudcs.com
+  - DOMAIN-SUFFIX,hycdn.cn
+  - DOMAIN-SUFFIX,hycdn.com
+  - DOMAIN-SUFFIX,hypergryph.cn
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.com.cn
+  - DOMAIN-SUFFIX,hypergryph.net
   - DOMAIN-SUFFIX,i3839.com
   - DOMAIN-SUFFIX,ihappystudio.cn
   - DOMAIN-SUFFIX,ihappystudio.com
@@ -33297,6 +33333,7 @@ payload:
   - DOMAIN-SUFFIX,nikkigames.cn
   - DOMAIN-SUFFIX,nikkigames.com.cn
   - DOMAIN-SUFFIX,nzsiteres.com
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,papegames.cn
   - DOMAIN-SUFFIX,papegames.com
   - DOMAIN-SUFFIX,phira.cn
@@ -33327,6 +33364,8 @@ payload:
   - DOMAIN-SUFFIX,seasunwbl.com
   - DOMAIN-SUFFIX,shengqugames.com
   - DOMAIN-SUFFIX,shyxhy.com
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
   - DOMAIN-SUFFIX,skydweller.cn
   - DOMAIN-SUFFIX,sl916.com
   - DOMAIN-SUFFIX,supercellcommunity.cn
@@ -51365,6 +51404,7 @@ payload:
   - DOMAIN-SUFFIX,ar.umeng.com
   - DOMAIN-SUFFIX,arco.design
   - DOMAIN-SUFFIX,ark.letv.com
+  - DOMAIN-SUFFIX,arknights.com
   - DOMAIN-SUFFIX,arpun.com
   - DOMAIN-SUFFIX,asczwa.com
   - DOMAIN-SUFFIX,asczxcefsv.com
@@ -53364,6 +53404,7 @@ payload:
   - DOMAIN-SUFFIX,hf-aw.com
   - DOMAIN-SUFFIX,hftfund.com
   - DOMAIN-SUFFIX,hfx.net
+  - DOMAIN-SUFFIX,hgto.cc
   - DOMAIN-SUFFIX,hhtravel.com
   - DOMAIN-SUFFIX,hiaiabc.com
   - DOMAIN-SUFFIX,hiascend.com
@@ -53582,9 +53623,12 @@ payload:
   - DOMAIN-SUFFIX,hxnews.com
   - DOMAIN-SUFFIX,hxsd.com
   - DOMAIN-SUFFIX,hybiome.com
+  - DOMAIN-SUFFIX,hycdn.com
   - DOMAIN-SUFFIX,hydun.com
   - DOMAIN-SUFFIX,hypercachenet.com
   - DOMAIN-SUFFIX,hypercachenode.com
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.net
   - DOMAIN-SUFFIX,hzchengdun.com
   - DOMAIN-SUFFIX,hzchengdun.net
   - DOMAIN-SUFFIX,hzdtv.tv
@@ -54942,6 +54986,7 @@ payload:
   - DOMAIN-SUFFIX,oc.umeng.com
   - DOMAIN-SUFFIX,oceancloudapi.com
   - DOMAIN-SUFFIX,oceanengine.com
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,ocwms.com
   - DOMAIN-SUFFIX,oeeee.com
   - DOMAIN-SUFFIX,oend.net
@@ -55594,6 +55639,8 @@ payload:
   - DOMAIN-SUFFIX,sjfls6.com
   - DOMAIN-SUFFIX,sjwyx.com
   - DOMAIN-SUFFIX,skimit.net
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
   - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,skycn.com
   - DOMAIN-SUFFIX,skypixel.com
@@ -57635,6 +57682,7 @@ payload:
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cybertrust.ne.jp
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,umamusume.akamaized.net
   - DOMAIN-SUFFIX,worldflipper.akamaized.net
@@ -66770,6 +66818,7 @@ payload:
   - DOMAIN-SUFFIX,cybertrust.ne.jp
   - DOMAIN-SUFFIX,cyberx.com
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,cygwin.com
   - DOMAIN-SUFFIX,cylink.pro
@@ -87033,6 +87082,8 @@ payload:
   - DOMAIN-SUFFIX,arco.design
   - DOMAIN-SUFFIX,ark-doc-resources.cn
   - DOMAIN-SUFFIX,ark.letv.com
+  - DOMAIN-SUFFIX,arknights.com
+  - DOMAIN-SUFFIX,arknights.com.cn
   - DOMAIN-SUFFIX,arpun.com
   - DOMAIN-SUFFIX,arrow.cn
   - DOMAIN-SUFFIX,asczwa.com
@@ -89639,6 +89690,7 @@ payload:
   - DOMAIN-SUFFIX,hftfund.com
   - DOMAIN-SUFFIX,hfx.net
   - DOMAIN-SUFFIX,hfzq.com.cn
+  - DOMAIN-SUFFIX,hgto.cc
   - DOMAIN-SUFFIX,hhtravel.com
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,hiaiabc.com
@@ -89924,9 +89976,15 @@ payload:
   - DOMAIN-SUFFIX,hxsd.com
   - DOMAIN-SUFFIX,hxzq.cn
   - DOMAIN-SUFFIX,hybiome.com
+  - DOMAIN-SUFFIX,hycdn.cn
+  - DOMAIN-SUFFIX,hycdn.com
   - DOMAIN-SUFFIX,hydun.com
   - DOMAIN-SUFFIX,hypercachenet.com
   - DOMAIN-SUFFIX,hypercachenode.com
+  - DOMAIN-SUFFIX,hypergryph.cn
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.com.cn
+  - DOMAIN-SUFFIX,hypergryph.net
   - DOMAIN-SUFFIX,hytung.cn
   - DOMAIN-SUFFIX,hzchengdun.com
   - DOMAIN-SUFFIX,hzchengdun.net
@@ -91585,6 +91643,7 @@ payload:
   - DOMAIN-SUFFIX,oceancloudapi.com
   - DOMAIN-SUFFIX,oceanengine.com
   - DOMAIN-SUFFIX,ocfund.cn
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,ocwms.com
   - DOMAIN-SUFFIX,oeeee.com
   - DOMAIN-SUFFIX,oend.net
@@ -92417,6 +92476,8 @@ payload:
   - DOMAIN-SUFFIX,sjwyx.com
   - DOMAIN-SUFFIX,skillhub.cn
   - DOMAIN-SUFFIX,skimit.net
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
   - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,skycn.com
   - DOMAIN-SUFFIX,skydweller.cn
@@ -97588,6 +97649,24 @@ payload:
   - DOMAIN-SUFFIX,he.net
   - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,msstatic.com
+  - DOMAIN-SUFFIX,arknights.com
+  - DOMAIN-SUFFIX,arknights.com.cn
+  - DOMAIN-SUFFIX,gryphline.cn
+  - DOMAIN-SUFFIX,gryphline.com.cn
+  - DOMAIN-SUFFIX,gryphline.com
+  - DOMAIN-SUFFIX,gryphline.net
+  - DOMAIN-SUFFIX,hg-cdn.com
+  - DOMAIN-SUFFIX,hgto.cc
+  - DOMAIN-SUFFIX,hycdn.cn
+  - DOMAIN-SUFFIX,hycdn.com
+  - DOMAIN-SUFFIX,hypergryph.cn
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.com.cn
+  - DOMAIN-SUFFIX,hypergryph.net
+  - DOMAIN-SUFFIX,octavedge.com
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
+  - DOMAIN-SUFFIX,skport.com
   - DOMAIN-SUFFIX,ibkr.ca
   - DOMAIN-SUFFIX,ibkr.co.in
   - DOMAIN-SUFFIX,ibkr.co.uk
