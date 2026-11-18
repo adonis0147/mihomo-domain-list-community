@@ -12459,6 +12459,7 @@ payload:
   - DOMAIN-SUFFIX,duck.ai
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,elevenlabsusercontent.com
   - DOMAIN-SUFFIX,envato-static.com
   - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,envatousercontent.com
@@ -12677,6 +12678,7 @@ payload:
   - DOMAIN-SUFFIX,duck.ai
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,elevenlabsusercontent.com
   - DOMAIN-SUFFIX,envato-static.com
   - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,envatousercontent.com
@@ -22264,7 +22266,6 @@ payload:
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.net
-  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yango-ads.com
   - DOMAIN-SUFFIX,yango-b2b.com
   - DOMAIN-SUFFIX,yango-team.com
@@ -46968,7 +46969,6 @@ payload:
   - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.net
-  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yango-ads.com
   - DOMAIN-SUFFIX,yango-b2b.com
   - DOMAIN-SUFFIX,yango-team.com
@@ -59426,6 +59426,7 @@ payload:
   - DOMAIN-SUFFIX,v6-adashx.ut.ele.me
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,elevenlabsusercontent.com
   - DOMAIN-SUFFIX,cell.com
   - DOMAIN-SUFFIX,clinicalkey.com
   - DOMAIN-SUFFIX,els-cdn.com
@@ -68326,6 +68327,7 @@ payload:
   - DOMAIN-SUFFIX,elephanttubenew.com
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,elevenlabsusercontent.com
   - DOMAIN-SUFFIX,elgaronline.com
   - DOMAIN-SUFFIX,elifesciences.org
   - DOMAIN-SUFFIX,eligens.cl
@@ -84699,7 +84701,6 @@ payload:
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.net
-  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yango-ads.com
   - DOMAIN-SUFFIX,yango-b2b.com
   - DOMAIN-SUFFIX,yango-team.com
@@ -113363,7 +113364,6 @@ payload:
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.net
-  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yango-ads.com
   - DOMAIN-SUFFIX,yango-b2b.com
   - DOMAIN-SUFFIX,yango-team.com
