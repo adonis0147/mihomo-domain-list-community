@@ -5,6 +5,9 @@ payload:
   - +.acadn.com
   - +.aicdn.com
   - +.aocde.com
+  - +.baishan.com
+  - +.baishancdnx.cn
+  - +.baishancloud.com
   - +.bbbcdns.com
   - +.bootcdn.cn
   - +.bootcdn.net
@@ -72,12 +75,14 @@ payload:
   - +.qtlcdn.cn
   - +.qtlcdn.com
   - +.qtlcdn.net
+  - +.saxyit.com
   - +.speedws.info
   - +.speedws.org
   - +.staticfile.net
   - +.staticfile.org
   - +.tlgslb.cn
   - +.tlgslb.com
+  - +.trpcdn.com
   - +.trpcdn.net
   - +.upai.com
   - +.upaiyun.com
@@ -92,3 +97,4 @@ payload:
   - +.wsglb.net
   - +.wswebcdn.com
   - +.wswebpic.com
+  - +.yundun.com

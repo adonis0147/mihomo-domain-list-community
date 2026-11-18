@@ -93,6 +93,7 @@ payload:
   - +.16rd.com
   - +.17173.com
   - +.17173cdn.com
+  - +.172.com
   - +.172mix.com
   - +.178.com
   - +.178linux.com
@@ -124,9 +125,12 @@ payload:
   - +.1kkk.com
   - +.1nongjing.com
   - +.1ppt.com
+  - +.1qianbao.com
   - +.1ting.com
   - +.1tyy.cn
   - +.1xhh.cn
+  - +.1y.com
+  - +.1ycdn.com
   - +.1zhe.com
   - +.20130123.com
   - +.21cn.com
@@ -248,6 +252,7 @@ payload:
   - +.3yx.com
   - +.40017.cn
   - +.4008-517-517.cn
+  - +.4008000000.com
   - +.4008117117.com
   - +.40407.com
   - +.423down.com
@@ -353,6 +358,7 @@ payload:
   - +.58pic.com
   - +.58uxd.com
   - +.58v5.cn
+  - +.58wos.com.cn
   - +.58xinghuo.cn
   - +.58xinghuo.com
   - +.58xueche.com
@@ -679,6 +685,7 @@ payload:
   - +.aiyunxiao.com
   - +.aizgtc.com
   - +.aizhan.com
+  - +.ajkimg.com
   - +.ajzq.com
   - +.aka815.net
   - +.aki-game.com
@@ -997,6 +1004,9 @@ payload:
   - +.baikevod.com
   - +.baimiao.tech
   - +.baimiaoapp.com
+  - +.baishan.com
+  - +.baishancdnx.cn
+  - +.baishancloud.com
   - +.baishinetwork.com
   - +.baitiao.com
   - +.baixing.com
@@ -4715,6 +4725,7 @@ payload:
   - +.leelen.com
   - +.leetcode-cn.com
   - +.leetcode.cn
+  - +.lefile.cn
   - +.lehuipay.com
   - +.leigod.cn
   - +.leigod.com
@@ -4736,6 +4747,8 @@ payload:
   - +.lenovocust.cn
   - +.lenovoeservice.com
   - +.lenovofile.com
+  - +.lenovofoundation.cn
+  - +.lenovofuturecenter.com
   - +.lenovogame.com
   - +.lenovoimage.cn
   - +.lenovoimage.com
@@ -4885,6 +4898,7 @@ payload:
   - +.lufaxcdn.com
   - +.lufunds.com
   - +.luhua.cn
+  - +.lujincaifu.com
   - +.lulian.cn
   - +.lumiai.com
   - +.lunwengo.net
@@ -5117,6 +5131,7 @@ payload:
   - +.mincdn.com
   - +.mindspore.cn
   - +.mingxuan.store
+  - +.mingyuanfund.com
   - +.mingyuanyun.com
   - +.minhangshi.com
   - +.minimaxi.com
@@ -5551,6 +5566,7 @@ payload:
   - +.oss-cn-shenzhen.aliyuncs.com
   - +.oss-cn-wulanchabu.aliyuncs.com
   - +.oss-cn-zhangjiakou.aliyuncs.com
+  - +.oss-enet.aliyuncs.com
   - +.ottcn.com
   - +.oupeng.com
   - +.ourdvsss.com
@@ -5568,7 +5584,9 @@ payload:
   - +.p2peye.com
   - +.p4p.sina.com.cn
   - +.p5w.net
+  - +.pacfc.com
   - +.pacmantwo.com
+  - +.pafoundation.org.cn
   - +.pagescube.cn
   - +.pagescube.com
   - +.paidaojia.cn
@@ -5635,6 +5653,7 @@ payload:
   - +.pglstatp-toutiao.com
   - +.pgyer.com
   - +.pgzs.com
+  - +.ph.com.cn
   - +.pharmacodia.com
   - +.phfund.com.cn
   - +.philanthropy.xin
@@ -5657,6 +5676,7 @@ payload:
   - +.pimlog.baidu.com
   - +.pinduoduo.com
   - +.pinduoduo.net
+  - +.pingan.cn
   - +.pingan.com
   - +.pingan.com.cn
   - +.pingcap.cn
@@ -5897,6 +5917,7 @@ payload:
   - +.qpb.sohu.com
   - +.qpb1.sohu.com
   - +.qpic.cn
+  - +.qpmcn.com
   - +.qq.cn.com
   - +.qq.com
   - +.qq.com.cn
@@ -6667,6 +6688,7 @@ payload:
   - +.tencent.design
   - +.tencent.net
   - +.tencent.net.cn
+  - +.tencentads.com
   - +.tencentapps.com
   - +.tencentbyod.com
   - +.tencentcdb.cn
@@ -6933,6 +6955,7 @@ payload:
   - +.tripcdn.com
   - +.tritoninfo.net
   - +.trjcn.com
+  - +.trpcdn.com
   - +.trpcdn.net
   - +.trunktech.com
   - +.trustasia.cn
@@ -7938,6 +7961,7 @@ payload:
   - +.yinxiang.com
   - +.yinyuetai.com
   - +.yinzhaowang.com
+  - +.yiqianbao.com
   - +.yiqifa.com
   - +.yiqifa.org
   - +.yisou.com
@@ -8017,6 +8041,8 @@ payload:
   - +.yoyou.com
   - +.ypppt.com
   - +.yqb.com
+  - +.yqbimg.net
+  - +.yqbmall.com
   - +.yrz.name
   - +.ys7.com
   - +.ysepay.com
@@ -8203,6 +8229,8 @@ payload:
   - +.zhanzhang.net
   - +.zhaodanji.com
   - +.zhaokao.net
+  - +.zhaoliangji.com
+  - +.zhaoliangjipc.com
   - +.zhaomi.cn
   - +.zhaomishijie.com
   - +.zhaopin.cn
