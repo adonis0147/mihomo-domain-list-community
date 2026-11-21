@@ -23608,6 +23608,7 @@ payload:
   - DOMAIN-SUFFIX,regex101.com
   - DOMAIN-SUFFIX,remirepo.net
   - DOMAIN-SUFFIX,renderingtoolkit.org
+  - DOMAIN-SUFFIX,replit.com
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,researchandcare.org
   - DOMAIN-SUFFIX,researchkit.cn
@@ -23694,6 +23695,7 @@ payload:
   - DOMAIN-SUFFIX,timestamp.apple.com
   - DOMAIN-SUFFIX,tmimgcdn.com
   - DOMAIN-SUFFIX,topcoder.com
+  - DOMAIN-SUFFIX,tortoisegit.org
   - DOMAIN-SUFFIX,ubuntu-touch.io
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ubuntu.net
@@ -24688,6 +24690,7 @@ payload:
   - DOMAIN-SUFFIX,ewisdom.us.kg
   - DOMAIN-SUFFIX,expertmaker.com
   - DOMAIN-SUFFIX,fairmarket.com
+  - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,farfetch-apps.com
   - DOMAIN-SUFFIX,farfetch-contents.com
   - DOMAIN-SUFFIX,farfetch.cn
@@ -38589,6 +38592,7 @@ payload:
   - DOMAIN-SUFFIX,51lieqi.com
   - DOMAIN-SUFFIX,51luoli.info
   - DOMAIN-SUFFIX,51mh.app
+  - DOMAIN-SUFFIX,51papaya.com
   - DOMAIN-SUFFIX,51pincha.cc
   - DOMAIN-SUFFIX,520aa.tv
   - DOMAIN-SUFFIX,520avtv.com
@@ -40217,6 +40221,7 @@ payload:
   - DOMAIN-SUFFIX,fansteek.com
   - DOMAIN-SUFFIX,fantasiasguatemala.com
   - DOMAIN-SUFFIX,fantasti.cc
+  - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,fap-xxx.com
   - DOMAIN-SUFFIX,fap18.net
   - DOMAIN-SUFFIX,fap666.com
@@ -41163,7 +41168,6 @@ payload:
   - DOMAIN-SUFFIX,ilovexs.com
   - DOMAIN-SUFFIX,imagefap.com
   - DOMAIN-SUFFIX,imagepost.com
-  - DOMAIN-SUFFIX,imagetwist.com
   - DOMAIN-SUFFIX,imaypb.com
   - DOMAIN-SUFFIX,imgschan.xyz
   - DOMAIN-SUFFIX,imhentai.xxx
@@ -42162,7 +42166,6 @@ payload:
   - DOMAIN-SUFFIX,mybukkakeporn.com
   - DOMAIN-SUFFIX,mycams.com
   - DOMAIN-SUFFIX,mycartoonsexgames.com
-  - DOMAIN-SUFFIX,mycdn.me
   - DOMAIN-SUFFIX,myclitgames.com
   - DOMAIN-SUFFIX,mycomicsxxx.com
   - DOMAIN-SUFFIX,mydirtyhobby.com
@@ -58169,6 +58172,7 @@ payload:
   - DOMAIN-SUFFIX,dmm.com
   - DOMAIN-SUFFIX,dmmapis.com
   - DOMAIN-SUFFIX,dmmrex.com
+  - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,fout.jp
   - DOMAIN-SUFFIX,gmossp-sp.jp
   - DOMAIN-SUFFIX,i-mobile.co.jp
@@ -58181,6 +58185,7 @@ payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,dmmrex.com
+  - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,dns.pub
   - DOMAIN-SUFFIX,dnsapi.cn
   - DOMAIN-SUFFIX,dnspod.cn
@@ -61014,6 +61019,7 @@ payload:
   - DOMAIN-SUFFIX,51lieqi.com
   - DOMAIN-SUFFIX,51luoli.info
   - DOMAIN-SUFFIX,51mh.app
+  - DOMAIN-SUFFIX,51papaya.com
   - DOMAIN-SUFFIX,51pincha.cc
   - DOMAIN-SUFFIX,51tuqiang.com
   - DOMAIN-SUFFIX,520aa.tv
@@ -68725,6 +68731,7 @@ payload:
   - DOMAIN-SUFFIX,fantom.foundation
   - DOMAIN-SUFFIX,fantom.network
   - DOMAIN-SUFFIX,fantv.hk
+  - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,fap-xxx.com
   - DOMAIN-SUFFIX,fap18.net
   - DOMAIN-SUFFIX,fap666.com
@@ -78760,6 +78767,7 @@ payload:
   - DOMAIN-SUFFIX,rentaride.de
   - DOMAIN-SUFFIX,renzhe.cloud
   - DOMAIN-SUFFIX,repe21.com
+  - DOMAIN-SUFFIX,replit.com
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,report-megafon.ru
   - DOMAIN-SUFFIX,repotama.com
@@ -81431,6 +81439,7 @@ payload:
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,torrentkitty.tv
   - DOMAIN-SUFFIX,torrindex.net
+  - DOMAIN-SUFFIX,tortoisegit.org
   - DOMAIN-SUFFIX,tospo-keiba.jp
   - DOMAIN-SUFFIX,tospotify.com
   - DOMAIN-SUFFIX,totalmateria.com
@@ -104806,6 +104815,7 @@ payload:
   - DOMAIN-SUFFIX,pixplug.in
   - DOMAIN-SUFFIX,playboy.com
   - DOMAIN-SUFFIX,playboy.com.uk
+  - DOMAIN-SUFFIX,playboyplus.com
   - DOMAIN-SUFFIX,playcover.io
   - DOMAIN-SUFFIX,playcover.workers.dev
   - DOMAIN-SUFFIX,playstation
