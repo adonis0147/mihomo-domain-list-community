@@ -4338,6 +4338,7 @@ payload:
   - +.bravoteens.com
   - +.bravotube.net
   - +.bravotube.tv
+  - +.bravotv.com
   - +.brawlstars.com
   - +.brawlstarsgame.com
   - +.brazilpartneruniversity.com
@@ -5405,6 +5406,7 @@ payload:
   - +.cn.pool.ntp.org
   - +.cna.com.tw
   - +.cnbc.com
+  - +.cnbccouncils.com
   - +.cnbcfm.com
   - +.cnbeta.com
   - +.cnbeta.com.tw
@@ -8467,6 +8469,7 @@ payload:
   - +.fnlondon.com
   - +.fnmt.es
   - +.foampositeshoes.com
+  - +.focusfeatures.com
   - +.foftolia.com
   - +.follasian.com
   - +.followpype.com
@@ -10060,6 +10063,7 @@ payload:
   - +.hayabusa.media
   - +.hayday.com
   - +.haydaygame.com
+  - +.hayu.com
   - +.hayya.ae
   - +.hbabit.com
   - +.hbfile.net
@@ -10451,6 +10455,7 @@ payload:
   - +.hkopentv.com
   - +.hkporn.net
   - +.hkreadingcity.net
+  - +.hkt
   - +.hkt-enterprise.com
   - +.hkt-eye.com
   - +.hkt.com
@@ -11294,6 +11299,7 @@ payload:
   - +.ilife.gr
   - +.ilife.wang
   - +.illgames.jp
+  - +.illumination.com
   - +.illusion111.com
   - +.illusionas.com
   - +.illusionchn.com
@@ -14751,7 +14757,6 @@ payload:
   - +.msn.cn
   - +.msn.com
   - +.msn.net
-  - +.msnbc.com
   - +.msnewskids.com
   - +.msnewskids.net
   - +.msnewskids.org
@@ -15114,8 +15119,11 @@ payload:
   - +.nbcolympics.com
   - +.nbcsports.com
   - +.nbcudigitaladops.com
+  - +.nbcumv.com
   - +.nbcuni.com
+  - +.nbcunicareers.com
   - +.nbcuniversal.com
+  - +.nbcuniversalprivacy.com
   - +.nbdh15.buzz
   - +.nbys.tv
   - +.nbys1.tv
@@ -16648,6 +16656,7 @@ payload:
   - +.pbs.org
   - +.pc.com
   - +.pca.st
+  - +.pccw
   - +.pccw.com
   - +.pccwglobal.com
   - +.pccwsolutions.com
@@ -20301,6 +20310,7 @@ payload:
   - +.telekom.com
   - +.telekom.de
   - +.telemetry.microsoft.com
+  - +.telemundo.com
   - +.telerik.com
   - +.telesco.pe
   - +.telesec.de
@@ -21156,6 +21166,7 @@ payload:
   - +.udndata.com
   - +.udnfunlife.com
   - +.udtrucksmeena.com
+  - +.udxfpp.com
   - +.ueberamazon.de
   - +.uflash.tv
   - +.uguide.ru
@@ -21216,11 +21227,18 @@ payload:
   - +.unity.com
   - +.unity3d.com
   - +.unityads.unity3d.com
+  - +.universalbeijingresort.com
+  - +.universalhorrorunleashed.com
+  - +.universalkidsresort.com
   - +.universalorlando.com
+  - +.universalpictures.co.uk
   - +.universalpictures.com
+  - +.universalpicturesathome.com
   - +.universalpicturesinternational.com
+  - +.universalproductsexperiences.com
   - +.universalscalablefirmware.org
   - +.universalstudioshollywood.com
+  - +.universalukproject.co.uk
   - +.universitypressscholarship.com
   - +.unkoscene.com
   - +.unlocklimitlesslearning.com
@@ -21239,6 +21257,7 @@ payload:
   - +.updatetube.com
   - +.upfrontcfd.com
   - +.upfrontfea.com
+  - +.uphe.com
   - +.upholdjustice.org
   - +.upjav.cc
   - +.uplay-istrip.com
@@ -21276,6 +21295,7 @@ payload:
   - +.userpxt.io
   - +.usersdrive.com
   - +.usertrust.com
+  - +.usj.co.jp
   - +.usocial.pro
   - +.usvimosquito.com
   - +.usvimosquitoproject.com

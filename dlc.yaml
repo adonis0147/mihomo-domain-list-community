@@ -18309,6 +18309,7 @@ payload:
   - DOMAIN-SUFFIX,hkbnes.net
   - DOMAIN-SUFFIX,hkcircleapp.com
   - DOMAIN-SUFFIX,hkcsl.com
+  - DOMAIN-SUFFIX,hkt
   - DOMAIN-SUFFIX,hkt-enterprise.com
   - DOMAIN-SUFFIX,hkt-eye.com
   - DOMAIN-SUFFIX,hkt.com
@@ -20274,6 +20275,7 @@ payload:
   - DOMAIN-SUFFIX,payroll.com
   - DOMAIN-SUFFIX,pbiwebcontent.cn
   - DOMAIN-SUFFIX,pc.com
+  - DOMAIN-SUFFIX,pccw
   - DOMAIN-SUFFIX,pccw.com
   - DOMAIN-SUFFIX,pccwglobal.com
   - DOMAIN-SUFFIX,pccwsolutions.com
@@ -35568,6 +35570,7 @@ payload:
   - DOMAIN-SUFFIX,bookclubgirl.com
   - DOMAIN-SUFFIX,bowenpress.com
   - DOMAIN-SUFFIX,boxun.com
+  - DOMAIN-SUFFIX,bravotv.com
   - DOMAIN-SUFFIX,breitbart.com
   - DOMAIN-SUFFIX,bridge-studio.co.uk
   - DOMAIN-SUFFIX,broadpressinc.com
@@ -35630,6 +35633,7 @@ payload:
   - DOMAIN-SUFFIX,cn-cdn1.skymansion.net
   - DOMAIN-SUFFIX,cna.com.tw
   - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbccouncils.com
   - DOMAIN-SUFFIX,cnbcfm.com
   - DOMAIN-SUFFIX,cnbeta.com
   - DOMAIN-SUFFIX,cnbeta.com.tw
@@ -35808,6 +35812,7 @@ payload:
   - DOMAIN-SUFFIX,financialadvisoriq.com
   - DOMAIN-SUFFIX,flatmates.com.au
   - DOMAIN-SUFFIX,fnlondon.com
+  - DOMAIN-SUFFIX,focusfeatures.com
   - DOMAIN-SUFFIX,forbes.com
   - DOMAIN-SUFFIX,forbesimg.com
   - DOMAIN-SUFFIX,fortuneinsight.com
@@ -36062,6 +36067,7 @@ payload:
   - DOMAIN-SUFFIX,harpercollinschildrensbooks.co.uk
   - DOMAIN-SUFFIX,harpercollinschristian.com
   - DOMAIN-SUFFIX,harpercollinsspeakersbureau.com
+  - DOMAIN-SUFFIX,hayu.com
   - DOMAIN-SUFFIX,hcpdts.com
   - DOMAIN-SUFFIX,headlinejobs.hk
   - DOMAIN-SUFFIX,heraldsun.com.au
@@ -36110,6 +36116,7 @@ payload:
   - DOMAIN-SUFFIX,ignites.com
   - DOMAIN-SUFFIX,ignitesasia.com
   - DOMAIN-SUFFIX,igniteseurope.com
+  - DOMAIN-SUFFIX,illumination.com
   - DOMAIN-SUFFIX,ind.sh
   - DOMAIN-SUFFIX,india.com
   - DOMAIN-SUFFIX,indiancolleges.com
@@ -36237,7 +36244,6 @@ payload:
   - DOMAIN-SUFFIX,moveaws.com
   - DOMAIN-SUFFIX,mpfinance.com
   - DOMAIN-SUFFIX,mpweekly.com
-  - DOMAIN-SUFFIX,msnbc.com
   - DOMAIN-SUFFIX,mtvnservices.com
   - DOMAIN-SUFFIX,my-formosa.com
   - DOMAIN-SUFFIX,my-magazine.me
@@ -36285,8 +36291,11 @@ payload:
   - DOMAIN-SUFFIX,nbcolympics.com
   - DOMAIN-SUFFIX,nbcsports.com
   - DOMAIN-SUFFIX,nbcudigitaladops.com
+  - DOMAIN-SUFFIX,nbcumv.com
   - DOMAIN-SUFFIX,nbcuni.com
+  - DOMAIN-SUFFIX,nbcunicareers.com
   - DOMAIN-SUFFIX,nbcuniversal.com
+  - DOMAIN-SUFFIX,nbcuniversalprivacy.com
   - DOMAIN-SUFFIX,neigbuy.com
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
@@ -36703,6 +36712,7 @@ payload:
   - DOMAIN-SUFFIX,techtudo.com
   - DOMAIN-SUFFIX,techtudo.com.br
   - DOMAIN-SUFFIX,teenchoice.com
+  - DOMAIN-SUFFIX,telemundo.com
   - DOMAIN-SUFFIX,testonfox.com
   - DOMAIN-SUFFIX,the-japan-news.com
   - DOMAIN-SUFFIX,the-tls.co.uk
@@ -36803,21 +36813,31 @@ payload:
   - DOMAIN-SUFFIX,udn.com.tw
   - DOMAIN-SUFFIX,udndata.com
   - DOMAIN-SUFFIX,udnfunlife.com
+  - DOMAIN-SUFFIX,udxfpp.com
   - DOMAIN-SUFFIX,ukraina.ru
   - DOMAIN-SUFFIX,ulifestyle.com.hk
   - DOMAIN-SUFFIX,umagazine.com.hk
   - DOMAIN-SUFFIX,umsoplaneta.com
   - DOMAIN-SUFFIX,umsoplaneta.com.br
+  - DOMAIN-SUFFIX,universalbeijingresort.com
+  - DOMAIN-SUFFIX,universalhorrorunleashed.com
+  - DOMAIN-SUFFIX,universalkidsresort.com
   - DOMAIN-SUFFIX,universalorlando.com
+  - DOMAIN-SUFFIX,universalpictures.co.uk
   - DOMAIN-SUFFIX,universalpictures.com
+  - DOMAIN-SUFFIX,universalpicturesathome.com
   - DOMAIN-SUFFIX,universalpicturesinternational.com
+  - DOMAIN-SUFFIX,universalproductsexperiences.com
   - DOMAIN-SUFFIX,universalstudioshollywood.com
+  - DOMAIN-SUFFIX,universalukproject.co.uk
   - DOMAIN-SUFFIX,unwire.hk
+  - DOMAIN-SUFFIX,uphe.com
   - DOMAIN-SUFFIX,upholdjustice.org
   - DOMAIN-SUFFIX,upmedia.mg
   - DOMAIN-SUFFIX,urduvoa.com
   - DOMAIN-SUFFIX,usatoday.com
   - DOMAIN-SUFFIX,usatodaynetworkservice.com
+  - DOMAIN-SUFFIX,usj.co.jp
   - DOMAIN-SUFFIX,valor.com.br
   - DOMAIN-SUFFIX,valoreconomico.com.br
   - DOMAIN-SUFFIX,valorinveste.com
@@ -57061,9 +57081,8 @@ payload:
   - DOMAIN-SUFFIX,cnb.cool
   - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbccouncils.com
   - DOMAIN-SUFFIX,cnbcfm.com
-  - DOMAIN-SUFFIX,nbcudigitaladops.com
-  - DOMAIN-SUFFIX,nbcuni.com
   - DOMAIN-SUFFIX,cnbeta.com
   - DOMAIN-SUFFIX,cnbeta.com.tw
   - DOMAIN-SUFFIX,cnbetacdn.com
@@ -64977,6 +64996,7 @@ payload:
   - DOMAIN-SUFFIX,bravoteens.com
   - DOMAIN-SUFFIX,bravotube.net
   - DOMAIN-SUFFIX,bravotube.tv
+  - DOMAIN-SUFFIX,bravotv.com
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com
   - DOMAIN-SUFFIX,brazilpartneruniversity.com
@@ -66044,6 +66064,7 @@ payload:
   - DOMAIN-SUFFIX,cn.pool.ntp.org
   - DOMAIN-SUFFIX,cna.com.tw
   - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbccouncils.com
   - DOMAIN-SUFFIX,cnbcfm.com
   - DOMAIN-SUFFIX,cnbeta.com
   - DOMAIN-SUFFIX,cnbeta.com.tw
@@ -69106,6 +69127,7 @@ payload:
   - DOMAIN-SUFFIX,fnlondon.com
   - DOMAIN-SUFFIX,fnmt.es
   - DOMAIN-SUFFIX,foampositeshoes.com
+  - DOMAIN-SUFFIX,focusfeatures.com
   - DOMAIN-SUFFIX,foftolia.com
   - DOMAIN-SUFFIX,follasian.com
   - DOMAIN-SUFFIX,followpype.com
@@ -70699,6 +70721,7 @@ payload:
   - DOMAIN-SUFFIX,hayabusa.media
   - DOMAIN-SUFFIX,hayday.com
   - DOMAIN-SUFFIX,haydaygame.com
+  - DOMAIN-SUFFIX,hayu.com
   - DOMAIN-SUFFIX,hayya.ae
   - DOMAIN-SUFFIX,hbabit.com
   - DOMAIN-SUFFIX,hbfile.net
@@ -71090,6 +71113,7 @@ payload:
   - DOMAIN-SUFFIX,hkopentv.com
   - DOMAIN-SUFFIX,hkporn.net
   - DOMAIN-SUFFIX,hkreadingcity.net
+  - DOMAIN-SUFFIX,hkt
   - DOMAIN-SUFFIX,hkt-enterprise.com
   - DOMAIN-SUFFIX,hkt-eye.com
   - DOMAIN-SUFFIX,hkt.com
@@ -71933,6 +71957,7 @@ payload:
   - DOMAIN-SUFFIX,ilife.gr
   - DOMAIN-SUFFIX,ilife.wang
   - DOMAIN-SUFFIX,illgames.jp
+  - DOMAIN-SUFFIX,illumination.com
   - DOMAIN-SUFFIX,illusion111.com
   - DOMAIN-SUFFIX,illusionas.com
   - DOMAIN-SUFFIX,illusionchn.com
@@ -75390,7 +75415,6 @@ payload:
   - DOMAIN-SUFFIX,msn.cn
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,msn.net
-  - DOMAIN-SUFFIX,msnbc.com
   - DOMAIN-SUFFIX,msnewskids.com
   - DOMAIN-SUFFIX,msnewskids.net
   - DOMAIN-SUFFIX,msnewskids.org
@@ -75753,8 +75777,11 @@ payload:
   - DOMAIN-SUFFIX,nbcolympics.com
   - DOMAIN-SUFFIX,nbcsports.com
   - DOMAIN-SUFFIX,nbcudigitaladops.com
+  - DOMAIN-SUFFIX,nbcumv.com
   - DOMAIN-SUFFIX,nbcuni.com
+  - DOMAIN-SUFFIX,nbcunicareers.com
   - DOMAIN-SUFFIX,nbcuniversal.com
+  - DOMAIN-SUFFIX,nbcuniversalprivacy.com
   - DOMAIN-SUFFIX,nbdh15.buzz
   - DOMAIN-SUFFIX,nbys.tv
   - DOMAIN-SUFFIX,nbys1.tv
@@ -77287,6 +77314,7 @@ payload:
   - DOMAIN-SUFFIX,pbs.org
   - DOMAIN-SUFFIX,pc.com
   - DOMAIN-SUFFIX,pca.st
+  - DOMAIN-SUFFIX,pccw
   - DOMAIN-SUFFIX,pccw.com
   - DOMAIN-SUFFIX,pccwglobal.com
   - DOMAIN-SUFFIX,pccwsolutions.com
@@ -80940,6 +80968,7 @@ payload:
   - DOMAIN-SUFFIX,telekom.com
   - DOMAIN-SUFFIX,telekom.de
   - DOMAIN-SUFFIX,telemetry.microsoft.com
+  - DOMAIN-SUFFIX,telemundo.com
   - DOMAIN-SUFFIX,telerik.com
   - DOMAIN-SUFFIX,telesco.pe
   - DOMAIN-SUFFIX,telesec.de
@@ -81795,6 +81824,7 @@ payload:
   - DOMAIN-SUFFIX,udndata.com
   - DOMAIN-SUFFIX,udnfunlife.com
   - DOMAIN-SUFFIX,udtrucksmeena.com
+  - DOMAIN-SUFFIX,udxfpp.com
   - DOMAIN-SUFFIX,ueberamazon.de
   - DOMAIN-SUFFIX,uflash.tv
   - DOMAIN-SUFFIX,uguide.ru
@@ -81855,11 +81885,18 @@ payload:
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com
+  - DOMAIN-SUFFIX,universalbeijingresort.com
+  - DOMAIN-SUFFIX,universalhorrorunleashed.com
+  - DOMAIN-SUFFIX,universalkidsresort.com
   - DOMAIN-SUFFIX,universalorlando.com
+  - DOMAIN-SUFFIX,universalpictures.co.uk
   - DOMAIN-SUFFIX,universalpictures.com
+  - DOMAIN-SUFFIX,universalpicturesathome.com
   - DOMAIN-SUFFIX,universalpicturesinternational.com
+  - DOMAIN-SUFFIX,universalproductsexperiences.com
   - DOMAIN-SUFFIX,universalscalablefirmware.org
   - DOMAIN-SUFFIX,universalstudioshollywood.com
+  - DOMAIN-SUFFIX,universalukproject.co.uk
   - DOMAIN-SUFFIX,universitypressscholarship.com
   - DOMAIN-SUFFIX,unkoscene.com
   - DOMAIN-SUFFIX,unlocklimitlesslearning.com
@@ -81878,6 +81915,7 @@ payload:
   - DOMAIN-SUFFIX,updatetube.com
   - DOMAIN-SUFFIX,upfrontcfd.com
   - DOMAIN-SUFFIX,upfrontfea.com
+  - DOMAIN-SUFFIX,uphe.com
   - DOMAIN-SUFFIX,upholdjustice.org
   - DOMAIN-SUFFIX,upjav.cc
   - DOMAIN-SUFFIX,uplay-istrip.com
@@ -81915,6 +81953,7 @@ payload:
   - DOMAIN-SUFFIX,userpxt.io
   - DOMAIN-SUFFIX,usersdrive.com
   - DOMAIN-SUFFIX,usertrust.com
+  - DOMAIN-SUFFIX,usj.co.jp
   - DOMAIN-SUFFIX,usocial.pro
   - DOMAIN-SUFFIX,usvimosquito.com
   - DOMAIN-SUFFIX,usvimosquitoproject.com
@@ -96165,6 +96204,7 @@ payload:
   - DOMAIN-SUFFIX,1010.com.hk
   - DOMAIN-SUFFIX,esmarthealth.com
   - DOMAIN-SUFFIX,hkcsl.com
+  - DOMAIN-SUFFIX,hkt
   - DOMAIN-SUFFIX,hkt-enterprise.com
   - DOMAIN-SUFFIX,hkt-eye.com
   - DOMAIN-SUFFIX,hkt.com
@@ -102848,23 +102888,39 @@ payload:
   - DOMAIN-SUFFIX,webtoons.com
   - DOMAIN-SUFFIX,webtoonscorp.com
   - DOMAIN-SUFFIX,worksmobile.com
-  - DOMAIN-SUFFIX,cnbc.com
-  - DOMAIN-SUFFIX,cnbcfm.com
+  - DOMAIN-SUFFIX,bravotv.com
   - DOMAIN-SUFFIX,dreamworks.com
-  - DOMAIN-SUFFIX,msnbc.com
+  - DOMAIN-SUFFIX,focusfeatures.com
+  - DOMAIN-SUFFIX,hayu.com
+  - DOMAIN-SUFFIX,illumination.com
   - DOMAIN-SUFFIX,nbc.co
   - DOMAIN-SUFFIX,nbc.com
   - DOMAIN-SUFFIX,nbcnews.com
   - DOMAIN-SUFFIX,nbcolympics.com
   - DOMAIN-SUFFIX,nbcsports.com
+  - DOMAIN-SUFFIX,nbcudigitaladops.com
+  - DOMAIN-SUFFIX,nbcumv.com
   - DOMAIN-SUFFIX,nbcuni.com
+  - DOMAIN-SUFFIX,nbcunicareers.com
   - DOMAIN-SUFFIX,nbcuniversal.com
+  - DOMAIN-SUFFIX,nbcuniversalprivacy.com
   - DOMAIN-SUFFIX,peacocktv.com
   - DOMAIN-SUFFIX,s-nbcnews.com
+  - DOMAIN-SUFFIX,telemundo.com
+  - DOMAIN-SUFFIX,udxfpp.com
+  - DOMAIN-SUFFIX,universalbeijingresort.com
+  - DOMAIN-SUFFIX,universalhorrorunleashed.com
+  - DOMAIN-SUFFIX,universalkidsresort.com
   - DOMAIN-SUFFIX,universalorlando.com
+  - DOMAIN-SUFFIX,universalpictures.co.uk
   - DOMAIN-SUFFIX,universalpictures.com
+  - DOMAIN-SUFFIX,universalpicturesathome.com
   - DOMAIN-SUFFIX,universalpicturesinternational.com
+  - DOMAIN-SUFFIX,universalproductsexperiences.com
   - DOMAIN-SUFFIX,universalstudioshollywood.com
+  - DOMAIN-SUFFIX,universalukproject.co.uk
+  - DOMAIN-SUFFIX,uphe.com
+  - DOMAIN-SUFFIX,usj.co.jp
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,crazedns.ru
@@ -104448,6 +104504,7 @@ payload:
   - DOMAIN-SUFFIX,1010.com.hk
   - DOMAIN-SUFFIX,esmarthealth.com
   - DOMAIN-SUFFIX,hkcsl.com
+  - DOMAIN-SUFFIX,hkt
   - DOMAIN-SUFFIX,hkt-enterprise.com
   - DOMAIN-SUFFIX,hkt-eye.com
   - DOMAIN-SUFFIX,hkt.com
@@ -104462,6 +104519,7 @@ payload:
   - DOMAIN-SUFFIX,now.com.hk
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowe.hk
+  - DOMAIN-SUFFIX,pccw
   - DOMAIN-SUFFIX,pccw.com
   - DOMAIN-SUFFIX,pccwglobal.com
   - DOMAIN-SUFFIX,pccwsolutions.com
