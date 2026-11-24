@@ -1,5 +1,6 @@
 payload:
   - +.builtwithnix.org
+  - +.cachix.org
   - +.mynixos.com
   - +.nix-community.org
   - +.nix.dev

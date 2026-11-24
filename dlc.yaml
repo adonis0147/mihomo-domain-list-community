@@ -14248,10 +14248,12 @@ payload:
   - DOMAIN-SUFFIX,esm.sh
   - DOMAIN-SUFFIX,every1dns.net
   - DOMAIN-SUFFIX,fastly-edge.com
+  - DOMAIN-SUFFIX,fastly-insights.com
   - DOMAIN-SUFFIX,fastly-terrarium.com
   - DOMAIN-SUFFIX,fastly.com
   - DOMAIN-SUFFIX,fastly.io
   - DOMAIN-SUFFIX,fastly.net
+  - DOMAIN-SUFFIX,fastlydns.net
   - DOMAIN-SUFFIX,fastlylabs.com
   - DOMAIN-SUFFIX,fastlylb.net
   - DOMAIN-SUFFIX,foundationdns.com
@@ -23224,6 +23226,7 @@ payload:
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,builtwithnix.org
   - DOMAIN-SUFFIX,busybox.net
+  - DOMAIN-SUFFIX,cachix.org
   - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,calendarserver.org
   - DOMAIN-SUFFIX,canonical.com
@@ -23260,6 +23263,7 @@ payload:
   - DOMAIN-SUFFIX,dartlang.org
   - DOMAIN-SUFFIX,dartpad.dev
   - DOMAIN-SUFFIX,datalore.io
+  - DOMAIN-SUFFIX,debian.map.fastlydns.net
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,deno.com
   - DOMAIN-SUFFIX,deno.land
@@ -23727,6 +23731,7 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,visualstudio.eu
   - DOMAIN-SUFFIX,visualstudio.net
+  - DOMAIN-SUFFIX,vivox.com
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,vscode-unpkg.net
@@ -57452,6 +57457,7 @@ payload:
   - DOMAIN-SUFFIX,dduser.mobi
   - DOMAIN-SUFFIX,ddxq.mobi
   - DOMAIN-SUFFIX,imaicai.mobi
+  - DOMAIN-SUFFIX,debian.map.fastlydns.net
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,dotdeb.org
   - DOMAIN-SUFFIX,decrypt.day
@@ -60046,10 +60052,12 @@ payload:
   - DOMAIN-SUFFIX,fastlane.ci
   - DOMAIN-SUFFIX,fastlane.tools
   - DOMAIN-SUFFIX,fastly-edge.com
+  - DOMAIN-SUFFIX,fastly-insights.com
   - DOMAIN-SUFFIX,fastly-terrarium.com
   - DOMAIN-SUFFIX,fastly.com
   - DOMAIN-SUFFIX,fastly.io
   - DOMAIN-SUFFIX,fastly.net
+  - DOMAIN-SUFFIX,fastlydns.net
   - DOMAIN-SUFFIX,fastlylabs.com
   - DOMAIN-SUFFIX,fastlylb.net
   - DOMAIN-SUFFIX,faststone.org
@@ -65298,6 +65306,7 @@ payload:
   - DOMAIN-SUFFIX,cableav.xyz
   - DOMAIN-SUFFIX,cabletv.com.hk
   - DOMAIN-SUFFIX,cabletvdirectv.com
+  - DOMAIN-SUFFIX,cachix.org
   - DOMAIN-SUFFIX,cad-mep.com
   - DOMAIN-SUFFIX,cadcamsystemsinc.com
   - DOMAIN-SUFFIX,cadduct.com
@@ -68809,10 +68818,12 @@ payload:
   - DOMAIN-SUFFIX,fastlane.ci
   - DOMAIN-SUFFIX,fastlane.tools
   - DOMAIN-SUFFIX,fastly-edge.com
+  - DOMAIN-SUFFIX,fastly-insights.com
   - DOMAIN-SUFFIX,fastly-terrarium.com
   - DOMAIN-SUFFIX,fastly.com
   - DOMAIN-SUFFIX,fastly.io
   - DOMAIN-SUFFIX,fastly.net
+  - DOMAIN-SUFFIX,fastlydns.net
   - DOMAIN-SUFFIX,fastlylabs.com
   - DOMAIN-SUFFIX,fastlylb.net
   - DOMAIN-SUFFIX,faststone.org
@@ -82560,6 +82571,7 @@ payload:
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,vivaldi.com
   - DOMAIN-SUFFIX,vivaxnxx.com
+  - DOMAIN-SUFFIX,vivox.com
   - DOMAIN-SUFFIX,vixen.com
   - DOMAIN-SUFFIX,vixengroup.com
   - DOMAIN-SUFFIX,vixvids.to
@@ -85071,6 +85083,7 @@ payload:
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
+  - DOMAIN,courses.myecnu.org
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,crl-lb.apple.com.akadns.net
   - DOMAIN,crl.apple.com
@@ -103636,6 +103649,7 @@ payload:
   - DOMAIN-SUFFIX,nist.gov
   - DOMAIN-SUFFIX,time.gov
   - DOMAIN-SUFFIX,builtwithnix.org
+  - DOMAIN-SUFFIX,cachix.org
   - DOMAIN-SUFFIX,mynixos.com
   - DOMAIN-SUFFIX,nix-community.org
   - DOMAIN-SUFFIX,nix.dev
@@ -110734,6 +110748,7 @@ payload:
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com
+  - DOMAIN-SUFFIX,vivox.com
   - DOMAIN-SUFFIX,ads.unitychina.cn
   - DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
   - DOMAIN-SUFFIX,splash-ads.unitychina.cn
