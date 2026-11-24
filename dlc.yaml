@@ -1894,6 +1894,7 @@ payload:
   - DOMAIN-SUFFIX,gateway.dev
   - DOMAIN-SUFFIX,gbiz
   - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,gerritcodereview.com
   - DOMAIN-SUFFIX,get.app
   - DOMAIN-SUFFIX,get.dev
@@ -12228,6 +12229,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,githubcopilot.com
@@ -12447,6 +12449,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,githubcopilot.com
@@ -17765,6 +17768,7 @@ payload:
   - DOMAIN-SUFFIX,geforce.com.tw
   - DOMAIN-SUFFIX,gemfire.net
   - DOMAIN-SUFFIX,gemini.yahoo.com
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,genetic-technologies.am
   - DOMAIN-SUFFIX,geneticconstructor.com
   - DOMAIN-SUFFIX,genotek.am
@@ -69832,6 +69836,7 @@ payload:
   - DOMAIN-SUFFIX,gemfury.com
   - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,gen.lib.rus.ec
   - DOMAIN-SUFFIX,genbank.ru
   - DOMAIN-SUFFIX,gendai.net
@@ -94847,6 +94852,7 @@ payload:
   - DOMAIN-SUFFIX,gateway.dev
   - DOMAIN-SUFFIX,gbiz
   - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,gerritcodereview.com
   - DOMAIN-SUFFIX,get.app
   - DOMAIN-SUFFIX,get.dev
@@ -95622,6 +95628,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,jules.google
@@ -95671,6 +95678,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,jules.google
