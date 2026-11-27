@@ -22252,6 +22252,7 @@ payload:
   - DOMAIN,apps.mzstatic.com
   - DOMAIN,apps5.oingo.com
   - DOMAIN,apptrailers.itunes.apple.com
+  - DOMAIN,aurora-customization-usw2.lithium.com
   - DOMAIN,avail.googleflights.net
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
@@ -85295,6 +85296,7 @@ payload:
   - DOMAIN,apps.mzstatic.com
   - DOMAIN,apps5.oingo.com
   - DOMAIN,apptrailers.itunes.apple.com
+  - DOMAIN,aurora-customization-usw2.lithium.com
   - DOMAIN,avail.googleflights.net
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
@@ -102282,6 +102284,7 @@ payload:
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-SUFFIX,yammer.com
+  - DOMAIN,aurora-customization-usw2.lithium.com
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
   - DOMAIN,azurestackhub.download.prss.microsoft.com
