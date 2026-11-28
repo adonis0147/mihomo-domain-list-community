@@ -216,8 +216,6 @@ payload:
   - +.geoip.co.uk
   - +.geoip.com
   - +.geoip.hu
-  - +.geoip.nekudo.com
-  - +.geoip.noc.gov.ru
   - +.geoip.online
   - +.geoip.pw
   - +.geoip.st
@@ -229,6 +227,7 @@ payload:
   - +.geojs.io
   - +.geolocation-db.com
   - +.geolocation.com
+  - +.geomyip.com
   - +.geoplugin.com
   - +.geoplugin.net
   - +.get-ipv4.com
@@ -411,6 +410,7 @@ payload:
   - +.ip-tracker.net
   - +.ip-tracker.org
   - +.ip-trap.com
+  - +.ip.api.skk.moe
   - +.ip.app
   - +.ip.cc
   - +.ip.ci
@@ -421,16 +421,13 @@ payload:
   - +.ip.fm
   - +.ip.gs
   - +.ip.guide
-  - +.ip.hetzner.com
   - +.ip.icu
   - +.ip.im
   - +.ip.info
-  - +.ip.mail.ru
   - +.ip.me
   - +.ip.net
   - +.ip.net.pl
   - +.ip.network
-  - +.ip.nic.ru
   - +.ip.pe.kr
   - +.ip.plus
   - +.ip.pn
@@ -685,7 +682,6 @@ payload:
   - +.ipgeo.me
   - +.ipgeo.ru
   - +.ipgeo.us
-  - +.ipgeo.vercel.app
   - +.ipgeolocation.com
   - +.ipgeolocation.io
   - +.ipgeolocationapi.com
@@ -874,6 +870,7 @@ payload:
   - +.ipsee.ru
   - +.ipshow.de
   - +.ipshow.me
+  - +.ipshu.com
   - +.ipsimple.org
   - +.ipsnapshot.com
   - +.ipsorgu.com
@@ -893,17 +890,13 @@ payload:
   - +.iptrust.co
   - +.iptype.cc
   - +.ipure.dev
-  - +.ipv4-internet.yandex.net
   - +.ipv4.cz
   - +.ipv4.gg
   - +.ipv4.im
-  - +.ipv4.internet.yandex.net
   - +.ipv4.is
   - +.ipv4.md
   - +.ipv4.se
-  - +.ipv6-internet.yandex.net
   - +.ipv6.gg
-  - +.ipv6.internet.yandex.net
   - +.ipv6.io
   - +.ipv6.one
   - +.ipv6.sh
@@ -923,8 +916,10 @@ payload:
   - +.ipwhitelist.dev
   - +.ipwho.am
   - +.ipwho.de
+  - +.ipwho.io
   - +.ipwho.is
   - +.ipwho.net
+  - +.ipwho.org
   - +.ipwhois.app
   - +.ipwhois.info
   - +.ipwhois.io
@@ -1106,8 +1101,10 @@ payload:
   - +.myaddress.network
   - +.myexternalip.com
   - +.myip.ae
+  - +.myip.ai
   - +.myip.al
   - +.myip.at
+  - +.myip.bg
   - +.myip.by
   - +.myip.casa
   - +.myip.ch
@@ -1115,6 +1112,7 @@ payload:
   - +.myip.cloud
   - +.myip.co.il
   - +.myip.com
+  - +.myip.com.au
   - +.myip.com.br
   - +.myip.com.tw
   - +.myip.com.ua
@@ -1127,6 +1125,7 @@ payload:
   - +.myip.eu
   - +.myip.expert
   - +.myip.fi
+  - +.myip.foo
   - +.myip.ge
   - +.myip.help
   - +.myip.hk
@@ -1150,6 +1149,7 @@ payload:
   - +.myip.network
   - +.myip.ng
   - +.myip.nl
+  - +.myip.now
   - +.myip.one
   - +.myip.page
   - +.myip.pt
@@ -1161,11 +1161,15 @@ payload:
   - +.myip.sg
   - +.myip.sh
   - +.myip.sk
+  - +.myip.tech
   - +.myip.tf
   - +.myip.top
   - +.myip.uz
   - +.myip.vc
+  - +.myip.world
+  - +.myip.ws
   - +.myip.wtf
+  - +.myip.xyz
   - +.myip.yt
   - +.myip.zone
   - +.myip4.de
@@ -1229,6 +1233,7 @@ payload:
   - +.mypublicip.io
   - +.mypublicip.live
   - +.mypublicip.net
+  - +.nekudo.com
   - +.nemip.dk
   - +.networkdatalabs.com
   - +.nexip.online
@@ -1393,6 +1398,7 @@ payload:
   - +.vpndetection.io
   - +.vpndetection.net
   - +.vpng.net
+  - +.vpnmentor.com
   - +.wanip.at
   - +.wanip.be
   - +.wanip.cc
@@ -1407,6 +1413,7 @@ payload:
   - +.watisjeipadres.nl
   - +.watismijnipadres.net
   - +.watismijnipadres.nl
+  - +.webbrowsertools.com
   - +.webrtcleakshield.org
   - +.wgetip.com
   - +.wgetip.net
@@ -1538,7 +1545,6 @@ payload:
   - +.whoip.nl
   - +.whoip.tw
   - +.whois-myisp.com
-  - +.whois.pconline.com.cn
   - +.whoisip.me
   - +.whoismyip.io
   - +.whoismyisp.app
@@ -1596,6 +1602,7 @@ payload:
   - geo.wdgtsrc.com
   - geoip.amazing.media
   - geoip.junglefrog.com
+  - geoip.noc.gov.ru
   - geoip.pandascore.co
   - geoip.rc.today
   - geoip.vmn.net
@@ -1605,6 +1612,7 @@ payload:
   - ip-info.ff.avast.com
   - ip-scan.adspower.net
   - ip.3322.net
+  - ip.admin.io.vn
   - ip.anoxinon.de
   - ip.anysrc.net
   - ip.changeip.com
@@ -1613,6 +1621,7 @@ payload:
   - ip.dnsexit.com
   - ip.futurelink.ink
   - ip.gymcalc.cn
+  - ip.hetzner.com
   - ip.ipb.to
   - ip.ipyard.com
   - ip.is.cc
@@ -1621,10 +1630,12 @@ payload:
   - ip.kutool.com
   - ip.lafibre.info
   - ip.liquidweb.com
+  - ip.mail.ru
   - ip.mdosch.de
   - ip.mihana.me
   - ip.nc.gy
   - ip.net.coffee
+  - ip.nic.ru
   - ip.niqu.net
   - ip.paco.bg
   - ip.plyz.net
@@ -1635,6 +1646,7 @@ payload:
   - ip.spacecom.cc
   - ip.taobao.com
   - ip.telecom24.link
+  - ip.teoh.io
   - ip.urls.is
   - ip.v4.ro.co
   - ip.webmasterhome.cn
@@ -1644,18 +1656,25 @@ payload:
   - ip4.anysrc.net
   - ip4.istatmenus.app
   - ip6.8n1.org
+  - ip6.admin.io.vn
   - ip6.anysrc.net
   - ip6.istatmenus.app
+  - ipgeo.vercel.app
   - ipv4-check-perf.radar.cloudflare.com
+  - ipv4-internet.yandex.net
   - ipv4-ip.api.skk.moe
   - ipv4.ddnspod.com
   - ipv4.duiadns.net
+  - ipv4.internet.yandex.net
   - ipv4.mudgee.host
   - ipv4.nsupdate.info
   - ipv4.nsx.de
   - ipv4.whatismyip.akamai.com
   - ipv6-check-perf.radar.cloudflare.com
+  - ipv6-internet.yandex.net
+  - ipv6-ip.hetzner.com
   - ipv6.ddnspod.com
+  - ipv6.internet.yandex.net
   - ipv6.mudgee.host
   - ipv6.nsupdate.info
   - ipv6.nsx.de
@@ -1677,7 +1696,9 @@ payload:
   - myip.telespex.com
   - myip.valkos.by
   - twojeip.wp.pl
+  - v6ip.mail.ru
   - v6test.ipgg.cn
   - whatismyip.akamai.com
   - whatismyip.unc.edu
   - whatsmyip.mw-rmm.barracudamsp.com
+  - whois.pconline.com.cn
